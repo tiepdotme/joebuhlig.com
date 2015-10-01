@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leverage the digital and welcome real life</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 01 Oct 2015 15:12:03 -0500</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2015 15:12:03 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>How I Started with Technology</title>
+        <description>&lt;p&gt;When I was 16 I bought my own Compaq laptop. Remember those? I had been using the family computer quite a bit, but this was my own computer. That was the beginning of my exciting journey with technology.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h1 id=&quot;sound-and-slides&quot;&gt;Sound and slides&lt;/h1&gt;
+
+&lt;p&gt;I claimed it would be for school work. That was my crap-rationalization. But if I’m honest with myself it had more to do with exploring without consequences. I didn’t want to screw up the family computer. I would rather create a mess for myself on my own computer. That and it was a lot of fun to say I own my own computer when I went to school.&lt;/p&gt;
+
+&lt;p&gt;Around the same time I started running sound and slides on Sunday morning at our church. If there was a special event when the sounds system or a computer was involved I was drawn to it and indulged in my obsession with saying yes. I was fascinated with the problem-solving that came with a bunch of cords and components working together.&lt;/p&gt;
+
+&lt;h1 id=&quot;my-first-mac&quot;&gt;My first Mac&lt;/h1&gt;
+
+&lt;p&gt;I bought my first Mac while at college. It was something different and it seemed as though people who were building software and websites were using Macs. My thinking was purely, “That looks cool. I wanna try.” I don’t recommend making purchases of this size because something looks cool. But it was college and I know there’s an unwritten requirement somewhere that says you should do something dumb in college.&lt;/p&gt;
+
+&lt;p&gt;The MacBook was essentially my first jump into productivity and I didn’t realize it. The Mac made it a lot easier for me to track events and notes. I always had a side-job in college and I needed help keeping track of my schedule. Looking back on it, I didn’t have a busy schedule. I just wanted to play with the apps. I guess my neurotic mind and digital tendencies were naturally drawn to the building of systems that come with productivity.&lt;/p&gt;
+
+&lt;h1 id=&quot;gis&quot;&gt;GIS&lt;/h1&gt;
+
+&lt;p&gt;Also in college I did a couple of internships that had me working with GIS and handheld computers. They were set up to collect data on soil samples and crop scouting for corn and soybean fields. Yes, if you didn’t know, I’m a farm kid. No matter what I do or where I go, I’m always drawn to farmers and growing food.&lt;/p&gt;
+
+&lt;p&gt;But the fun part of those internships was that I found ways of using handheld computers to make the process easier. I even began dictating notes into those devices. They were very crude at the time and I spent a lot of time cleaning up the notes I entered, but it was still a system that worked for me. It also taught me a lot about mapping and how to collect and report on spatial data on crops.&lt;/p&gt;
+
+&lt;h1 id=&quot;excel&quot;&gt;Excel&lt;/h1&gt;
+
+&lt;p&gt;During my senior year of college I worked as a teaching assistant in a farm management class and began teaching other students how to use Excel. I was very basic in my use of Excel at the time, but I was more advanced than most of the students and professors so it worked out pretty well. It was my first jump into teaching others how to use software. I was surprised that I actually enjoyed it. I’ve learned that my mind simply works the same way computers do. So it makes it very easy to catch on to a computer system and then translate it for others.&lt;/p&gt;
+
+&lt;h1 id=&quot;databases-vba--sql&quot;&gt;Databases, VBA, &amp;amp; SQL&lt;/h1&gt;
+
+&lt;p&gt;When I graduated from college I went into soybean breeding and quickly learned that seed research works with a lot of data. It also meant that I got good at dissecting tiny flowers. My use of Excel grew exponentially and I found myself starting create basic programs through VBA and macros. It was a progression and eventually led me to using bar-code scanners and Excel macros to collect and verify data.&lt;/p&gt;
+
+&lt;p&gt;My experience in soybean breeding and the databases involved lead me to a corporate position where I analyzed large amounts of data in a SQL Server. It was a very nerdy thing to get into and I didn’t really know what I was doing when I started. But I knew that I could learn just about anything computer related pretty quick and jumped in.&lt;/p&gt;
+
+&lt;p&gt;There was a lot of data to work with in that role. There were so many ways I &lt;em&gt;could&lt;/em&gt; analyze the data that I often got lost in figuring out what to actually work on. That’s when the productivity monster caught me and I started down the path of GTD.&lt;/p&gt;
+
+&lt;h1 id=&quot;corporate-productivity-and-design&quot;&gt;Corporate, productivity, and design&lt;/h1&gt;
+
+&lt;p&gt;In the corporate environment I had a big influx of information and creative work that I needed to do. Yes, I had a very analytical role but there’s a large amount of creativity that is needed to design and develop interfaces and structures around data. It was essentially the beginnings of web development for me because I wanted to show off the data in an easy to understand way. I can’t stand looking at the same bar charts every day and wondering if the data has been altered to show a biased view of the information. I wanted them to be clean and accurate. That’s when my supervisor introduced me to Edward Tufte and I began to delve into the design world.&lt;/p&gt;
+
+&lt;p&gt;In that process I learned I have a strong creative side. I  explored that more fully with a marketing organization that I moved to and started to develop more extensive web reports and began building an internal web application as well. That’s when I started to look beyond what I knew how to do and started building out new ideas and finding new ways to do things. In other words I finally let my brain loose and started learning how to pair my creative mind with the analytical.&lt;/p&gt;
+
+&lt;h1 id=&quot;whats-next&quot;&gt;What’s next?&lt;/h1&gt;
+
+&lt;p&gt;If you listen my podcast you heard me mention that I recently left my job and I’m now beginning to develop apps and web applications for myself and others. I’m now running with my own ideas and building them. I never thought I would be at this point, but it’s been an exciting journey.&lt;/p&gt;
+
+&lt;p&gt;Since starting on my own, I’ve been exploring new computer languages and started building some of the bigger ideas that I’ve had. Yes there’s some start up time involved, but I’ve learned that all of this has led me to the systems and disciplines that help me stay motivated and focused on the work that I’m doing. It helps me get excited every day even when I don’t know where the next paycheck is going to come from. It’s fun trying to figure out what technology to build next. I just hope you enjoy the results as much as I enjoy building it.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Sep 2015 23:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/welcomepost/</link>
+        <guid isPermaLink="true">http://yourdomain.com/welcomepost/</guid>
+        
+        
+        <category>podcast</category>
+        
+      </item>
+    
+      <item>
+        <title>An Alternative to Annual Goals</title>
+        <description>&lt;p&gt;I’ve been struggling with goal-setting lately, enough that I &lt;a href=&quot;http://joebuhlig.com/from-goals-to-guides/&quot;&gt;abandoned my annual goals altogether&lt;/a&gt;. But I’ve found that I want something to help guide the systems that I’m putting in place.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;traditional-goal-setting&quot;&gt;Traditional goal-setting&lt;/h1&gt;
+
+&lt;p&gt;In the past, I’ve set personal and professional goals annually using the &lt;a href=&quot;https://en.wikipedia.org/wiki/SMART_criteria&quot;&gt;SMART&lt;/a&gt; method. It gave me a sense of pride. I knew I was on a path to do some big things. And that was great motivation at the onset of the year.&lt;/p&gt;
+
+&lt;p&gt;But after a month, (sometimes two), I forgot about my goals and drift from thing to thing. The shiny new object motivation was gone. And more often than not, there would be a change in the circumstances or assumptions that my goals were based on. If I could, I would re-factor them and start again.&lt;/p&gt;
+
+&lt;p&gt;By the end of the year, my goals looked nothing like the originals. And in most cases, I failed to hit them. Year after year of the same process finally frustrated me enough to stop and think about the foundation of goal-setting.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-alternative&quot;&gt;The alternative&lt;/h1&gt;
+
+&lt;p&gt;I reflected on my inability to complete goals and looked for patterns. It turned out that every three months I was trying to re-imagine my goals for the year. I was setting goals quarterly, but didn’t consider altering their deadlines to reflect the changes. If I’m naturally setting goals quarterly, why not embrace it?&lt;/p&gt;
+
+&lt;p&gt;I’m just starting this journey, but here’s why I think this could work:&lt;/p&gt;
+
+&lt;h2 id=&quot;not-too-long&quot;&gt;1. Not too long&lt;/h2&gt;
+
+&lt;p&gt;Life happens too fast for annual goals. Circumstances and mindsets can change quickly and a year is too long. I found myself waiting for the year to end so that I could start something new. Why wait if I’ve abandoned or completed my original goal?&lt;/p&gt;
+
+&lt;p&gt;Moving to a shorter time period allows me to accept my three month cycle.&lt;/p&gt;
+
+&lt;h2 id=&quot;shiny-new-object-motivation&quot;&gt;2. Shiny new object motivation&lt;/h2&gt;
+
+&lt;p&gt;I can take advantage of my excitement at the onset. I’m usually pretty stoked to get started on new goals. If I’m planning more frequently, I can use the early motivation to accomplish things faster and gain focus.&lt;/p&gt;
+
+&lt;h2 id=&quot;success-cycle&quot;&gt;3. Success cycle&lt;/h2&gt;
+
+&lt;p&gt;I’m lacking the drive that comes from successfully reaching a goal. When I achieve a goal, I get excited and want to do more. By using shorter periods, I have more opportunities for success and can create a cycle of winning.&lt;/p&gt;
+
+&lt;h1 id=&quot;my-plan&quot;&gt;My plan&lt;/h1&gt;
+
+&lt;p&gt;I’m just coming to this idea and haven’t tested it… at all. It’s a journey that I’ll do my best to share. My plan for the next week is to set goals for the next 3 months, share as many of them as I can with you, and let you know how it goes.&lt;/p&gt;
+
+&lt;p&gt;That’s the goal anyway.&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fastcompany.com/3040289/why-90-day-goals-are-better-than-year-long-ones&quot;&gt;Why 90-Day Goals Are Better Than Year-Long Ones&lt;/a&gt; - Fast Company&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/241639&quot;&gt;Stop Thinking Long Term. Execute Strategy 90 Days at a Time.&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/225356&quot;&gt;Why Our Brains Like Short-Term Goals&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Thu, 03 Sep 2015 23:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/alternative-annual-goals/</link>
+        <guid isPermaLink="true">http://yourdomain.com/alternative-annual-goals/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>An Alternative to Annual Goals</title>
+        <description>&lt;p&gt;I’ve been struggling with goal-setting lately, enough that I &lt;a href=&quot;http://joebuhlig.com/from-goals-to-guides/&quot;&gt;abandoned my annual goals altogether&lt;/a&gt;. But I’ve found that I want something to help guide the systems that I’m putting in place.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;traditional-goal-setting&quot;&gt;Traditional goal-setting&lt;/h1&gt;
+
+&lt;p&gt;In the past, I’ve set personal and professional goals annually using the &lt;a href=&quot;https://en.wikipedia.org/wiki/SMART_criteria&quot;&gt;SMART&lt;/a&gt; method. It gave me a sense of pride. I knew I was on a path to do some big things. And that was great motivation at the onset of the year.&lt;/p&gt;
+
+&lt;p&gt;But after a month, (sometimes two), I forgot about my goals and drift from thing to thing. The shiny new object motivation was gone. And more often than not, there would be a change in the circumstances or assumptions that my goals were based on. If I could, I would re-factor them and start again.&lt;/p&gt;
+
+&lt;p&gt;By the end of the year, my goals looked nothing like the originals. And in most cases, I failed to hit them. Year after year of the same process finally frustrated me enough to stop and think about the foundation of goal-setting.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-alternative&quot;&gt;The alternative&lt;/h1&gt;
+
+&lt;p&gt;I reflected on my inability to complete goals and looked for patterns. It turned out that every three months I was trying to re-imagine my goals for the year. I was setting goals quarterly, but didn’t consider altering their deadlines to reflect the changes. If I’m naturally setting goals quarterly, why not embrace it?&lt;/p&gt;
+
+&lt;p&gt;I’m just starting this journey, but here’s why I think this could work:&lt;/p&gt;
+
+&lt;h2 id=&quot;not-too-long&quot;&gt;1. Not too long&lt;/h2&gt;
+
+&lt;p&gt;Life happens too fast for annual goals. Circumstances and mindsets can change quickly and a year is too long. I found myself waiting for the year to end so that I could start something new. Why wait if I’ve abandoned or completed my original goal?&lt;/p&gt;
+
+&lt;p&gt;Moving to a shorter time period allows me to accept my three month cycle.&lt;/p&gt;
+
+&lt;h2 id=&quot;shiny-new-object-motivation&quot;&gt;2. Shiny new object motivation&lt;/h2&gt;
+
+&lt;p&gt;I can take advantage of my excitement at the onset. I’m usually pretty stoked to get started on new goals. If I’m planning more frequently, I can use the early motivation to accomplish things faster and gain focus.&lt;/p&gt;
+
+&lt;h2 id=&quot;success-cycle&quot;&gt;3. Success cycle&lt;/h2&gt;
+
+&lt;p&gt;I’m lacking the drive that comes from successfully reaching a goal. When I achieve a goal, I get excited and want to do more. By using shorter periods, I have more opportunities for success and can create a cycle of winning.&lt;/p&gt;
+
+&lt;h1 id=&quot;my-plan&quot;&gt;My plan&lt;/h1&gt;
+
+&lt;p&gt;I’m just coming to this idea and haven’t tested it… at all. It’s a journey that I’ll do my best to share. My plan for the next week is to set goals for the next 3 months, share as many of them as I can with you, and let you know how it goes.&lt;/p&gt;
+
+&lt;p&gt;That’s the goal anyway.&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fastcompany.com/3040289/why-90-day-goals-are-better-than-year-long-ones&quot;&gt;Why 90-Day Goals Are Better Than Year-Long Ones&lt;/a&gt; - Fast Company&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/241639&quot;&gt;Stop Thinking Long Term. Execute Strategy 90 Days at a Time.&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/225356&quot;&gt;Why Our Brains Like Short-Term Goals&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Thu, 03 Sep 2015 23:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/alternative-annual-goals/</link>
+        <guid isPermaLink="true">http://yourdomain.com/alternative-annual-goals/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>An Alternative to Annual Goals</title>
+        <description>&lt;p&gt;I’ve been struggling with goal-setting lately, enough that I &lt;a href=&quot;http://joebuhlig.com/from-goals-to-guides/&quot;&gt;abandoned my annual goals altogether&lt;/a&gt;. But I’ve found that I want something to help guide the systems that I’m putting in place.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;traditional-goal-setting&quot;&gt;Traditional goal-setting&lt;/h1&gt;
+
+&lt;p&gt;In the past, I’ve set personal and professional goals annually using the &lt;a href=&quot;https://en.wikipedia.org/wiki/SMART_criteria&quot;&gt;SMART&lt;/a&gt; method. It gave me a sense of pride. I knew I was on a path to do some big things. And that was great motivation at the onset of the year.&lt;/p&gt;
+
+&lt;p&gt;But after a month, (sometimes two), I forgot about my goals and drift from thing to thing. The shiny new object motivation was gone. And more often than not, there would be a change in the circumstances or assumptions that my goals were based on. If I could, I would re-factor them and start again.&lt;/p&gt;
+
+&lt;p&gt;By the end of the year, my goals looked nothing like the originals. And in most cases, I failed to hit them. Year after year of the same process finally frustrated me enough to stop and think about the foundation of goal-setting.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-alternative&quot;&gt;The alternative&lt;/h1&gt;
+
+&lt;p&gt;I reflected on my inability to complete goals and looked for patterns. It turned out that every three months I was trying to re-imagine my goals for the year. I was setting goals quarterly, but didn’t consider altering their deadlines to reflect the changes. If I’m naturally setting goals quarterly, why not embrace it?&lt;/p&gt;
+
+&lt;p&gt;I’m just starting this journey, but here’s why I think this could work:&lt;/p&gt;
+
+&lt;h2 id=&quot;not-too-long&quot;&gt;1. Not too long&lt;/h2&gt;
+
+&lt;p&gt;Life happens too fast for annual goals. Circumstances and mindsets can change quickly and a year is too long. I found myself waiting for the year to end so that I could start something new. Why wait if I’ve abandoned or completed my original goal?&lt;/p&gt;
+
+&lt;p&gt;Moving to a shorter time period allows me to accept my three month cycle.&lt;/p&gt;
+
+&lt;h2 id=&quot;shiny-new-object-motivation&quot;&gt;2. Shiny new object motivation&lt;/h2&gt;
+
+&lt;p&gt;I can take advantage of my excitement at the onset. I’m usually pretty stoked to get started on new goals. If I’m planning more frequently, I can use the early motivation to accomplish things faster and gain focus.&lt;/p&gt;
+
+&lt;h2 id=&quot;success-cycle&quot;&gt;3. Success cycle&lt;/h2&gt;
+
+&lt;p&gt;I’m lacking the drive that comes from successfully reaching a goal. When I achieve a goal, I get excited and want to do more. By using shorter periods, I have more opportunities for success and can create a cycle of winning.&lt;/p&gt;
+
+&lt;h1 id=&quot;my-plan&quot;&gt;My plan&lt;/h1&gt;
+
+&lt;p&gt;I’m just coming to this idea and haven’t tested it… at all. It’s a journey that I’ll do my best to share. My plan for the next week is to set goals for the next 3 months, share as many of them as I can with you, and let you know how it goes.&lt;/p&gt;
+
+&lt;p&gt;That’s the goal anyway.&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fastcompany.com/3040289/why-90-day-goals-are-better-than-year-long-ones&quot;&gt;Why 90-Day Goals Are Better Than Year-Long Ones&lt;/a&gt; - Fast Company&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/241639&quot;&gt;Stop Thinking Long Term. Execute Strategy 90 Days at a Time.&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/225356&quot;&gt;Why Our Brains Like Short-Term Goals&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Thu, 03 Sep 2015 23:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/alternative-annual-goals/</link>
+        <guid isPermaLink="true">http://yourdomain.com/alternative-annual-goals/</guid>
+        
+        
+        <category>podcast</category>
+        
+      </item>
+    
+      <item>
+        <title>An Alternative to Annual Goals</title>
+        <description>&lt;p&gt;I’ve been struggling with goal-setting lately, enough that I &lt;a href=&quot;http://joebuhlig.com/from-goals-to-guides/&quot;&gt;abandoned my annual goals altogether&lt;/a&gt;. But I’ve found that I want something to help guide the systems that I’m putting in place.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;traditional-goal-setting&quot;&gt;Traditional goal-setting&lt;/h1&gt;
+
+&lt;p&gt;In the past, I’ve set personal and professional goals annually using the &lt;a href=&quot;https://en.wikipedia.org/wiki/SMART_criteria&quot;&gt;SMART&lt;/a&gt; method. It gave me a sense of pride. I knew I was on a path to do some big things. And that was great motivation at the onset of the year.&lt;/p&gt;
+
+&lt;p&gt;But after a month, (sometimes two), I forgot about my goals and drift from thing to thing. The shiny new object motivation was gone. And more often than not, there would be a change in the circumstances or assumptions that my goals were based on. If I could, I would re-factor them and start again.&lt;/p&gt;
+
+&lt;p&gt;By the end of the year, my goals looked nothing like the originals. And in most cases, I failed to hit them. Year after year of the same process finally frustrated me enough to stop and think about the foundation of goal-setting.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-alternative&quot;&gt;The alternative&lt;/h1&gt;
+
+&lt;p&gt;I reflected on my inability to complete goals and looked for patterns. It turned out that every three months I was trying to re-imagine my goals for the year. I was setting goals quarterly, but didn’t consider altering their deadlines to reflect the changes. If I’m naturally setting goals quarterly, why not embrace it?&lt;/p&gt;
+
+&lt;p&gt;I’m just starting this journey, but here’s why I think this could work:&lt;/p&gt;
+
+&lt;h2 id=&quot;not-too-long&quot;&gt;1. Not too long&lt;/h2&gt;
+
+&lt;p&gt;Life happens too fast for annual goals. Circumstances and mindsets can change quickly and a year is too long. I found myself waiting for the year to end so that I could start something new. Why wait if I’ve abandoned or completed my original goal?&lt;/p&gt;
+
+&lt;p&gt;Moving to a shorter time period allows me to accept my three month cycle.&lt;/p&gt;
+
+&lt;h2 id=&quot;shiny-new-object-motivation&quot;&gt;2. Shiny new object motivation&lt;/h2&gt;
+
+&lt;p&gt;I can take advantage of my excitement at the onset. I’m usually pretty stoked to get started on new goals. If I’m planning more frequently, I can use the early motivation to accomplish things faster and gain focus.&lt;/p&gt;
+
+&lt;h2 id=&quot;success-cycle&quot;&gt;3. Success cycle&lt;/h2&gt;
+
+&lt;p&gt;I’m lacking the drive that comes from successfully reaching a goal. When I achieve a goal, I get excited and want to do more. By using shorter periods, I have more opportunities for success and can create a cycle of winning.&lt;/p&gt;
+
+&lt;h1 id=&quot;my-plan&quot;&gt;My plan&lt;/h1&gt;
+
+&lt;p&gt;I’m just coming to this idea and haven’t tested it… at all. It’s a journey that I’ll do my best to share. My plan for the next week is to set goals for the next 3 months, share as many of them as I can with you, and let you know how it goes.&lt;/p&gt;
+
+&lt;p&gt;That’s the goal anyway.&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fastcompany.com/3040289/why-90-day-goals-are-better-than-year-long-ones&quot;&gt;Why 90-Day Goals Are Better Than Year-Long Ones&lt;/a&gt; - Fast Company&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/241639&quot;&gt;Stop Thinking Long Term. Execute Strategy 90 Days at a Time.&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/225356&quot;&gt;Why Our Brains Like Short-Term Goals&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Thu, 03 Sep 2015 23:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/alternative-annual-goals/</link>
+        <guid isPermaLink="true">http://yourdomain.com/alternative-annual-goals/</guid>
+        
+        
+        <category>podcast</category>
+        
+      </item>
+    
+      <item>
+        <title>An Alternative to Annual Goals</title>
+        <description>&lt;p&gt;I’ve been struggling with goal-setting lately, enough that I &lt;a href=&quot;http://joebuhlig.com/from-goals-to-guides/&quot;&gt;abandoned my annual goals altogether&lt;/a&gt;. But I’ve found that I want something to help guide the systems that I’m putting in place.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;traditional-goal-setting&quot;&gt;Traditional goal-setting&lt;/h1&gt;
+
+&lt;p&gt;In the past, I’ve set personal and professional goals annually using the &lt;a href=&quot;https://en.wikipedia.org/wiki/SMART_criteria&quot;&gt;SMART&lt;/a&gt; method. It gave me a sense of pride. I knew I was on a path to do some big things. And that was great motivation at the onset of the year.&lt;/p&gt;
+
+&lt;p&gt;But after a month, (sometimes two), I forgot about my goals and drift from thing to thing. The shiny new object motivation was gone. And more often than not, there would be a change in the circumstances or assumptions that my goals were based on. If I could, I would re-factor them and start again.&lt;/p&gt;
+
+&lt;p&gt;By the end of the year, my goals looked nothing like the originals. And in most cases, I failed to hit them. Year after year of the same process finally frustrated me enough to stop and think about the foundation of goal-setting.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-alternative&quot;&gt;The alternative&lt;/h1&gt;
+
+&lt;p&gt;I reflected on my inability to complete goals and looked for patterns. It turned out that every three months I was trying to re-imagine my goals for the year. I was setting goals quarterly, but didn’t consider altering their deadlines to reflect the changes. If I’m naturally setting goals quarterly, why not embrace it?&lt;/p&gt;
+
+&lt;p&gt;I’m just starting this journey, but here’s why I think this could work:&lt;/p&gt;
+
+&lt;h2 id=&quot;not-too-long&quot;&gt;1. Not too long&lt;/h2&gt;
+
+&lt;p&gt;Life happens too fast for annual goals. Circumstances and mindsets can change quickly and a year is too long. I found myself waiting for the year to end so that I could start something new. Why wait if I’ve abandoned or completed my original goal?&lt;/p&gt;
+
+&lt;p&gt;Moving to a shorter time period allows me to accept my three month cycle.&lt;/p&gt;
+
+&lt;h2 id=&quot;shiny-new-object-motivation&quot;&gt;2. Shiny new object motivation&lt;/h2&gt;
+
+&lt;p&gt;I can take advantage of my excitement at the onset. I’m usually pretty stoked to get started on new goals. If I’m planning more frequently, I can use the early motivation to accomplish things faster and gain focus.&lt;/p&gt;
+
+&lt;h2 id=&quot;success-cycle&quot;&gt;3. Success cycle&lt;/h2&gt;
+
+&lt;p&gt;I’m lacking the drive that comes from successfully reaching a goal. When I achieve a goal, I get excited and want to do more. By using shorter periods, I have more opportunities for success and can create a cycle of winning.&lt;/p&gt;
+
+&lt;h1 id=&quot;my-plan&quot;&gt;My plan&lt;/h1&gt;
+
+&lt;p&gt;I’m just coming to this idea and haven’t tested it… at all. It’s a journey that I’ll do my best to share. My plan for the next week is to set goals for the next 3 months, share as many of them as I can with you, and let you know how it goes.&lt;/p&gt;
+
+&lt;p&gt;That’s the goal anyway.&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fastcompany.com/3040289/why-90-day-goals-are-better-than-year-long-ones&quot;&gt;Why 90-Day Goals Are Better Than Year-Long Ones&lt;/a&gt; - Fast Company&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/241639&quot;&gt;Stop Thinking Long Term. Execute Strategy 90 Days at a Time.&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/225356&quot;&gt;Why Our Brains Like Short-Term Goals&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Thu, 03 Sep 2015 23:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/alternative-annual-goals/</link>
+        <guid isPermaLink="true">http://yourdomain.com/alternative-annual-goals/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>An Alternative to Annual Goals</title>
+        <description>&lt;p&gt;I’ve been struggling with goal-setting lately, enough that I &lt;a href=&quot;http://joebuhlig.com/from-goals-to-guides/&quot;&gt;abandoned my annual goals altogether&lt;/a&gt;. But I’ve found that I want something to help guide the systems that I’m putting in place.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;traditional-goal-setting&quot;&gt;Traditional goal-setting&lt;/h1&gt;
+
+&lt;p&gt;In the past, I’ve set personal and professional goals annually using the &lt;a href=&quot;https://en.wikipedia.org/wiki/SMART_criteria&quot;&gt;SMART&lt;/a&gt; method. It gave me a sense of pride. I knew I was on a path to do some big things. And that was great motivation at the onset of the year.&lt;/p&gt;
+
+&lt;p&gt;But after a month, (sometimes two), I forgot about my goals and drift from thing to thing. The shiny new object motivation was gone. And more often than not, there would be a change in the circumstances or assumptions that my goals were based on. If I could, I would re-factor them and start again.&lt;/p&gt;
+
+&lt;p&gt;By the end of the year, my goals looked nothing like the originals. And in most cases, I failed to hit them. Year after year of the same process finally frustrated me enough to stop and think about the foundation of goal-setting.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-alternative&quot;&gt;The alternative&lt;/h1&gt;
+
+&lt;p&gt;I reflected on my inability to complete goals and looked for patterns. It turned out that every three months I was trying to re-imagine my goals for the year. I was setting goals quarterly, but didn’t consider altering their deadlines to reflect the changes. If I’m naturally setting goals quarterly, why not embrace it?&lt;/p&gt;
+
+&lt;p&gt;I’m just starting this journey, but here’s why I think this could work:&lt;/p&gt;
+
+&lt;h2 id=&quot;not-too-long&quot;&gt;1. Not too long&lt;/h2&gt;
+
+&lt;p&gt;Life happens too fast for annual goals. Circumstances and mindsets can change quickly and a year is too long. I found myself waiting for the year to end so that I could start something new. Why wait if I’ve abandoned or completed my original goal?&lt;/p&gt;
+
+&lt;p&gt;Moving to a shorter time period allows me to accept my three month cycle.&lt;/p&gt;
+
+&lt;h2 id=&quot;shiny-new-object-motivation&quot;&gt;2. Shiny new object motivation&lt;/h2&gt;
+
+&lt;p&gt;I can take advantage of my excitement at the onset. I’m usually pretty stoked to get started on new goals. If I’m planning more frequently, I can use the early motivation to accomplish things faster and gain focus.&lt;/p&gt;
+
+&lt;h2 id=&quot;success-cycle&quot;&gt;3. Success cycle&lt;/h2&gt;
+
+&lt;p&gt;I’m lacking the drive that comes from successfully reaching a goal. When I achieve a goal, I get excited and want to do more. By using shorter periods, I have more opportunities for success and can create a cycle of winning.&lt;/p&gt;
+
+&lt;h1 id=&quot;my-plan&quot;&gt;My plan&lt;/h1&gt;
+
+&lt;p&gt;I’m just coming to this idea and haven’t tested it… at all. It’s a journey that I’ll do my best to share. My plan for the next week is to set goals for the next 3 months, share as many of them as I can with you, and let you know how it goes.&lt;/p&gt;
+
+&lt;p&gt;That’s the goal anyway.&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fastcompany.com/3040289/why-90-day-goals-are-better-than-year-long-ones&quot;&gt;Why 90-Day Goals Are Better Than Year-Long Ones&lt;/a&gt; - Fast Company&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/241639&quot;&gt;Stop Thinking Long Term. Execute Strategy 90 Days at a Time.&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/225356&quot;&gt;Why Our Brains Like Short-Term Goals&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Thu, 03 Sep 2015 23:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/alternative-annual-goals/</link>
+        <guid isPermaLink="true">http://yourdomain.com/alternative-annual-goals/</guid>
+        
+        
+        <category>podcast</category>
+        
+      </item>
+    
+      <item>
+        <title>An Alternative to Annual Goals</title>
+        <description>&lt;p&gt;I’ve been struggling with goal-setting lately, enough that I &lt;a href=&quot;http://joebuhlig.com/from-goals-to-guides/&quot;&gt;abandoned my annual goals altogether&lt;/a&gt;. But I’ve found that I want something to help guide the systems that I’m putting in place.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;traditional-goal-setting&quot;&gt;Traditional goal-setting&lt;/h1&gt;
+
+&lt;p&gt;In the past, I’ve set personal and professional goals annually using the &lt;a href=&quot;https://en.wikipedia.org/wiki/SMART_criteria&quot;&gt;SMART&lt;/a&gt; method. It gave me a sense of pride. I knew I was on a path to do some big things. And that was great motivation at the onset of the year.&lt;/p&gt;
+
+&lt;p&gt;But after a month, (sometimes two), I forgot about my goals and drift from thing to thing. The shiny new object motivation was gone. And more often than not, there would be a change in the circumstances or assumptions that my goals were based on. If I could, I would re-factor them and start again.&lt;/p&gt;
+
+&lt;p&gt;By the end of the year, my goals looked nothing like the originals. And in most cases, I failed to hit them. Year after year of the same process finally frustrated me enough to stop and think about the foundation of goal-setting.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-alternative&quot;&gt;The alternative&lt;/h1&gt;
+
+&lt;p&gt;I reflected on my inability to complete goals and looked for patterns. It turned out that every three months I was trying to re-imagine my goals for the year. I was setting goals quarterly, but didn’t consider altering their deadlines to reflect the changes. If I’m naturally setting goals quarterly, why not embrace it?&lt;/p&gt;
+
+&lt;p&gt;I’m just starting this journey, but here’s why I think this could work:&lt;/p&gt;
+
+&lt;h2 id=&quot;not-too-long&quot;&gt;1. Not too long&lt;/h2&gt;
+
+&lt;p&gt;Life happens too fast for annual goals. Circumstances and mindsets can change quickly and a year is too long. I found myself waiting for the year to end so that I could start something new. Why wait if I’ve abandoned or completed my original goal?&lt;/p&gt;
+
+&lt;p&gt;Moving to a shorter time period allows me to accept my three month cycle.&lt;/p&gt;
+
+&lt;h2 id=&quot;shiny-new-object-motivation&quot;&gt;2. Shiny new object motivation&lt;/h2&gt;
+
+&lt;p&gt;I can take advantage of my excitement at the onset. I’m usually pretty stoked to get started on new goals. If I’m planning more frequently, I can use the early motivation to accomplish things faster and gain focus.&lt;/p&gt;
+
+&lt;h2 id=&quot;success-cycle&quot;&gt;3. Success cycle&lt;/h2&gt;
+
+&lt;p&gt;I’m lacking the drive that comes from successfully reaching a goal. When I achieve a goal, I get excited and want to do more. By using shorter periods, I have more opportunities for success and can create a cycle of winning.&lt;/p&gt;
+
+&lt;h1 id=&quot;my-plan&quot;&gt;My plan&lt;/h1&gt;
+
+&lt;p&gt;I’m just coming to this idea and haven’t tested it… at all. It’s a journey that I’ll do my best to share. My plan for the next week is to set goals for the next 3 months, share as many of them as I can with you, and let you know how it goes.&lt;/p&gt;
+
+&lt;p&gt;That’s the goal anyway.&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fastcompany.com/3040289/why-90-day-goals-are-better-than-year-long-ones&quot;&gt;Why 90-Day Goals Are Better Than Year-Long Ones&lt;/a&gt; - Fast Company&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/241639&quot;&gt;Stop Thinking Long Term. Execute Strategy 90 Days at a Time.&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/225356&quot;&gt;Why Our Brains Like Short-Term Goals&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Thu, 03 Sep 2015 23:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/alternative-annual-goals/</link>
+        <guid isPermaLink="true">http://yourdomain.com/alternative-annual-goals/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>An Alternative to Annual Goals</title>
+        <description>&lt;p&gt;I’ve been struggling with goal-setting lately, enough that I &lt;a href=&quot;http://joebuhlig.com/from-goals-to-guides/&quot;&gt;abandoned my annual goals altogether&lt;/a&gt;. But I’ve found that I want something to help guide the systems that I’m putting in place.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;traditional-goal-setting&quot;&gt;Traditional goal-setting&lt;/h1&gt;
+
+&lt;p&gt;In the past, I’ve set personal and professional goals annually using the &lt;a href=&quot;https://en.wikipedia.org/wiki/SMART_criteria&quot;&gt;SMART&lt;/a&gt; method. It gave me a sense of pride. I knew I was on a path to do some big things. And that was great motivation at the onset of the year.&lt;/p&gt;
+
+&lt;p&gt;But after a month, (sometimes two), I forgot about my goals and drift from thing to thing. The shiny new object motivation was gone. And more often than not, there would be a change in the circumstances or assumptions that my goals were based on. If I could, I would re-factor them and start again.&lt;/p&gt;
+
+&lt;p&gt;By the end of the year, my goals looked nothing like the originals. And in most cases, I failed to hit them. Year after year of the same process finally frustrated me enough to stop and think about the foundation of goal-setting.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-alternative&quot;&gt;The alternative&lt;/h1&gt;
+
+&lt;p&gt;I reflected on my inability to complete goals and looked for patterns. It turned out that every three months I was trying to re-imagine my goals for the year. I was setting goals quarterly, but didn’t consider altering their deadlines to reflect the changes. If I’m naturally setting goals quarterly, why not embrace it?&lt;/p&gt;
+
+&lt;p&gt;I’m just starting this journey, but here’s why I think this could work:&lt;/p&gt;
+
+&lt;h2 id=&quot;not-too-long&quot;&gt;1. Not too long&lt;/h2&gt;
+
+&lt;p&gt;Life happens too fast for annual goals. Circumstances and mindsets can change quickly and a year is too long. I found myself waiting for the year to end so that I could start something new. Why wait if I’ve abandoned or completed my original goal?&lt;/p&gt;
+
+&lt;p&gt;Moving to a shorter time period allows me to accept my three month cycle.&lt;/p&gt;
+
+&lt;h2 id=&quot;shiny-new-object-motivation&quot;&gt;2. Shiny new object motivation&lt;/h2&gt;
+
+&lt;p&gt;I can take advantage of my excitement at the onset. I’m usually pretty stoked to get started on new goals. If I’m planning more frequently, I can use the early motivation to accomplish things faster and gain focus.&lt;/p&gt;
+
+&lt;h2 id=&quot;success-cycle&quot;&gt;3. Success cycle&lt;/h2&gt;
+
+&lt;p&gt;I’m lacking the drive that comes from successfully reaching a goal. When I achieve a goal, I get excited and want to do more. By using shorter periods, I have more opportunities for success and can create a cycle of winning.&lt;/p&gt;
+
+&lt;h1 id=&quot;my-plan&quot;&gt;My plan&lt;/h1&gt;
+
+&lt;p&gt;I’m just coming to this idea and haven’t tested it… at all. It’s a journey that I’ll do my best to share. My plan for the next week is to set goals for the next 3 months, share as many of them as I can with you, and let you know how it goes.&lt;/p&gt;
+
+&lt;p&gt;That’s the goal anyway.&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fastcompany.com/3040289/why-90-day-goals-are-better-than-year-long-ones&quot;&gt;Why 90-Day Goals Are Better Than Year-Long Ones&lt;/a&gt; - Fast Company&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/241639&quot;&gt;Stop Thinking Long Term. Execute Strategy 90 Days at a Time.&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/225356&quot;&gt;Why Our Brains Like Short-Term Goals&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Thu, 03 Sep 2015 23:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/alternative-annual-goals/</link>
+        <guid isPermaLink="true">http://yourdomain.com/alternative-annual-goals/</guid>
+        
+        
+        <category>podcast</category>
+        
+      </item>
+    
+      <item>
+        <title>An Alternative to Annual Goals</title>
+        <description>&lt;p&gt;I’ve been struggling with goal-setting lately, enough that I &lt;a href=&quot;http://joebuhlig.com/from-goals-to-guides/&quot;&gt;abandoned my annual goals altogether&lt;/a&gt;. But I’ve found that I want something to help guide the systems that I’m putting in place.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;traditional-goal-setting&quot;&gt;Traditional goal-setting&lt;/h1&gt;
+
+&lt;p&gt;In the past, I’ve set personal and professional goals annually using the &lt;a href=&quot;https://en.wikipedia.org/wiki/SMART_criteria&quot;&gt;SMART&lt;/a&gt; method. It gave me a sense of pride. I knew I was on a path to do some big things. And that was great motivation at the onset of the year.&lt;/p&gt;
+
+&lt;p&gt;But after a month, (sometimes two), I forgot about my goals and drift from thing to thing. The shiny new object motivation was gone. And more often than not, there would be a change in the circumstances or assumptions that my goals were based on. If I could, I would re-factor them and start again.&lt;/p&gt;
+
+&lt;p&gt;By the end of the year, my goals looked nothing like the originals. And in most cases, I failed to hit them. Year after year of the same process finally frustrated me enough to stop and think about the foundation of goal-setting.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-alternative&quot;&gt;The alternative&lt;/h1&gt;
+
+&lt;p&gt;I reflected on my inability to complete goals and looked for patterns. It turned out that every three months I was trying to re-imagine my goals for the year. I was setting goals quarterly, but didn’t consider altering their deadlines to reflect the changes. If I’m naturally setting goals quarterly, why not embrace it?&lt;/p&gt;
+
+&lt;p&gt;I’m just starting this journey, but here’s why I think this could work:&lt;/p&gt;
+
+&lt;h2 id=&quot;not-too-long&quot;&gt;1. Not too long&lt;/h2&gt;
+
+&lt;p&gt;Life happens too fast for annual goals. Circumstances and mindsets can change quickly and a year is too long. I found myself waiting for the year to end so that I could start something new. Why wait if I’ve abandoned or completed my original goal?&lt;/p&gt;
+
+&lt;p&gt;Moving to a shorter time period allows me to accept my three month cycle.&lt;/p&gt;
+
+&lt;h2 id=&quot;shiny-new-object-motivation&quot;&gt;2. Shiny new object motivation&lt;/h2&gt;
+
+&lt;p&gt;I can take advantage of my excitement at the onset. I’m usually pretty stoked to get started on new goals. If I’m planning more frequently, I can use the early motivation to accomplish things faster and gain focus.&lt;/p&gt;
+
+&lt;h2 id=&quot;success-cycle&quot;&gt;3. Success cycle&lt;/h2&gt;
+
+&lt;p&gt;I’m lacking the drive that comes from successfully reaching a goal. When I achieve a goal, I get excited and want to do more. By using shorter periods, I have more opportunities for success and can create a cycle of winning.&lt;/p&gt;
+
+&lt;h1 id=&quot;my-plan&quot;&gt;My plan&lt;/h1&gt;
+
+&lt;p&gt;I’m just coming to this idea and haven’t tested it… at all. It’s a journey that I’ll do my best to share. My plan for the next week is to set goals for the next 3 months, share as many of them as I can with you, and let you know how it goes.&lt;/p&gt;
+
+&lt;p&gt;That’s the goal anyway.&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fastcompany.com/3040289/why-90-day-goals-are-better-than-year-long-ones&quot;&gt;Why 90-Day Goals Are Better Than Year-Long Ones&lt;/a&gt; - Fast Company&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/241639&quot;&gt;Stop Thinking Long Term. Execute Strategy 90 Days at a Time.&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.entrepreneur.com/article/225356&quot;&gt;Why Our Brains Like Short-Term Goals&lt;/a&gt; - Entrepreneur&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Thu, 03 Sep 2015 23:00:00 -0500</pubDate>
+        <link>http://yourdomain.com/alternative-annual-goals/</link>
+        <guid isPermaLink="true">http://yourdomain.com/alternative-annual-goals/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
