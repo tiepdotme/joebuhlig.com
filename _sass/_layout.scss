@@ -319,3 +319,16 @@
     margin-bottom: $spacing-unit;
     text-align: left;
 }
+
+.page-navigation {
+    height: $site-links-height;
+    width:100%;
+}
+
+.prev-page {
+    float: left;
+}
+
+.next-page {
+    float: right;
+}

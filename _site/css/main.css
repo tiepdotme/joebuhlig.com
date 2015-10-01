@@ -396,6 +396,16 @@ pre {
   margin-bottom: 30px;
   text-align: left; }
 
+.page-navigation {
+  height: 56px;
+  width: 100%; }
+
+.prev-page {
+  float: left; }
+
+.next-page {
+  float: right; }
+
 /**
  * Syntax highlighting styles
  */
