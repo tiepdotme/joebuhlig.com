@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+  {% if post.categories contains 'blog' %}
+    {% include content_feed.html post=post %}
+  {% endif %}
+{% endfor %}

@@ -13,6 +13,7 @@ github_username:  joebuhlig
 # Build settings
 markdown: kramdown
 timezone: America/Chicago
+destination: ~/Codebase/joebuhlig_com_site
 
 # Post settings
 excerpt_separator: <!--more-->

@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+  {% if post.categories contains 'podcast' %}
+    {% include content_feed.html post=post %}
+  {% endif %}
+{% endfor %}
