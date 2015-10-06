@@ -14,6 +14,9 @@ github_username:  joebuhlig
 markdown: kramdown
 timezone: America/Chicago
 destination: ~/Codebase/joebuhlig_com_site
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
 
 # Post settings
 excerpt_separator: <!--more-->

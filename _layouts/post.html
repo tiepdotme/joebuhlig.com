@@ -5,7 +5,7 @@ layout: default
 	<img src="{{ page.image | prepend: site.baseurl }}" />
 	<header class="post-header">
 		<p class="post-meta">
-			{{ page.title }} • {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+			{{ page.title }} • {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}{% if page.tags %} • {% for tag in page.tags %}<a href="/tag/{{ tag }}">{{ tag }}</a>{% if forloop.index > 0 and page.tags.size != (forloop.index + 1)%}, {% endif %} {% endfor %}{% endif %}
 		</p>
 	</header>
 	<article class="post-content">

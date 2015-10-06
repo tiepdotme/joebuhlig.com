@@ -2,6 +2,9 @@
 title:  "Escaping the Corporate Email Habit"
 date:   2014-06-10 05:00:00
 categories: blog
+tags: 
+- email
+- communication
 permalink: /escaping-corporate-email-habit/
 image: /assets/posts/Escaping-the-Corporate-Email-Habit.jpg
 ---
