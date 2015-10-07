@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "First Apps on a New Mac"
 date:   2015-08-14
 categories: blog
 tags:
 - distractions
 - life
 permalink: /first-apps-on-a-new-mac/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/First-Apps-on-a-New-Mac.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

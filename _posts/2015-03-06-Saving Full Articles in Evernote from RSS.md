@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Saving Full Articles in Evernote from RSS"
 date:   2015-03-06
 categories: blog
 tags:
 - distractions
 - life
 permalink: /saving-full-articles-in-evernote-from-rss/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Saving-Full-Articles-in-Evernote-from-RSS.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

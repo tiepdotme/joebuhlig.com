@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "5: Developing a Task Management System"
 date:   2015-09-15
 categories: podcast
 tags:
 - distractions
 - life
 permalink: /5/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Developing-a-Task-Management-System.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

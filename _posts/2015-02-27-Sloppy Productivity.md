@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Sloppy Productivity"
 date:   2015-02-27
 categories: blog
 tags:
 - distractions
 - life
 permalink: /sloppy-productivity/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Sloppy-Productivity.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

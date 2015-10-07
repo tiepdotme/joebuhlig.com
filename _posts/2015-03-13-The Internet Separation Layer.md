@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "The Internet Separation Layer"
 date:   2015-03-13
 categories: blog
 tags:
 - distractions
 - life
 permalink: /the-internet-separation-layer/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/The-Internet-Separation-Layer.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "From Goals to Guides"
 date:   2015-06-12
 categories: blog
 tags:
 - distractions
 - life
 permalink: /from-goals-to-guides/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/From-Goals-to-Guides.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

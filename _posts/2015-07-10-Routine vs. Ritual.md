@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Routine vs. Ritual"
 date:   2015-07-10
 categories: blog
 tags:
 - distractions
 - life
 permalink: /routine-vs-ritual/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Routine-vs-Ritual.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

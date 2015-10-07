@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "A Simple Trick for Naming Tags"
 date:   2014-08-29
 categories: blog
 tags:
 - distractions
 - life
 permalink: /simple-trick-naming-tags/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/A-simple-trick-for-naming-tags.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

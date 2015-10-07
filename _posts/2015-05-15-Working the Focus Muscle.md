@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Working the Focus Muscle"
 date:   2015-05-15
 categories: blog
 tags:
 - distractions
 - life
 permalink: /working-the-focus-muscle/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Working-the-Focus-Muscle.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "The Power of Full Engagement [Book Review]"
 date:   2014-10-03
 categories: blog
 tags:
 - distractions
 - life
 permalink: /power-full-engagement-book-review/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/The-Power-of-Full-Engagement-Book-Review.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

@@ -300,10 +300,10 @@
 .feed-item {
     display: inline-block;
     margin:0px;
-    padding: 0px;
+    padding: 0px 5px;
     text-align: left;
     vertical-align: top;
-    max-width: $content-width/2 - 4px;
+    max-width: $content-width/2 - 14px;
 }
 
 .feed-excerpt {

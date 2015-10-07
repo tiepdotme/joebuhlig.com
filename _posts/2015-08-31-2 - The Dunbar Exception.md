@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "2: The Dunbar Exception"
 date:   2015-08-31
 categories: podcast
 tags:
 - distractions
 - life
 permalink: /2/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/The-Dunbar-Exception.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

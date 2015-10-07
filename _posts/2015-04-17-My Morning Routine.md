@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "My Morning Routine"
 date:   2015-04-17
 categories: blog
 tags:
 - distractions
 - life
 permalink: /my-morning-routine/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/My-Morning-Routine.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

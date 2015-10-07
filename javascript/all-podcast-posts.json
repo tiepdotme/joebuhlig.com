@@ -1,0 +1,9 @@
+---
+
+---
+{
+	"podcast_posts" : [
+		{% for post in site.posts %}{% if post.categories contains 'podcast' %}{% capture post_html %}{% include content_feed.html post=post %}{% endcapture %}
+    	"{{ post_html | uri_escape }}"{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}
+    ]
+}

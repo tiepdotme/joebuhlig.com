@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Making Time for Contexts"
 date:   2014-12-19
 categories: blog
 tags:
 - distractions
 - life
 permalink: /making-time-contexts/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Making-Time-for-Contexts.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

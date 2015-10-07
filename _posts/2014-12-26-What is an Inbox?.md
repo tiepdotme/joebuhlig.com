@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "What is an Inbox?"
 date:   2014-12-26
 categories: blog
 tags:
 - distractions
 - life
 permalink: /inbox/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/What-is-an-Inbox.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

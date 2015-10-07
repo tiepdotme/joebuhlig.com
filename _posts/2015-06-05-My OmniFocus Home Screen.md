@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "My OmniFocus Home Screen"
 date:   2015-06-05
 categories: blog
 tags:
 - distractions
 - life
 permalink: /my-omnifocus-home-screen/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/My-OmniFocus-Home-Screen.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

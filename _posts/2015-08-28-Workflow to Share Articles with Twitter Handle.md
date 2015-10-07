@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Workflow to Share Articles with Twitter Handle"
 date:   2015-08-28
 categories: blog
 tags:
 - distractions
 - life
 permalink: /workflow-to-share-articles-with-twitter-handle/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Workflow-to-Share-Articles-with-Twitter-Handle.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

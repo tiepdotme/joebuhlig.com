@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Lost in Transition"
 date:   2015-05-22
 categories: blog
 tags:
 - distractions
 - life
 permalink: /lost-in-transition/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Lost-in-Transition.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

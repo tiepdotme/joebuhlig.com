@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "A Chaotic Week with GTD"
 date:   2015-05-29
 categories: blog
 tags:
 - distractions
 - life
-permalink: /put-distractions-place/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+permalink: /a-chaotic-week-with-gtd/
+image: /assets/posts/A-chaotic-week-with-GTD.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

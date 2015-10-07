@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "OmniFocus Auto-Parser"
 date:   2015-09-04
 categories: blog
 tags:
 - distractions
 - life
 permalink: /omnifocus-auto-parser/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/OmniFocus-Auto-Parser.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

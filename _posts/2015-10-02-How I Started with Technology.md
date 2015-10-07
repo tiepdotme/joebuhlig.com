@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "How I Started with Technology"
 date:   2015-10-02
 categories: blog
 tags:
 - distractions
 - life
 permalink: /how-i-started-with-technology/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/How-I-Started-with-Technology.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

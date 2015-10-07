@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "GTD Contexts: Proactive vs. Reactive"
 date:   2015-04-10
 categories: blog
 tags:
 - distractions
 - life
 permalink: /gtd-contexts-proactive-vs-reactive/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/GTD-Contexts-Proactive-vs-Reactive.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "3: Keeping Up with Pain Pills"
 date:   2015-08-31
 categories: podcast
 tags:
 - distractions
 - life
 permalink: /3/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Keeping-Up-with-Pain-Pills.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

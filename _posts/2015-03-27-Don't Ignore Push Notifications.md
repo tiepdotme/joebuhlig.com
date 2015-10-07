@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Don’t Ignore Push Notifications"
 date:   2015-03-27
 categories: blog
 tags:
 - distractions
 - life
 permalink: /dont-ignore-push-notifications/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Don't-Ignore-Push-Notifications.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

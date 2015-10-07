@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "If It Ain’t Broke, Don’t Fix It. Why Not?"
 date:   2014-08-15
 categories: blog
 tags:
 - distractions
 - life
 permalink: /aint-broke-dont-fix/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/If-it-ain't-broke-don't-fix-it-why-not.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Creating Personal Project Codes"
 date:   2014-09-26
 categories: blog
 tags:
 - distractions
 - life
 permalink: /creating-personal-project-codes/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Creating-Personal-Project-Codes.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

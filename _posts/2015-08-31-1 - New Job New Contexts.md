@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "1: New Job New Contexts"
 date:   2015-08-31
 categories: podcast
 tags:
 - distractions
 - life
 permalink: /1/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/New-Job-New-Contexts.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

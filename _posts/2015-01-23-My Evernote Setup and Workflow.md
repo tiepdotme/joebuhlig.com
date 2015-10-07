@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "My Evernote Setup and Workflow"
 date:   2015-01-23
 categories: blog
 tags:
 - distractions
 - life
 permalink: /evernote-setup-workflow/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/My-Evernote-Setup-and-Workflow.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

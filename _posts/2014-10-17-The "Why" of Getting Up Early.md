@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "The “Why” of Getting Up Early"
 date:   2014-10-17
 categories: blog
 tags:
 - distractions
 - life
 permalink: /why-getting-up-early/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/The-Why-of-Getting-Up-Early.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

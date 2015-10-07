@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Getting Things Done: Introduction"
 date:   2014-10-24
 categories: blog
 tags:
 - distractions
 - life
 permalink: /getting-things-done-introduction/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/GTD-Introduction.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

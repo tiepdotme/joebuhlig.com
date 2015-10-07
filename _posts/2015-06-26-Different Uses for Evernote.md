@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Different Uses for Evernote"
 date:   2015-06-26
 categories: blog
 tags:
 - distractions
 - life
 permalink: /different-uses-for-evernote/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Different-Uses-for-Evernote.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

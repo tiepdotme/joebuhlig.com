@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "4: Creating the First Checklist"
 date:   2015-09-08
 categories: podcast
 tags:
 - distractions
 - life
 permalink: /4/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Creating-the-First-Checklist.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

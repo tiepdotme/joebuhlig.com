@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Using TheBrain"
 date:   2015-07-03
 categories: blog
 tags:
 - distractions
 - life
 permalink: /using-thebrain/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Using-TheBrain.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

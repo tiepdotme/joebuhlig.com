@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Scheduled Reviews in OmniFocus"
 date:   2015-09-18
 categories: blog
 tags:
 - distractions
 - life
 permalink: /scheduled-reviews-in-omnifocus/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Scheduled-Reviews-in-OmniFocus.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

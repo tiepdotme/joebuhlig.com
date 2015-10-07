@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "An Alternative to Annual Goals"
 date:   2015-07-17
 categories: blog
 tags:
 - distractions
 - life
 permalink: /an-alternative-to-annual-goals/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/An-Alternative-to-Annual-Goals.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

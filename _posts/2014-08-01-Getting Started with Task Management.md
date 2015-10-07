@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Getting Started with Task Management"
 date:   2014-08-01
 categories: blog
 tags:
 - distractions
 - life
 permalink: /getting-started-task-management/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Getting-Started-with-Task-Management.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

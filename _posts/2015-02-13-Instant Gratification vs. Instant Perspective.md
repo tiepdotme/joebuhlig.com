@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Instant Gratification vs. Instant Perspective"
 date:   2015-02-13
 categories: blog
 tags:
 - distractions
 - life
 permalink: /instant-gratification-vs-instant-perspective/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Instant-Gratification-vs-Instant-Perspective.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

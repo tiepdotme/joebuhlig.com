@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "MacBook Pro vs. MacBook Air"
 date:   2015-08-07
 categories: blog
 tags:
 - distractions
 - life
 permalink: /macbook-pro-vs-macbook-air/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Macbook-Pro-Vs-MacBook-Air.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

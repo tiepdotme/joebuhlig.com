@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "8: Waiting to Upgrade"
 date:   2015-10-06
 categories: podcast
 tags:
 - distractions
 - life
 permalink: /8/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Waiting-to-Upgrade.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "6: Collecting and Storing Research"
 date:   2015-09-22
 categories: podcast
 tags:
 - distractions
 - life
 permalink: /6/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Collecting-and-Storing-Research.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

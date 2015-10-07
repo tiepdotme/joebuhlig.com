@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Writing with GitHub"
 date:   2015-09-11
 categories: blog
 tags:
 - distractions
 - life
 permalink: /writing-with-github/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Writing-with-GitHub.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

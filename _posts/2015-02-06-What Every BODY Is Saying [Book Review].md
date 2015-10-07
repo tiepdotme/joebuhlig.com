@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "What Every BODY Is Saying [Book Review]"
 date:   2015-02-06
 categories: blog
 tags:
 - distractions
 - life
 permalink: /every-body-saying-book-review/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/What-Every-BODY-is-Saying-Book-Review.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

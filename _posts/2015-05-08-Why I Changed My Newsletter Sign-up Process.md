@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Why I Changed My Newsletter Sign-up Process"
 date:   2015-05-08
 categories: blog
 tags:
 - distractions
 - life
 permalink: /why-i-changed-my-newsletter-sign-up-process/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Why-I-changed-my-newsletter-sign-up-process.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

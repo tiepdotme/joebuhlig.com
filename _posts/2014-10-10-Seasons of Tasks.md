@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Seasons of Tasks"
 date:   2014-10-10
 categories: blog
 tags:
 - distractions
 - life
 permalink: /seasons-tasks/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Seasons-of-Tasks.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

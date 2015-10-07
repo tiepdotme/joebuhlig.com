@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Keeping Up With Your Goals"
 date:   2015-01-02
 categories: blog
 tags:
 - distractions
 - life
 permalink: /keeping-goals/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Keeping-Up-with-Your-Goals.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

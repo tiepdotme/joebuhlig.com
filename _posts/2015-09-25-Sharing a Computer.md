@@ -1,12 +1,12 @@
 ---
-title:  "Put Distractions in Their Place"
+title:  "Sharing a Computer"
 date:   2015-09-25
 categories: blog
 tags:
 - distractions
 - life
 permalink: /sharing-a-computer/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+image: /assets/posts/Sharing-a-Computer.jpg
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
