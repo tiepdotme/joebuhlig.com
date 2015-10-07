@@ -5,7 +5,7 @@ categories: blog
 tags:
 - distractions
 - life
-permalink: /put-distractions-place/
+permalink: /workflow-to-share-articles-with-twitter-handle/
 image: /assets/posts/Put-Distractions-In-Their-Place.jpg
 ---
 

@@ -5,7 +5,7 @@ categories: blog
 tags:
 - distractions
 - life
-permalink: /put-distractions-place/
+permalink: /how-i-use-the-m-o-u-s-9/
 image: /assets/posts/Put-Distractions-In-Their-Place.jpg
 ---
 

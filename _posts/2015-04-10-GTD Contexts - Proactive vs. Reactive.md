@@ -5,7 +5,7 @@ categories: blog
 tags:
 - distractions
 - life
-permalink: /put-distractions-place/
+permalink: /gtd-contexts-proactive-vs-reactive/
 image: /assets/posts/Put-Distractions-In-Their-Place.jpg
 ---
 

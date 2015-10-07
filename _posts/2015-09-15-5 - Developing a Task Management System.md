@@ -1,11 +1,11 @@
 ---
 title:  "Put Distractions in Their Place"
 date:   2015-09-15
-categories: blog
+categories: podcast
 tags:
 - distractions
 - life
-permalink: /put-distractions-place/
+permalink: /5/
 image: /assets/posts/Put-Distractions-In-Their-Place.jpg
 ---
 

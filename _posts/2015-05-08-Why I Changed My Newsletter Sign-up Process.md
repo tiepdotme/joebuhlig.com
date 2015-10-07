@@ -5,7 +5,7 @@ categories: blog
 tags:
 - distractions
 - life
-permalink: /put-distractions-place/
+permalink: /why-i-changed-my-newsletter-sign-up-process/
 image: /assets/posts/Put-Distractions-In-Their-Place.jpg
 ---
 

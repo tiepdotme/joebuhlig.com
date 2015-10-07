@@ -5,7 +5,7 @@ categories: blog
 tags:
 - distractions
 - life
-permalink: /put-distractions-place/
+permalink: /my-omnifocus-home-screen/
 image: /assets/posts/Put-Distractions-In-Their-Place.jpg
 ---
 

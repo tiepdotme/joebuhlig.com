@@ -5,7 +5,7 @@ categories: blog
 tags:
 - distractions
 - life
-permalink: /put-distractions-place/
+permalink: /file-naming-disorganization/
 image: /assets/posts/Put-Distractions-In-Their-Place.jpg
 ---
 

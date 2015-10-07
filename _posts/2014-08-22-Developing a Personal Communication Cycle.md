@@ -5,7 +5,7 @@ categories: blog
 tags:
 - distractions
 - life
-permalink: /put-distractions-place/
+permalink: /developing-personal-communication-cycle/
 image: /assets/posts/Put-Distractions-In-Their-Place.jpg
 ---
 
