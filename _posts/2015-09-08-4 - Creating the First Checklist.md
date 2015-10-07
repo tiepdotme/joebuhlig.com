@@ -7,6 +7,9 @@ tags:
 - life
 permalink: /4/
 image: /assets/posts/Creating-the-First-Checklist.jpg
+podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ004.mp3
+podcast_file_size: 16.6 MB
+podcast_duration: "00:17:57"
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

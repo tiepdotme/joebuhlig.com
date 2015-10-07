@@ -7,6 +7,9 @@ tags:
 - life
 permalink: /7/
 image: /assets/posts/Learning-a-Computer-Language.jpg
+podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ007.mp3
+podcast_file_size: 16.97 MB
+podcast_duration: "00:18:21"
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

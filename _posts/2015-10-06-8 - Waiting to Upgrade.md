@@ -7,6 +7,9 @@ tags:
 - life
 permalink: /8/
 image: /assets/posts/Waiting-to-Upgrade.jpg
+podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ008.mp3
+podcast_file_size: 18.8 MB
+podcast_duration: "00:20:21"
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

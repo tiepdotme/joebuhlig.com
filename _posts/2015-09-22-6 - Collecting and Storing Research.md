@@ -7,6 +7,9 @@ tags:
 - life
 permalink: /6/
 image: /assets/posts/Collecting-and-Storing-Research.jpg
+podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ006.mp3
+podcast_file_size: 15.93 MB
+podcast_duration: "00:17:13"
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

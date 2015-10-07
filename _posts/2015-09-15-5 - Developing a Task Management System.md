@@ -7,6 +7,9 @@ tags:
 - life
 permalink: /5/
 image: /assets/posts/Developing-a-Task-Management-System.jpg
+podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ005.mp3
+podcast_file_size: 21.58 MB
+podcast_duration: "00:23:23"
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
