@@ -1,8 +1,10 @@
 ---
 title:  "Desktop Tower Move"
-date:   2014-06-09 04:00:00
+date:   2014-06-09
 categories: blog
 permalink: /desktop-tower-move/
+tags:
+- hardware
 image: /assets/posts/Desktop-Tower-Move.jpg
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  "Escaping the Corporate Email Habit"
-date:   2014-06-10 05:00:00
+date:   2014-06-10
 categories: blog
 tags: 
 - email

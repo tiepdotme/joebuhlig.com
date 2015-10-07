@@ -1,6 +1,6 @@
 ---
 title:  "Put Distractions in Their Place"
-date:   2014-06-08
+date:   2014-10-31
 categories: blog
 tags:
 - distractions

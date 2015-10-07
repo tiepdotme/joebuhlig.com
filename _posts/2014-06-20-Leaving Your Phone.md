@@ -1,7 +1,9 @@
 ---
 title:  "Leaving Your Phone"
-date:   2014-06-20 05:00:00
+date:   2014-06-20
 categories: blog
+tags:
+- life
 permalink: /leaving-phone/
 image: /assets/posts/Leaving-Your-Phone.jpg
 ---
