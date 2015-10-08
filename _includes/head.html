@@ -66,9 +66,9 @@
 {% endif %}
 
 {% if page.image %}
-  <meta content="{{ page.image }}" property="og:image">
+  <meta content="{{ site.url }}{{ page.image }}" property="og:image">
 {% else %}
-  <meta content="/assets/base/header_tree.png" property="og:image">
+  <meta content="{{ site.url }}/assets/base/header_tree.png" property="og:image">
 {% endif %}
 
 {% if page.categories %}
@@ -81,6 +81,29 @@
   {% for tag in page.tags %}
   <meta content="{{ tag }}" property="article:tag">
   {% endfor %}
+{% endif %}
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@{{ site.twitter_username }}">
+<meta name="twitter:creator" content="@{{ site.twitter_username }}">
+
+{% if page.title %}
+  <meta name="twitter:title" content="{{ page.title }}">
+{% else %}
+  <meta name="twitter:title" content="{{ site.title }}">
+{% endif %}
+
+{% if page.url %}
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+{% endif %}
+
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+{% if page.image %}
+  <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
+{% else %}
+  <meta name="twitter:image:src" content="{{ site.url }}/assets/base/header_tree.png">
 {% endif %}
 
 <!-- Javascript -->
