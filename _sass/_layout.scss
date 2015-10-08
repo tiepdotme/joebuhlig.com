@@ -313,6 +313,12 @@
 /**
  * Posts
  */
+
+ .post {
+    margin: 0px auto;
+    max-width: $content-width;
+ }
+
 .post-header {
     margin-bottom: $spacing-unit;
 }

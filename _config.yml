@@ -1,17 +1,21 @@
+# ------------------------------------------------------------------------
 # Site settings
 title: leverage the digital and welcome real life
 name: Joe Buhlig
 email: joe@joebuhlig.com
 description: > # this means to ignore newlines until "baseurl:"
   leverage the digital and welcome real life
+author: Joe Buhlig
+copyright: Copyright © Joe Buhlig 2015 • All Rights Reserved
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://joebuhlig.com" # the base hostname & protocol for your site
+url: "http://104.236.248.91" # the base hostname & protocol for your site
 twitter_username: joebuhlig
 github_username:  joebuhlig
 tumblr_username: joebuhlig
 instagram_username: joe_buhlig
 subreddit:  joebuhlig
 
+# ------------------------------------------------------------------------
 # Build settings
 markdown: kramdown
 timezone: America/Chicago
@@ -20,10 +24,7 @@ tag_page_layout: tag_page
 tag_page_dir: tag
 tag_permalink_style: pretty
 
-# Collections
-collections:
-- episodes
-
+# ------------------------------------------------------------------------
 # Post settings
 excerpt_separator: <!--more-->
 defaults:
@@ -35,30 +36,27 @@ defaults:
       layout: "post"
       author: "Joe Buhlig"
 
+# ------------------------------------------------------------------------
+# RSS Settings
+
+rss_path: /feed
+rss_name: index.xml
+rss_post_limit: 10
+
 # Podcast General Settings
 # ------------------------------------------------------------------------
 
 # The homepage of your podcast
-podcastSite: http://www.joebuhlig.com
-
-# The cover image for the podcast, will show in search results in iTunes
-podcastCoverImg: http://wwww.YourSite.com/imageSize1400x1400-min.jpg
-
-# The name of your podcast
-podcastTitle: My Podcast Title
-
-# About You. For iTunes admin. This information is not displayed on the iTunes Store.
-podcastOwner: YourName
-podcastEmail: your@email.com
-
-# See https://www.apple.com/itunes/podcasts/specs.html near the bottom for valid categories
-category: Education
-subCategory: Higher Education
-
-# is it too dangerous for the impressionable kiddos?
-podcastIsExplicit: "no"
-
-
-podcastAuthor: Org, brand or individual
-podcastDescription: Verbose description of the podcast.
-podcastSubtitle: Short description of the podcast - 255 character max.
+podcast_url: http://www.joebuhlig.com/whaddyaknowjoe
+podcast_album_art: /assets/base/Whaddya-Know-Joe-Album-Art.png
+podcast_title: Whaddya Know Joe?
+podcast_owner: Joe Buhlig
+podcast_email: joe@joebuhlig.com
+podcast_category: Technology
+podcast_subcategory_one: Software How-To
+podcast_subcategory_two: Gadgets
+podcast_explicit: "no"
+podcast_author: Joe Buhlig
+podcast_description: Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.
+podcast_summary: Joe Buhlig walks you through real life story and then breaks down the productivity tools and techniques used. It's a great way to learn how to implement the tips and tricks that you see across the web. Productivity stories from the trenches. What works and what to never try.
+podcast_subtitle: Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.

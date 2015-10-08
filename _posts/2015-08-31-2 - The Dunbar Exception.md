@@ -9,7 +9,9 @@ permalink: /2/
 image: /assets/posts/The-Dunbar-Exception.jpg
 podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ002.mp3
 podcast_file_size: 15.94 MB
-podcast_duration: "00:17:13"
+podcast_duration: "17:13"
+podcast_length: 16714604
+podcast_guid: ?p=857
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

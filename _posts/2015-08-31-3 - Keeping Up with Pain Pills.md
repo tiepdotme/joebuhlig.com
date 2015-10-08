@@ -9,7 +9,9 @@ permalink: /3/
 image: /assets/posts/Keeping-Up-with-Pain-Pills.jpg
 podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ003.mp3
 podcast_file_size: 10.71 MB
-podcast_duration: "00:11:30"
+podcast_duration: "11:30"
+podcast_length: 11227803
+podcast_guid: ?p=860
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

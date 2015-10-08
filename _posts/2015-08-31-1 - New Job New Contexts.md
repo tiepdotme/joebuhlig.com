@@ -9,7 +9,9 @@ permalink: /1/
 image: /assets/posts/New-Job-New-Contexts.jpg
 podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ001.mp3
 podcast_file_size: 16.78 MB
-podcast_duration: "00:18:09"
+podcast_duration: "18:09"
+podcast_length: 17597079
+podcast_guid: ?p=850
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
