@@ -157,6 +157,10 @@
         text-align: center;
         width: 100%;
         z-index: 20;
+
+        @include media-query($on-palm) {
+            display: none;
+        }
     }
 
     .header-desc-inner{
@@ -353,4 +357,129 @@
 
 .next-page {
     float: right;
+}
+
+/**
+ * Search
+ */
+
+#search-bar {
+    position: fixed;
+    background-color: rgba(130, 130, 130, 0.85);
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 9999;
+    transition: 0.2s ease;
+    visibility: hidden;
+    opacity: 0;
+}
+#search-close {
+    fill: #DDD;
+    font-size: 36px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    z-index: 1;
+}
+#search-bar-input {
+    border: 0;
+    font-size: $site-links-height;
+    border-left: none;
+    border-right: none;
+    color: #999;
+    width: 100%;
+    text-align: center;
+    transform: translateY(-100%);
+    transition: 0.15s ease-out 150ms;
+}
+.active-search #search-bar-input {
+    transform: translateY(0);
+}
+#search-results {
+    text-align: center;
+    list-style: none;
+    padding: 0;
+    overflow-x: hidden;
+    height: calc(100% - #{$site-links-height});
+    transition: 0.2s ease;
+}
+#search-results.is-hidden {
+    opacity: 0;
+    transform: translateY(-1vh);
+}
+
+#search-results > li > a {
+    display: block;
+    position: relative;
+    background-color: #f9f9f9;
+    color: #666;
+    padding: 17px;
+    margin: 12px 14px;
+    box-shadow: 0 3px 4px rgba(0,0,0,0.1);
+}
+
+#search-bar.active-search {
+    opacity: 1;
+    visibility: visible;
+}
+
+.search-result-item {
+    background: #FFFFFF;
+    border-radius: 5px;
+    clear: both;
+    height: 150px;
+    margin:5px auto;
+    max-width: 500px;
+    text-align: left;
+    width:100%;
+
+    a {
+        color: $text-color;
+        display: block;
+        height: 100%;
+        width: 100%;
+    }
+
+    @include media-query(550px) {
+        height: auto;
+    }
+}
+
+.search-result-image {
+    border-radius: 5px 0px 0px 5px;
+    height: 100%;
+
+    @include media-query(550px) {
+        height: auto;
+    }
+}
+
+.search-result-image-wrapper {
+    float: left;
+    height: 100%;
+
+    @include media-query(550px) {
+        float: none;
+        width: 100%;
+    }
+}
+
+.search-result-excerpt {
+    float: left;
+    height: 100%;
+    max-width: 255px;
+    overflow: hidden;
+    padding: 0px 10px;
+
+    p {
+        margin: 0px;
+    }
+
+    @include media-query(550px) {
+        float: none;
+        max-width: 100%;
+        width: 100%;
+    }
 }
