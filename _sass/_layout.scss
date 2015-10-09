@@ -378,10 +378,18 @@
 #search-close {
     fill: #DDD;
     font-size: 36px;
+    height: 58px;
+    padding: 5px 0px;
     position: absolute;
-    right: 10px;
-    top: 10px;
-    z-index: 1;
+    right: 0px;
+    text-align: center;
+    top: 0px;
+    width: 45px;
+    z-index: 9999;
+
+        &:hover{
+            text-decoration: none;
+        }        
 }
 #search-bar-input {
     border: 0;
