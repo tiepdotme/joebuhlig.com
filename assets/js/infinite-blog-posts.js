@@ -1,15 +1,15 @@
 $(function() {
-
+  
   var postURLs,
       isFetchingPosts = false,
       shouldFetchPosts = true,
       postsToLoad = $(".posts").children().length,
       loadNewPostsThreshold = 3000;
-
+  
   // Load the JSON file containing all URLs
-  $.getJSON('/javascript/all-podcast-posts.json', function(data) {
-    postURLs = data["podcast_posts"];
-
+  $.getJSON('/assets/js/all-blog-posts.json', function(data) {
+    postURLs = data["blog_posts"];
+    
     // If there aren't any more posts available to load than already visible, disable fetching
     if (postURLs.length <= postsToLoad)
       disableFetching();
@@ -40,7 +40,7 @@ $(function() {
     if (!postURLs) return;
     
     isFetchingPosts = true;
-    console.log('fetching');
+    
     // Load as many posts as there were present on the page when it loaded
     // After successfully loading a post, load the next one
     var loadedPosts = 0,

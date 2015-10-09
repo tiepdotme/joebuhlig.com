@@ -48,7 +48,7 @@
 	}
 
 	function initialize(options) {
-		searchJSONFile = '/javascript/clean-search.json';
+		searchJSONFile = '/assets/js/clean-search.json';
 		$searchBar = $('#search-bar');
 		$searchBarInput = $('#search-bar-input');
 		$searchResults = $('#search-results');
@@ -76,6 +76,10 @@
 		});	
 
 		$('#search-icon').click(function(e){
+			e.preventDefault();
+			toggleSearch();
+		});
+		$('#search-close').click(function(e){
 			e.preventDefault();
 			toggleSearch();
 		});
