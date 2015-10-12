@@ -3,8 +3,8 @@ title:  "7: Learning a Computer Language"
 date:   2015-09-29
 categories: podcast
 tags:
-- distractions
-- life
+- development
+- research
 permalink: /7/
 image: /assets/posts/Learning-a-Computer-Language.jpg
 podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ007.mp3
@@ -14,45 +14,37 @@ podcast_length: 17791432
 podcast_guid: ?p=905
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+People are sometimes scared to get into coding because they think it's complicated to learn. It's not complicated, so don't be one of those people. In this episode I talk about how I got into development (with no schooling) and how I pick up new languages.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+[Excel VBA Tutorial - Easy Excel Macros](http://www.excel-easy.com/vba.html)
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+[Microsoft Access](https://products.office.com/en-US/access)
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+[Learn to Code HTML & CSS - Beginner & Advanced](http://learn.shayhowe.com/)
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+[jQuery](http://jquery.com/)
 
-I've adopted these three habits to put distractions in their place:
+[PHP and Theme Development « WordPress Codex](http://codex.wordpress.org/Theme_Development)
 
-# Turn off notifications
+[Welcome to Python.org](https://www.python.org/)
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+[The Web framework for perfectionists with deadlines - Django](https://www.djangoproject.com/)
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+[Ruby Programming Language](https://www.ruby-lang.org/en/)
 
-# Collect it
+[Ruby on Rails](http://rubyonrails.org/)
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+[Jekyll • Simple, blog-aware, static sites](http://jekyllrb.com/)
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+[Discourse](http://www.discourse.org/)
 
-# Schedule time for distractions
+[@WhaddyaKnowJoe](https://twitter.com/whaddyaknowjoe)  
+Use the hashtag #question to ask a question.
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+[@JoeBuhlig](https://twitter.com/JoeBuhlig)
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+[Become a Patron](http://joebuhlig.com/patron/)
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3mtguy/7_learning_a_computer_language/)

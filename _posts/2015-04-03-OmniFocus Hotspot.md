@@ -3,51 +3,44 @@ title:  "OmniFocus Hotspot"
 date:   2015-04-03
 categories: blog
 tags:
-- distractions
-- life
+- files
+- omnifocus
 permalink: /omnifocus-hotspot/
 image: /assets/posts/Omnifocus-Hotspot.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+In our digital age, we tend to receive a large number of files via email. And we need to review these files or make changes to them. As an [Omnifocus user](http://joebuhlig.com/omnifocus-setup-workflow/), that means I need to create tasks out of these files.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+I could invoke the quick entry dialog and drag the file into the notes field, but there are times when I have 10 files or more to do at once. That gets to be a lot of repetitive steps.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+I started searching for a solution and came across [this post](http://www.asianefficiency.com/task-management/omnifocus-hotspot/) by the guys at Asian Efficiency. It’s a simple process using [Hazel](http://www.noodlesoft.com/hazel.php) to turn a folder into a hotspot. This folder will _sense_ that files are in it and add those files to Omnifocus automatically.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+## The Set Up
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+1.  Create a dedicated folder
 
-I've adopted these three habits to put distractions in their place:
+    You’ll need a folder to tie to the Hazel rule. I created one called “Omnifocus_Import.” Put it somewhere that’s easy to access. You might want to consider adding it as a favorite in Finder so it’s easy to access.
 
-# Turn off notifications
+2.  Add the new folder to Hazel
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+    Add your new folder to the list of folders in Hazel. As an alternative, you can download [my folder and rule setup from here](http://joebuhlig.com/wp-content/files/Omnifocus_Import.hazelrules).
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+3.  Create a new Hazel rule
 
-# Collect it
+    Here’s a view of what mine looks like:
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+    <img class="center-image post-image-medium" src="/assets/posts_extra/Omnifocus-Hotspot.png" />
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+    I wanted the rule to automatically rename the file and move it to my Active folder, so I added those steps before the AppleScript, which is where the magic happens.
 
-# Schedule time for distractions
+4.  Add the AppleScript to the rule
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+    Click on Edit script for the AppleScript and enter the following:
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+{% gist joebuhlig/0e8a29e5f91ac9533f89 %}
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+## Using the system
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+It’s quite simple - just drag and drop the files to your new folder. You could also set up a keyboard command with Automator, Alfred, or Keyboard Maestro to make it even easier. Once you’ve added the files to your new hotspot, Hazel will rename the file, move it to the folder you selected, and add a task to Omnifocus. It’s simple and saves a fair amount of time when you have a lot of files to act on.  

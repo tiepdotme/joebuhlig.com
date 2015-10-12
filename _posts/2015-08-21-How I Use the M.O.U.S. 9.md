@@ -3,51 +3,63 @@ title:  "How I Use the M.O.U.S. 9"
 date:   2015-08-21
 categories: blog
 tags:
-- distractions
-- life
+- hardware
 permalink: /how-i-use-the-m-o-u-s-9/
 image: /assets/posts/How-I-Use-the-M.O.U.S.-9.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+I pulled my computer mouse out of my bag and the first thing he said was, “What on earth is that thing?” It was yet another confirmation that I’m strange.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+I’ve had it referred to as the Batmobile or Stealth Mouse. Maybe that’s just because I have the matte black version, but with all the buttons and wings this is definitely not your normal computer mouse.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+It’s the [Mad Catz M.O.U.S. 9](http://store.madcatz.com/categories/mice-category/Mad-Catz-MOUS-9.html). I picked it up when it was first released a few years ago. I noticed my right wrist was beginning to hurt after working on the computer all day and wanted to slow down or stop the damage that was happening.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+I found ways to limit the time I spent using the mouse in the first place with tools like [Alfred](https://www.alfredapp.com/) and [TextExpander](https://smilesoftware.com/TextExpander/index.html), but I knew I needed to find a more ergonomic mouse. That’s when I discovered the M.O.U.S. 9\. It’s essentially an office version of the [R.A.T. 9](http://store.madcatz.com/categories/mice-category/Mad-Catz-RAT-9-Wireless-Gaming-Mouse-for-PC-and-Mac.html), which is primarily used for gaming.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+Because it was designed for gamers, the R.A.T. 9 is ergonomic and built for heavy use. Comparing my computer use with a gamer isn’t a clean parallel, but there are similarities. We both can spend long hours on the computer and try to be as quick and efficient with keystrokes and mouse clicks as possible. The R.A.T. made sense to me. But I didn’t care for the corded receiver of the R.A.T. 9, so I picked up the M.O.U.S. 9 which is nearly identical but has a low profile USB receiver.
 
-I've adopted these three habits to put distractions in their place:
+I should note that one of the main reasons I looked at these in the first place was my use of a [claw grip](http://www.epicgear.com/en/technologies/types-of-mouse-grip). I need to have good palm support so the adjustable palm rest is primarily what sold me. And I knew I would geek out on the extra buttons as well.
 
-# Turn off notifications
+Over time, I’ve fine-tuned the extra buttons and found them to be incredibly useful in every day use. Outside of the typical left/right click, here’s how I have it set up:
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+## [<span></span>](#1-mission-control)1\. Mission Control
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+<img class="center-image post-image-medium" src="/assets/posts_extra/MOUS9-MissionControl.png" />
 
-# Collect it
+I like using the three finger swipe gesture on the trackpad to invoke Mission Control, but when I have my computer sitting on boxes (because I’m too cheap for a stand right now) I can’t use it. So I have the center button set to trigger Mission Control.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+## [<span></span>](#2-copypaste)2\. Copy/Paste
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+<img class="center-image post-image-medium" src="/assets/posts_extra/MOUS9-CopyPaste.png" />
 
-# Schedule time for distractions
+When working with data or code, I’m often selecting cells or text, copying, selecting a different location, and pasting it in. It’s typically mouse heavy work, but switching back to the keyboard for the copy/paste steps. By setting the scroll wheel clicks to copy/paste, I can do all of it right from the mouse.
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+## [<span></span>](#3-playpause)3\. Play/Pause
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+<img class="center-image post-image-medium" src="/assets/posts_extra/MOUS9-PlayPause.png" />
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+I get a fair number of phone calls and watch a number of how-to videos on YouTube. That means I’m hitting pause on my music quite a bit throughout the day. It’s something I want to be able to do fast, so I programmed the wing button to toggle play/pause on whatever I’m listening to.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+## [<span></span>](#4-horizontal-scrolling)4\. Horizontal Scrolling
+
+<img class="center-image post-image-medium" src="/assets/posts_extra/MOUS9-HorizontalScroll.png" />
+
+With a second scroll wheel it made sense to set it up for horizontal scrolling. I wasn’t sure I would use it. But after having it available, I found myself using it on spreadsheets and websites quite a bit. It’s definitely nice to have.
+
+## [<span></span>](#5-nextprevious-tab)5\. Next/Previous Tab
+
+<img class="center-image post-image-medium" src="/assets/posts_extra/MOUS9-NextPrevTab.png" />
+
+I have a lot of browser tabs open when I’m doing development work or research for an article. It can get a little ridiculous. I can have 30 tabs going at once. Control + Tab is my friend, but I find my hand on the mouse a lot when I’m looking through webpages. I set up the side buttons to navigate forward and backward through the tabs so I can cycle through them faster.
+
+## [<span></span>](#6-back)6\. Back
+
+<img class="center-image post-image-medium" src="/assets/posts_extra/MOUS9-Back.png" />
+
+Similar to number five, I’m frequently going back a page in the browser. I have the circular side button set up to take me back a page. This also works well in other applications. For example, I can go to the last note I was looking at in Evernote using this button.
+
+If you’re in the market for a new mouse and want something ergonomic that has more features than you should be allowed to use, take a look at the M.O.U.S. 9\. I recommend it and I’m not even an affiliate.
+
+If you prefer, you can [discuss this on Reddit](https://www.reddit.com/r/joebuhlig/comments/3hu2zv/how_i_use_the_mous_9/).

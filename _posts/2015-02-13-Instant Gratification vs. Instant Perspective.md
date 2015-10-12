@@ -3,51 +3,34 @@ title:  "Instant Gratification vs. Instant Perspective"
 date:   2015-02-13
 categories: blog
 tags:
-- distractions
-- life
+- gratification
+- perspective
 permalink: /instant-gratification-vs-instant-perspective/
 image: /assets/posts/Instant-Gratification-vs-Instant-Perspective.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+I finished (second) breakfast and sat down at my computer to pull together analytics on one of my company’s websites. At that moment, a coworker texted me a question. I don’t remember what the question was about, but I do remember that it was almost an hour before I managed to get back to work.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+It's amazing how quickly we can lose our focus. We can be deep into a project and three seconds later fall into a black hole of distraction that takes hours to overcome. What's going on here and how do we avoid it?
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+## Instant Gratification
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+When you look at your to-do list for the day, there are most likely items on it that are both easy and hard. Some will take a long time to complete and others are quick. As people who enjoy checking things off, we like to do those quick and easy items. They give us an instant sense of accomplishment.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+## Instant Perspective
 
-I've adopted these three habits to put distractions in their place:
+If you're like most, you've set New Year's resolutions or goals for the year. However you do it, you know that there are important things you've decided to do. You know you should be doing the tasks that drive you closer to these goals regardless of their difficulty. But it's hard to make this decision without putting your choice in perspective. Since these happen almost immediately and intuitively, we need a fast way to see our goals and priorities.
 
-# Turn off notifications
+## The Setup
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+To decide quickly, I need a fast way to see the right information. In this case, the information I need is my list of goals and the prioritization of my [Areas of Responsibility](http://joebuhlig.com/omnifocus-setup-workflow/).
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+The Areas of Responsibility are easy since I use them as folders in Omnifocus. I can simply switch to Omnifocus to see what area trumps another by looking at their order from top to bottom.
 
-# Collect it
+I keep my [goals in Evernote](http://joebuhlig.com/keeping-goals/). Using saved searches and note links ([along with Alfred](http://joebuhlig.com/keeping-goals/)), I can find the right information in a few seconds.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+## How it Helps
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
-
-# Schedule time for distractions
-
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
-
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
-
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+Anytime you're faced with a tough decision on what to do next or you sense the urge to do something just because it's easy or fun, pull up the information you need to make an accurate decision. Don't always do the task you want to do. Do the task you should do.

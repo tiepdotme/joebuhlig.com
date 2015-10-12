@@ -3,51 +3,28 @@ title:  "The Danger of Infinity Apps"
 date:   2015-01-16
 categories: blog
 tags:
-- distractions
+- apps
 - life
 permalink: /danger-infinity-apps/
 image: /assets/posts/The-Danger-of-Infinity-Apps.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+An _infinity_ app is one with a never-ending stream of some kind. It’s an app that always has new updates for you to consume.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+If you have a smartphone, there’s a good chance that you use at least a few of these. Almost every social media and video network has a streaming feed. It’s great! There’s a continuous stream of information that you can learn about, making it really easy to find new content. So what’s the problem?
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+## Time
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+When are you done? How do you know when you’ve read everything that you need to read? You can spend an endless amount of time with these apps because you’ll never reach the end. There’s always more that you can do on them.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+## Comparing yourself
 
-I've adopted these three habits to put distractions in their place:
+Typically, these apps are choosing which updates to show you. And they’re usually the most popular updates. But in most cases that means it’s something extreme - vacation photos, a new mom with hair in order, a killer swordfish dinner, or the adorable new puppy. The more we see those extraordinary updates, the more we wonder if that’s the norm. If that’s the norm, am I normal? You see where this goes — am I good enough?
 
-# Turn off notifications
+## What to do
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+There are a couple things you can do to avoid the comparison and time-suck of these apps. The first is easy — delete it. Then you’ll never have to deal with it again. But more often than not, you’d rather have it stick around. If that’s the case, I’d recommend setting time limits (5 or 10 minutes?) on these apps or even scheduling your time with them (once or twice a day?). Put a limit on it. Don't let the hours of time disappear without something to bring you back to reality.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
-
-# Collect it
-
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
-
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
-
-# Schedule time for distractions
-
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
-
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
-
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+And when you _are_ using these apps, be aware of the “cherry picking” that goes on. Know that those are the best times and that life happens. When the camera is off, life goes on and it’s not always as good (or bad) as you saw.

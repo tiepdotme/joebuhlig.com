@@ -3,51 +3,62 @@ title:  "The Internet Separation Layer"
 date:   2015-03-13
 categories: blog
 tags:
-- distractions
+- communication
 - life
 permalink: /the-internet-separation-layer/
 image: /assets/posts/The-Internet-Separation-Layer.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+We do it almost every day. We communicate with another person using a screen of some kind - social media, texts, emails, instant messages.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+The internet has made it possible to communicate in a lot of new ways. And since we have the internet in our pockets, we can connect with just about anyone at any time.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+But are we starting to see issues with digital communications? I wouldn't say there are flaws in the technology from a philosophical standpoint, but what if there are flaws in the way we use or perceive them?
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+## A phone call
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+I was recently on the phone with someone, talking about differences in the words people use on social media as opposed to the words they use when voice-to-voice or face-to-face. It's amazing how someone can be rude and inconsiderate on Facebook and then be kind and caring as soon you get them on the phone. Is that really the same person?
 
-I've adopted these three habits to put distractions in their place:
+During the conversation, I mentioned the separation issue of digital communications like social media. We are always one step removed from people and that can pollute the way we interact with them.
 
-# Turn off notifications
+## What is the Separation Layer?
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+Think about this way - there is a filter between you and them. It’s the nature of digital communication. The filter is nothing more than a delay in time combined with the inefficiencies of written words in conversation and lack of body language to aid in understanding.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+This filter or separation leads us to a disconnect. We don’t immediately feel the gravity of the words we use and full understanding between us disappears. Yes, it’s possible to communicate effectively through these methods. But most of the time something is missed, even if it’s on a small scale.
 
-# Collect it
+If you add the expectations of the sender into the mix, it gets worse. If someone sends you a text message, when do they expect a response? Immediately. What if you're in a meeting or driving? Without maturity, we'll start to speculate the reasons why they aren't responding and drama ensues.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+## Long-term effects
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+In the long run, if we use digital communication only, we’ll begin to lose our true conversation skills. The skills of noticing [body language](http://joebuhlig.com/every-body-saying-book-review/) and changes in voice to aid in understanding begin to disappear without practice.
 
-# Schedule time for distractions
+It’s subtle, but a feeling of loneliness starts to set in as well. It feels like we’re connecting with people, but it’s not a true connection. We need the warmth of another person that comes from being present with them.
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+This separation layer can easily create a lot of drama. It happens a lot on social media. Something is hastily written and posted, which is then misunderstood by a friend. They respond in the moment with words that are again, misunderstood. Enter drama. And unfriending.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+[Trolls](http://en.wikipedia.org/wiki/Troll_(Internet)). This is so easy to fall into when you add in the ability to remain anonymous. It becomes easy to send an online creator hateful words with no ramifications. We don’t see the creator and don’t feel the results of what’s been written. Again, we’re separated from the human on the other end.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+## How to overcome it
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+Given the prevalence of digital communication in our world today, this is tough. I work for a virtual company so it's something I deal with on a large scale every day. Here's what I've found to help combat the shortcomings:
+
+1.  Do as much in-person as possible.
+
+    This goes without saying. If it's something that has to be communicated in detail or you _need_ it to come across correctly the first time, find time to meet in-person.
+
+2.  Use video
+
+    One form of digital communication that's not far from real life is video-conferencing. There are a number of ways to do this. Pick one that works for you and use it as much as you can. Keep in mind that not everyone is comfortable with this so they'll hesitate when you propose it. Don’t force it.
+
+3.  Pick up the phone
+
+    If you're having a disconnect with the other person over email, it's probably best to pick up the phone and work through it. It's faster, easier, and more effective to have 15 back and forth responses to each other over the phone than through email.
+
+4.  Repeat, repeat, repeat
+
+    Sometimes you’re trying to convey just a small bit of information. It's not worth the time to pick up the phone, turn on a camera, or meet in-person. Then what? Don't leave it to just one communication. Reiterate the information in a few different ways and forms. Use multiple examples in your email, send multiple messages over a few days, and bring it up again when you're on the phone with them.
+
+The method you choose to ensure accurate communication is dependent on how complicated the idea is that you’re trying to convey and how important it is. If you’re intentional, you’ll be able to intuitively make that judgement call when you need.

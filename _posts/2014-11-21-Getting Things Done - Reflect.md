@@ -3,51 +3,48 @@ title:  "Getting Things Done: Reflect"
 date:   2014-11-21
 categories: blog
 tags:
-- distractions
-- life
+- gtd
+- review
 permalink: /getting-things-done-reflect/
 image: /assets/posts/GTD-Reflect.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+The Weekly Review is the most important part of the GTD process. Without it, you'll have loose ends and you'll no longer trust your system.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+Reflect is about taking the time to look at what you're doing. You'll make sure that you have everything in your system and that the tasks in your system are pushing you toward your goals.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+Reviewing your system can have profound effects. You'll start to see how much you have going on. You may realize that you're over-extended or find extra time that you can use for a hobby or a new project.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+Think about it this way — you wouldn’t put 100 items on your calendar for 7pm on Friday night, would you? Of course not! You can’t be 100 places at one time.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+Seeing over-commitments on our calendars is easy. But seeing it with tasks is difficult if we're not looking over our system in the same way that we look over our calendar.
 
-I've adopted these three habits to put distractions in their place:
+David Allen recommends at least a single Weekly Review. I do [a daily review](http://joebuhlig.com/gaining-perspective-daily-review/) as well as weekly, monthly, and yearly, but the core of GTD revolves around a weekly version. So once a week, you should schedule some time with yourself to walk through the following items:
 
-# Turn off notifications
+## 1\. Bring yourself up to date
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+Clear out all of your inboxes and put all of your stuff in [the appropriate buckets](http://joebuhlig.com/getting-things-done-clarify/).
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+## 2\. Review Next Action Lists
 
-# Collect it
+Go through all of your action lists and decide what you're going to work on this week. Try to be realistic. Our minds always like to give us more than we can handle.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+## 3\. Review the calendar
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+Look over last week’s calendar and the calendar for the upcoming weeks. This will help you see potential areas of improvement and plan for upcoming events.
 
-# Schedule time for distractions
+## 4\. Review @Waiting For List
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+Looking at the list of items you're waiting for can help you decide if there is anything you need to follow up on.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+## 5\. Review Projects List
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+How far along are each of your projects? Do you have at least one action assigned to each project you're working on? Are there any actions to add or check off? Are there any projects that you can mark as completed?
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+## 6\. Review Someday/Maybe Lists
+
+If you have some bandwidth available, review these lists for projects you could make active in your system.
+
+Go through the entire system. Yes, _everything_. Review it all and make sure it's up-to-date and trustworthy. You have to trust your system in order to act on the items in it. We'll pick up next time with how to work toward your goals.

@@ -3,51 +3,36 @@ title:  "A Simple Trick for Naming Tags"
 date:   2014-08-29
 categories: blog
 tags:
-- distractions
-- life
+- evernote
+- tags
 permalink: /simple-trick-naming-tags/
 image: /assets/posts/A-simple-trick-for-naming-tags.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+The search capabilities of many tools today is impressive. We can search titles, notes, filenames, and even the contents of a file. But if you’re searching for a tag, it can give you a lot more than you expected.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+Take [Evernote](https://www.evernote.com/referral/Registration.action?uid=49404&sig=e2dd914576c3ec9818e0311976a19dc1) for example. In a single search, you get results that match tags, titles, body of the note, files, content inside files, words inside of pictures, and even locations for notes. I’m not a search expert, but I know that it’s easy for me to start typing in the search field and get a lot of results very quickly.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+The trouble comes when I start using tags. Tags have a lot of power, but what happens when I have a tag name that matches a common word? Here's a common scenario.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+## My Coffee Dilemma
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+I keep a database of different coffees that I’ve tried in Evernote. I snap a picture and record some quick notes on it. I then tag the note with “coffee.” If I look at the tag for “coffee”, I see that I have about 28 notes on coffees that I’ve tried and rated.
 
-I've adopted these three habits to put distractions in their place:
+However, I also keep a log of articles that I’ve read from the web. I do my reading in [Pocket](https://getpocket.com/) and have it set up with [IFTTT](http://ifttt.com) to send any Archived articles to Evernote. This is great when I remember reading something, but can’t remember where. I can search Evernote and find it pretty easy.
 
-# Turn off notifications
+Because I like coffee, I seem to read a lot of articles that involve coffee in some way. So searching Evernote for “coffee" right now, I get 313 results. How am I supposed to find those 28? Scrolling?
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+In Evernote you can do the search like this: “tag:coffee”. That will eliminate the results that don’t have the tag and only give you what you want. But that doesn’t work on all systems. Not every app allows you to single out tags versus a search term. Even in Evernote, I don’t always remember to put the qualifier at the beginning of the search when I start. So I have to come back and add it.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+## The Trick
 
-# Collect it
+I was listening to a [Mac Power Users](http://www.macpowerusers.com/) podcast a while ago and learned of the “x” trick by [Merlin Mann](http://www.merlinmann.com/). It’s really simple. Add “x” to the end of your tag names. So instead of tagging my coffee database with “coffee”, I tag it with “coffeex”.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+By adding “x” to the end of your tag names, you’re creating a word that you normally wouldn’t see. It’s a “made up” word. Since “x” isn’t used in a lot of words, it makes sense. You could also use “z” or “q,” as long it creates a word that you wouldn’t see in normal writing.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+## Result
 
-# Schedule time for distractions
-
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
-
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
-
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+So what does that do? It means that I can now search for “coffee” in Evernote and get all 313 results if I want. But it also means that I can add a single keystroke, “x”, and get just the 28 that I’ve tagged. And it works across systems. It’s not just an Evernote thing. It works in filenames, titles, and anything else that you want to search. Just add the “x” and you’ve created a tag that you can easily find in a search.

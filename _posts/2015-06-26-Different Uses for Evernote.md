@@ -3,51 +3,49 @@ title:  "Different Uses for Evernote"
 date:   2015-06-26
 categories: blog
 tags:
-- distractions
-- life
+- evernote
 permalink: /different-uses-for-evernote/
 image: /assets/posts/Different-Uses-for-Evernote.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+At 13,000 notes, I like to think I’m a big user of Evernote. From meeting notes and travel receipts to manuals and quotes, I keep a lot in Evernote.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+And there are a lot of conventional ways that you see Evernote being used - packing lists, research, household item photos, journaling, and many others. But I want to share a few ways I use Evernote that I haven’t see elsewhere on the web.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+## [<span></span>](#social-media-logging)Social Media Logging
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+I have a handful of rules in [IFTTT](https://ifttt.com/) that automatically create notes in Evernote when a new post, favorite, or like happens on social media. I’m often wanting to go back to something I saw on Vimeo or Instagram and can’t find it. If I favorited a photo in Instagram, I know that it’s easier to find it in Evernote than to go searching the depths of the Instagram feed.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+It’s also nice to have a log of all your updates that you can quickly reference. I have a saved search (any: tag:”twitterx” tag: “tumblrx” tag:”linkedinx” tag:”instagramx” tag:”youtubex” tag:”vimeox” tag:”facebookx”) that I can sort by created date and see my recent activity across all social media sites. I just need a way to add Pinterest and Google Plus and I’ll be set.
 
-I've adopted these three habits to put distractions in their place:
+Evernote tags: twitterx, tumblrx, linkedinx, instagramx, vimeox, youtubex, facebookx
 
-# Turn off notifications
+## [<span></span>](#presentations)Presentations
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+I’m not talking about research or random ideas for presentations here. I’m talking about the presentations themselves. PowerPoint can create decent presentations and Keynote does a fair job as well. But the clean view of an Evernote presentation is tough to beat.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+I treat a single note as a slide and create a master with links to each note in the presentation. I’ve always been terrible at sticking to a script. I like to feel my way through it and this allows me to skip around within the presentation.
 
-# Collect it
+Evernote tags: presentationx, wipx (I remove wipx after I’ve presented it.)
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+## [<span></span>](#article-history)Article History
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+I’ve written about this one in the past, but you can [automatically save articles](http://joebuhlig.com/saving-full-articles-in-evernote-from-rss/) you’ve read in Evernote through Pocket. I read a life-altering article about how to cuddle with a puppy and now I can’t find it. Creating a history of articles you’ve read ensures that you’ll never forget how to cuddle puppies.
 
-# Schedule time for distractions
+Evernote tags: articlex
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+## [<span></span>](#kudos)Kudos
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+You need to start this one! Any time someone praises something I’ve done or thanks me for helping them, I add it to Evernote. You never know when a bad day will come along and you need a pick-me-up.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+Evernote tags: kudox
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+## [<span></span>](#rating-databases)Rating Databases
+
+This is similar to what a lot of people use Evernote for, but I add a twist to it. I collect pictures of scotch bottles, wine bottles, bags of coffee, and even restaurant signs. But I make sure I write a few notes about the item and tag it with a rating. That allows me to do a search like “restaurantx excellentx Atlanta” to find excellent restaurants I’ve been to in Atlanta.
+
+Evernote tags: bunch of databases with [“x” on the end](http://joebuhlig.com/simple-trick-naming-tags/), terriblex, averagex, goodx, excellentx
+
+I should note that I’ve been using Evernote less than I used to. I’ve found myself shifting over to plain text files and pdfs for general writing and quick captures, but these are some things that I’m continuing to keep in Evernote.

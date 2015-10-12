@@ -3,51 +3,56 @@ title:  "GTD Contexts: Proactive vs. Reactive"
 date:   2015-04-10
 categories: blog
 tags:
-- distractions
-- life
+- contexts
+- gtd
 permalink: /gtd-contexts-proactive-vs-reactive/
 image: /assets/posts/GTD-Contexts-Proactive-vs-Reactive.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+I’ve always struggled with the contexts portion of GTD. I’ve tried tools, locations, energy levels, times of the day, mindsets, and on and on.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+My problem is knowing when to switch contexts. How do I know when to stop working on one context and pick up the next? I have to first notice that I’m in a new context and then make the switch. It _sounds_ simple.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+And it is simple if you can tell when you’ve switched contexts. But it’s challenging to notice that you’re in a new context when you use energy levels or mindsets as contexts. If you use tools and locations it’s a bit easier, but a tool based context is problematic when one tool can do most of your work and that tool is with you most of the time.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+It starts to clear up when you think about having two different types of contexts - Reactive and Proactive. Stopping to think about how you use contexts in these categories makes it much easier to see the line between them and know when to switch.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+## Reactive Contexts
 
-I've adopted these three habits to put distractions in their place:
+If we have a change of scenery or need to shut down a computer, we can easily see that something has changed. We are reacting to our environment. This is how the traditional view of tools and locations for contexts typically works. We look up and see that we are in the office or we have a piece of paper in front of us, so we work on @Office or @Paper respectively.
 
-# Turn off notifications
+## Proactive Contexts
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+Sometimes we need to put ourselves in certain state to work. This could mean a list for @Communicate or @Offline. In both cases, you need make a decision to open email, pick up the phone, or turn off the wifi. You’re deciding to do something and then switch to the context that applies.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+## The Problem
 
-# Collect it
+The problem that I have with Reactive Contexts is that I don’t just happen to find myself at a computer. I don’t just happen be in the office. I have to make a decision to turn on the computer or go to the office. Once I get there I’ll react to the change, but I proactively decided first.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+So the question is this: **do reactive contexts actually exist?**
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+I would venture to say no. At least, I haven’t been able to think of any that happen without me making a decision first. In every case, I’m deciding to change my environment based on the work that needs to be completed.
 
-# Schedule time for distractions
+## What _should_ contexts be?
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+I will NOT say this is for everyone. I’ve seen a lot of GTD systems with radically different takes on contexts. And they work great for the people who use them. I want to pose a simple suggestion that takes little thought when deciding which context to work on.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+I suggest going back to the basics of GTD and using tools and locations as contexts. Those should be the base while filling in with others as needed. For example, I use a single context for my writing - @Write.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+If we use contexts that are obvious enough to require zero thought, you can easily determine what to work on. You don’t have to think much when your contexts are Mac, iPhone, and Office. However, you still need to decide to use each tool or go to that location.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+## The Trick
+
+A lot of people decide not to use these basic contexts because the tools are with us at all times. And that’s a fair point. I lived in that camp for a while. It’s taken time, but I’ve come full circle on these and finally figured out how to use them.
+
+Each night, I look through all of the tasks available to me and pick the tasks that _need_ to be done tomorrow. I call it my Dashboard. The Dashboard is not a list of what I _want_ to do or feel like I _should_ do. It’s a list of tasks that _need_ to be completed tomorrow in order to help someone else keep moving. I keep this list as short as possible. Sometimes, it only has one thing on it and in one instance it was actually empty.
+
+After completing my morning ritual and my daily review the next morning, I work through my Dashboard list. At this point, the contexts don’t really matter. They tell me what tool I need to grab to do the task.
+
+When the Dashboard is empty, I either pull up a project that’s weighing on my mind and start working on it or I look at my context list and start at the top. Yes, I know. I’m not actually working by context at this point. That’s because the normal scenario of my work has every context available at once.
+
+It starts to click for me when I’m not in my normal scenario - when I’m on a plane, driving, without wifi, or my phone dies. When these things happen, the number of contexts that I can work on shrinks and I can take it in stride and keep working. It’s when something is abnormal or broken that these contexts shine.
+
+I love the simplicity of this. It stops my subconscious mind from constantly checking to see if I’ve changed contexts. It puts me in a mindset of doing tasks instead of wondering if I’m working on the right thing. It’s simple.

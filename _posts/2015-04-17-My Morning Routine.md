@@ -3,51 +3,59 @@ title:  "My Morning Routine"
 date:   2015-04-17
 categories: blog
 tags:
-- distractions
+- early riser
 - life
+- routines
 permalink: /my-morning-routine/
 image: /assets/posts/My-Morning-Routine.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+Everyone has a morning routine of some kind - even if it’s just “get up before the kids.” But I think it should be intentional and you can find yours by experimenting and learning what others do.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+## The “why”
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+If you have a morning routine, you know that the philosophical purpose behind it is to set you up for a good day. That’s great, but what does that mean? What do you need to do in order to set yourself up for a good day?
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+I have a good start to the day if I indulge in a couple things that I enjoy and accomplish a few tasks that help me achieve my personal goals. If I do these two things, I have the motivation to do the not-so-fun tasks throughout the rest of the day.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+## Getting Up
 
-I've adopted these three habits to put distractions in their place:
+My day [starts at 5am](http://joebuhlig.com/why-getting-up-early/). I know. I know. It’s super early. I get up that early for the quiet and to give some space for Joe to take care of himself. That’s how I see this time. It’s time for me to re-energize in order to be a better person for my family, at work, and in life.
 
-# Turn off notifications
+On a typical morning, I will put on some old clothes for working in the wood shop or around the house. If we have people staying with us or I have an early meeting, I’ll go ahead and take a shower and get dressed for work at this time. I’m usually starting the following routine by about 5:15 and 5:30 respectively.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+## The Routine
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+1.  Breakfast/Bible Reading
 
-# Collect it
+    When I come downstairs, the first thing I do is put in some headphones and pull up the [YouVersion](https://www.youversion.com) on my phone. I’m trying to read the Bible every year and I do so by listening to the audio version of a 365 day plan. I’ll listen to the reading while I make my normal breakfast - two eggs and a banana.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+2.  Meditation
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+    I’ve had people recommend this to me numerous times and I always shrugged it off as not important. I’m not sure why, but one day I decided to give it a try. I do my best to clear my mind and focus on the present moment for about ten minutes. It amazes me how hard it is to not think. That’s why I continue to meditate. It helps me work the self-control muscle of directing my thoughts and gain focus throughout the day. And I use the free version of [Calm](https://itunes.apple.com/us/app/calm-meditate-sleep-relax/id571800810?mt=8) to help with background noise.
 
-# Schedule time for distractions
+3.  @Before Hours
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+    I have a list in [Omnifocus](http://joebuhlig.com/omnifocus-setup-workflow/) by this name. It’s specifically geared towards this time in the morning. I enjoy woodworking as one of my hobbies and this is the only time I take to create dust from hardwoods. When there are house projects that I’m trying to get done quickly, I’ll sometimes use this time to work on those as well. 30 minutes is about how long I’ll spend here.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+4.  Write
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+    I take about 30 minutes in the morning to write for myself or for this blog. Writing has been key to learning about myself and figuring out what I think about things in the world. If I want to form an opinion on something or understand something, I’ll take time in the morning to write about it. Sometimes that becomes a blog post and sometimes it ends up in my journal.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+## Loose Ends
+
+I do my best to avoid work email until after I’ve completed my writing. If I don’t, my mind starts solving work problems but I’m not ready to start work yet.
+
+I will check my personal email before I start working on my @Before Hours list. I like to think through my responses to those while woodworking.
+
+I’m part of a men’s group at church that meets once a week at 6am. My morning routine is usually cut short on those days so I’ll either take a break from it for a day or continue when I get back.
+
+I travel for work once in a while and the most important thing I can do while traveling is try to maintain this routine as much as possible. It’s especially important to start the day right at those times.
+
+I start shutting down around 9pm. That’s when I start my evening routine and set up the next day. The early morning goes a lot smoother if everything is in place the night before.
+
+## Caveat
+
+If you look through this article carefully, you’ll notice a lot of qualifiers in my sentences — “do my best,” “try,” “sometimes.” That’s because this is a relaxed and fluid routine. It’s ok if I miss something on a morning. It’s ok if one piece takes longer than I want and have to cut something else short. The point is to set myself up for a good day. It doesn’t make sense to start the day by stressing because I spent too much time in the wood shop. I just go with it and let it kickstart my day.

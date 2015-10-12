@@ -3,51 +3,39 @@ title:  "Adding Contacts from Business Cards with Evernote"
 date:   2014-07-18
 categories: blog
 tags:
-- distractions
-- life
+- evernote
+- apps
 permalink: /adding-contacts-business-cards-evernote/
 image: /assets/posts/Adding-Contacts-from-Business-Cards-with-Evernote.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+I had just introduced myself to the executive leading the meeting. He handed me his business card and I quickly snapped a picture of it with my phone. A few seconds later his phone dinged. He glanced at his phone, then looked at me in shock.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+In mere seconds I had taken a picture of his business card, saved all of his information to my contacts, and emailed him my contact information. Since he had his phone set to notify him of emails ([a terrible idea](http://joebuhlig.com/escaping-corporate-email-habit/)), his phone alerted him of the email. He quickly noticed it was from me and that I had sent him my contact information. Wow!
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+Here’s how it works:
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+## The Setup
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+Tools needed:
 
-I've adopted these three habits to put distractions in their place:
+1.  Smartphone
+2.  [Evernote](https://www.evernote.com/referral/Registration.action?uid=49404&sig=e2dd914576c3ec9818e0311976a19dc1) (requires Premium to scan more than 5 cards)
+3.  Business card
 
-# Turn off notifications
+On iOS, you need to configure the following settings under _General_ > _Camera_ > _Business Cards_.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+1.  Turn on _Save to Contacts_.
+2.  Turn on _Always Show_ under _Follow-up options_.
+3.  I also recommend connecting to LinkedIn.
+4.  It works best to fill out _My contact info_ as well.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+<img class="center-image post-image-small" src="/assets/posts_extra/EvernoteBusinessCardSettings.jpeg" />
 
-# Collect it
+## The Process
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+When you’re given a new business card, launch Evernote on your phone and open up the camera. Swipe to put it into Business Card mode and take a picture. Be sure to check off _Email my contact info_ and you’re done.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
-
-# Schedule time for distractions
-
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
-
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
-
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+From there, Evernote will create a new note in your Evernote account with the picture of the business card and all of the person’s contact information. It will also save that information into a new contact on your phone. Then it will send an email to the person (provided they have an email address on their card) with the contact information that you provided to Evernote. And it does all of this in just a few seconds. Brilliant!

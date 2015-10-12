@@ -3,51 +3,54 @@ title:  "My OmniFocus Home Screen"
 date:   2015-06-05
 categories: blog
 tags:
-- distractions
-- life
+- app
+- omnifocus
 permalink: /my-omnifocus-home-screen/
 image: /assets/posts/My-OmniFocus-Home-Screen.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+With one of the recent releases of [OmniFocus for iOS](https://itunes.apple.com/us/app/omnifocus-2/id904071710?mt=8), we were given the ability to rearrange perspectives on the OmniFocus home screen. Of course, I geeked out on this and created a custom view. Here’s what it looks like.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+## [<span></span>](#inbox)Inbox
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+I keep my Inbox available as I often want to empty it. If I’m getting ready to focus on a project for a couple hours or just got off a call, I need to process things immediately so my pinball brain can go in a straight line for a while. Easy access to my inbox makes [clarification](http://joebuhlig.com/getting-things-done-clarify/) easier.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+## [<span></span>](#contexts)Contexts
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+Here’s the obvious one. I need it to be easy to [choose a context](http://joebuhlig.com/gtd-contexts-proactive-vs-reactive/) to work on. Most of the time, I’m using my phone to work through my [morning routine](http://joebuhlig.com/my-morning-routine/). At other times when I find myself on a plane or waiting for someone, I can use this as a way to find tasks to do.
 
-I've adopted these three habits to put distractions in their place:
+## [<span></span>](#projects)Projects
 
-# Turn off notifications
+I don’t go in here often, but it’s enough that I wanted it on the home screen. Weird, I know. There are instances when I want to look at a specific project and I’m away from my computer. It also just feels intuitive to have it there.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+## [<span></span>](#dashboard)Dashboard
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+Here’s where I spend most of my time. This is a custom perspective that shows all of my Due or Flagged tasks. I decide on these the night before by going through my contexts and flagging the items that _need_ to get done the next day. You can see a play-by-play of [how this works here](http://joebuhlig.com/a-chaotic-week-with-gtd/).
 
-# Collect it
+## [<span></span>](#nearby)Nearby
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+I use this more than I thought I would. If I’m in a store of some kind, I’ll check this and look across all of my geotagged lists. It helps me figure out if there’s another errand I need to run while I’m out, like “buy ice cream.” Though I’m not sure why I don’t put _buy ice cream_ on all of these lists. You can never be too careful with your ice cream supply.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+## [<span></span>](#neutralize)Neutralize
 
-# Schedule time for distractions
+This is another custom perspective that was inspired by Kourosh Dini at [Using OmniFocus](http://www.usingomnifocus.com). There are some tasks that need to be done repeatedly in order to keep your world stable. It can be little things like refill printer paper, clean the desk, water the plants, etc… I have these in a Single Actions list and use a custom perspective to make them easy to find. I try to clear this list every day.
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+## [<span></span>](#forecast)Forecast
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+I don’t use this often because I don’t usually use due dates. But if I’m in a conversation with someone and they ask what I have going on in the next few days, this is one place I go to determine the answer. “What is Joe working on?” I don’t know, but I can find out.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+## [<span></span>](#iphone)iPhone
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+This is another custom perspective that I use frequently. It’s a combination of @Any Device and @Communicate. Those are the contexts I can work on from my iPhone. If I get through Dashboard and Neutralize, this is where I go when I’m on my phone.
+
+PS. I keep this same setup on my iPad as well. I don’t want two different setups. But instead of iPhone I have one for iPad.
+
+## [<span></span>](#review)Review
+
+I only use this on my phone when I’m traveling. If I see a number in the box, I’ll go into Review and look things over to keep me up to date.
+
+## [<span></span>](#becky)Becky
+
+This is a custom perspective that is based on a search for “Becky.” It’s really handy to go here right before I get off work to see if there’s anything I need to talk about or work on with my wife.

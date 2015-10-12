@@ -3,51 +3,58 @@ title:  "My Evening Routine"
 date:   2015-04-24
 categories: blog
 tags:
-- distractions
 - life
+- routines
 permalink: /my-evening-routine/
 image: /assets/posts/My-Evening-Routine.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+Much like a [morning routine](http://joebuhlig.com/my-morning-routine/), we all have an evening routine. Oftentimes, this means setting out clothes for tomorrow or getting the kids to bed. I do those as well, but I’ve also found satisfaction in reflecting on the day to put it into perspective.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+## The “why”
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+I think we all know why it’s important to pack your lunch and set out clothes for tomorrow. It makes the morning go smoothly. It’s a forward-looking action that preps you for the next day. But we’re typically bad at looking back on what already happened.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+How do you know if the day was successful? Did you make progress on things that are important to you? Do you need to stop a habit or add a new one? This is why I take 5 minutes at night to review the day before I start the usual prep for tomorrow.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+## Winding Down
 
-I've adopted these three habits to put distractions in their place:
+Most nights, I work for about an hour after the kids have gone to bed at 7:30\. I do my best not to start a task that will be too challenging as I know I won’t be able to turn it off. There is some risk involved with doing this (like the time I couldn’t fall asleep for 3 hours because I couldn’t stop thinking through an issue at work), but it seems to work well for me most of the time.
 
-# Turn off notifications
+At about 8pm, I try to stop checking email. That’s my first step to winding down for the night. I’ll work for another 30 minutes, but I avoid any new inputs from others. At about 8:30, I start the following routine:
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+## The Routine
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+1.  Daily Reflection
 
-# Collect it
+    The first thing I do is reflect on the day [using a template](https://www.evernote.com/l/AAEbEpZT-g5L_Yj8N_HvYZ7ZLJFtNtiQAi4) in Evernote. (You can [see how I organize these writings here](http://joebuhlig.com/evernote-setup-workflow/)). I have a [TextExpander](http://joebuhlig.com/using-text-expander/) snippet that creates the questions for me as opposed to copying a note each time.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+2.  Review Weekly Goals
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+    I set three goals each week based on my monthly goals. I won’t hit them if I don’t review them regularly and I want them in mind when I start the next step.
 
-# Schedule time for distractions
+3.  Plan Tomorrow’s Tasks
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+    I run through each of my contexts and flag items that _need_ to be done tomorrow. I want this list as short as possible so I can get past the “treading water” stage and on to meeting bigger goals.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+4.  Clear to Neutral
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+    This is a term I stole [from Asian Efficiency](http://www.asianefficiency.com/habits/clearing-to-neutral/). The goal is to bring everything back to neutral. I clean off my desk, set out things for breakfast in the morning, set out clothes for the morning, and so on. The goal is to have everything ready to go for another day.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+5.  Read
+
+    Once I’m set for tomorrow and have myself ready for bed, I read. It’s usually nonfiction and I’ll read for about 10-15 minutes before lights out.
+
+## Loose Ends
+
+I try my best to avoid email after 8pm. I know I mentioned that earlier, but it’s crucial to my sleep. Email is good at gearing up my mind and that’s the last thing I want before bed.
+
+When I travel for work, I find this routine is key. It helps me prepare for my meetings the next day and keeps me grounded.
+
+Having this routine and following it every night tells my body that it’s time for bed. On a typical night, that means I’m asleep within 5-10 minutes.
+
+## Caveat
+
+I said this in my morning routine article as well, but this routine is relaxed and fluid. I don’t worry about it if I miss a night or two. As long as I’m doing this most of the time, I’m happy. The next day doesn’t usually go as well when I miss it, but I’m ok with that. The point is to set myself up for a smooth day tomorrow. I don’t want to stress about an evening routine if I’m having a great conversation with my wife or we’re up late with friends.

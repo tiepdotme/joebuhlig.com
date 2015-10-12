@@ -3,51 +3,51 @@ title:  "An Alternative to Annual Goals"
 date:   2015-07-17
 categories: blog
 tags:
-- distractions
-- life
+- goals
 permalink: /an-alternative-to-annual-goals/
 image: /assets/posts/An-Alternative-to-Annual-Goals.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+I’ve been struggling with goal-setting lately, enough that I [abandoned my annual goals altogether](http://joebuhlig.com/from-goals-to-guides/). But I’ve found that I want something to help guide the systems that I’m putting in place.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+## [<span></span>](#traditional-goal-setting)Traditional goal-setting
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+In the past, I’ve set personal and professional goals annually using the [SMART](https://en.wikipedia.org/wiki/SMART_criteria) method. It gave me a sense of pride. I knew I was on a path to do some big things. And that was great motivation at the onset of the year.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+But after a month, (sometimes two), I forgot about my goals and drift from thing to thing. The shiny new object motivation was gone. And more often than not, there would be a change in the circumstances or assumptions that my goals were based on. If I could, I would re-factor them and start again.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+By the end of the year, my goals looked nothing like the originals. And in most cases, I failed to hit them. Year after year of the same process finally frustrated me enough to stop and think about the foundation of goal-setting.
 
-I've adopted these three habits to put distractions in their place:
+## [<span></span>](#the-alternative)The alternative
 
-# Turn off notifications
+I reflected on my inability to complete goals and looked for patterns. It turned out that every three months I was trying to re-imagine my goals for the year. I was setting goals quarterly, but didn’t consider altering their deadlines to reflect the changes. If I’m naturally setting goals quarterly, why not embrace it?
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+I’m just starting this journey, but here’s why I think this could work:
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+### [<span></span>](#1-not-too-long)1\. Not too long
 
-# Collect it
+Life happens too fast for annual goals. Circumstances and mindsets can change quickly and a year is too long. I found myself waiting for the year to end so that I could start something new. Why wait if I’ve abandoned or completed my original goal?
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+Moving to a shorter time period allows me to accept my three month cycle.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+### [<span></span>](#2-shiny-new-object-motivation)2\. Shiny new object motivation
 
-# Schedule time for distractions
+I can take advantage of my excitement at the onset. I’m usually pretty stoked to get started on new goals. If I’m planning more frequently, I can use the early motivation to accomplish things faster and gain focus.
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+### [<span></span>](#3-success-cycle)3\. Success cycle
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+I’m lacking the drive that comes from successfully reaching a goal. When I achieve a goal, I get excited and want to do more. By using shorter periods, I have more opportunities for success and can create a cycle of winning.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+## [<span></span>](#my-plan)My plan
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+I’m just coming to this idea and haven’t tested it… at all. It’s a journey that I’ll do my best to share. My plan for the next week is to set goals for the next 3 months, share as many of them as I can with you, and let you know how it goes.
+
+That’s the goal anyway.
+
+### [<span></span>](#references)References
+
+1.  [Why 90-Day Goals Are Better Than Year-Long Ones](http://www.fastcompany.com/3040289/why-90-day-goals-are-better-than-year-long-ones) - Fast Company
+2.  [Stop Thinking Long Term. Execute Strategy 90 Days at a Time.](http://www.entrepreneur.com/article/241639) - Entrepreneur
+3.  [Why Our Brains Like Short-Term Goals](http://www.entrepreneur.com/article/225356) - Entrepreneur

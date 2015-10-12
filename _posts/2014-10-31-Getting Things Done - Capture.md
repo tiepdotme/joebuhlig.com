@@ -3,51 +3,53 @@ title:  "Getting Things Done: Capture"
 date:   2014-10-31
 categories: blog
 tags:
-- distractions
-- life
+- capture
+- gtd
+- inbox
 permalink: /getting-things-done-capture/
 image: /assets/posts/GTD-Capture.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+_Capture_ is the process of collecting ideas and actions. You’re accumulating task items, reference material, or even trash and putting them in an inbox of some kind.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+## Why capture?
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+Quite simply, capturing allows you to get something off your mind. When a thought hits your brain, it can (and will) suppress all other thoughts until you do something about it. You can act on it right away, write it down, hope it comes back later, or lose it forever. If you choose to act on a thought right away, go for it. I wish I could do that for every idea that comes to me. But I don’t have time for that. There are too many ideas and things I want to do. Hoping for it to come back later just sounds like a bad idea, and losing it forever will certainly get me in trouble. So writing things down it is. If you write it down (and you can trust that you’ll come back to it), you free up your mind to focus on the task or person in front of you. But you also give yourself a way to see just how much you have on your plate. You can see the crazy amount of stuff you want to do. And that’s a sobering experience.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+## What should you capture?
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+Capture everything that you want to do someday or want to remember. But you should also capture anything that’s on your mind. If it’s occupying your thoughts and you need to do something about it, write it down.
 
-I've adopted these three habits to put distractions in their place:
+*   I need to send out that development update.
+*   I want to learn how to make bread.
+*   I really enjoy airplanes.
+*   We need toilet paper.
+*   Is an iPhone 6 really worth it?
+*   I need to winterize the lawnmower.
+*   We want to replace the car in 3 (maybe 5) years.
 
-# Turn off notifications
+It can be anything. If it’s something that comes to mind that you might want to act on in the future, write it down. You can come back to it and make decisions about it later. You want it off your mind.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+## Two times to capture
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+Write things down when they come to you. That means you need to have some way of doing this at all times. It’s frustrating to have an idea come to you and you can’t find [pen and paper anywhere](http://joebuhlig.com/what-is-an-hpda-and-how-do-i-use-it/). So you need to have tools with you at all times to capture things when your mind decides to ambush you. There’s also a time for doing what David calls a [Mind Sweep](http://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf). It’s a list of triggers to help your mind think of things that you need to capture or do something with. These are helpful when you’re first starting out, but I’ve found them to be great to do on a weekly basis as well.
 
-# Collect it
+## Where to put them
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+Inboxes. Whether it’s a physical tray that you put pieces of paper in or a digital system, you want your bits of captured information to go into an inbox. In the next step of the workflow you’ll process these bits and determine what you need to do with them. But at this point you just need to throw it into an inbox. For reference, here are some of my inboxes:
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+*   Physical inbox tray
+*   [Omnifocus](http://joebuhlig.com/omnifocus-setup-workflow/) inbox
+*   Inbox for [files in DropBox](http://joebuhlig.com/file-naming-disorganization/)
+*   RSS feeds in [Feedly](http://feedly.com)
+*   An inbox notebook in [Evernote](https://www.evernote.com/referral/Registration.action?uid=49404&sig=e2dd914576c3ec9818e0311976a19dc1)
 
-# Schedule time for distractions
+## The fun part - ubiquitous tools
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+If you’re planning to write things down and your mind can fling things at you whenever it wants, then you need to have tools with you at all times. The most popular ways to do this involve small notebooks that you carry everywhere and apps for your phone. I use both. I’ve found the easiest way to capture to be [an hPDA](http://joebuhlig.com/what-is-an-hpda-and-how-do-i-use-it/) that I carry everywhere. I always have a piece of paper with me and as a bonus, I have a way to write things down for other people as well. I simply give them one of my index cards. Any time I go near my physical inbox beside my desk at home, I throw any cards that I’ve written on into the tray. I know that I’ll empty it later, so I don’t have to think about those items anymore. The other way I capture is using [Drafts](http://agiletortoise.com/drafts/) on my phone. It’s super easy. I launch the app and start typing right away. When I’m done, I can send that text to a number of places, but mostly it goes to my Omnifocus inbox. Again, I know that I’ll process those items later. Between these two methods I find that writing it down is easier. It’s nice to have it collected digitally, but it seems to take longer that way. But I do it anyway.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+## What comes next?
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+Now that you’ve piled stuff in your inbox, you need to do something with it. Otherwise it’ll sit on your desk and die from lack of attention. You need to come back to it and _Clarify_ what you’re going to do about it. We’ll jump into that in the next post.

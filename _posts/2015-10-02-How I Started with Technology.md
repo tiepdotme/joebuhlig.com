@@ -3,51 +3,56 @@ title:  "How I Started with Technology"
 date:   2015-10-02
 categories: blog
 tags:
-- distractions
+- development
 - life
 permalink: /how-i-started-with-technology/
 image: /assets/posts/How-I-Started-with-Technology.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+When I was 16 I bought my own Compaq laptop. Remember those? I had been using the family computer quite a bit, but this was my own computer. That was the beginning of my journey with technology.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+## Sound and slides
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+I claimed it would be for school work. That was my crap-rationalization. But if I'm honest with myself it had more to do with exploring without consequences. I didn't want to screw up the family computer by running a bunch of batch files just to see what they would do. I would rather create a mess for myself on my own computer. That, and it was a lot of fun to say I own my own computer when I went to school.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+Around the same time I started running sound and slides on Sunday morning at our church. If they wanted help with a special event when the sound system or a computer was involved, I nearly always said yes. I was drawn to it, fascinated by problem-solving with a bunch of cords and components working together.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+## My first Mac
 
-I've adopted these three habits to put distractions in their place:
+I bought my first Mac while at college. It was different and it seemed as though people who were building software and websites were using Macs. My thinking was purely, "That looks cool. I wanna try." I don't recommend making purchases of this size because something looks cool. But it was college, and I know there's an unwritten requirement somewhere that says you should do something dumb in college.
 
-# Turn off notifications
+The MacBook was my first jump into productivity, but I didn't realize it. The Mac made it a lot easier for me to track events and notes. I always had a side-job in college and I needed help keeping track of my schedule. Looking back on it, I didn't have a busy schedule. I just wanted to play with the apps. I guess my mind and digital tendencies naturally drew me to the building of systems that come with productivity.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+## GIS
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+Also in college I did a couple of internships that had me working with GIS and handheld computers. They were set up to collect data on soil samples and crop scouting for corn and soybean fields, (yes, if you didn't know, I'm a farm kid. No matter what I do or where I go, I'm always drawn to farmers and growing food. And tractors).
 
-# Collect it
+The fun part of those internships was finding ways of using handheld computers to make the process easier. I even began dictating notes into those devices. They were very crude at the time and I spent a lot of time cleaning up the notes I entered, but it was still a system that worked for me. It also taught me a lot about mapping and how to collect and report spatial data on crops.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+## Excel
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+During my senior year of college I worked as a teaching assistant in a farm management class and began teaching other students how to use Excel. I was very basic in my use of Excel at the time, but I was more advanced than most of the students and professors. It was my first jump into teaching others how to use software. I was surprised that I actually enjoyed it. I've learned that my mind just works the same way computers do, which makes it very easy to catch on to a computer system and then translate it for others.
 
-# Schedule time for distractions
+## Databases, VBA, & SQL
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+When I graduated from college I went into soybean breeding and quickly learned that seed research works with a lot of data. And I also learned how to dissect tiny soybean flowers. My use of Excel grew exponentially and I found myself starting create basic programs through VBA and macros. It was a progression and eventually led me to using bar-code scanners and Excel macros to collect and verify data.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+My experience in soybean breeding and the databases involved led me to a corporate position where I analyzed large amounts of data on a SQL Server. It was a very nerdy job and I didn't really know what I was doing when I started. But I knew that I could learn just about anything computer-related pretty quickly, so I jumped in.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+There was a lot of data to work with in that role. There were so many ways I _could_ analyze the data that I often got lost trying to figure out what to work on. That's when the productivity monster caught me and I started down the path of GTD.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+## Corporate, productivity, and design
+
+In the corporate environment I had a big influx of information and creative work that I needed to do. Yes, I had a very analytical role but there's a large amount of creativity that is needed to design and develop interfaces and structures around data. It was essentially the beginnings of web development for me because I wanted to show the data in an easy to understand way. I can't stand looking at the same bar charts every day and wondering if the data has been altered to show a biased view of the information. I wanted them to be clean and accurate. That's when my supervisor introduced me to [Edward Tufte](http://www.edwardtufte.com/tufte/) and I began to delve into the data design world.
+
+In that process I learned I have a strong creative side. I explored that more fully when I took a position with a marketing company. I started to develop more extensive web reports and began building an internal web application. That's when I started to look beyond what I knew how to do and started building out new ideas and finding alternative ways to do things. In other words I finally let my brain loose and started learning how to pair my creative mind with the analytical.
+
+## What's next?
+
+If you listen to [my podcast](http://joebuhlig.com/whaddyaknowjoe/) you heard me mention that I recently left my job and I'm now beginning to develop apps and web applications for myself and others. I'm now running with my own ideas and building them. I never thought I would be at this point, but it's been an exciting journey.
+
+Since starting on my own, I've been exploring new computer languages and building some of the bigger ideas that I never had time to tackle before. There's some start-up time involved, but along this journey I have found systems and disciplines that help me stay motivated to focus on the work that I'm doing. Figuring out what technology to build next is exciting, and I'm having a blast.
+
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3n7p8a/how_i_started_with_technology/)

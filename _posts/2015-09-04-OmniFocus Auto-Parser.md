@@ -3,51 +3,47 @@ title:  "OmniFocus Auto-Parser"
 date:   2015-09-04
 categories: blog
 tags:
-- distractions
-- life
+- omnifocus
 permalink: /omnifocus-auto-parser/
 image: /assets/posts/OmniFocus-Auto-Parser.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+I love it when my systems do things automatically. In this case, I can capture an idea for a someday/maybe list and it ends up in the right place in OmniFocus.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+I wrote about my original process for this [here](http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/), but I've since refined it. I didn't like having an extra app icon sitting in my dock. I knew there had to be a better way to do it… and I found it.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+I'm now using a launch agent. If that sounds intimidating, I completely understand. I originally stayed away because I thought it would be too complicated. But it turned out to be less difficult than I expected. If you need help falling asleep tonight, you can [read more about them](https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html) on Apple's developer site.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+It's possible that I'll be making updates to this code in the future, so I added this to a new GitHub repository I've created: [OFScripts](https://github.com/joebuhlig/OFScripts). All of the code and instructions for how to install it can be found there.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+From a high-level view, here's what happens:
 
-I've adopted these three habits to put distractions in their place:
+## [<span></span>](#1-when-you-log-in)1\. When you log in
 
-# Turn off notifications
+The launch agent starts running when you log into your account. That's all a launch agent does. It is a process that runs at log in. It can either run once or on intervals in the background. In this case, it runs at a specified interval.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+## [<span></span>](#2-run-applescript)2\. Run AppleScript
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+The launch agent is set up to run an AppleScript. It runs first when when you log in and continues to run on an interval afterwards.
 
-# Collect it
+## [<span></span>](#3-parse-your-omnifocus-inbox)3\. Parse your OmniFocus inbox
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+The AppleScript takes your OmniFocus inbox and parses any tasks that start with “–“. You can learn how to create the parsing strings in [my original post](http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/).
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+This system has become integral to my use of OmniFocus. With this running in the background, I can now email tasks directly into a project and context. The big one for me is the ability to use [Drafts](http://agiletortoise.com/drafts/)([iTunes](https://itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?mt=8)) to automatically send tasks to a specific project and context. It makes it incredibly simple to get things into OmniFocus.
 
-# Schedule time for distractions
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3jltb3/omnifocus_autoparser/)
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+**Updates:**
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+**20150908:** Patrick at [http://schreibloga.de](http://schreibloga.de) was kind enough to write a python install script that you can run from command line to make the installation process a bit easier. You can find it in the GitHub repo here: [OFScripts](https://github.com/joebuhlig/OFScripts)
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+**20150908:** I had a quick back and forth with Tim Stringer at [Learn OmniFocus](http://learnomnifocus.com/?ref=11) about the AppleScript for this. We found a way to use Hazel to trigger this immediately when a new item comes to the inbox. If you're a Hazel user, you can set up this rule on your OmniFocus database which is located here:
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+`/Users/YourUsername/Library/Containers/com.omnigroup.OmniFocus2/Data/Library/Application Support/OmniFocus`
+
+This has become my preferred way to use the script.
+
+<img class="center-image post-image-medium" src="/assets/posts_extra/HazelAutoParser.png" />

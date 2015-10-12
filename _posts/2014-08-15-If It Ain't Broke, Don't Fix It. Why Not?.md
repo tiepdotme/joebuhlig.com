@@ -3,51 +3,35 @@ title:  "If It Ain’t Broke, Don’t Fix It. Why Not?"
 date:   2014-08-15
 categories: blog
 tags:
-- distractions
-- life
+- change
 permalink: /aint-broke-dont-fix/
 image: /assets/posts/If-it-ain't-broke-don't-fix-it-why-not.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+_We’ve always done it that way. But it works. Why change it? If it ain’t broke, don’t fix it._ When I hear these phrases I cringe. Yes, it works. Yes, it’s a smooth system. Yes, we’re familiar with it. **But that doesn’t mean it shouldn’t change.**
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+Confession: I’m one of those weird people that really likes change and thrives on it. But not everything needs to change all the time. I know that there are times when the status quo is a good thing. Too much change too fast can have very bad results. And change for the sake of change doesn’t make sense either. That’s when these questions can help.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+Here are 4 questions to ask when you hear those cringe-inducing phrases:
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+## 1\. Has the technology changed?
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+The tools at our disposal change every day. New apps or devices are always being created. And chances are that one of them will help you become more effective or efficient in some way.
 
-I've adopted these three habits to put distractions in their place:
+Adopting new technology can sometimes prevent negative thoughts by customers. If you walked into a doctor’s office and heard the secretary using a typewriter, what would you think? Would you wonder if they were up on the latest ways of treating patients? If they haven’t adopted a computer for paperwork yet, can you trust that they will know what’s happened in medicine in the last 20 years?
 
-# Turn off notifications
+## 2\. Are the people different?
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+Sometimes a system or service is built around the people involved and the skill-sets they bring to the table. If the people change, the current systems might not make sense anymore. Or maybe you have new eyes on the process. They’ll have a new perspective that helps them see it differently.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+## 3\. Is it relevant?
 
-# Collect it
+Does the process or tool still accomplish its goal? Should you be doing it at all? Sometimes we work to put a system in place and it treats us well. But over time it becomes unnecessary. It doesn’t provide value anymore.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+Data duplication is the most common form I’ve seen of this one. If you’re entering information into one system and then copying it into another, chances are that one of the two needs to disappear.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+## 4\. Has the purpose changed?
 
-# Schedule time for distractions
-
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
-
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
-
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+Has your business changed? Do you find yourself trying to make an old tool work with your new goal? Maybe you’re trying to make something work when you should really step back and look at the overall process. It’s good to stick with tools that you know. But when you’re spending a lot of time working to make a tool work, you might need to re-evaluate the tool. I had to do this when I [switched from Evernote to Omnifocus](http://joebuhlig.com/getting-started-task-management/) for task management. It took a couple weeks to switch, but it has been well worth the time.

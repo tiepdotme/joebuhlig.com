@@ -3,51 +3,35 @@ title:  "Seasons of Tasks"
 date:   2014-10-10
 categories: blog
 tags:
-- distractions
-- life
+- seasons
 permalink: /seasons-tasks/
 image: /assets/posts/Seasons-of-Tasks.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+The mornings are getting colder and the animals are preparing for winter. Another weather change is coming. And it’s a great reminder that we, too, should be preparing for the next season.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+A few times per week, I’ve been taking Cutie on a bike ride. We have one of those pull-behind carts that I strap her into. And she loves it! For a while she would even squeal as we went down hills. Talk about great inspiration for climbing hills.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+This past Saturday I had pulled out the bike and was getting everything ready for another ride. It was cooler than it had been so I had an extra layer on and made sure Cutie was bundled up. It wasn’t enough. We started out on our normal route and I quickly noticed the wind. I was going to have my work cut out for me.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+Our normal route is pretty open and the wind was really intense — not to mention cold. It wasn’t long and I was done. I had used all my energy fighting the wind and was starting to get cold as well. If I was getting cold, then I knew Cutie would be worse. We would have to head home early.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+In retrospect, I know we didn’t have to follow our normal route. We could have gone a different way that was sheltered from the wind. But I failed to account for the rapidly changing season and the wind that comes with it in Minnesota. I didn’t think ahead.
 
-I've adopted these three habits to put distractions in their place:
+## The Season Changes What You Do
 
-# Turn off notifications
+How often do we do this? We get used to a pattern or routine and create a mess for ourselves when the weather changes. I know I’m terrible at it.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+Whether it’s outdoor tasks versus indoor tasks, or a change in what you do for work doesn’t matter. We all deal with changes throughout the year in some form. The changes in weather determine if you’re raking leaves, building decks, or throwing snow.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+But do you plan ahead for those changes? For some things I do but not for others. Though I’m getting better about it overall, I still go on bike rides under-prepared. I forget to finish the railing on the deck until it’s cold outside — and possibly snowing. Here’s an example of a quick system for Spring and Fall tasks. This could easily be used for holidays and traditions, birthdays, spring cleaning, and many others.
 
-# Collect it
+## Seasonal Checklists
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+In the Spring, there are a number of things that need to be done. Turn on the water to the outdoor spigots, service the mower, oil the springs on the garage door (who even knew you were supposed to do that?), put the screens back in the windows, change the furnace filter, and a few others.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+These tasks happen every year. So it made sense to create a Spring Maintenance checklist. And since I’m always learning of more things that I’m supposed to do for Spring or Fall maintenance, (like oiling garage door springs), I’m always adding to the list.
 
-# Schedule time for distractions
-
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
-
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
-
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+Be prepared for upcoming changes that you know about. You know when Christmas is coming so you can save money in advance — as opposed to waiting and putting everything on a credit card. You know roughly when Winter is coming, so you can put things away and plan for it. Don’t be like me and realize what you need to do when it’s too late and your daughter’s nose is pink from the cold.

@@ -3,51 +3,41 @@ title:  "What Every BODY Is Saying [Book Review]"
 date:   2015-02-06
 categories: blog
 tags:
-- distractions
-- life
+- books
 permalink: /every-body-saying-book-review/
 image: /assets/posts/What-Every-BODY-is-Saying-Book-Review.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+Have you ever had a _feeling_ that someone is uncomfortable in a conversation? Were you able to point out the nonverbal cues that gave you that feeling?
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+Nonverbal communication or "body language" is anything that allows us to communicate with someone without using words -- facial expressions, shifting, stances, touches, etc... We see them every time we see another person, but we don't always realize their importance.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+Joe Navarro wrote _[What Every BODY Is Saying](http://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294)_ to help us understand and notice these nonverbal cues. He was an FBI counterintelligence special agent for 25 years and conducted a lot of interrogations. He studied body language throughout his life and in his book shares stories from his career to help us understand the nuances and importance of nonverbal communication.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+## Nonverbals and Our Limbic Brain
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+The brain controls everything we do, whether it's conscious or subconscious. From folding your hands to painting a masterpiece, everything is controlled by the brain.
 
-I've adopted these three habits to put distractions in their place:
+The limbic brain is the part of our brain that reacts instinctively to our circumstances. It is the limbic brain that causes us to jerk our hand away from a hot burner on the stove after we've touched it. The interesting part is that our limbic brain is also in charge of our emotions. Navarro puts it this way:
 
-# Turn off notifications
+> The limbic brain is also our emotional center. It is from there that signals go out to various other parts of the brain, which in turn orchestrate our behaviors as they relate to emotions or our survival. These behaviors can be observed and decoded as they manifest physically in our feet, torso, arms, hands, and faces. Since these reactions occur without thought, unlike words, they are genuine. Thus, the limbic brain is considered the "honest brain" when we think of nonverbals.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+## Benefits
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+Navarro walks through each of the body parts and shows how to understand their movements (or lack of movement). He also helps us see that noticing nonverbal cues is not intended to help us manipulate people but understand them. Seeing that someone is uncomfortable in a conversation allows us to realize the need to change the topic or try to understand what's going on.
 
-# Collect it
+Seeing excitement, concern, comfort, and stress in another person when communicating with them is invaluable. We can see when to back off in a conversation, when to ask more questions, or when to be quiet. Learning when to do each of these can deepen the connections between people.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+## Caution
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+One thing that stands out in this book is the caution that comes along with seeing nonverbal cues. There are no definite "reads." You always have to take body language in context with the conversation and other behaviors. A stress indicator can show itself when a lie is told, but also when the person is in a tough job interview. It's an indicator of discomfort.
 
-# Schedule time for distractions
+## Detecting Deception
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+Even Navarro, as a veteran FBI interrogator, tells us there are no definite "tells" that someone is lying. There's a lot of wrong information out there about various behaviors that are bulletproof lie detectors. But the truth is there are no concrete gestures or actions that indicate deceit. You need to verify what you're seeing multiple times and in different ways before you question the honesty of the words you're hearing.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+## How It's Affected Me
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+Using Navarro's easy methods, I've started noticing how people around me feel and what kind of mood they might be in. It's a learning process, but in a short amount of time I've begun building more meaningful relationships with friends and family. I've even noticed a lot of my own behaviors and gained an insight into how I'm feeling in different situations. I highly recommend the book and look forward to rereading it in the future.

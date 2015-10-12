@@ -3,51 +3,37 @@ title:  "Choosing the 3 Most Important Tasks for the Day"
 date:   2014-08-08
 categories: blog
 tags:
-- distractions
-- life
+- time
 permalink: /choosing-3-important-tasks-day/
 image: /assets/posts/Choosing-the-3-MIT-for-the-Day.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+I’m terrible at estimating time. I always think that I can complete more than I truly can. I throw 8 things on a list for the day and go. I can complete them all… or not. If I’m honest with myself, I know that I can’t do it all.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+I used to wake up in the morning and do my normal morning ritual. Part of that routine was to go through my to-do lists and choose tasks for that day. It was a good feeling to know I had prepared a list of actions for the day - my Today List.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+## My Struggle
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+At the end of the day, when I would start to wrap things up, I would realize I still had items on my list. Not a big deal. I’d just move them to tomorrow’s list.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+But it would happen again. And again. And again. Once in a while I would finish it but most of the time the cycle repeated. It didn't matter if I had a productive day or not. As long as I had items on that list at the end, it felt like I had lost. I didn't do enough. I failed.
 
-I've adopted these three habits to put distractions in their place:
+I tried to find productivity tricks to help me accomplish more during the day, but it never worked. The cycle continued.
 
-# Turn off notifications
+## 3 MITs
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+Thankfully, I ran across an article by Leo Babauta of [Zen Habits](http://www.zenhabits.net). It was about [picking your 3 MITs](http://zenhabits.net/purpose-your-day-most-important-task/) or Most Important Tasks for the day. It's a simple concept. Choose 3 things that you want to complete that day and focus on those. If you do nothing else all day, you still completed the most important things you needed to do.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+I was a bit hesitant at first. I had more than 3 things I needed to do each day. But when I started to look at my list, I realized I had a lot of _wants_ along with _needs_ on it. I decided to try it and saw results on day one. I quickly finished my 3 MITs and realized that I had a productive day behind me and it was only 10am. It was energizing.
 
-# Collect it
+## The Head Game
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+I learned that it was a head game. It’s the difference between achieving your goal and failing to hit it. If you set a realistic goal and hit it, you’re motivated to keep moving. If you set an optimistic goal and miss it, you’re disheartened and want to quit.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+I’m not perfect with the process. I still find that I want to pick 4 or 5 items for the day, but if I stop long enough to think about each one I can usually find one or two that are _nice-to-haves_ and pull them.
 
-# Schedule time for distractions
+## Bonus
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
-
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
-
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+There seems to be this awesome side-effect of accomplishing more each day. When I know that I’ve already had a productive day by 10am, it makes me want to keep going and knock a lot of things out.

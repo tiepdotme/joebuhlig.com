@@ -3,51 +3,64 @@ title:  "Getting Things Done: A Day in the Life"
 date:   2014-12-05
 categories: blog
 tags:
-- distractions
+- gtd
 - life
 permalink: /getting-things-done-day-life/
 image: /assets/posts/GTD-A-Day-in-the-Life.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+There are a lot of articles about setting up GTD. But I don't see many that show what a typical day looks like when you adopt the framework.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+So let me walk you through a normal day with Joe. You'll quickly see that I lead a very structured life. It's intentional and not for everyone. I do that to give me more creative space in the day. I know that sounds counter-intuitive, but the structure frees my mind to focus on now and not worry about what comes next.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+## Starting the Day
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+My day [starts at 5am](http://joebuhlig.com/why-getting-up-early/). I eat breakfast, read my Bible, and then spend some time in the wood shop (working on my @woodshop list) or catching up on articles.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+Once I've done my morning routine, I run through my [Daily Review](http://joebuhlig.com/gaining-perspective-daily-review/). I like to empty all my inboxes at this point and make sure I know what I'm planning to do for the day.
 
-I've adopted these three habits to put distractions in their place:
+After the Daily Review, I start working on my [3 Most Important Tasks (MITs) for the day](http://joebuhlig.com/choosing-3-important-tasks-day/) and usually have these completed by the time my wife and daughter wake up.
 
-# Turn off notifications
+While I'm getting Cutie ready for the day and making her breakfast, (and my second breakfast), I tend to have ideas running through my mind. I try to jot them down on [my hPDA](http://joebuhlig.com/what-is-an-hpda-and-how-do-i-use-it/) so I can stop thinking about them and enjoy my time with Cutie.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+After second breakfast I grab a shower and then "go to work." I put that in quotes since all I do is go to the family room and turn on a computer. I've also been working for at least an hour or more already.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+## Accomplishing Tasks
 
-# Collect it
+95% of the work I do is on the computer or in my head. Because of that, my contexts don't revolve around tools, but verbs. Read/Review, Write, Think, Learn, and Create would be examples.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+There are times in the day when my energy levels and attention are best suited for each of these, so I put them on my calendar accordingly. For example, I do my best thinking right before lunch and enjoy learning right after lunch. I schedule each list for the best time.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+This makes it super easy for me to work through the day. I see a calendar notification on the computer or my phone that indicates the context I need to shift into and switch to that [list in Omnifocus](http://joebuhlig.com/omnifocus-setup-workflow/) where I'll [decide which task](http://joebuhlig.com/getting-things-done-engage/) to work on. Throughout the day, I'll have meetings, phone calls, text messages, and IMs that I work around, but the majority is spent working through different lists at different times.
 
-# Schedule time for distractions
+## Dealing with Email
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+I've written about [my email habit before](http://joebuhlig.com/escaping-corporate-email-habit/), but the short version is that I only check my email twice a day. I don't let the constant emailing distract me from the real work I'm doing.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+If things get busy or I have a fast moving project, I'll add a third email check into my day. But every time I open my email, I'm working towards an empty inbox by either archiving, deleting, adding a task to Omnifocus, or clipping it to Evernote as reference material.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+## Handling Meetings
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+Meetings can be a great way to collaborate and reach decisions. But you need to make sure that you've planned for them and can handle the influx of "stuff" that comes out of them. Because I check my calendar during my Daily Review, I've seen the upcoming meetings for the day and plan appropriately for them.
+
+I take a lot of notes using the [Dash-Plus system](http://patrickrhone.com/dashplus/) and process each line right after the meeting. Each item on the paper goes either to Evernote or Omnifocus. Then I take a picture of the paper with the Evernote document scanner and throw it away.
+
+Sometimes I'll have meetings requested the day-of and have to readjust last minute. Although it's frustrating to have those come up, they are sometimes necessary. Because my calendar is up-to-date, I can easily push things off or reject the meeting invite depending on the urgency and importance of the request.
+
+## Phone Calls, Text Messages, and IM
+
+These are unexpected communications in one form or another. The key is to set aside my current work and handle it. That usually means grabbing a piece of paper to collect the actions and reference items that I process later. Depending on the urgency of the new items, I'll either adjust my day or toss it in my inbox to be processed tomorrow morning.
+
+## Ending the Day
+
+I mentioned earlier in this article that I work on [my 3 MITs](http://joebuhlig.com/choosing-3-important-tasks-day/) in the morning. I choose those the night before so I can get up and go quickly in the morning. I pick them by reviewing my calendar and my goals for the week. I can see what's coming up, what I'm working towards this week, and plan the next day. This is the one of the last things I do before going to bed at night.
+
+## Weekly Review
+
+Every Sunday morning, I take the time I would normally spend on MITs to review my whole system. Every action list, Someday/Maybe list, upcoming calendar, previous calendar, and project gets a look. I see if I've accomplished my goals for the week and choose three goals for the next week.
+
+I look at my action lists and see what my workload looks like for the next week. I try to be honest with myself by choosing only the items that I want to complete this week. I push off anything that I don't have time for or isn't urgent... yet.
+
+The biggest advantage that I see with GTD is the ability to look at all events and actions that I have going on for the day and know what I can push off or work on depending on the energy and urgency of the day. It frees me up to focus on the task and not worry about it being the right task. I can have a "mind like water" and let my creativity roam.

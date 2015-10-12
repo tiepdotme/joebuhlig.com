@@ -3,51 +3,54 @@ title:  "What is an Inbox?"
 date:   2014-12-26
 categories: blog
 tags:
-- distractions
-- life
+- gtd
+- inbox
 permalink: /inbox/
 image: /assets/posts/What-is-an-Inbox.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+An inbox can be your mailbox, your email inbox, and even a physical tray. But those aren't the only places that stuff lands.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+I'm not going into the reasons why you need to empty inboxes, but let me say it's really important. If you don't empty them, you risk letting something slide that you should have dealt with.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+The real question is this -- Have you identified all of your inboxes? It sounds simple, but I keep finding more of them. Here are some examples of inboxes I've discovered:
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+1.  Mailbox
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+    The easy one. It's at the end of your driveway and you check it once a day.
 
-I've adopted these three habits to put distractions in their place:
+2.  Email
 
-# Turn off notifications
+    Another easy one. We're all familiar with our email inbox.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+3.  Paper
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+    You accumulate paper from taking notes, handouts, mail, or even your kids' artwork. Hopefully you have a place to collect these.
 
-# Collect it
+4.  Apps
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+    Some apps have their own version of an inbox built into them. Evernote has a default notebook that notes are added to. Omnifocus has an inbox for collecting actions to be processed later.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+5.  Social Media
 
-# Schedule time for distractions
+    If you participate in any social site you have a feed of information from friends and relatives. You probably don't need to _do_ anything about each post but you'll at least learn what's going on in their lives. The trick here is knowing when this inbox is empty.
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+6.  Notification Center
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+    The accumulated notification list on your phone is a place that's full of things you need to deal with. The question is this -- Should you be allowing apps to automatically add things to your inbox?
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+7.  Apps with Badges
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+    Similar to the notification center, you'll have apps that show badges on your phone. Those are just screaming for you to check them and make decisions.
+
+8.  Your house
+
+    The entire house can be an inbox. If there's something on the floor or out of place, you have a decision to make -- should you pick it up and put it away or leave it? If you leave it, it's the same as leaving emails in your inbox. At some point, you'll need to do something about it.
+
+9.  Piles
+
+    I'm terrible at this. I'll create piles in random places to deal with later. As an example, I recently realized that I pile stuff on our trash can just outside the garage door. The intent is that I'll take that pile to the woodshop the next time I'm out there. (We won't talk about how often that actually works.)
+
+It's interesting how you'll find inboxes that you've unknowingly been using or that have been sitting. They're just waiting for you to do something.

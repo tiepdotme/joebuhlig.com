@@ -3,51 +3,46 @@ title:  "The “Why” of Getting Up Early"
 date:   2014-10-17
 categories: blog
 tags:
-- distractions
+- early riser
 - life
 permalink: /why-getting-up-early/
 image: /assets/posts/The-Why-of-Getting-Up-Early.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+It’s 4:55 am. I roll over to check the clock and realize I’m awake before my alarm goes off. That’s always a good feeling. But why am I awake at this time of day?
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+Morning people all over the internet love to tell you about the benefits of getting up early. There are studies that show morning people to be more successful and these folks love to point it out. They think _everyone_ should get up early.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+I can’t say that I agree. I don’t know that it would work for everyone. I know some folks that are definitely night owls and it would take a miracle to get them up at 5 in the morning.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+But if you’re someone who wants to be one of those neurotic people who gets up early, you’d better have a darn good reason. Without it, you’ll be back to your old habits on day 2\.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+## One-off Early Mornings
 
-I've adopted these three habits to put distractions in their place:
+Think about the times when you _need_ to get up early. You can drag yourself out of bed when you have a 6am flight to catch. 4am is no problem during deer season (yes, there’s a bit of redneck in me). You can wake up at 5am to beat traffic when traveling for Christmas. It’s not an issue because you have a good reason to be up early. You have a good “why."
 
-# Turn off notifications
+If you have a compelling reason to get up early, you do it. There might be some grumbles along the way, but you still do it. Translate that to every day. If you give yourself a good “why” for getting up early, you’ll do it.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+## My “Why”
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+For me, waking up at 5am is an everyday occurrence. However, it would be a nightmare if I just woke up and then tried to figure out what to do. I might as well stay in bed. Instead, I’ve figured out a “why” for my mornings. And no, waking up early to clean the house is not a compelling “why” for me.
 
-# Collect it
+My family typically starts to move around 7:30am. That means that I have 2.5 hours to myself if I’m up at 5\. That’s the perfect time for me to do things that I don’t have time for during the day. It typically involves reading my Bible over a good breakfast, reviewing my goals, spending some time in the woodshop (though I’ve been missing that lately), catching up on web articles, reading a book, and writing for this blog.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+Each of those items are things I love. They’re a great way to create momentum and [energy](http://joebuhlig.com/power-full-engagement-book-review/) for the rest of the day, and they give me a great “why” for getting up in the morning.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+That’s the key. If I wasn’t doing something that I really looked forward to, I would stay in bed. But I know that if I stay in bed, I won’t have a chance at any other time in the day. So 5am it is.
 
-# Schedule time for distractions
+### Considerations:
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+1.  I’m not advocating a lack of sleep. In order to get up early, you have to go to bed early as well. Make sure you’re getting enough sleep. I typically start my way to bed around 9pm as I need about 7.5 hours of sleep a night.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+2.  I would highly recommend putting together a Morning Ritual — a simple checklist of the items you want to do in the morning and how long you would like to spend on each. You don’t want to waste time in the morning figuring out what to do. Have a plan beforehand.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+3.  Lay out breakfast and clothes the night before. I even set up my computer and iPad for my reading and writing the night before. If it’s easy to sit down and go right away, you’ll remove the resistance and possible distractions when trying to follow your plan.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+4.  Be consistent. The only reason I wake up before my alarm goes off is because I’m up at the same time, every day of the week. That includes Saturday and Sunday. If you keep a daily routine, it becomes natural and easy.
+
+In order to get up early and enjoy it, you need to have a compelling “why” behind it. Without that, you’re setting yourself up for failure. Enjoy getting up early!

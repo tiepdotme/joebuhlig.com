@@ -3,51 +3,44 @@ title:  "Routine vs. Ritual"
 date:   2015-07-10
 categories: blog
 tags:
-- distractions
-- life
+- rituals
+- routines
 permalink: /routine-vs-ritual/
 image: /assets/posts/Routine-vs-Ritual.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+A while back I read [The Power of Full Engagement](http://joebuhlig.com/power-full-engagement-book-review/). The premise of the book is energy management and what you do each day to gain or use energy.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+The book mentions some specific rituals that give people energy. I’m obsessed with the routines I do each day, so I was fascinated. I’m always reading what others do in an effort to find one thing that will make my day super productive.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+But routines don’t necessarily motivate me throughout the day. They may keep me on track, but they’re often draining and mundane. And no fun at all. To prevent burnout, some of those tasks need to be enjoyable. Ultimately, it comes down to the difference between routines and rituals.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+## [<span></span>](#routine)Routine
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+I think of routines as checklists or a structure in which I act. It can be a list of things I do in the morning or the process of getting my kids down for bed. In either case, there is a series of tasks that I do consistently and in the same order.
 
-I've adopted these three habits to put distractions in their place:
+Inside routines, I don’t have to think about what comes next. I do them frequently and I can do them without looking at a list. They remove the stress on my brain and help me accomplish a task quickly and efficiently, but they don’t necessarily recharge me.
 
-# Turn off notifications
+Common routines: preparing work for the day, mowing the lawn, bedtimes.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+## [<span></span>](#ritual)Ritual
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+Rituals are similar to routines since they are also a series of tasks that are completed in the same order. But a ritual’s intent is to provide energy and enjoyment along with structure. A ritual is a carefully selected process that has a positive side effect outside of the task being completed.
 
-# Collect it
+Common rituals: meditation, daily walk, reading a book.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+## [<span></span>](#from-routine-to-ritual)From routine to ritual
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+I’ve taken detailed notes by hand in meetings for a while. I never enjoyed it. I kept trying to collect the notes digitally, but it never felt fluid enough.
 
-# Schedule time for distractions
+Sometimes you have to deal with a less-than-ideal process and sometimes you can find a way to make it more enjoyable. In this case, I decided to make the note-taking something that I like doing. I bought a fountain pen. I’m intrigued by the old-fashioned way of doing things and this was a perfect fit. Using the fountain pen is a joy for me so taking notes and marking them up afterwards became a ritual instead of just a routine. I enjoy doing it because I enjoy using my fountain pen.
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+There is a balance to be found with routine and ritual. We’ll always have routines that we need to do. But there’s a lot of value in finding routines, (or at least parts of routines), that we can turn into rituals.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+### [<span></span>](#references)References
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+[The Difference Between Routine and Ritual: How to Master the Balancing Act of Controlling Chaos and Finding Magic in the Mundane](http://www.brainpickings.org/2015/02/13/routine-ritual-anne-lamott-stitches/) - Brain Pickings  
+[The Difference Between Routines vs. Rituals](http://www.theemotionmachine.com/routines-vs-rituals) - The Emotion Machine  
+[The importance of rituals vs. routines](http://www.vintageamanda.com/2012/02/rituals-versus-routines/) - Vintage Amanda

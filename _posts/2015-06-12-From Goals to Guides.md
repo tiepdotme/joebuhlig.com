@@ -3,51 +3,78 @@ title:  "From Goals to Guides"
 date:   2015-06-12
 categories: blog
 tags:
-- distractions
-- life
+- goals
 permalink: /from-goals-to-guides/
 image: /assets/posts/From-Goals-to-Guides.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+Remember the goal setting push at the beginning of the year? I’ve done it professionally and personally every year for four years and it _can_ be motivating.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+But the last month has been terrible when compared to my goals. My intentions for the year have been destroyed by things I couldn’t predict.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+Maybe I’m just bad at being realistic with goals and make them too big. I break them down each month and week to make sure I’m making progress but I miss them about 75% of the time. That means I’m creating a long string of failures. As a recovering perfectionist, this is paralyzing.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+## [<span></span>](#my-issues-with-goals)My issues with goals
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+### [<span></span>](#1-circumstances)1\. Circumstances
 
-I've adopted these three habits to put distractions in their place:
+I had great intentions when I started the year and I felt that I was on a good path. And I was…for a few months. But simple things happen that have a ripple effect.
 
-# Turn off notifications
+For example, we needed to do some work to the foundation of our house. I wasn’t planning to do that when I set goals for the year. It gave me a [topic for a blog post](http://joebuhlig.com/a-chaotic-week-with-gtd/), but other than that it only had negative effects on my other goals.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+I found myself tweaking my goals (and feeling guilty about it) every time I had something come up that would alter the course. So… why am I setting them to begin with if I’m changing them all year long?
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+### [<span></span>](#2-time)2\. Time
 
-# Collect it
+The traditional time span for goals is a year. At work, performance reviews are typically based on the goals that were set for the year. And then there are New Year’s Resolutions (no comment). In most scenarios I’ve come across, goals revolve around a year.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+Maybe I just have a lot going on or I work in a space that moves quickly, but a year is too long. Ideas and technology move faster than a year and by the time I get 6 months in, there’s a new best practice, software update, or an unexpected roadblock that changes what I’m doing.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+### [<span></span>](#3-stress)3\. Stress
 
-# Schedule time for distractions
+Goals are stress-inducing. And we now know that [stress is a killer](http://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend). I don’t want my goals to kill me. That might be extreme, but you get my point. I want to hit my goals. “Write them down and they will come true!” I see this everywhere. Well, guess what? I wrote them down. I reviewed them daily. And all they did was make me worry about why I can’t keep up with them and wonder why I keep failing.
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+### [<span></span>](#4-vague)4\. Vague
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+Because the time frame is typically too large on goals, I tend to make them as vague as possible. I intuitively realized that the circumstances would change and wrote them with a lot of flexibility in order to hit them.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+But this poses another question: how do you know if you hit it or not? If it’s too vague to know whether you’ve hit your goal or not, what’s the point?
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+## [<span></span>](#creating-guides)Creating guides
+
+The yearly, monthly, and weekly goal cycle just wasn’t cutting it for me. Luckily, I ran across [Shawn Blanc’s](http://shawnblanc.net) concept of three Most Important Goals each day. I’ve tweaked it for me, but the concept is to write down things that you want to achieve every day and not worry about the long-term. If you achieve these every day, you will naturally chip away at the long-term goal.
+
+I really like Shawn’s approach, but I’ve taken to calling them my Daily Guides. As long as I hit these each day (or at least come close), then I will end up achieving those bigger goals without the stress involved.
+
+Here’s what I came up with:
+
+### [<span></span>](#personally)Personally
+
+1.  Read a book
+2.  Write for others
+3.  Learn something new
+
+### [<span></span>](#family)Family
+
+1.  Encourage and serve my wife
+2.  Spark an authentic conversation with my wife
+3.  Spend time with my girls and give them my full attention (no phone)
+
+### [<span></span>](#work)Work
+
+1.  Make progress on an important project
+2.  Communicate with stakeholders
+3.  Encourage my team and coworkers
+
+These are extremely flexible. I’ve found that if I miss one of these in a given day, I don’t worry about it as much. I know that I have tomorrow to pick it up again. I haven’t lost an entire year if I fail and I end up with a longer string of successes over failures.
+
+## [<span></span>](#a-place-for-goals)A place for goals
+
+I think goals _can_ be good. They help us set direction. They show us our aspirations. And they’re good for communicating our intentions to others. But there’s something to be said for your state of being when you have goals in place. If it works for you, go for it! But if it stresses you out, know that it’s ok to give them up and put guides in place.
+
+### [<span></span>](#references)References:
+
+1.  [The case for having no goals in your life: Why it might lead to more success and happiness - Buffer](https://blog.bufferapp.com/why-having-no-goals-in-our-lives-might-make-us-happier-and-more-successful)
+2.  [Forget About Setting Goals. Focus on This Instead. - James Clear](http://jamesclear.com/goals-systems)

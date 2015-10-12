@@ -3,51 +3,69 @@ title:  "Writing with GitHub"
 date:   2015-09-11
 categories: blog
 tags:
-- distractions
-- life
+- github
+- setups
+- writing
 permalink: /writing-with-github/
 image: /assets/posts/Writing-with-GitHub.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+I’ve written about my use of [Sublime Text for writing](http://joebuhlig.com/my-writing-setup/), but I didn’t share how I manage the edits from my editor.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+I write everything in [Markdown](http://daringfireball.net/projects/markdown/), which means the typical “track changes” tools don’t work very well in my workflow. I write the draft of an article, review and edit my own draft a couple times, and then send it to my editor. Since we do everything digitally, I needed a way to see what changes she has made as compared to my original.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+The developer in me recognized the issue and immediately went to GitHub for versioning and merging updates. It has made the process really easy for me and for my editor. I don’t want her worrying about the delivery mechanism on top of all the editing. Here’s how I set it all up:
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+## [<span></span>](#the-setup)The setup
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+If you have experience with GitHub, this will all be second nature. If you don’t, I recommend looking at [this article](https://guides.github.com/activities/hello-world/) to get a feel for the terminology and flow of Git.
 
-I've adopted these three habits to put distractions in their place:
+I created a folder in DropBox to house all of my writing. This includes articles, [podcast](http://joebuhlig.com/whaddyaknowjoe/) scripts, and even the [book](http://joebuhlig.com/omnifocus/) I’m writing.
 
-# Turn off notifications
+Using the GitHub desktop app, I created a new local repository on top of this folder. I’ve found myself using the app even though I know how to use Git from the command line. It’s simple and feels faster to me.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+That’s all there was to do, create a new folder and turn it into a repository. I should mention that if you’re inviting someone as a collaborator in the repository, you should keep this outside of DropBox. It can create a lot of issues with syncing. GitHub even warns you about it. I can get away with it because I’m the only one involved and it’s a local repository. Keeping it on DropBox allows me to view and edit files from my iPhone, and I like having that option.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+## [<span></span>](#1-drafting)1\. Drafting
 
-# Collect it
+I work off of the master branch in the repository and make all of my commits there. For example, I’ll write my first draft of an article and then commit it. I then review and edit that draft and commit my own edits.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+To make the commits easy to track, I use a TextExpander snippet for the commit summary with this format:
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+`Draftx_Articlex_YYYYMMDD`
 
-# Schedule time for distractions
+For the first part, I use one of these tags - Draftx, Editx, Reviewx, Managex. My first draft is under Draftx, my edits are Editx, my editor’s changes go under Reviewx, and any changes to the repository (adding/deleting/moving files) go under Managex. As an aside, here’s [why I use the “x”](http://joebuhlig.com/simple-trick-naming-tags/) in those names.
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+The second portion of the commit summary is the type of writing I was doing - Articlex, Bookx, Podcastx, Websitex. Those are pretty self-explanatory.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+## [<span></span>](#2-send-to-editor)2\. Send to editor
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+When I’m happy with what I’ve written and have the edits committed, I make a copy of the file and paste it into a DropBox folder I share with my editor. She is then able to do anything she wants to the file. I make sure she knows I’ll find every character that changes when she’s done.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+## [<span></span>](#3-reviewing-changes)3\. Reviewing changes
+
+When I’m notified that she’s done editing the piece, I create a branch off of the master branch. I simply name the new branch after the article or chapter that I’ll be reviewing.
+
+After creating the new branch and switching to it, I replace my version of the file with the edited version. It’s a simple copy, paste, and confirm to replace the current version.
+
+I can then go into GitHub and see all of the changes highlighted. If I want to accept her change, I do nothing. They will come through later. If I want to ignore her change or make tweaks, I go to the file and make the edits. Then I return to GitHub and keep working through the article.
+
+When I’ve finished reviewing the changes and making my final edits, I commit the edited file to my newly created branch and then merge the new branch into the master. I could probably do this from the master branch but it just feels weird bringing someone else’s changes directly into the main structure. I prefer not to hear the neurotic developer in me screaming.
+
+## [<span></span>](#tracking)Tracking
+
+Something I’ve wanted to do with my writing for a while is track how many words I’ve written each day. Thankfully, using GitHub makes it possible to pull this off. It’s really technical, so I would say **this part is for the power users**.
+
+With a Git repository, you can set up hooks to run when certain events happen. In other words, I can run a script when something happens in the repository. In this case, I used the “post-commit” hook because I wanted to run a script after I commit changes.
+
+I added this code to the post-commit executable found in the “.git” directory of my writing repository:
+
+{% gist joebuhlig/b0c3cd227c148685f98d %}
+
+It checks to see if the commit is in the master branch. If it is, then it counts the words that have been added and subtracts the number of words that were removed. That number is then sent to a Google Sheet through a Google Script that I’ve published as a web app.
+
+From the spreadsheet I can see each commit, the date and time of the commit, and how many words I wrote. I like seeing how much progress I’m making and can potentially use this data to find cycles in my writing patterns. If nothing else, it’s fun.
+
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3kj2wl/writing_with_github/)

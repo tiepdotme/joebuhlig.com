@@ -3,51 +3,57 @@ title:  "Lost in Transition"
 date:   2015-05-22
 categories: blog
 tags:
-- distractions
-- life
+- time
 permalink: /lost-in-transition/
 image: /assets/posts/Lost-in-Transition.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+I read a lot of articles about time management and how to "reclaim an hour a day!" Most of those seem unrealistic. But in an attempt to find more time I discovered a single area that needed a lot of improvement.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+## Transitions can be time suckers
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+[Focus is a struggle](http://joebuhlig.com/working-the-focus-muscle/) for me. When I have "free time" between tasks, it's easy for me to fill it by checking Twitter or Instagram. I like to "just check" too much.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+I decided to only check them 3 times a day. It's a lot like [scheduling times for email](http://joebuhlig.com/escaping-corporate-email-habit/). I quickly found myself wondering what to do. If I wasn't checking my phone, what could I do?
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+I was shocked when I realized this. I've never admitted to being "addicted" to my phone, but I couldn't avoid the label if I was lost without it.
 
-I've adopted these three habits to put distractions in their place:
+The volume of time that I had been wasting between things disturbed me. Every time I moved from one place to another or one task to another, I was checking my phone. And it wasn't just a few seconds being lost, either.
 
-# Turn off notifications
+I started using that time to think through things at work or plan ideas for the blog. I would use it to review a few projects in OmniFocus or do a quick brain dump. Those transition times became moments when I could do something meaningful.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+## Where to look
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+The time between tasks isn't the only time to reclaim. When I started looking, I found a number of transitions stealing time from me:
 
-# Collect it
+### 1.  Between tasks
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+When you complete a task, how long does it take to make the decision to start the next one?
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+### 2.  Between contexts
 
-# Schedule time for distractions
+When you [decide to change](http://joebuhlig.com/gtd-contexts-proactive-vs-reactive/) your environment do you notice right away and start working on the next list or do you take your time switching?
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+### 3.  Between projects
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+When you complete a project it's good to take a break, but not too long of a break. It's easy to delay starting the next thing.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+### 4.  Making decisions
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+Sometimes it's good to take your time deciding. In most cases, though, you need to trust your intuition and just make up your mind.
+
+### 5.  Waiting periods
+
+Anytime you find yourself waiting on someone or something, can you do a quick task? It's good to stop and smell the roses, but if you're looking for time this is an easy place to find it.
+
+## What to do about it
+
+[Getting Things Done](http://joebuhlig.com/getting-things-done-introduction/) is easily one of the best ways to handle this. The framework helps you make decisions up front so that you can quickly move to the next task, context, or project.
+
+When making decisions, trust yourself. You usually have a gut feeling when you have to decide something. Start following that gut feeling and let it learn with you. You'll start to make good decisions faster.
+
+When waiting for things, decide up front if you're going to do something or enjoy the moment. If you decide to stop for the moment, great! But don't always reach for your phone. If you're going to do something, use your [task management](http://joebuhlig.com/getting-started-task-management/) system to help you make that decision faster.
+
+And start looking for these times. It's interesting how many transitions we go through in a single day. Cutting the time between things can give you a greater sense of accomplishment and help you find that magical hour a day you've been searching for.

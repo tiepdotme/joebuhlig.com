@@ -3,51 +3,52 @@ title:  "Why I Use OmniFocus"
 date:   2015-07-31
 categories: blog
 tags:
-- distractions
-- life
+- apps
+- omnifocus
 permalink: /why-i-use-omnifocus/
 image: /assets/posts/Why-I-use-OmniFocus.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+Task managers. There are so many options available and it’s painful making a decision, especially when it takes real dollars to get into them.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+There’s a lot of hype around to-do list apps, but I’m not known for jumping into an app just because people are excited about it. And with task managers, I knew I was picky. I did the normal thing and ran Google searches to find out what the broader internet prefers. It was a mixed bag and that was three years ago. It’s worse now.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+Not knowing whose opinion to trust, I pulled together my list of needs in a task manager. I compared that to the list of task managers I could find and quickly concluded that [OmniFocus](http://joebuhlig.com/tag/omnifocus/) was my only real option.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+I recently tried this again to see if there were new options that met my criteria, but I came up short. It seems the [OmniGroup](https://www.omnigroup.com/) is the only team thinking detailed enough to fit my needs.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+## [<span></span>](#design)Design
 
-I've adopted these three habits to put distractions in their place:
+I’ve done enough UI/UX design and development to realize that the OmniFocus interface is pretty sophisticated. You can tell that every line and every pixel is in place for a reason. They’ve thought it through enough to get the interface out of the way and let you work. That’s tough to pull off.
 
-# Turn off notifications
+If the design (what it looks like _and_ how you use it) of an application isn’t simple, appealing, and highly functioning, I delete it. I know that there are enough options out there that I’ll find what I’m looking for or I’ll build it myself.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+## [<span></span>](#trust)Trust
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+I have to know that my data is safe. If I’m developing a web application, the action steps to complete it cannot disappear. And they cannot duplicate. I can’t worry about my task lists _and_ the task itself.
 
-# Collect it
+I’ve never had problems with one of OmniGroup’s products and I don’t hear of many (if any) data issues that aren’t user-induced. If they introduce a product or feature, it just works.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+## [<span></span>](#defer-dates)Defer dates
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+This is a big sticking point that no other app handles correctly and a lot of OmniFocus users mention as a selling point. It’s like a snooze button for tasks. I need to be able to put tasks off until later. Let me give you a date and time of when I want to see that task again.
 
-# Schedule time for distractions
+This is _not_ a due date. Using arbitrary due dates will get you in trouble every time.
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+Right now I’m recovering from surgery and have a 10 lb lifting restriction. That means I can’t work on most of my DIY projects. So I defer them to keep my lists from being cluttered.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+OmniFocus is the only application I’ve found that handles this. And it does it beautifully.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+## [<span></span>](#project-planning)Project planning
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+The ability to edit tasks by project and also by context seems simple. But I was amazed by the number of GTD-centric apps that don’t have this. It’s one of the foundations of the framework. I need a list of projects with the next action for each, and every action must have a context. Conclusion: I need to see tasks by project _and_ by context.
+
+## [<span></span>](#applescript)AppleScript
+
+I do a lot of customization and automation. And my task manager is not exempt. I need it to integrate with everything I do on my Mac. From automatically parsing tasks to adding tasks, it needs to fit in.
+
+At the end of the day, I only have one choice. And it’s one that I’ve grown to really enjoy. OmniFocus is a killer task manager that looks nice and gets out of the way when I need to work.
+
+P.S. You can find a lot more detail about OmniFocus in [my book](http://joebuhlig.com/omnifocus/). But I’d like to finish writing it first.

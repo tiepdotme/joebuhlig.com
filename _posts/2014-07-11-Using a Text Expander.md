@@ -3,51 +3,54 @@ title:  "Using a Text Expander"
 date:   2014-07-11
 categories: blog
 tags:
-- distractions
-- life
+- textexpander
+- apps
 permalink: /using-text-expander/
 image: /assets/posts/Using-a-Text-Expander.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+Do you ever find yourself typing the same thing over and over again? Stuff like an email address, the date, a URL, or even a template of some kind? If so, a text expansion app might be just what you need.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+I spend a lot of time on the computer. Working for a virtual company means most of my communication is through the phone or the computer, so I end up typing most of the day. That’s where text expansion comes in.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+## What is a text expansion app?
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+It’s an app that runs in the background. It allows you to type a string of characters that will expand into a longer string of characters. For example, I have a snippet that allows me to type ;td (short for _today’s date_) and it will remove ;td and replace it with 20140711\. In other words, it will take ;td and expand it into today’s date. It’s kind of like a keyboard shortcut for text.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+There are quite a few text expanders out there: Phrase Express, AutoHotKey, aText, Typinator, TypeIt4Me. Personally, I prefer [TextExpander](http://smilesoftware.com/TextExpander/index.html). It comes with AppleScript support and allows me to sync my snippets across computers.
 
-I've adopted these three habits to put distractions in their place:
+## Examples:
 
-# Turn off notifications
+1.  **;td** = 20140711
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+    Gives me today’s date in the format of YYYYMMDD. I use this one a lot for titling a new Evernote note or naming files.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+2.  **;tt** = 20140711_060327
 
-# Collect it
+    Gives me the time right now in the format of YYYYMMDD_HHMMSS. Really handy for adding a time stamp to filenames.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+3.  **;9tom** = 20140712 9am
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+    Allows me to easily set a start date in [Omnifocus](http://joebuhlig.com/omnifocus-setup-workflow/) for 9am tomorrow morning.
 
-# Schedule time for distractions
+4.  **;joe** = joe@joebuhlig.com
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+    Email addresses are used all over the place. I just got tired of typing it all the time.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+5.  **;newp** = https://mail.google.com/mail/u/0/?fs=1&view=cm&shva=1&su&tf=1
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+    This is awesome if you use Gmail as your email client. This URL will give me a blank email without taking me to my inbox. I can go to the address bar and type ;newp and it will expand into the link. I have a separate one (;neww) for my work email.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+6.  **;sigp** = _My personal email signature_
+
+    I’ve never liked the automatic email signature addition that a lot of email clients have. This allows me to turn it off entirely and easily enter my signature when and where I want it. Again, I have a separate snippet for my work signature (;sigw).
+
+7.  **;cc** = _My conference call dial-in information_
+
+    When I’m setting up a meeting, I can type 3 quick characters and get all of my information without having to look it up.
+
+You’ll notice that I use a semicolon at the beginning of each my snippets. I don’t want my shortcuts to be something that I may accidentally type when I don’t want them. I use the semicolon because it’s a character that I don’t normally use in everyday writing and it’s never immediately followed by anything other than a space.
+
+I’m only breaking the surface with what you can do with a text expansion tool. Any names, urls, agenda templates, addresses or even common misspellings can be added to make life just a little bit easier and give you some time back. According to my stats in TextExpander, I’ve saved 8 hours of typing since January. Whoa!

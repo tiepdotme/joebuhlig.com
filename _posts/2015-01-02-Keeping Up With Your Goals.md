@@ -3,51 +3,48 @@ title:  "Keeping Up With Your Goals"
 date:   2015-01-02
 categories: blog
 tags:
-- distractions
-- life
+- evernote
+- goals
 permalink: /keeping-goals/
 image: /assets/posts/Keeping-Up-with-Your-Goals.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+It's resolution time! Or not. There are a plethora of articles telling you to set goals as opposed to resolutions. The term doesn't really matter. They'll fail without a plan behind them.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+Having a system for keeping goals in mind and yourself on track is what's important. You need three things to do this: your goals, actions for reaching those goals, and a regular review of both.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+## A list of goals
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+I keep my list of goals in Evernote. Each goal gets a separate note with the goal as the title of the note. Any motivation or reasoning behind it goes into the body of the note.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+<img class="center-image" src="/assets/posts_extra/Evernote-Goal-Note.jpg" />
 
-I've adopted these three habits to put distractions in their place:
+The key here is to create a separate "index" note. It's as simple as making a new note with links to each of the individual goal notes. This way you can see them all at once and easily jump to each one.
 
-# Turn off notifications
+<img class="center-image" src="/assets/posts_extra/Goal-Index-Note.jpg" />
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+## Next Actions
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+I set up a project in [Omnifocus](http://joebuhlig.com/omnifocus-setup-workflow/) for each goal. The idea is to put my time where my head is. I want to achieve something so I better decide what I need to do in order to accomplish it. Those actions go here.
 
-# Collect it
+<img class="center-image" src="/assets/posts_extra/Omnifocus-Goal-Project.jpg" />
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+In the notes section for each project, I add the link back to the Evernote note for that specific goal. This makes it easy to jump over and look at the motivation behind the goal and get clarity when I need it.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+<img class="center-image" src="/assets/posts_extra/Omnifocus-Note-Link.jpg" />
 
-# Schedule time for distractions
+## Reviewing your goals
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+It's nice to set goals or resolutions and it's great to define the tasks you need to complete them, but unless you're reviewing your goals regularly you'll forget why you're doing anything at all.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+I look over my goal index note in Evernote every day and I read the motivation behind each goal weekly during my [Weekly Review]. During my Weekly Review I make sure that I have actions each week that will count towards each of my goals. If I do that, I know I'm chipping away at all of them.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+## Pro Tip
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+Something that I've found helpful is having a quick way to look at my list of goals. I do this using a workflow in [Alfred](http://www.alfredapp.com). I invoke Alfred and type "goal," which opens my goal index note in Evernote for immediate review.
+
+I do this because I'm asked to take on new projects almost daily. Most of the time I know the answer. But there are times when I don't know if it will help me achieve my goals or not. This is when it's really nice to quickly pull them up and double-check.
+
+It's a simple setup. Set your goals, determine actions, and review it all. The rest of the system is there to make it easier to accomplish your goals.

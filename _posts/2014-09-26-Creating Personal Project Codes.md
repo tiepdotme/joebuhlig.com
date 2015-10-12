@@ -3,51 +3,85 @@ title:  "Creating Personal Project Codes"
 date:   2014-09-26
 categories: blog
 tags:
-- distractions
-- life
+- projects
 permalink: /creating-personal-project-codes/
 image: /assets/posts/Creating-Personal-Project-Codes.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+Last week I wrote about [managing information for projects](http://joebuhlig.com/managing-project-information/). In that post I revealed the project codes I use, and now we’re going to talk about how to create them.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+As a quick refresher, here’s what my codes look like:
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+     14HC13
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+There are three portions of the code — “14”, “HC”, and “13."
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+## Year
 
-I've adopted these three habits to put distractions in their place:
+The first two characters are the year. In this case, 2014 becomes “14”. I plan to use these indefinitely so I need a way to distinguish them year over year. If it crosses over the new year, it gets the earlier of the two since the code is created at the start of the project.
 
-# Turn off notifications
+## Area of Responsibility
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+The middle two characters indicate the area of life that it pertains to. In the example above it’s “HC”, which is short for “House/Car." I currently have 11.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+1.  Spiritual = “SP”
+2.  Joe Buhlig = “ME”
+3.  Husband = “HU”
+4.  Father = “FA”
+5.  Son/Brother = “SB”
+6.  Work = “WK”
+7.  Blog = “BL”
+8.  Friend = “FR”
+9.  Church = “CH”
+10.  House/Car = “HC”
+11.  Woodworking = “WW”
 
-# Collect it
+## Incrementing Number
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+It’s a simple auto-incrementing number that resets to “01” the first time I use it in a new year. The first time it is “01." The second it’s “02,” then “03" and so on.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+## Creating the Codes
 
-# Schedule time for distractions
+Creating the code is made simple with a [TextExpander snippet](http://joebuhlig.com/using-text-expander/). I can type ";phc” (project for House/Car) and it will expand to be 14HC04\. If I were to type it again, it would be 14HC05\. The last two digits continue to increase each time I use it. I have a separate snippet created for each of my Areas of Responsibility from above, which means that each area has it’s own incrementing number. Here are the abbreviations I use for each:
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+1.  Spiritual = “;psp”
+2.  Joe Buhlig = “;pme”
+3.  Husband = “;phu”
+4.  Father = “;pfa”
+5.  Son/Brother = “;psb”
+6.  Work = “;pwk”
+7.  Blog = “;pbl”
+8.  Friend = “;pfr”
+9.  Church = “;pch”
+10.  House/Car = “;phc”
+11.  Woodworking = “;pww”
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+I create a note for each new project in Evernote to act as an idea collection zone. I use the TextExpander snippet to create the code as part of the note’s title. If I’m going to put the code in a filename or another note title, I grab it from this “master” note in Evernote and copy/paste where I need it.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+## The Setup
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+Here’s the tricky part. It involves two pieces to make it work — a .plist file in Dropbox and a TextExpander snippet with [AppleScript](http://en.wikipedia.org/wiki/AppleScript).
+
+### The .plist file
+
+As far as I know, TextExpander doesn’t have a good way to auto-increment numbers on it’s own. Not without the help of an external file of some kind. So I set up a .plist file to store the last used code. A [.plist file](http://en.wikipedia.org/wiki/Property_list) is a Property List file that kind of resembles an XML file, but is Apple specific. Most of the applications that we use every day utilize them.
+
+I created the initial file using Xcode and at the moment it looks like this: 
+
+{% gist joebuhlig/130472766bc2ff5726fd %}
+
+I store this file in DropBox since I use multiple computers and don’t always know which one I will need to create the code.
+
+### The TextExpander AppleScript
+
+Here’s a look at the AppleScript in the House/Car TextExpander snippet:
+
+{% gist joebuhlig/8226fc344b6bf5da6945 %}
+
+It goes to the .plist file and gets the current project code. It then parses out the last two characters and increments it by one unless we’re in a new new year. At the beginning of each year, it will reset to “01” and change the first two characters to match the new year. It then writes the code back to the .plist file for next time and pastes in the new code. It just looks more complicated than it really is :)
+
+The main takeaway is that I enter the abbreviation for the TextExpander snippet and it runs the AppleScript. The AppleScript updates the stored code and replaces the abbreviation with the new code. I type 4 characters and I’m done!
+
+It looks like a daunting process if you’ve never worked with .plist files or AppleScript and rightly so. The first time I saw them I thought the people who used them were crazy. And maybe we are. But it certainly makes life easier when it comes to finding project materials.

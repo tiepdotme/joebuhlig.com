@@ -297,6 +297,33 @@
     font-size: 24px;
 }
 
+.center-image {
+    display: block;
+    margin: 0px auto;
+}
+
+.left-image {
+    float: left;
+    margin-right: 20px;
+}
+
+.right-image {
+    float: right;
+    margin-left: 20px;
+}
+
+.post-image-small {
+    width: 50%;
+}
+
+.post-image-medium {
+    width: 75%;
+}
+
+.post-image-large {
+    width: 100%;
+}
+
 .content-wrapper {
     text-align:center;
 }

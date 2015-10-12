@@ -3,51 +3,35 @@ title:  "Sharing a Computer"
 date:   2015-09-25
 categories: blog
 tags:
-- distractions
-- life
+- hardware
 permalink: /sharing-a-computer/
 image: /assets/posts/Sharing-a-Computer.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+When I switched to the MacBook Pro, I also switched from using two computers to one. I know, I know, I was spoiled. But it made my life a lot easier and helped me accomplish a lot more.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+One benefit of using two computers that I hadn't noticed was the flexibility it gave my wife and me. When I used one computer, she could use the other. When the job-shift happened, it quickly became apparent that we were used to using them at the same time. I would grab the MacBook Air and she would do some work on the Mac Pro or vice versa.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+Two computers was really convenient. However, I'm now building my own business, which means I'm tight on dollars spent. So I'm using a single computer for everything. And that has led to the need to coordinate work with my wife. I have writing and development to do and she has design and editing to do.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+Here's what we've learned on how to successfully share a computer:
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+## Communicate
 
-I've adopted these three habits to put distractions in their place:
+We have a daily conversation about time on the computer. I'm the one that spends the most time on it, but my wife has a few deadlines that she's under as well. We need to make sure we're talking about what's needed, when it's needed, and our plan for making it happen.
 
-# Turn off notifications
+## Multiple users
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+This almost goes without saying, but don't share a user login on a shared computer. If my wife tries to do something on my profile, it will most likely do things she's not expecting. If I use her profile, I'll keep banging the keyboard wondering why it doesn't launch the app I want. It just creates unnecessary angst. Get your own profile.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+## External hard drive
 
-# Collect it
+Unless you've upgraded the internal hard drive of your machine as much as you can, you'll probably run into storage issues. The computer I'm on has a simple 128GB hard drive. That's pretty small for having multiple users on it. So I have 4TB of Network Attached Storage (NAS) in the house. That allows us to connect to them over the wireless from anywhere in the house and keeps us from being unable to save files.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+## Grace
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+Be gracious. It's hard sharing something like a computer, especially when you need to get something done. It's easy to get upset or frustrated with the other person. Show a little grace and be willing to compromise. It'll make both of your lives a lot easier.
 
-# Schedule time for distractions
-
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
-
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
-
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3mblhd/sharing_a_computer/)

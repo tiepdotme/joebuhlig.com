@@ -3,51 +3,79 @@ title:  "File Naming and (Dis)Organization"
 date:   2014-09-05
 categories: blog
 tags:
-- distractions
-- life
+- files
 permalink: /file-naming-disorganization/
 image: /assets/posts/File-Naming-and-(Dis)Organization.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+Naming and organizing files is extremely important. In today’s world, we can keep track of thousands of files. And with versioning getting to be a big deal, we have to have a way to keep track of it all.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+It’s quite common for me to get a file with revisions that has my original filename with something appended to the end. The typical is “v2” or the person’s initials “JB.” But every once in a while I get one back that has a monster attached to the end like, “v2 JB updated KR revised v4.” What?! Really?! Why is this ok?
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+I’ve also seen many folks that have hundreds, if not thousands, of folders. There will be project folders and people folders and general folders and pet folders and computer folders and and and...
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+Sometimes they have no overlap. But most of the time, a file can go multiple places. My question is: how do you decide which folder? And how long do you spend trying to decide?
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+A couple years ago, I was in the same place. I was randomly naming files and had folders full of folders full of folders. It took me 5 minutes to find a file and even then I was sometimes using search to find the one I was after.
 
-I've adopted these three habits to put distractions in their place:
+Eventually, I got tired of it. I hated the never-ending folder structure and I desperately needed a common naming system. I did lots of research and tried to figure out what some other folks have done. They had a lot of really good ideas. But I eventually came up with my own system.
 
-# Turn off notifications
+I wanted something that would easily follow me to any OS. I also wanted to use search for finding my files. I was already searching to find them anyway.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+## My Nomenclature
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+I spent a long time brainstorming this piece. It needed to be simple and scalable. But I also wanted it to work in conjunction with my folder system. Here’s an example of what I came up with:
 
-# Collect it
+    Refx_14BL22_File Naming Examples_20140820_063420.pages
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+That looks like a mess! Let me decode:
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+### Tagging
 
-# Schedule time for distractions
+The first part of that name is a tag. In this case, it’s for Reference files. I shortened it to Ref and added the [“x” for easy searching](http://joebuhlig.com/simple-trick-naming-tags/). When searching, this helps me filter down to just the type of file that I’m looking for. I have a number of them. Artx, Datax, Reportx, Reviewx, Templatex, etc...
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+### Project Code
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+I create a personal code indicator for every project that I’m working on. If I have a file that pertains to a project, I add the code for the project to the name of the file. If it’s a standalone file, I simply leave it out.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+Adding the project code to the filename allows me to search my entire computer for the project code and pull up everything about that project.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+### Key Words
+
+This is what you commonly see in file names. Some words to help you understand what’s in the file itself.
+
+### Date and Time
+
+I always add a date and sometimes add the time to the file name. The format of it is: YYYYMMDD_HHMMSS. This makes it easy for me to do a “Save As”, change the date, and keep my own versions of files. It’s an easy way to eliminate the “v2” thing that people put at the end of their filenames.
+
+In the end, I get a filename that looks like this:
+
+     tagx_PROJCODE_Key Words_DATE_TIME.ext
+
+I wanted to make it easy for myself to name my files. So I created a TextExpander snippet for naming files with and without project codes. I also have a snippet that creates the date/time stamp for me. Between the two, it’s really easy for me to name files.
+
+## My Folder Structure (or lack thereof)
+
+I maintain 3 folders. That’s it. !nbox, Active, and Archive. This plays very nicely with my file naming system. Given their names, you can probably guess how it works. But just in case, here’s how I use them:
+
+### !nbox
+
+Yes, that’s an exclamation point. I name it that way so that it’s sorted to the top of the folder list.
+
+This is where all of my web downloads go and where I initially put any new file that I receive. This folder is in DropBox as I want these to sync across my computers and devices.
+
+It truly is my inbox for files. At the end of each day, I process whatever is in this folder. Processing files means that I’m naming them (using the nomenclature above) and moving them to the Active folder.
+
+### Active
+
+The Active folder is where I keep all of the files that I’m currently working on. Again, this folder is in DropBox so I can sync these across computers. Because I keep all of the files I’m currently working with in one folder, I know exactly where to go to find them. Simple.
+
+### Archive
+
+If I haven’t used a file in 60 days, I move it to my Archive folder. This lives on an external drive since it can be massive. The file naming I do really starts to shine here. Because they are all in one place, I rely on searching to find the file I want. I don’t have to look in here very often but when I do, I can usually find the files I want in about 4 seconds.
+
+One note here: I am not about to go through my Active folder to find the files I haven’t touched in the last 60 days. And I certainly won’t do it every day. This is where I use [Hazel](http://www.noodlesoft.com/hazel.php). I have a Hazel rule set up that checks my Active folder for any file that hasn’t been opened or modified in the last 60 days. If it finds any that match that criteria, it automatically moves them to my Archive folder. I never see it happen.
+
+I’ve been using this system for a while now and really enjoy it. I’m always a few seconds away from any file I want. Until I realize I deleted instead of archiving. #facepalm

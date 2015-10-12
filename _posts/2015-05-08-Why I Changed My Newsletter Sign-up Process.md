@@ -3,51 +3,44 @@ title:  "Why I Changed My Newsletter Sign-up Process"
 date:   2015-05-08
 categories: blog
 tags:
-- distractions
-- life
+- design
+- newsletter
 permalink: /why-i-changed-my-newsletter-sign-up-process/
 image: /assets/posts/Why-I-changed-my-newsletter-sign-up-process.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+If you’ve been to this site in the past, you probably saw the email sign-up form slide up in the bottom right-hand corner. If you’ve been here on a mobile device, you saw the sign-up bar across the bottom. They’re both gone.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+As an online marketer, I know these methods work. Most of us can’t stand the popups that block our view of the content (evil mode). But sites continue to use them because they are awesome at increasing numbers of subscribers.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+And it’s tempting. I like seeing my numbers rise like everyone else.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+## The purpose of the newsletter
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+I want my newsletter to be a way of letting you know about a new article I’ve written and share quality content that I’ve found on the web. It’s also a way to start a conversation via email.
 
-I've adopted these three habits to put distractions in their place:
+It’s a way for me to connect with you about topics that we both find interesting.
 
-# Turn off notifications
+## What it means for you
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+When I reflect on this purpose, I realize that driving up subscriber counts isn’t the point. It seems obvious now, but it’s hard to see when you’re trying to be heard. I’m after engagement and connection, not counts.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+So what does that mean for the sign-up process?
 
-# Collect it
+It means I’ll stop nagging you about it. If you want to connect with me over quality content via email, you’re probably looking for a way to do so. You don’t need me asking you for an email address every time you want to read what I’ve written - that’s the opposite of connection.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+I’ve had some great email conversations about articles on this blog via email. Not everyone agrees with my view but I appreciate the exchanges that our differences create. I’m glad that we can have an honest dialog about this stuff and work through it together. But it doesn’t make sense to be pushy about entering that dialog.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+## How it has changed
 
-# Schedule time for distractions
+I’ve made a lot of changes. The slide-in popup in the bottom-right is gone. The sign-up bar on a mobile device is gone. The sign-up in the top navigation bar is also gone. I even pulled the sign-up form from the footer of the page. Essentially, every sign-up form that could be perceived as intrusive has been removed.
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+However, I still want to have a newsletter that can start these genuine conversations. So I’ve added [a page for the newsletter](http://joebuhlig.com/newsletter/). If you want to be on the list, you can go there and sign up. That page is the only place you’ll find access to this list.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+## An apology
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+I want to apologize if I’ve annoyed you in the past. I place a lot of value in websites that are clean and simple without being pushy. I haven’t followed my own advice on this and you’ve had to deal with it. I’m sorry for that.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+Can we still be friends? ;)

@@ -3,51 +3,63 @@ title:  "My Mobile Office"
 date:   2015-07-24
 categories: blog
 tags:
-- distractions
-- life
+- checklists
+- hardware
 permalink: /my-mobile-office/
 image: /assets/posts/My-Mobile-Office.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+As a homeworker, traveling has to be simple. If I need to connect with coworkers in person, I’m either on an airplane or in a rental car. In an effort to make it easy on myself, I have a backpack that serves as a mobile office.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+I’m fascinated by the gear that people carry. So I thought I’d share what I keep with me when I hit the road. Everything is either in the backpack, in my pockets, or on my wrist.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+## [<span></span>](#the-gear)The gear
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+<a href="/assets/posts_extra/My-Mobile-Office-Labeled.jpg"><img class="center-image post-image-large" src="/assets/posts_extra/My-Mobile-Office-Labeled.jpg" /></a>
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+Click the picture to enlarge.
 
-I've adopted these three habits to put distractions in their place:
+1.  [Cocoon SLIM Backpack](http://www.cocooninnovations.com/product_info.php?cat_id=68&product_id=244)
+2.  MacBook Air (late 2013)
+3.  iPad Air
+4.  iPhone 5S (16GB)
+5.  [Rhodia No. 16 dotPad](http://www.amazon.com/Rhodia-No-16-Sheet-Black-16559/dp/B003UCL77U)
+6.  [Monteverde Invincia](http://www.gouletpens.com/monteverde-invincia-chrome-fountain-pen/p/MV40065)
+7.  [Lamy Safari](http://www.gouletpens.com/lmy-l17/p/LMY-L17)
+8.  [Pilot Metropolitan](http://www.gouletpens.com/pn-metro-blackzigzag/p/PN-Metro-BlackZigZag)
+9.  [Pentel Twist-Erase III](http://www.amazon.com/Pentel-Twist-Erase-Automatic-Pencil-QE515A/dp/B00006IEH0/ref=sr_1_2)
+10.  [Pilot Hi-Tec C](http://www.amazon.com/Pilot-Hi-tec-c-Rolling-0-3mm-black-Ink-value/dp/B00F9NDQ22/ref=pd_sim_229_1)
+11.  [Pilot G2](http://www.amazon.com/Pilot-Retractable-Premium-Roller-Extra/dp/B00006JNJ8/ref=pd_bia_nav_t_2)
+12.  [Pentel Clic Eraser](http://www.amazon.com/Pentel-Eraser-Retractable-Assorted-ZE21BP3-K6/dp/B001HA77OO/ref=sr_1_1)
+13.  [Pogo Sketch stylus](http://www.amazon.com/Ten-One-Design-Sketch-Stylus/dp/B001QHY2V4)
+14.  [Apple 5W USB Power Adapter](http://store.apple.com/us/product/MD810LL/A/apple-5w-usb-power-adapter)
+15.  [Lightning to USB Cable](http://store.apple.com/us/product/MD818AM/A/lightning-to-usb-cable)
+16.  USB Car Charger
+17.  [Anker 2nd Gen Astro E5 16000mAh external battery](http://www.amazon.com/gp/product/B00N2T7U90)
+18.  Anker charger
+19.  Multi-tool
+20.  Extra 0.5mm lead
+21.  Business card holder
+22.  Extra note cards
+23.  [Monster Outlets To Go Powerstrip](http://www.amazon.com/gp/product/B000ONZTMW)
+24.  MacBook Air charger
+25.  Square reader
+26.  [Mini DisplayPort to VGA Adapter](http://store.apple.com/us/product/MB572Z/B/mini-displayport-to-vga-adapter)
+27.  Screen wipes
+28.  Tea bags
+29.  [Fisher Space Pen](http://www.amazon.com/Fisher-400B-Space-Bullet-Pen/dp/B000WGD13U)
+30.  [hPDA](http://joebuhlig.com/what-is-an-hpda-and-how-do-i-use-it/)
+31.  [Apple Earpods](http://store.apple.com/us/product/MD827LL/A/apple-earpods-with-remote-and-mic)
+32.  [Buck Knives pocket knife](http://www.amazon.com/Buck-Knives-0055BRS-Folding-Hunter/dp/B010KA4OB0)
+33.  Wallet
+34.  [Casio Men’s W93H-1AV Multifunction Sport Watch](http://www.amazon.com/Casio-W93H-1AV-Multifunction-Sport-Watch/dp/B000GAWSFO/ref=sr_1_3)
+35.  Excedrin
+36.  Mints
+37.  Chapstick
 
-# Turn off notifications
+## [<span></span>](#a-walk-through)A walk-through
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
-
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
-
-# Collect it
-
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
-
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
-
-# Schedule time for distractions
-
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
-
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
-
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+[Watch on YouTube](https://www.youtube.com/watch?v=9IW5Qq4uKXQ)
+<iframe width="1000" height="562" src="https://www.youtube.com/embed/9IW5Qq4uKXQ?html5=1" frameborder="0" allowfullscreen=""></iframe>

@@ -3,51 +3,50 @@ title:  "Saving Full Articles in Evernote from RSS"
 date:   2015-03-06
 categories: blog
 tags:
-- distractions
-- life
+- evernote
+- rss
 permalink: /saving-full-articles-in-evernote-from-rss/
 image: /assets/posts/Saving-Full-Articles-in-Evernote-from-RSS.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+There is no shortage of articles on the web. Reading (or at least skimming) hundreds of articles can be done easily in less than an hour. But have you ever tried keeping a record of all those articles?
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+I often remember reading an article about something and want to pull it back up. I used to spend a lot of time trying to track it down. Sometimes I found it, but most of the time it was lost. Eventually, that frustrated me enough to look for a solution. I started looking for a way to automatically save all the articles I read, and Evernote was my tool of choice.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+## My Reading Tools and Process
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+I use [Feedly](http://feedly.com) for my initial article screening. I use it to subscribe to almost 100 blogs. Every day I skim the headlines of their RSS feeds and decide which ones I want to read - but I don’t actually _read_ them in Feedly. Instead, I save them to [Pocket](http://getpocket.com).
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+Pocket is my “read it later” app of choice. It becomes a collection of the articles I want to read. Once I’ve read an article, I archive it. If I no longer want to read the article, I delete it.
 
-I've adopted these three habits to put distractions in their place:
+## The Setup
 
-# Turn off notifications
+You can use any RSS reader and any “read it later” service that is connected to [IFTTT](https://ifttt.com) for this. You’ll also need a Gmail account. Here’s how to set it up:
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+1.  Go to [uKeeper](http://www.ukeeper.com) and enter your Gmail address along with your [Evernote email address](https://blog.evernote.com/blog/2014/06/14/inbox-hero-email-evernote/).
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+    <img class="center-image" src="/assets/posts_extra/ukeeper.png" />
 
-# Collect it
+2.  Set up an [IFTTT recipe](https://ifttt.com/recipes/265750-send-full-articles-from-pocket-to-evernote) to send an email to drops@ukeeper.com with the URL you want to save.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+    <a href="https://ifttt.com/view_embed_recipe/265750-send-full-articles-from-pocket-to-evernote" target = "_blank" class="embed_recipe embed_recipe-l_42" id= "embed_recipe-265750"><img src= 'https://ifttt.com/recipe_embed_img/265750' alt="IFTTT Recipe: Send Full Articles from Pocket to Evernote connects pocket to gmail" width="370px" style="max-width:100%"/></a><script async type="text/javascript" src= "//ifttt.com/assets/embed_recipe.js"></script>
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+Bonus: I also set up a Gmail filter to delete any message with drops@ukeeper.com in the “To” field. I read a lot of articles and didn’t want these emails cluttering up my account.
 
-# Schedule time for distractions
+<img class="center-image" src="/assets/posts_extra/gmail-filter.png" />
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+## Using The Setup
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+Here’s the process I go through when reading articles and saving them to Evernote:
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+1.  I pull all of my RSS feeds into Feedly and skim headlines on my iPhone.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+2.  I save articles to Pocket from Feedly by using their “Long Press To Save” feature.
+
+3.  I read articles in Pocket from any of my devices.
+
+4.  If I read the article, I archive it. If I don’t read it, I delete it.
+
+That’s it! Every time an article is archived in Pocket, the IFTTT recipe sends an email to uKeeper with the URL in the body. uKeeper takes the URL, grabs the full text of the article, and forwards that text to Evernote. All I have to do is archive the article… which I was already doing.

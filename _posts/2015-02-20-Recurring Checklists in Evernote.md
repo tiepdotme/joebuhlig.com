@@ -3,51 +3,44 @@ title:  "Recurring Checklists in Evernote"
 date:   2015-02-20
 categories: blog
 tags:
-- distractions
-- life
+- checklists
+- evernote
 permalink: /recurring-checklists-in-evernote/
 image: /assets/posts/Recurring-Checklists-in-Evernote.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+One of the first notes many Evernote users create is a checklist of some kind. It could be a grocery list, a to-do list for the day, or a morning routine.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+But what happens when it’s a list that you’ll use multiple times or at regular intervals? It might be a packing list for travel or a checklist for how to do something. You have a situation where you need to duplicate that checklist or reuse it.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+## The Problem
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+I wanted to keep [my morning routine](http://joebuhlig.com/why-getting-up-early/) checklist in Evernote. I created my list of items and added checkboxes so I could be excited when seeing a bunch of marked off to-dos. It was great!
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+The first day was fine. I pulled up the list and worked through it without any issues. The second day posed a problem. I had already checked off the items on the list. I needed to duplicate the list so I could reuse it. But I didn’t want to introduce any manual steps to the process. I wanted to pull up Evernote and have it ready to go every time.
 
-I've adopted these three habits to put distractions in their place:
+## Attempted Solutions
 
-# Turn off notifications
+1.  Duplicate the note
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+    I could copy the note and uncheck all the items, but that was too many steps for a simple morning routine. And it would introduce manual steps.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+2.  Use IFTTT
 
-# Collect it
+    I tried setting up an [IFTTT](https://ifttt.com/) recipe that would create a new note in the night at like 3am. That meant the note would show up automatically without me doing anything. This would have worked, but it didn’t have a way to add the checkboxes. I really wanted the checkboxes.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+3.  TextExpander
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+    I explored the use of [TextExpander](http://joebuhlig.com/using-text-expander/) to quickly add the items to a new note every morning. But again, that was a handful of steps to create the note, tag it, and then add the items to it. I wanted it to be there automatically.
 
-# Schedule time for distractions
+4.  Remove, then Add Checkboxes
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+    You can select the entire list and click the checkbox shortcut to remove all the checkboxes. If you click it again, it will add checkboxes to all of the items. The new checkboxes are unchecked. Great! But I’m really lazy. Again, I wanted it to happen automatically.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+## My Solution
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+I finally landed on a ridiculously simple solution that worked for me while I was on a business trip. I had pulled up my packing list for traveling and checked everything off. I went on my trip. When I was packing up in the hotel to head home, I again pulled up my packing list. I was on my phone at the time so instead of duplicating the note or deleting/adding the checkboxes, I simply started unchecking the boxes as I packed things. When I was done, my packing list was ready for another trip. And I didn’t have to do anything!
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+Instead of trying to recreate the note or the checklist, I simply undid the work I did before. I started applying it to my other lists and found it really simple. And I don’t have to do anything! I can just use it.

@@ -3,51 +3,46 @@ title:  "Managing Project Information"
 date:   2014-09-19
 categories: blog
 tags:
-- distractions
-- life
+- gtd
+- projects
 permalink: /managing-project-information/
 image: /assets/posts/Managing-Project-Information.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+Using David Allen’s definition, a project is anything that requires more than one action to complete. This can range from building a new web application to replacing the refrigerator filter.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+With this definition in mind, it’s easy to see how your list of projects can be long. And being a knowledge worker, I have thousands of files and hundreds of meeting notes and whiteboard pictures — all of which are digital. Here’s a scenario:
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+## Building a Deck
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+Last summer I built a deck off the back of our house. I like doing handyman projects and I was looking forward to the challenge. Since I didn’t know what I was doing, I did a lot of research on the design and how to build it.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+I planned out the actions in [Omnifocus](https://www.omnigroup.com/omnifocus) and clipped about a hundred pictures and how-to articles from the web into [Evernote](https://www.evernote.com/referral/Registration.action?uid=49404&sig=e2dd914576c3ec9818e0311976a19dc1). I also had some files that I downloaded to reference during the build. I had a lot of information before I had even started — and this was only one project. I usually have about 50 going at once.
 
-I've adopted these three habits to put distractions in their place:
+There were a number of times when I spent an embarrassing amount of time looking for a picture I had clipped.
 
-# Turn off notifications
+Now multiply this by 50 projects. It can quickly become a mess. I spent a lot of time working on this problem, since I knew it wouldn’t go away. Eventually, I found a solution that I’m rather fond of.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+## Where do you put it?
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+The first step is deciding what type of information goes where. For me, that means action items go into Omnifocus, files go into Dropbox with [my file nomenclature](http://joebuhlig.com/file-naming-disorganization/), and everything else goes into Evernote. I highly recommend using as few places as you can for information. It reduces the number of places you’ll have to look later on.
 
-# Collect it
+## Personal Project Codes
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+The next step is to find a way to quickly pull up the data for a project. I experimented with this for a while and eventually came up with the idea for personal project codes. We use them for business all the time. Why don’t I use them for me? Seems logical.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+The idea is simple. Append a project code to the name of every project in Omnifocus, note in Evernote, and the filename for a file. Because it becomes part of the names in each of these, I tried to keep mine as short as possible.
 
-# Schedule time for distractions
+For me, the codes look like this:
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+     14HC13
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+Decoded, the “14” is for the year 2014\. “HC” stands for House/Car. It’s a 2 character indicator for the area of responsibility in my life. I have 11, but a few of those are “WK” for work, “HU” for husband, “BL” for this blog, and “FR” for friend. The last two characters in the code is an auto-incrementing number. I use a [TextExpander](http://smilesoftware.com/TextExpander/index.html) snippet to create my codes and it automatically increases this number by one every time I create a new one. I’m writing a post on this snippet to come out next week.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+I create the code the first time in Evernote when I name the project. For the deck, the note was titled "14HC13: Build Deck” and contains any initial ideas, outcomes, or brainstorming. I do this for every new project. This is key because I can search Evernote for the code of the project I want. But in most cases, I’ve worked with the code long enough that I just know it.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+## The Benefits
+
+Because the code is in the name of the item, I can search for it and pull up just the information for that project. I can see all of the notes I’ve taken for a project or all the files I’ve collected. I’ve even been exploring [Path Finder](http://www.cocoatech.com/pathfinder/) and trying to find ways to pull up Omnifocus, Evernote, and my files all in a single search.

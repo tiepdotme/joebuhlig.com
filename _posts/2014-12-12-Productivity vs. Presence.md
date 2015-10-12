@@ -3,51 +3,34 @@ title:  "Productivity vs. Presence"
 date:   2014-12-12
 categories: blog
 tags:
-- distractions
-- life
+- presence
+- productivity
 permalink: /productivity-vs-presence/
 image: /assets/posts/Productivity-vs-Presence.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+We are taught to accomplish tasks. In school and work, grades and reviews measure our ability to accurately complete an assignment.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+The question is -- were you present during the task or looking forward to its completion? Did you make plans for what you would do afterwards or take in the details of the experience? Were you just being _productive_ or were you being _present_ during the activity?
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+This isn't easy to wrestle with and I'm terrible at it. I struggle with it on a daily (if not hourly) basis. I want to get a lot done in a day, but I also want to enjoy the time I spend doing it.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+## Being present
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+Vacations are the worst. The idea is to take a break and re-energize. But I find myself focusing on the outcome of what I'm doing. I'm focused on getting to my destination instead of enjoying the trip. Or I want to get through lunch so I can start something else. I'm still trying to check things off even when I'm "taking a break."
 
-I've adopted these three habits to put distractions in their place:
+I should be enjoying lunch and not devouring it. I can do the thing _and_ enjoy the process of doing the thing. It's ok. It might take a bit longer, but that's the point. Savor the time.
 
-# Turn off notifications
+## Being productive
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+I can't always take more time to do things. I have work to do and work that I love doing. If I were to slow it all down, I would become frustrated with myself for falling behind. Not to mention my employer would need to have a chat with me.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+And there are instances when we don't have time to slow down. I have a meeting at noon and sat down to lunch at 11:45\. Taking my time to savor lunch over 30 minutes isn't an option.
 
-# Collect it
+## Productivity-Presence Tension
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+The line between productivity and presence is like the work-life tension we all battle. Let's define work as "accomplishing tasks" and life as "enjoying moments." I'm not saying you can't complete a task and enjoy the process. But are you focused on doing it or enjoying it?
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
-
-# Schedule time for distractions
-
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
-
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
-
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+It's a tension. It's not a black and white balance. It's a struggle that we need to be aware of and grapple with daily. Do I need to be productive or present in this moment?

@@ -3,51 +3,37 @@ title:  "Don’t Ignore Push Notifications"
 date:   2015-03-27
 categories: blog
 tags:
-- distractions
 - life
+- notifications
 permalink: /dont-ignore-push-notifications/
 image: /assets/posts/Don't-Ignore-Push-Notifications.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+I was enjoying one of our first daddy-daughter dates. Of course, it was at a coffee shop. It was great! I drank my coffee and Cutie watched the constant movement of people between bites of her cookie.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+It didn’t bother Cutie, but it was driving me crazy. The lady behind us had something in her purse that would ding every minute or so. She did nothing! She just left it there. After about 15 minutes of this, her friend must have had enough as well. The friend asked if everything was ok. The lady finally pulled out her phone to check it and realized that her son was waiting on her at school. Her only comment as she was frantically leaving, “Why didn’t he text me earlier?!”
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+She was completely oblivious! You have a device in your purse that can notify you when someone or something needs your attention. What good does it do to have those notifications if you’re going to ignore them?
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+## Ignore one and they lose their value
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+If you have a device that can notify you in any way, you _have_ to pay attention to it. You can’t check it later. It’s making noises and vibrating to get your focus. If you don’t comply and give it your focus, then there’s no point in it dinging and vibrating at all. It needs you to make a real-time decision. Do I need to act on this right now or not?
 
-I've adopted these three habits to put distractions in their place:
+If you don’t act on the notification immediately, what happens? You postpone the decision and the action. Why would you postpone it? You might get too many of them or they’re not actually important. And if you postpone it, you’re saying it’s not important enough for you to look at it before making the decision. So now, you’ve devalued the notification and told yourself that they don’t matter.
 
-# Turn off notifications
+## Only use notifications that matter
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+I’ve spent a decent amount of time pruning the notifications on my phone. When you think about it, how many things _need_ your attention immediately? Is an email something that needs an immediate response? Wouldn’t they call if it was that important? And chances are that any social media notification can be turned off entirely. If something happens and someone needs you right now, wouldn’t they call or text you?
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+After a lot of time thinking about it, here are the four types of notifications I receive on my phone:
 
-# Collect it
+1.  Phone Calls/FaceTime
+2.  Text Messages
+3.  Calendar reminders
+4.  Omnifocus reminders
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+What I’ve realized is that I need to check my phone when someone urgently needs me (phone calls/text), when I need to go somewhere or join a meeting (calendar), and when I’m due to complete a task (Omnifocus). These are the only times when something is urgent enough to warrant a notification.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
-
-# Schedule time for distractions
-
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
-
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
-
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+Every time your devices make a sound, pay attention. Check it right away. If you’re in a meeting or scenario that trumps outside communication, turn on Do Not Disturb or Airplane Mode. The point is to make sure that you use notifications intentionally. Make a decision up front and pay attention.

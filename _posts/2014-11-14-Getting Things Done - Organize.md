@@ -3,51 +3,58 @@ title:  "Getting Things Done: Organize"
 date:   2014-11-14
 categories: blog
 tags:
-- distractions
-- life
+- gtd
+- organize
 permalink: /getting-things-done-organize/
 image: /assets/posts/GTD-Organize.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+Organize. The favorite step of most GTDers. This is where you set up tools for tracking each bucket from the [Clarify step](http://joebuhlig.com/getting-things-done-clarify/).
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+People can spend hours researching and testing potential apps, websites, and services. With the app boom in full swing there are hundreds (maybe thousands) of to-do managers out there.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+But you have to step back and think about it. What works for you? What do you want in an app? Don’t go out there looking at everything that _might_ work. Think about what you need and search for that.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+You’re looking to put four different systems in place. Keep in mind that some tools can do more than one. Here are the four:
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+## Reference Material
 
-I've adopted these three habits to put distractions in their place:
+For all the items you collect that have no action assigned, you’ll need a place for long-term storage. If you’re a paper person, you’ll want to invest in a filing cabinet. David Allen suggests using an A-Z filing system to limit the number of places that something could be.
 
-# Turn off notifications
+If you’re a paperless person, you’ll be looking for some kind of long-term storage solution. The one that most have found to work well is Evernote. Another that is similar is OneNote.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+I prefer to have my reference material with me at all times, which led me to a cloud-based solution. I've developed a split system between Evernote and DropBox. Evernote holds everything except actual files. For that I use [a (dis)organized system](http://joebuhlig.com/file-naming-disorganization/) in DropBox.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+Evernote users will be either notebook-based or tag-based. I'm tag-based and have developed [a tagging system](http://joebuhlig.com/simple-trick-naming-tags/) that makes it easy for me to quickly find anything I’m looking for.
 
-# Collect it
+## List Manager
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+Boiled down, GTD is about managing lists. That’s it. You’re looking for a list manager. Some are quite advanced and others are simple. You can use something robust like [Omnifocus](http://joebuhlig.com/omnifocus-setup-workflow/) but you can also keep track of lists in a simple text file. The level of detail and the amount of functionality that you want is up to you. Keep in mind that the majority of what you're collecting will go here.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+When looking for a list manager make sure you have the ability to look at your projects and your contexts from different views. You will find it much easier to manage if you can plan out your projects in one view and work from another.
 
-# Schedule time for distractions
+Here's an article on how I [use Omnifocus](http://joebuhlig.com/omnifocus-setup-workflow/) for this.
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+## Calendar
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+It's best to only add items to your calendar that you need to be present for. That includes meetings, local events, commitments to your kids, or even agreements with yourself. Whatever they are, you _will_ be there for them without question. To-dos and reminders are best kept in your list manager and tickler systems.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+Currently, I'm using a mix of MS Exchange and Google Calendar. All commitments with another person go on the Exchange calendar so I'm seen as "busy" and to keep others from booking meetings during these times at work.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+Any agreements with myself that don't involve someone else go into my Google Calendar. These can include times for writing, intentional thinking, brainstorming, or administrative tasks. I keep them here so they don't mess with my availability on the Exchange server.
+
+I deviate from the rule of "meetings with a person" in my Exchange calendar when I have an agreement with myself that I feel is important.
+
+## Tickler
+
+The original concept behind the Tickler is an intricate system of [43 folders](http://en.wikipedia.org/wiki/Tickler_file). You name 12 of them after the months and number the remaining 31 for each day of the month. You look at the folder for the month and day for today to see what items you need to see or make a decision on today. It’s a system that worked well when we didn’t have a computer in our pocket at all times.
+
+Today, we can use reminder applications and calendars to make the Tickler more robust than checking a folder in the morning.
+
+I'm using a separate calendar in Google for events that I want to remember but haven't committed to. I set up a reminder on an Evernote note with information I want sent to myself at a specific time. If it's just a simple reminder, I'll add it to Apple's Reminders on the iPhone.
+
+## What comes next?
+
+You'll want to review your system at different levels before you decide what to do each day. You need perspective to intuitively choose where your time is best spent. That's where we'll pick up next time.

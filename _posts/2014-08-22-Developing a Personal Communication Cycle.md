@@ -3,51 +3,41 @@ title:  "Developing a Personal Communication Cycle"
 date:   2014-08-22
 categories: blog
 tags:
-- distractions
-- life
+- communication
 permalink: /developing-personal-communication-cycle/
 image: /assets/posts/Developing-a-Personal-Communication-Cycle.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+Recently a coworker confronted me on something I struggle with. Communicating. I’m introverted and love to come up with ideas, but I’m terrible at deciding when to share those ideas.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+It’s not that I don’t want my ideas to spread. It’s not that I don’t want to let people see what I’m thinking. I was simply waiting to share until someone asked or it was vital to the next steps of a project. But that put me in defense mode. I was constantly reacting to questions and demands.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+The other issue I created was a lack of a clearly laid out plan. Since I wasn’t sharing my thoughts and actions on a project, the people involved were making their own plan. That created a lot of tension.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+I’m currently transitioning from a _doer_ role into a _leader_ role in my career. And that means most of the work I do is developing ideas or making decisions. I didn’t fully realize this until my colleague gracefully approached me about it. And I’m grateful. It doesn’t help if I come up with an idea or make a decision and don’t tell anyone about it. Simple, I know, but that’s where I was.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+I did some research on when to share ideas, but didn’t find a whole lot. So I spent some time thinking through my processes and decided to insert a _communicate_ step into my workflow. With my mind having a systems-approach to things, it makes perfect sense to me.
 
-I've adopted these three habits to put distractions in their place:
+Here’s the new 4-step process:
 
-# Turn off notifications
+## 1\. Collect
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+The process starts by actively thinking through an idea or holding a meeting. I have information come to me or I generate it through mind maps, drawing on a whiteboard, or something to get the ideas out of my head.
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+## 2\. Process
 
-# Collect it
+Once I have the information collected, I process it. If it’s from a meeting, I’ll look through my meeting notes and formulate my opinions and thoughts about what was discussed. If it’s an active thinking session, I’ll look over what I made in the process and do the same.
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+## 3\. Communicate
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+Here’s the added step: once I’ve processed the information and have my opinions and thoughts put together, I write an email or set up a call to go over it. I make sure to include the actions that I’m planning when I do this.
 
-# Schedule time for distractions
+## 4\. Act
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+After I’ve communicated my thoughts and action plan, I start working on it. I work to complete the actions I laid out. Since I already shared the plan, I also have accountability to get it done in the time frame I laid out.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+When I have the actions completed or have another idea, the process starts all over.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+It’s a simple cycle. But in only a couple weeks, it has lowered my stress levels, helped me accomplish more, and helped our team see the vision behind the projects I’m leading. And that helps us all work better.

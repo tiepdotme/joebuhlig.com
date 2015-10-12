@@ -3,51 +3,62 @@ title:  "Pros and Cons of Apple Watch"
 date:   2014-09-12
 categories: blog
 tags:
-- distractions
-- life
+- apple
+- watch
 permalink: /pros-cons-apple-watch/
 image: /assets/posts/Pros-and-Cons-of-Apple-Watch.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+Last Tuesday, Apple unveiled their new Smart Watch— the [Apple Watch](http://www.apple.com/watch/). It came with a lot of fanfare and definitely looks compelling. But is it really going to be worth it?
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+I ask this question mostly for myself. I drank the Apple Kool-aid and now find myself wanting every new device they come out with. I already decided that the iPhone 6 wasn’t enough of a change to warrant an upgrade for me... but should I pick up an Apple Watch?
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+## Pros
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+### 1\. Activity Monitor
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+I’ve been debating a [Jawbone](https://jawbone.com/up) or a [FitBit](http://www.fitbit.com/flex) for quite some time. Having an activity-tracking device built into my watch that perfectly integrates with my Apple ecosystem would be perfect! I’m starting to get into cycling and this would make the data collection much easier.
 
-I've adopted these three habits to put distractions in their place:
+### 2\. Directions
 
-# Turn off notifications
+Many of us are using our phones for directions. It would be nice to have them on my wrist for easy access while I’m driving or walking. It simply adds a convenience factor.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+### 3\. New Communication Methods
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+With the new drawing, tapping, and heartbeat messages available, styles of communication can change. And that’s kind of cool.
 
-# Collect it
+### 4\. Wallet
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+Using [Apple Pay](http://www.apple.com/apple-pay/), you can pay for things using [NFC](http://en.wikipedia.org/wiki/Near_field_communication) through your watch. It makes transactions easier.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+### 5\. Remote
 
-# Schedule time for distractions
+We use an Apple TV for Netflix and streaming video from my iPad. Controlling the TV from my watch would keep me from reaching for the remote. Because we all know that might kill me.
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+## Cons
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+### 1\. Big Distraction
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+It seems I'd be able to do a lot and do it quickly from Apple Watch. Although that can be perceived as a great thing, it would be [distracting](http://joebuhlig.com/put-distractions-place/). I can too easily see myself ignoring my family when my watch vibrates.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+### 2\. Increased Screen Time
+
+It’s right there on my wrist. It’s a screen in front of me the moment I want it. Screen time will only go up if it’s that easy.
+
+### 3\. Always Available
+
+It brings _all_ of our communication methods right to my wrist. That means that if someone calls, emails, texts, tweets, or facebooks me in any way, I have it front of me immediately. I’m not ok with that.
+
+### 4\. Wallet
+
+Since your watch becomes a wallet, it’s way too easy to buy things we don’t need. Just saying. If anything, go back to cash and cut the credit cards.
+
+### 5\. Fear of Breaking it
+
+I have a woodshop that I enjoy spending time in. I also do a lot of handyman projects around the house. I can’t help but think that the times when I’m being active (and want to track it) that I’ll be prone to breaking a $350 watch!
+
+## Conclusion
+
+It’s not for me. As much as I would like to convince myself that it would be a good idea (and I have tried), I can’t. It doesn’t allow me to do anything I can’t already do. The convenience is great, but it would be too convenient for my lifestyle. It’s a really nice piece of technology, but I’ll pass.

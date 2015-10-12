@@ -3,51 +3,95 @@ title:  "Using Omnifocus for Someday/Maybe Lists"
 date:   2015-05-01
 categories: blog
 tags:
-- distractions
-- life
+- gtd
+- omnifocus
 permalink: /using-omnifocus-for-somedaymaybe-lists/
 image: /assets/posts/Using-Omnifocus-for-Someday-Maybe-Lists.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+For a long time, I kept my active Next Actions in Omnifocus and my potential (someday/maybe) actions in Evernote. It worked, but it felt a bit cluttered so I moved it all into Omnifocus.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+## Why keep someday/maybe lists in Omnifocus?
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+The main reason I wanted someday/maybe lists in Omnifocus was the ease of activating them. It’s pretty common for me to pull items from these lists each week and spell out tasks for them. If they’re already in Omnifocus, it’s easy to change the project/context of the task or turn it into a project.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+My secondary reason was to streamline the apps I used in my [GTD](http://joebuhlig.com/getting-things-done-introduction/) setup. [Omnifocus](http://joebuhlig.com/omnifocus-setup-workflow/) held all of my active tasks and projects while [Evernote](http://joebuhlig.com/evernote-setup-workflow/) held my goals, someday/maybe lists, and reference materials. It worked, but it never felt smooth.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+The altered setup brought my goals and someday/maybe lists into Omnifocus. The goals portion was simple, but the someday/maybes were more of a challenge. I prefer to collect these directly to their respective lists. As far as I know, there’s not a way to enter text (without entering a project/context) and have it auto-process into the right place in Omnifocus. So I made my own:
 
-I've adopted these three habits to put distractions in their place:
+## How it works:
 
-# Turn off notifications
+In practice, here’s what I do:
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+1.  Open [Drafts](http://agiletortoise.com/drafts/) on my phone
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+2.  Type the item (and any notes about it)
 
-# Collect it
+    <img src="/assets/posts_extra/Drafts_Typing.png" />
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+3.  Select the action for the appropriate list
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+    <img src="/assets/posts_extra/Drafts_actions.png" />
 
-# Schedule time for distractions
+Behind the scenes, here’s what happens:
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+1.  The title of the draft and the body of the draft are appended to a pre-formed subject line of an email.
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+2.  The email is sent to my [Mail Drop email address](https://support.omnigroup.com/omnifocus-mail-drop) with the custom subject line.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+3.  The email is transformed into a task in Omnifocus and added to my inbox.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+4.  An AppleScript that’s running in the background on my Mac finds the task in my inbox and parses it.
+
+5.  The parsing procedure cleans up the title of the task and puts it in the correct place with the right metadata.
+
+## The Setup
+
+Requirements: Drafts app, Pro version of Omnifocus for Mac (you do not need the iOS app to make this work).
+
+1.  For each someday/maybe list, add a Drafts action that sends an email to your MailDrop address with the following format for the subject line:
+
+          --[[title]] @Context ::Project //[[body]]
+
+2.  Open Script Editor on your Mac, and add the following AppleScript:
+
+    {% gist joebuhlig/c91ca9d5a47ab09d3525 %}
+
+3.  Save the AppleScript as an always open app.
+
+    <img src="/assets/posts_extra/Always_Open_Application.png" />
+
+4.  Open the app and set it to open at login by right-clicking the app icon in the dock.
+
+## Notes
+
+This process could be used with IFTTT or any other system that sends an automated email. As long as you can get the formatted subject line into the email and send it to your MailDrop address, the script will handle it. I’m using Drafts to do this since it’s my main digital capture tool.
+
+Here’s an example of the full syntax you can use in the subject line:
+
+     --Fix bathroom wiring! @After Hours ::House/Car - SA #friday #next monday $30 min //It’s driving me crazy.
+
+This creates a flagged task named “Fix bathroom wiring” with the context of “After Hours and project of “House/Car - SA”. Its start date will be Friday with a due date of next Monday. The time estimate for it will be 30 minutes and the note will be “It’s driving me crazy.”
+
+*   “--“ sets the name of the task.
+*   The “!” after the task name is what sets the flag.
+*   “@“ sets the context.
+*   “::” sets the project.
+*   The first “#” sets the defer date.
+*   The second “#” sets the due date. If only one “#” exists, Omnifocus assumes it’s a due date.
+*   “$” sets the time estimation.
+*   “//“ sets the note for the task.
+
+## Reviewing the someday/maybe lists
+
+Since Omnifocus already has a Review process built in, these lists are easy to add. Select all of these lists and set the review period to every week and the review date as the next day you’ll do your [weekly review](http://joebuhlig.com/getting-things-done-reflect/). Each week when you take time for the weekly review, these will automatically be in the list of projects.
+
+## Activating items
+
+The best part about having someday/maybe lists in Omnifocus is the ease of activating items from them. When I review these lists and find a task I’d like to take on or need to complete soon, I can change the project/context that are assigned to it and it falls in place immediately.
+
+This has been great for me. It’s removed the resistance I had to reviewing my someday/maybe lists and streamlined the process of acting on them when I decide to say “yes” to something. It also [frees my mind](http://joebuhlig.com/getting-things-done-introduction/). It’s one less app I need to look at when I’m trying to find a potential action item.
+
+**Update:** If you're interested, I have an update to the process I'm using for this that you can [find here](http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/).

@@ -3,51 +3,57 @@ title:  "Siri to Omnifocus"
 date:   2015-03-20
 categories: blog
 tags:
-- distractions
-- life
+- capture
+- omnifocus
+- siri
 permalink: /siri-to-omnifocus/
 image: /assets/posts/Siri-to-Omnifocus.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+I don’t have a daily commute but I still find myself in the car having ideas from time to time. I don’t want to lose those ideas, but I shouldn’t be typing into my phone or writing things while I’m driving.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+I use [Omnifocus](http://joebuhlig.com/omnifocus-setup-workflow/) as my list manager for [Getting Things Done](http://joebuhlig.com/getting-things-done-introduction/). Naturally, I want to collect things into the Omnifocus inbox as easily as possible. But when I’m in a situation where I can’t use my hands to write or type, I need to do it with my voice.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+## The Setup
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+Thankfully, the team over at [OmniGroup](http://www.omnigroup.com) figured out a way to dictate tasks into Omnifocus using Siri. Here’s how to set it up:
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+1.  Create a new list in Reminders
 
-I've adopted these three habits to put distractions in their place:
+    Open the Reminders app on your iPhone and tap on New List at the top. You can name your new list and also give it a color. I recommend naming it _Omnifocus_. This will make it easier to manage later.
 
-# Turn off notifications
+    <img class="center-image post-image-small" src="/assets/posts_extra/NewRemindersList.jpg" />
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+2.  Turn on Reminders Capture and choose your new list
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+    From the home screen of Omnifocus on your iPhone, swipe down and you’ll see a toolbar at the top. Tap on Settings and scroll down and go into the Reminders setting. Turn on Reminders Capture and select your newly created Reminders list from the options.
 
-# Collect it
+    <img class="center-image post-image-small" src="/assets/posts_extra/RemindersCapture.jpg" />
+    
+3.  Invoke Siri and ask it to remind you of something
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+    That’s it! You’ve got it set up. Now you can invoke Siri and ask it to remind you to do something. Siri will add it to your list in Reminders and Omnifocus will pull the item from the list and add it to your inbox.
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+## Tips for dictating tasks
 
-# Schedule time for distractions
+1.  Choose your list
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+    If the new list you set up isn’t your default Reminders list, you’ll need to tell Siri where to add the item. “Siri, add… to my <yourlist>.” Otherwise, the item will end up on your default list and Omnifocus won’t be able to find it. You can change your default list from the Settings app of your iPhone.</yourlist>
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+2.  “Remind me to…”
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+    This is the most common version of dictation that I use with Siri. Since I have my default list selected in Omnifocus, I can simply say “Remind me to take out the trash” and “Take out the trash” ends up in my Omnifocus inbox.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+3.  “Remind me to… at <date time="">”</date>
+
+    If you have a reminder with a due date, you can use this version. Siri will add an alert to the reminder and Omnifocus will translate that reminder into a due date for the task when it lands in your inbox.
+
+4.  “Hey Siri…”
+
+    I love this feature! Since I mostly use this when I’m driving and I typically use my iPhone for directions, I normally have my phone plugged into the car. When your iPhone is plugged in you can invoke Siri by simply saying “Hey Siri.” You don’t need to pick up the phone at all. Just start talking.
+
+Note: This requires you to turn on the “Hey Siri” feature at Settings > General > Siri > Allow “Hey Siri”.
+
+Dictating tasks into Omnifocus has made life a lot easier when I’m traveling. I don’t have to worry about getting things off my mind when I’m driving. I can always speak it into Siri to make sure I don’t lose that amazing idea.

@@ -3,51 +3,72 @@ title:  "MacBook Pro vs. MacBook Air"
 date:   2015-08-07
 categories: blog
 tags:
-- distractions
-- life
+- apple
+- hardware
 permalink: /macbook-pro-vs-macbook-air/
 image: /assets/posts/Macbook-Pro-Vs-MacBook-Air.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+I’ve recently undergone a work transition that led me to purchasing a new MacBook Pro. My traveling work machine was a MacBook Air and I’ve found a few differences in the two that make me wish I’d done this earlier.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+## [<span></span>](#my-computer-uses)My computer uses
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+These debates are worthless if you don’t understand the purpose of the machines. Someone who lives in email all day has no real use for a fully upgraded Mac Pro. Unless, of course, they just really like the Mac Pro, have $10,000 to blow, and like watching 18 YouTube videos at once on three 2k monitors. Then it makes perfect sense.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+I’m a technology [consultant](http://joebuhlig.com/contact/) and developer. I’m also starting up a [podcast](http://joebuhlig.com/whaddyaknowjoe/) and writing a [book](http://joebuhlig.com/omnifocus/). I need a machine that can handle writing (articles, books, emails, and a lot of code) and audio editing. My wife does design work on the same computer, so there’s also a need for a quality screen and the ability to run the Adobe programs.
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+I used the MacBook Air while working for my previous employer. That job required me to use some PC-based programs, so I used Parallels and Windows. The new computer doesn’t need to do that. I’m 100% Apple at this point.
 
-I've adopted these three habits to put distractions in their place:
+Here’s the breakdown of the two computers:
 
-# Turn off notifications
+## [<span></span>](#the-macbook-air-mid-2013)The MacBook Air (mid-2013)
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+*   Screen: 13 inch
+*   Processor: 1.7 GHz i7
+*   Ram: 8 GB
+*   Hard Drive: 512 GB Flash
+*   Model: A1466
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+## [<span></span>](#the-macbook-pro-early-2015)The MacBook Pro (early-2015)
 
-# Collect it
+*   Screen: 13 inch (retina)
+*   Processor: 2.7 GHz i5
+*   Ram: 8 GB
+*   Hard Drive: 128 GB SSD
+*   Model: A1502
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+## [<span></span>](#downgraded-hard-drive)Downgraded hard drive?
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+All of the numbers either go up and stay the same except the hard drive. Some of my reasoning for that is price. SSDs are still pretty expensive and I already have 5 TBs of external hard drives that are grossly underused. I don’t need more storage right now.
 
-# Schedule time for distractions
+I did some diagnostics on the MBA and found that if I pulled the Parallels/Windows process from the machine, I would have been using about 125 GB on the hard drive. I also never shifted files from the internal hard drive. So the shift to a much smaller hard drive was easy to justify for me. I could easily use [Hazel](http://www.noodlesoft.com/hazel.php) to help me keep the MBP clean and keep cold-storage files on an external.
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+### [<span></span>](#1-screen-resolution)1\. Screen Resolution
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+I hadn’t looked at a retina display before I bought the MBP. I had read enough reviews from people that swear by it and say they’re ruined once they’ve used one. Listen to them. They are absolutely right. You can’t go back.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+I was setting up the MBP as a new machine while referencing the MBA. I eventually needed to let my eyes adjust to the MBA before I could work on it. Sure I’m neurotic and picky, but yes, the MBP was that much better.
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+It’s easy to say that the retina display is amazing. I don’t think anyone will argue with that. Is it worth the extra money for a MBP right now? If you’re doing development or design of any kind, the retina display is a must.
+
+### [<span></span>](#2-weight)2\. Weight
+
+I didn’t notice this at first, but I know a number of people complain about it - the weight of the MBP vs the MBA. There’s about one pound difference between them.
+
+I actually prefer the heavier MBP in this case. I’ve always felt that I was about to break the MBA when I’m opening the lid. My wife can attest to me being good at pushing things too far and breaking them (for some inexplicable reason, not everything is as durable as a tractor). So I was always a bit paranoid about snapping off the screen.
+
+The MBP is solid. It doesn’t pick the front of the computer up off the table when I try to open it with one hand. I really like that. It just feels like it’ll last forever and will take more abuse than the MBA. I just need to remember not to take advantage of that.
+
+### [<span></span>](#3-keyboard)3\. Keyboard
+
+Ok, someone tell me I’m wrong here, but there’s a different keyboard in the MBP. It’s not super clicky, but it’s not real light either. I didn’t care for how light the response was on the MBA and I’ve always felt the Apple Bluetooth keyboards were too much. But the MBP has a nice balance between the two.
+
+My only trouble with this is that I’ll be putting the MBP into a laptop stand of some kind (likely sitting on top of boxes) so I won’t actually be using the built-in keyboard for the majority of the time. I’ll be using the Apple Bluetooth keyboard.
+
+At this point, I’m splitting hairs. There’s only a very slight difference between the two that I can feel. So slight, that it has zero effect on my typing speed and ability. I’m just saying that I prefer the keyboard on the MBP to the external.
+
+## [<span></span>](#post-mortem)Post-mortem
+
+I’m pretty stoked about having the MBP over the MBA. I know I’ll need to clear the hard drive more diligently, but that’s easy enough. Everything else says I made the right decision.

@@ -3,51 +3,56 @@ title:  "Workflow to Share Articles with Twitter Handle"
 date:   2015-08-28
 categories: blog
 tags:
-- distractions
-- life
+- apps
+- workflow
 permalink: /workflow-to-share-articles-with-twitter-handle/
 image: /assets/posts/Workflow-to-Share-Articles-with-Twitter-Handle.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+I like to share articles on [Twitter](https://twitter.com/joebuhlig). And I want to make sure I give the author credit in the tweet. But it’s not always easy to find their Twitter handle.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+I can usually track it down, but I can quickly derail and find myself down a rabbit hole of links. I’m on a mission, but it’s too easy to click on another article and lose 20 minutes.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+I mentioned the app [Workflow](https://workflow.is) ([iTunes](https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8&at=1l3vnyQ)) on my [home screen post](http://macsparky.com/blog/2015/7/home-screens-joe-buhlig) for MacSparky’s site. It’s a tool that I continue finding more uses for. In this case, I found a way to search the source code of an article to find all the potential Twitter handles on the page.
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+## [<span></span>](#caveats)Caveats
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+Making this happen was easier than I was expecting, but there are a few caveats you should be aware of **before using this**:
 
-I've adopted these three habits to put distractions in their place:
+1\. Intent, Share, Sharer
 
-# Turn off notifications
+There are times when the list of handles shows up and has one of these values. It’s because the article has a share bar of some kind on it. I could find a way to exclude these from the list but it wasn’t a quick fix for me and I didn’t want to spend too much time on it.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+2\. Not 100%
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+If there’s a handle on the page, the workflow usually finds them. But there are instances where I know that a handle is in the article and it still doesn’t find it. I haven’t been able to track down why, but it’s infrequent enough that I don’t worry about it.
 
-# Collect it
+## [<span></span>](#how-it-works)How it works
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+You can [find the workflow here](https://workflow.is/workflows/6ba3ee1f5f7d4be7bfbe5ed867848662), but here’s the process:
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+1\. Get the URL and expand it
 
-# Schedule time for distractions
+I use this primarily from Pocket. It drives me crazy when services shorten links with their own shortener. So the first thing the workflow does is get the URL from the input and expand it. It then takes the expanded URL and saves it to a variable for later.
 
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
+2\. Get URL contents and make HTML
 
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
+It then takes the URL, fetches the content of the webpage, and creates an HTML document from it. This is what allows searching in the next step.
 
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
+3\. Search for Twitter handles
 
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+Using a RegEx search string, it looks for anything that looks like a Twitter handle in the source HTML. It takes the results of that search and adds it to a list that you choose from.
+
+4\. Create the share string
+
+The last step is to create the string of text that will be passed to the share sheet. It uses the expanded URL from the beginning and the handle you selected to create the string. You can alter this for yours if you like a different format.
+
+## [<span></span>](#using-the-workflow)Using the workflow
+
+When you find an article you want to share, invoke the share sheet and hit Run Workflow. Select this workflow and wait for it to ask which Twitter handle to use. Once you’ve selected one, the share sheet will pop up again and you can pick your method of sharing. It will dump the created share string into the application. All you have to do is add your comment to the beginning of the string. Poof!
+
+**UPDATE:** I had a number of requests to add the title of the article to the tweet. I wanted to encourage myself to add an original comment about the article, but sometimes want this as well. So I went ahead and [created another version](https://workflow.is/workflows/6898d8d15333417fa6da8ab316c32c5b) that adds the title to the beginning of the tweet. Enjoy!
+
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3ipphq/workflow_to_share_articles_with_twitter_handle/)

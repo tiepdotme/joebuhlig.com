@@ -3,51 +3,31 @@ title:  "Getting Things Done: Introduction"
 date:   2014-10-24
 categories: blog
 tags:
-- distractions
-- life
+- gtd
 permalink: /getting-things-done-introduction/
 image: /assets/posts/GTD-Introduction.jpg
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+Why do we think we can manage our lives with only our memory? It’s certainly flawed. It doesn’t even remind us of what we need when we need it. It waits until we’re in bed and can’t do anything about it.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+We have loads of “stuff” that we try to keep track of in our minds. We have random [information about work projects](http://joebuhlig.com/managing-project-information/), a bucket list, things we need someone else to complete, batteries to change in the thermostat, water to turn off for the winter, sound to run at church this weekend, and the list goes on and on. And it grows faster than we can knock them out. It’s no wonder we’re all stressed and forget things constantly. The part that drives me crazy is the nagging. Our brains won't stop thinking about a task until it’s done. Our minds continue to bring it up (with bad timing) over and over again until we do something about it.
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+## Getting Things Done (GTD)
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+This is the start of a series of posts about GTD. It’s a system developed (or discovered depending on how you look at it) by David Allen in the [book by the same name](http://www.amazon.com/gp/product/B000WH7PKY?btkr=1) with the great subtitle “The Art of Stress-Free Productivity.” It’s a framework that solves our problem with “stuff.” There are [5 steps to GTD](http://gettingthingsdone.com/fivesteps/) that I’ll dive into with upcoming posts, but here’s a quick overview:
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+1.  _Capture_ - When a thought or action comes to mind that you need (or want) to do something with, grab it right then.
+2.  _Clarify_ - Go through the “stuff” that you collected in step one and give it meaning.
+3.  _Organize_ - Put it in place. Take your defined items and get them into lists for later use.
+4.  _Reflect_ - Look over your lists to do any clean up and decide what comes next.
+5.  _Engage_ - Do it. Now that you have everything in place, do something about it.
 
-I've adopted these three habits to put distractions in their place:
+## Mind Like Water
 
-# Turn off notifications
+The main goal behind GTD is to free up your mind. As David Allen likes to say, “Your mind is for having ideas, not holding them.” If you get things out of your head and into your trusted system, you can focus your mind on the task at hand or the person in front of you as opposed to remembering what you need to do next. It’s a way of bringing yourself back to the present because you’re not worrying about all the things you have to do. If you throw a rock into a calm pond, you see a splash and then some ripples start to form. The water reacts to forces around it in that moment and then slowly returns to its original state. GTD is a way to give your mind that ability. Getting things out of your mind and into a trusted system allows you to react to the new things coming at you and then return to your original state.
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+## My personal angle
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
-
-# Collect it
-
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
-
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
-
-# Schedule time for distractions
-
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
-
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
-
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+GTD doesn’t dictate the tools that you use. It’s a framework that you use with whatever tools you choose. I’ll be showing the main points of each step in upcoming articles, but keep in mind that I’m an Apple fan and a digital person. I like to avoid analog. Though I do [keep paper around](http://joebuhlig.com/what-is-an-hpda-and-how-do-i-use-it/) for taking notes and writing down ideas, I promptly transfer it to a computer and throw it away. The system is geek-friendly and yet easily used in an analog form. There are a number of people who work the system using only pen and paper. And it works great for them. You’ll need to choose tools that you are already familiar with and enjoy using.

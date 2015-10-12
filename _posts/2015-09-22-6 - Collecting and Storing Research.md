@@ -3,8 +3,8 @@ title:  "6: Collecting and Storing Research"
 date:   2015-09-22
 categories: podcast
 tags:
-- distractions
-- life
+- evernote
+- research
 permalink: /6/
 image: /assets/posts/Collecting-and-Storing-Research.jpg
 podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ006.mp3
@@ -14,45 +14,46 @@ podcast_length: 16701394
 podcast_guid: ?p=893
 ---
 
-We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
+When you have a new project that you're doing research on, you need a great way to grab and store that research. Referencing it later can be invaluable and save you the trouble of doing that same research multiple times.
 
 <!--more-->
 
-I was having a blast with my daughter on the floor. I chased her around the kitchen island and back into the living room. She loved it! Especially if we did it again and again and again. Around in circles we went!
+[My Evernote Setup and Workflow][2]
 
-Then my pocket said, "Ding!". I pulled out my phone to see what it was. Someone I didn't know had favorited one of my tweets on Twitter.
+[A Simple Trick for Naming Tags][3]
 
-Wait! _What just happened?_ I stopped playing with my daughter to acknowledge that a stranger liked something I posted on social media. A stranger took priority over my daughter. In what world is that okay?
+[Hazel][4]
 
-How do we deal with distractions appropriately? We have a lot of them, and what qualifies as a distraction seems to be different for everyone. For me it can be social media, the urge to check email, unimportant phone calls, and every "ding" my pocket makes—and I'm terrible at dealing with them if I'm not prepared.
+[wkhtmltopdf][5]
 
-I've adopted these three habits to put distractions in their place:
+[PathFinder][6]
 
-# Turn off notifications
+[Save URL Workflow][7]
 
-There are few things your screens _need_ your attention for. Think about that. How important is it that you know immediately when you're mentioned on Twitter? How important is it that you know the moment a new email comes in? Do you really need to know that someone beat you at Angry Birds the instant it happens?
+[Article to PDF Workflow][8]
 
-Go through your phone and turn off every notification you can bring yourself to turn off. This is hard. Really hard. If you're used to getting these types of alerts you will feel like something is missing. That's okay, you'll get used to it.
+[@WhaddyaKnowJoe][9]  
+Use the hashtag #question to ask a question.
 
-# Collect it
+[@JoeBuhlig][10]
 
-When you remember something you need to do, write it down. When an idea comes to you, write it down. When you notice something that needs fixed or taken care of, write it down. You don't need to act immediately (unless it's an emergency, of course). Just collect it somewhere that you will be reminded of it later.
+[Become a Patron][11]
 
-I use a combination of [Omnifocus][2] and [Evernote][3] to do this. Omnifocus keeps track of the things I need to do. Evernote keeps track of pretty much everything else. For both, I use my handy [hPDA][4] or I'll use [Drafts][5] on the iPhone to collect the thought and send it where it belongs. **Put the distraction aside for now and come back to it later when you have time.**
+[Discuss this on Reddit.][12]
 
-# Schedule time for distractions
-
-This has worked wonders for me. I'm someone that can easily jump onto [Quora][6] or [Medium][7] and spend way too much time there. I have to set a specific time aside for them and make sure there's a limit. I like to lump all my social media checking together. I run through it a couple times a day and try to spend no more than 10 minutes on it—unless there's a post on productivity :)
-
-I even schedule time for email. **It's not a distraction if I have time allocated for it.** I have time in the late morning and the afternoon to process my inbox. Yes, there are times when I fail. Coming from a corporate environment, I find myself wanting to leave it open all day, but that doesn't help my productivity one bit.
-
-Have you ever been to a family gathering and noticed all your relatives on their devices? Ever gone to a restaurant with friends and found yourself checking email? It's a recent struggle that our culture finds itself up against. What are you doing to fight it?
-
-[1]: http://joebuhlig.com/wp-content/uploads/2014/05/PutDistrationsInTheirPlace.jpg
-[2]: http://www.omnigroup.com/omnifocus/
-[3]: https://www.evernote.com/referral/Registration.action?uid=49404&amp;sig=e2dd914576c3ec9818e0311976a19dc1
-[4]: http://en.wikipedia.org/wiki/Hipster_PDA
-[5]: http://agiletortoise.com/drafts/
-[6]: http://www.quora.com/
-[7]: https://medium.com/
-  
+[1]: http://joebuhlig.com/wp-content/uploads/2015/09/Collecting-and-Storing-Research.png
+[2]: http://joebuhlig.com/evernote-setup-workflow/
+[3]: http://joebuhlig.com/simple-trick-naming-tags/
+[4]: http://www.noodlesoft.com/hazel.php
+[5]: http://wkhtmltopdf.org/
+[6]: http://www.cocoatech.com/pathfinder/
+[7]: https://workflow.is/workflows/65a75670ff9542d7b0de56d0a30bd4dc
+[8]: https://workflow.is/workflows/bfecb2d5d7ac405b8a173f8bf4fad48a
+[9]: https://twitter.com/whaddyaknowjoe
+[10]: https://twitter.com/JoeBuhlig
+[11]: http://joebuhlig.com/patron/
+[12]: https://www.reddit.com/r/joebuhlig/comments/3lx6iu/6_collecting_and_storing_research/
+[13]: http://traffic.libsyn.com/whaddyaknowjoe/WKJ006.mp3 "Play in new window"
+[14]: http://traffic.libsyn.com/whaddyaknowjoe/WKJ006.mp3 "Download"
+[15]: https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948?mt=2&ls=1 "Subscribe on iTunes"
+[16]: http://subscribeonandroid.com/joebuhlig.com/feed/podcast/ "Subscribe on Android"
