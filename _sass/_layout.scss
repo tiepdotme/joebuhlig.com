@@ -271,6 +271,10 @@
     padding: 0px;
     position: relative;
     z-index: 100;
+
+    @include media-query($content-width + 50px) {
+        padding: 0px 10px;
+    }
 }
 
 .page-heading {
