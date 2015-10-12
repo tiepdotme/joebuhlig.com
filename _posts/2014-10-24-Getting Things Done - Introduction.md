@@ -8,8 +8,6 @@ permalink: /getting-things-done-introduction/
 image: /assets/posts/GTD-Introduction.jpg
 ---
 
-{% include series_gtd_intro.html %}
-
 Why do we think we can manage our lives with only our memory? It’s certainly flawed. It doesn’t even remind us of what we need when we need it. It waits until we’re in bed and can’t do anything about it.
 
 <!--more-->
@@ -33,3 +31,5 @@ The main goal behind GTD is to free up your mind. As David Allen likes to say, �
 ## My personal angle
 
 GTD doesn’t dictate the tools that you use. It’s a framework that you use with whatever tools you choose. I’ll be showing the main points of each step in upcoming articles, but keep in mind that I’m an Apple fan and a digital person. I like to avoid analog. Though I do [keep paper around](http://joebuhlig.com/what-is-an-hpda-and-how-do-i-use-it/) for taking notes and writing down ideas, I promptly transfer it to a computer and throw it away. The system is geek-friendly and yet easily used in an analog form. There are a number of people who work the system using only pen and paper. And it works great for them. You’ll need to choose tools that you are already familiar with and enjoy using.
+
+{% include series_gtd_intro.html %}

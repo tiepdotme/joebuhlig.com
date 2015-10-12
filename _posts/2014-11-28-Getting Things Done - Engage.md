@@ -9,8 +9,6 @@ permalink: /getting-things-done-engage/
 image: /assets/posts/GTD-Engage.jpg
 ---
 
-{% include series_gtd_intro.html %}
-
 Deciding what to work on can be simple -- it doesn't have to be stressful. GTD can help you make the decision quickly and easily.
 
 <!--more-->
@@ -40,3 +38,5 @@ What's most important right now? You'll likely need to trust your intuition here
 Consider these four criteria when you're deciding what to work on next and you'll simplify one of the most difficult decisions we face every day -- what do I work on next?
 
 In the next post, I'll walk you through a typical day from my perspective and show how GTD frees up my creative capabilities.
+
+{% include series_gtd_intro.html %}

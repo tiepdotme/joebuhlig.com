@@ -9,8 +9,6 @@ permalink: /getting-things-done-day-life/
 image: /assets/posts/GTD-A-Day-in-the-Life.jpg
 ---
 
-{% include series_gtd_intro.html %}
-
 There are a lot of articles about setting up GTD. But I don't see many that show what a typical day looks like when you adopt the framework.
 
 <!--more-->
@@ -66,3 +64,5 @@ Every Sunday morning, I take the time I would normally spend on MITs to review m
 I look at my action lists and see what my workload looks like for the next week. I try to be honest with myself by choosing only the items that I want to complete this week. I push off anything that I don't have time for or isn't urgent... yet.
 
 The biggest advantage that I see with GTD is the ability to look at all events and actions that I have going on for the day and know what I can push off or work on depending on the energy and urgency of the day. It frees me up to focus on the task and not worry about it being the right task. I can have a "mind like water" and let my creativity roam.
+
+{% include series_gtd_intro.html %}

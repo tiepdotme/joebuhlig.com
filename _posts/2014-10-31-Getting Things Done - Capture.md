@@ -10,8 +10,6 @@ permalink: /getting-things-done-capture/
 image: /assets/posts/GTD-Capture.jpg
 ---
 
-{% include series_gtd_intro.html %}
-
 _Capture_ is the process of collecting ideas and actions. You’re accumulating task items, reference material, or even trash and putting them in an inbox of some kind.
 
 <!--more-->
@@ -55,3 +53,5 @@ If you’re planning to write things down and your mind can fling things at you 
 ## What comes next?
 
 Now that you’ve piled stuff in your inbox, you need to do something with it. Otherwise it’ll sit on your desk and die from lack of attention. You need to come back to it and _Clarify_ what you’re going to do about it. We’ll jump into that in the next post.
+
+{% include series_gtd_intro.html %}

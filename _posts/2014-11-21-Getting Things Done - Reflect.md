@@ -9,8 +9,6 @@ permalink: /getting-things-done-reflect/
 image: /assets/posts/GTD-Reflect.jpg
 ---
 
-{% include series_gtd_intro.html %}
-
 The Weekly Review is the most important part of the GTD process. Without it, you'll have loose ends and you'll no longer trust your system.
 
 <!--more-->
@@ -50,3 +48,5 @@ How far along are each of your projects? Do you have at least one action assigne
 If you have some bandwidth available, review these lists for projects you could make active in your system.
 
 Go through the entire system. Yes, _everything_. Review it all and make sure it's up-to-date and trustworthy. You have to trust your system in order to act on the items in it. We'll pick up next time with how to work toward your goals.
+
+{% include series_gtd_intro.html %}

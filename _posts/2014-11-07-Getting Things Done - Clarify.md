@@ -10,8 +10,6 @@ permalink: /getting-things-done-clarify/
 image: /assets/posts/GTD-Clarify.jpg
 ---
 
-{% include series_gtd_intro.html %}
-
 A lot of people write things down but fail to do anything with it afterwards. It just dies on the paper. Why write it down if you'll never look at it again?
 
 <!--more-->
@@ -106,3 +104,5 @@ If it’s an action that has multiple steps, add it to your Project List. You do
 The Clarify step is probably one of most helpful steps in the workflow because it helps get things out of your head and into an external brain of some kind. It helps you clear your mind and [opens up your creativity](http://joebuhlig.com/getting-things-done-introduction/).
 
 The next step in the workflow is Organize. It’s important to organize each of these buckets in a useful way, and there are a LOT of tools available to help.
+
+{% include series_gtd_intro.html %}

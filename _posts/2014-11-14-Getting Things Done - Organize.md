@@ -9,8 +9,6 @@ permalink: /getting-things-done-organize/
 image: /assets/posts/GTD-Organize.jpg
 ---
 
-{% include series_gtd_intro.html %}
-
 Organize. The favorite step of most GTDers. This is where you set up tools for tracking each bucket from the [Clarify step](http://joebuhlig.com/getting-things-done-clarify/).
 
 <!--more-->
@@ -60,3 +58,5 @@ I'm using a separate calendar in Google for events that I want to remember but h
 ## What comes next?
 
 You'll want to review your system at different levels before you decide what to do each day. You need perspective to intuitively choose where your time is best spent. That's where we'll pick up next time.
+
+{% include series_gtd_intro.html %}
