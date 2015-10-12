@@ -10,6 +10,8 @@ permalink: /getting-things-done-capture/
 image: /assets/posts/GTD-Capture.jpg
 ---
 
+{% include series_gtd_intro.html %}
+
 _Capture_ is the process of collecting ideas and actions. You’re accumulating task items, reference material, or even trash and putting them in an inbox of some kind.
 
 <!--more-->

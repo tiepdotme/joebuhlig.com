@@ -9,6 +9,8 @@ permalink: /getting-things-done-organize/
 image: /assets/posts/GTD-Organize.jpg
 ---
 
+{% include series_gtd_intro.html %}
+
 Organize. The favorite step of most GTDers. This is where you set up tools for tracking each bucket from the [Clarify step](http://joebuhlig.com/getting-things-done-clarify/).
 
 <!--more-->

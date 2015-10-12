@@ -8,6 +8,8 @@ permalink: /getting-things-done-introduction/
 image: /assets/posts/GTD-Introduction.jpg
 ---
 
+{% include series_gtd_intro.html %}
+
 Why do we think we can manage our lives with only our memory? It’s certainly flawed. It doesn’t even remind us of what we need when we need it. It waits until we’re in bed and can’t do anything about it.
 
 <!--more-->

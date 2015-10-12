@@ -33,14 +33,14 @@
 		for (var post in searchData) {
 			if ( searchData[post].title.match(new RegExp(currentSearchTerm, "i")) !== null || searchData[post].content.match(new RegExp(currentSearchTerm, "i")) !== null) {
 				newResults = newResults + '<div class="search-result-item">';
-				newResults = newResults + '<a href="' + searchData[post].permalink + '">';
 				newResults = newResults + '<div class="search-result-image-wrapper">';
+				newResults = newResults + '<a href="' + searchData[post].permalink + '">';
 				newResults = newResults + '<img class="search-result-image" src="' + searchData[post].image + '" />';
+				newResults = newResults + '</a>';
 				newResults = newResults + '</div>';
 				newResults = newResults + '<div class="search-result-excerpt">';
 				newResults = newResults + searchData[post].excerpt;
 				newResults = newResults + '</div>';
-				newResults = newResults + '</a>';
 				newResults = newResults + '</div>';
 			}
 		}

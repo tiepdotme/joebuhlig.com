@@ -9,6 +9,8 @@ permalink: /getting-things-done-engage/
 image: /assets/posts/GTD-Engage.jpg
 ---
 
+{% include series_gtd_intro.html %}
+
 Deciding what to work on can be simple -- it doesn't have to be stressful. GTD can help you make the decision quickly and easily.
 
 <!--more-->
