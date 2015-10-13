@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"9: Really? Journaling?",
+			"image":"/assets/posts/Really-Journaling.png",
+			"permalink":"/9/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"journaling",
+				"life"
+			],
+			"excerpt": "<p>I can’t believe I’ve started journaling every day. I’ve always equated journaling with writing in a diary, which is not for me. But the effects of not journaling caught me off-guard.</p>\n\n",
+			"content": "I%20can%E2%80%99t%20believe%20I%E2%80%99ve%20started%20journaling%20every%20day.%20I%E2%80%99ve%20always%20equated%20journaling%20with%20writing%20in%20a%20diary,%20which%20is%20not%20for%20me.%20But%20the%20effects%20of%20not%20journaling%20caught%20me%20off-guard.%0A%0A%0A%0AMoleskine%20Classic%20Notebook,%20Large,%20Ruled,%20Black,%20Hard%20Cover%20(5%20x%208.25)%0A%0ALamy%20Safari%20Fountain%20Pen%20-%20Charcoal%20-%20Fine%0A%0A@WhaddyaKnowJoe%0AUse%20the%20hashtag%20%23question%20to%20ask%20a%20question.%0A%0A@JoeBuhlig%0A%0ABecome%20a%20Patron%0A"
+		},
+	
 		{	"title":"Using Drafts",
 			"image":"/assets/posts/Using-Drafts.jpg",
 			"permalink":"/using-drafts/",
