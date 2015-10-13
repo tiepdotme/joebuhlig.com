@@ -6,6 +6,7 @@
 # server 'example.com', user: 'deploy', roles: %w{app db web}, my_property: :my_value
 # server 'example.com', user: 'deploy', roles: %w{app web}, other_property: :other_value
 # server 'db.example.com', user: 'deploy', roles: %w{db}
+server '104.236.248.91', user: 'joebuhlig', roles: %w{app db web}, port: 22
 
 
 
@@ -22,7 +23,8 @@
 # role :db,  %w{deploy@example.com}
 
 set :deploy_to, '/var/www/html'
-role :web, %w"{joebuhlig@104.236.248.91:22}"
+set :use_sudo, true
+set :ssh_options, {:forward_agent => true}
 
 # Configuration
 # =============
@@ -42,11 +44,11 @@ role :web, %w"{joebuhlig@104.236.248.91:22}"
 #
 # Global options
 # --------------
- set :ssh_options, {
-   keys: %w(/Users/joebuhlig/.ssh/id_rsa),
-   forward_agent: false,
-   auth_methods: %w(password)
- }
+ # set :ssh_options, {
+ #   keys: %w(/Users/joebuhlig/.ssh/id_rsa),
+ #   forward_agent: true,
+ #   auth_methods: %w(password)
+ # }
 # #
 # The server-based syntax can be used to override options:
 # ------------------------------------
