@@ -11,7 +11,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ009.mp3
 podcast_file_size: 16.1 MB
 podcast_duration: "16:32"
 podcast_length: 16057546
-podcast_guid: ?p=916
+podcast_guid: ?p=926
 ---
 
 I can't believe I've started journaling every day. I've always equated journaling with writing in a diary, which is not for me. But the effects of not journaling caught me off-guard.
