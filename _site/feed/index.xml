@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+>
+
+<channel>
+<title>Joe Buhlig</title>
+<atom:link href="http://104.236.248.91/feed/" rel="self" type="application/rss+xml" />
+<link>http://104.236.248.91</link>
+<description>leverage the digital and welcome real life
+</description>
+<lastBuildDate>Tue, 13 Oct 2015 09:12:22 -0500</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Using Drafts]]></title>
+    <link>http://104.236.248.91/using-drafts/</link>
+    <pubDate>Sat, 10 Oct 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[apps]]></category>
+
+    <category><![CDATA[drafts]]></category>
+
+    <category><![CDATA[setups]]></category>
+
+    <guid isPermaLink="true">http://104.236.248.91/using-drafts/</guid>
+    <description>
+        <![CDATA[Drafts is one of those apps that I cannot go without. The funny thing is that my tech-resistant wife is now dependent on it as well. And you can be sure that I am pretty excited about her use of it.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p><a href="https://itunes.apple.com/us/app/id905337691?mt=8&amp;ign-mpt=uo%3D4">Drafts</a> is one of those apps that I cannot go without. The funny thing is that my tech-resistant wife is now dependent on it as well. And you can be sure that I am pretty excited about <a href="http://joebuhlig.com/5/">her use of it</a>.</p>
+
+<!--more-->
+
+<p>Drafts can be intimidating if you’re not used to dreaming up ways to connect apps on your phone. So it’s helpful to use other people’s ideas as a baseline for building your own methods. Here are a some of my favorite ways to use Drafts:</p>
+
+<h2 id="omnifocus-with-note">OmniFocus with note</h2>
+
+<p><a href="x-drafts4://x-callback-url/import_action?v=2&amp;tintColor=%5B%0A%20%200.451%2C%0A%20%200.29%2C%0A%20%200.553%0A%5D&amp;shouldConfirm=0&amp;logLevel=1&amp;uuid=BDE52DB2-95AF-4AD4-8734-17068C3E8C9F&amp;disposition=2&amp;actionSteps=%5B%0A%20%20%7B%0A%20%20%20%20%22urlTemplate%22%20%3A%20%22omnifocus%3A%5C%2F%5C%2F%5C%2Fadd%3Fname%3D%7B%7B%5B%5Btitle%5D%5D%7D%7D%26note%3D%7B%7B%5B%5Bbody%5D%5D%7D%7D%22%2C%0A%20%20%20%20%22encodeTags%22%20%3A%20false%2C%0A%20%20%20%20%22actionStepType%22%20%3A%20%22URL%22%0A%20%20%7D%0A%5D&amp;description=First%20line%20saves%20to%20the%20title%20of%20a%20OmniFocus%20task%2C%20while%20the%20rest%20of%20the%20Draft%20is%20added%20to%20Notes%20section.%20The%20original%20draft%20is%20then%20archived%20automatically.%20&amp;modifiedAt=2015-07-20%2012%3A13%3A49%20%2B0000&amp;name=OmniFocus%20with%20Note&amp;iconImageName=action_clipboard">Install OmniFocus with Note Drafts Action</a></p>
+
+<p>My primary use of Drafts is to capture tasks that will end up in OmniFocus. It’s not uncommon to see the Drafts badge at six or higher. Those are typically tasks that will be moved to OmniFocus but I needed to capture them quickly.</p>
+
+<h2 id="save-url-as-pdf-in-dropbox">Save URL as PDF in DropBox</h2>
+
+<p><a href="x-drafts4://x-callback-url/import_action?v=2&amp;tintColor=%5B%0A%0A%5D&amp;shouldConfirm=0&amp;logLevel=1&amp;uuid=D65D2C58-A84A-4517-8015-1BE97D43C6B5&amp;disposition=2&amp;actionSteps=%5B%0A%20%20%7B%0A%20%20%20%20%22writeType%22%20%3A%20%22create%22%2C%0A%20%20%20%20%22fileTemplate%22%20%3A%20%22%5B%5Bbody%5D%5D%22%2C%0A%20%20%20%20%22actionStepType%22%20%3A%20%22Dropbox%22%2C%0A%20%20%20%20%22folderTemplate%22%20%3A%20%22%5C%2FArticle_Import%22%2C%0A%20%20%20%20%22fileExtTemplate%22%20%3A%20%22txt%22%2C%0A%20%20%20%20%22fileNameTemplate%22%20%3A%20%22%5B%5Btitle%5D%5D%22%0A%20%20%7D%0A%5D&amp;description=&amp;modifiedAt=2015-09-28%2012%3A02%3A35%20%2B0000&amp;name=Save%20URL%20as%20PDF&amp;iconImageName=action_dropbox">Install Save URL as PDF Drafts Action</a></p>
+
+<p>When I run across an article I’m interested in but I’m not sure what I want to do with it I’ll dump it into Drafts. When I’m emptying my Drafts inbox during my <a href="http://joebuhlig.com/gaining-perspective-daily-review/">Daily Review</a> and run across one of these that I want to save as research, I use this action. It creates a text file in DropBox with the title of the article as the title of the file and puts the URL in the body of the file. My Mac will then turn that text file into a PDF that I can use for later.</p>
+
+<h2 id="omnifocus-list">OmniFocus list</h2>
+
+<p><a href="x-drafts4://x-callback-url/import_action?v=2&amp;tintColor=%5B%0A%20%200.451%2C%0A%20%200.29%2C%0A%20%200.553%0A%5D&amp;shouldConfirm=0&amp;logLevel=1&amp;uuid=9B95D317-17CC-4336-809D-2410C52B7AF2&amp;disposition=2&amp;actionSteps=%5B%0A%20%20%7B%0A%20%20%20%20%22listName%22%20%3A%20%22Omnifocus%22%2C%0A%20%20%20%20%22noteDelimiter%22%20%3A%20%22%7C%22%2C%0A%20%20%20%20%22actionStepType%22%20%3A%20%22List%20in%20Reminders%22%0A%20%20%7D%0A%5D&amp;description=&amp;modifiedAt=2015-09-28%2015%3A57%3A57%20%2B0000&amp;name=OmniFocus&amp;iconImageName=action_reminder">Install OmniFocus List Drafts Action</a></p>
+
+<p>Close behind the <em>OmniFocus with Note</em> action is the <em>OmniFocus List</em> action. It works pretty much the same way as the first except I can brain-dump a list of items all at once. Each line in the draft will become a new task in OmniFocus.</p>
+
+<h2 id="today-extension">Today extension</h2>
+
+<p><img class="center-image post-image-small" src="/assets/posts_extra/Drafts_Today_Clip.png" /></p>
+
+<p>If I run across a quote that I want to embed in a blog post or share with someone, I can copy it and send it Drafts with the “+clip” action in the Today View. It lands in my Drafts inbox for triage later, but sometimes I go and action it right then.</p>
+
+<h2 id="omnifocus-action-key">OmniFocus action key</h2>
+
+<p><img class="center-image post-image-small" src="/assets/posts_extra/OmniFocus_Keyboard_Action.png" /></p>
+
+<p>If I want to be really quick and send ideas to OmniFocus immediately, I can invoke the action key. It sits right on top of the keyboard so as soon as I’m done typing I can hit that to send it to OmniFocus immediately and start typing the next task without any delay. This one feature has me using Drafts for brainstorming sessions.</p>
+
+<h2 id="siri-to-drafts">Siri to Drafts</h2>
+
+<p>I have my default reminders list set to a list called “Drafts.” Drafts is set up to pull items from this list into my Drafts inbox. This allows me to ask Siri to remind me of something and it will automatically end up in my Drafts inbox.</p>
+
+<h2 id="omnifocus-somedaymaybes">OmniFocus Someday/Maybes</h2>
+
+<p>I’ve written about these in the past but I have a dedicated list of actions that take drafts and dump them into Someday/Maybe lists in OmniFocus without the need for any triage in my OmniFocus inbox. You can see how I <a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">set up the actions here</a> and how I <a href="http://joebuhlig.com/omnifocus-auto-parser/">automatically parse them here</a>.</p>
+
+<p>And because I’m proud of her getting into digital capture methods, here’s the one my wife uses all the time:</p>
+
+<h2 id="email-yourself-a-task">Email yourself a task</h2>
+
+<p><a href="x-drafts4://x-callback-url/import_action?v=2&amp;tintColor=%5B%0A%20%200.031%2C%0A%20%200.455%2C%0A%20%200.627%0A%5D&amp;shouldConfirm=0&amp;logLevel=2&amp;uuid=EA743F3F-8612-4615-88E4-6DAF1E0B344D&amp;disposition=2&amp;actionSteps=%5B%0A%20%20%7B%0A%20%20%20%20%22sendInBackground%22%20%3A%20true%2C%0A%20%20%20%20%22bccRecipientString%22%20%3A%20%22%22%2C%0A%20%20%20%20%22toRecipientString%22%20%3A%20%22example%40example.com%22%2C%0A%20%20%20%20%22subject%22%20%3A%20%22%5B%5Btitle%5D%5D%22%2C%0A%20%20%20%20%22replyTo%22%20%3A%20%22%22%2C%0A%20%20%20%20%22sendAsHTML%22%20%3A%20false%2C%0A%20%20%20%20%22sendInBackgroundPrefix%22%20%3A%20%22%22%2C%0A%20%20%20%20%22body%22%20%3A%20%22%5B%5Bbody%5D%5D%22%2C%0A%20%20%20%20%22actionStepType%22%20%3A%20%22Email%22%2C%0A%20%20%20%20%22ccRecipientString%22%20%3A%20%22%22%0A%20%20%7D%0A%5D&amp;description=Open%20Mail.app%20email%20window%20with%20first%20line%20of%20draft%20as%20subject%2C%20and%20the%20remainder%20of%20the%20draft%20as%20the%20body.&amp;modifiedAt=2015-10-08%2015%3A06%3A19%20%2B0000&amp;name=Email%20To%20Do&amp;iconImageName=action_email_filled">Install Email Yourself Drafts Action</a></p>
+
+<p>Becky knows that having items sitting in her email inbox drives her crazy. She doesn’t like seeing new emails that she needs to act on. And she knows that if she emails a task to herself she will move it out of her inbox and into her paper system as soon as possible. Her email inbox is the one digital place that she checks regularly. So it’s nice for her to be able to email tasks to herself since she knows she’ll act on them. She uses drafts with an action key above her keyboard to type the task and immediately send it to her email. This would drive me insane, but it has been very helpful for her.</p>
+
+<p>Ultimately, I use Drafts to get things out of my head. Anytime I see something online or I have an idea, I add it to Drafts first. Sometimes I can make the decision about what I want to do with it right then and will action it off immediately. But most of time I find myself leaving it in Drafts until my <a href="http://joebuhlig.com/gaining-perspective-daily-review/">Daily Review</a>. Drafts is my primary tool for keeping my head clear and my mind focused.</p>
+
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[8: Waiting to Upgrade]]></title>
+    <link>http://104.236.248.91/8/</link>
+    <pubDate>Tue, 06 Oct 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[apple]]></category>
+
+    <category><![CDATA[hardware]]></category>
+
+    <guid isPermaLink="true">http://104.236.248.91/8/</guid>
+    <description>
+        <![CDATA[I’ve started waiting to upgrade operating systems and hardware when new releases are available. My impulse is to upgrade immediately, but I’ve put it off for a variety of reasons.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I’ve started waiting to upgrade operating systems and hardware when new releases are available. My impulse is to upgrade immediately, but I’ve put it off for a variety of reasons.</p>
+
+<!--more-->
+
+<p><a href="http://www.iphonehacks.com/2015/09/ios-9-bugs.html">iOS 9 bugs we’ve found till now - iPhone Hacks</a></p>
+
+<p><a href="http://www.zdnet.com/article/ios-9-annoyances-headaches-and-bugs/">iOS 9 annoyances, headaches and bugs - ZDNet</a></p>
+
+<p><a href="http://www.apple.com/shop/iphone/iphone-upgrade-program">iPhone Upgrade Program - Apple</a></p>
+
+<p><a href="https://workflow.is/workflows/65a75670ff9542d7b0de56d0a30bd4dc">Save URL Workflow</a></p>
+
+<p><a href="https://workflow.is/workflows/bfecb2d5d7ac405b8a173f8bf4fad48a">Article to PDF Workflow</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
+Use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3now3d/8_waiting_to_upgrade/">Discuss this on Reddit.</a></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[How I Started with Technology]]></title>
+    <link>http://104.236.248.91/how-i-started-with-technology/</link>
+    <pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[development]]></category>
+
+    <category><![CDATA[life]]></category>
+
+    <guid isPermaLink="true">http://104.236.248.91/how-i-started-with-technology/</guid>
+    <description>
+        <![CDATA[When I was 16 I bought my own Compaq laptop. Remember those? I had been using the family computer quite a bit, but this was my own computer. That was the beginning of my journey with technology.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>When I was 16 I bought my own Compaq laptop. Remember those? I had been using the family computer quite a bit, but this was my own computer. That was the beginning of my journey with technology.</p>
+
+<!--more-->
+
+<h2 id="sound-and-slides">Sound and slides</h2>
+
+<p>I claimed it would be for school work. That was my crap-rationalization. But if I’m honest with myself it had more to do with exploring without consequences. I didn’t want to screw up the family computer by running a bunch of batch files just to see what they would do. I would rather create a mess for myself on my own computer. That, and it was a lot of fun to say I own my own computer when I went to school.</p>
+
+<p>Around the same time I started running sound and slides on Sunday morning at our church. If they wanted help with a special event when the sound system or a computer was involved, I nearly always said yes. I was drawn to it, fascinated by problem-solving with a bunch of cords and components working together.</p>
+
+<h2 id="my-first-mac">My first Mac</h2>
+
+<p>I bought my first Mac while at college. It was different and it seemed as though people who were building software and websites were using Macs. My thinking was purely, “That looks cool. I wanna try.” I don’t recommend making purchases of this size because something looks cool. But it was college, and I know there’s an unwritten requirement somewhere that says you should do something dumb in college.</p>
+
+<p>The MacBook was my first jump into productivity, but I didn’t realize it. The Mac made it a lot easier for me to track events and notes. I always had a side-job in college and I needed help keeping track of my schedule. Looking back on it, I didn’t have a busy schedule. I just wanted to play with the apps. I guess my mind and digital tendencies naturally drew me to the building of systems that come with productivity.</p>
+
+<h2 id="gis">GIS</h2>
+
+<p>Also in college I did a couple of internships that had me working with GIS and handheld computers. They were set up to collect data on soil samples and crop scouting for corn and soybean fields, (yes, if you didn’t know, I’m a farm kid. No matter what I do or where I go, I’m always drawn to farmers and growing food. And tractors).</p>
+
+<p>The fun part of those internships was finding ways of using handheld computers to make the process easier. I even began dictating notes into those devices. They were very crude at the time and I spent a lot of time cleaning up the notes I entered, but it was still a system that worked for me. It also taught me a lot about mapping and how to collect and report spatial data on crops.</p>
+
+<h2 id="excel">Excel</h2>
+
+<p>During my senior year of college I worked as a teaching assistant in a farm management class and began teaching other students how to use Excel. I was very basic in my use of Excel at the time, but I was more advanced than most of the students and professors. It was my first jump into teaching others how to use software. I was surprised that I actually enjoyed it. I’ve learned that my mind just works the same way computers do, which makes it very easy to catch on to a computer system and then translate it for others.</p>
+
+<h2 id="databases-vba--sql">Databases, VBA, &amp; SQL</h2>
+
+<p>When I graduated from college I went into soybean breeding and quickly learned that seed research works with a lot of data. And I also learned how to dissect tiny soybean flowers. My use of Excel grew exponentially and I found myself starting create basic programs through VBA and macros. It was a progression and eventually led me to using bar-code scanners and Excel macros to collect and verify data.</p>
+
+<p>My experience in soybean breeding and the databases involved led me to a corporate position where I analyzed large amounts of data on a SQL Server. It was a very nerdy job and I didn’t really know what I was doing when I started. But I knew that I could learn just about anything computer-related pretty quickly, so I jumped in.</p>
+
+<p>There was a lot of data to work with in that role. There were so many ways I <em>could</em> analyze the data that I often got lost trying to figure out what to work on. That’s when the productivity monster caught me and I started down the path of GTD.</p>
+
+<h2 id="corporate-productivity-and-design">Corporate, productivity, and design</h2>
+
+<p>In the corporate environment I had a big influx of information and creative work that I needed to do. Yes, I had a very analytical role but there’s a large amount of creativity that is needed to design and develop interfaces and structures around data. It was essentially the beginnings of web development for me because I wanted to show the data in an easy to understand way. I can’t stand looking at the same bar charts every day and wondering if the data has been altered to show a biased view of the information. I wanted them to be clean and accurate. That’s when my supervisor introduced me to <a href="http://www.edwardtufte.com/tufte/">Edward Tufte</a> and I began to delve into the data design world.</p>
+
+<p>In that process I learned I have a strong creative side. I explored that more fully when I took a position with a marketing company. I started to develop more extensive web reports and began building an internal web application. That’s when I started to look beyond what I knew how to do and started building out new ideas and finding alternative ways to do things. In other words I finally let my brain loose and started learning how to pair my creative mind with the analytical.</p>
+
+<h2 id="whats-next">What’s next?</h2>
+
+<p>If you listen to <a href="http://joebuhlig.com/whaddyaknowjoe/">my podcast</a> you heard me mention that I recently left my job and I’m now beginning to develop apps and web applications for myself and others. I’m now running with my own ideas and building them. I never thought I would be at this point, but it’s been an exciting journey.</p>
+
+<p>Since starting on my own, I’ve been exploring new computer languages and building some of the bigger ideas that I never had time to tackle before. There’s some start-up time involved, but along this journey I have found systems and disciplines that help me stay motivated to focus on the work that I’m doing. Figuring out what technology to build next is exciting, and I’m having a blast.</p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3n7p8a/how_i_started_with_technology/">Discuss this on Reddit.</a></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[7: Learning a Computer Language]]></title>
+    <link>http://104.236.248.91/7/</link>
+    <pubDate>Tue, 29 Sep 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[development]]></category>
+
+    <category><![CDATA[research]]></category>
+
+    <guid isPermaLink="true">http://104.236.248.91/7/</guid>
+    <description>
+        <![CDATA[People are sometimes scared to get into coding because they think it’s complicated to learn. It’s not complicated, so don’t be one of those people. In this episode I talk about how I got into development (with no schooling) and how I pick up new languages.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>People are sometimes scared to get into coding because they think it’s complicated to learn. It’s not complicated, so don’t be one of those people. In this episode I talk about how I got into development (with no schooling) and how I pick up new languages.</p>
+
+<!--more-->
+
+<p><a href="http://www.excel-easy.com/vba.html">Excel VBA Tutorial - Easy Excel Macros</a></p>
+
+<p><a href="https://products.office.com/en-US/access">Microsoft Access</a></p>
+
+<p><a href="http://learn.shayhowe.com/">Learn to Code HTML &amp; CSS - Beginner &amp; Advanced</a></p>
+
+<p><a href="http://jquery.com/">jQuery</a></p>
+
+<p><a href="http://codex.wordpress.org/Theme_Development">PHP and Theme Development « WordPress Codex</a></p>
+
+<p><a href="https://www.python.org/">Welcome to Python.org</a></p>
+
+<p><a href="https://www.djangoproject.com/">The Web framework for perfectionists with deadlines - Django</a></p>
+
+<p><a href="https://www.ruby-lang.org/en/">Ruby Programming Language</a></p>
+
+<p><a href="http://rubyonrails.org/">Ruby on Rails</a></p>
+
+<p><a href="http://jekyllrb.com/">Jekyll • Simple, blog-aware, static sites</a></p>
+
+<p><a href="http://www.discourse.org/">Discourse</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
+Use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3mtguy/7_learning_a_computer_language/">Discuss this on Reddit.</a></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Sharing a Computer]]></title>
+    <link>http://104.236.248.91/sharing-a-computer/</link>
+    <pubDate>Fri, 25 Sep 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[hardware]]></category>
+
+    <guid isPermaLink="true">http://104.236.248.91/sharing-a-computer/</guid>
+    <description>
+        <![CDATA[When I switched to the MacBook Pro, I also switched from using two computers to one. I know, I know, I was spoiled. But it made my life a lot easier and helped me accomplish a lot more.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>When I switched to the MacBook Pro, I also switched from using two computers to one. I know, I know, I was spoiled. But it made my life a lot easier and helped me accomplish a lot more.</p>
+
+<!--more-->
+
+<p>One benefit of using two computers that I hadn’t noticed was the flexibility it gave my wife and me. When I used one computer, she could use the other. When the job-shift happened, it quickly became apparent that we were used to using them at the same time. I would grab the MacBook Air and she would do some work on the Mac Pro or vice versa.</p>
+
+<p>Two computers was really convenient. However, I’m now building my own business, which means I’m tight on dollars spent. So I’m using a single computer for everything. And that has led to the need to coordinate work with my wife. I have writing and development to do and she has design and editing to do.</p>
+
+<p>Here’s what we’ve learned on how to successfully share a computer:</p>
+
+<h2 id="communicate">Communicate</h2>
+
+<p>We have a daily conversation about time on the computer. I’m the one that spends the most time on it, but my wife has a few deadlines that she’s under as well. We need to make sure we’re talking about what’s needed, when it’s needed, and our plan for making it happen.</p>
+
+<h2 id="multiple-users">Multiple users</h2>
+
+<p>This almost goes without saying, but don’t share a user login on a shared computer. If my wife tries to do something on my profile, it will most likely do things she’s not expecting. If I use her profile, I’ll keep banging the keyboard wondering why it doesn’t launch the app I want. It just creates unnecessary angst. Get your own profile.</p>
+
+<h2 id="external-hard-drive">External hard drive</h2>
+
+<p>Unless you’ve upgraded the internal hard drive of your machine as much as you can, you’ll probably run into storage issues. The computer I’m on has a simple 128GB hard drive. That’s pretty small for having multiple users on it. So I have 4TB of Network Attached Storage (NAS) in the house. That allows us to connect to them over the wireless from anywhere in the house and keeps us from being unable to save files.</p>
+
+<h2 id="grace">Grace</h2>
+
+<p>Be gracious. It’s hard sharing something like a computer, especially when you need to get something done. It’s easy to get upset or frustrated with the other person. Show a little grace and be willing to compromise. It’ll make both of your lives a lot easier.</p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3mblhd/sharing_a_computer/">Discuss this on Reddit.</a></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[6: Collecting and Storing Research]]></title>
+    <link>http://104.236.248.91/6/</link>
+    <pubDate>Tue, 22 Sep 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[evernote]]></category>
+
+    <category><![CDATA[research]]></category>
+
+    <guid isPermaLink="true">http://104.236.248.91/6/</guid>
+    <description>
+        <![CDATA[When you have a new project that you’re doing research on, you need a great way to grab and store that research. Referencing it later can be invaluable and save you the trouble of doing that same research multiple times.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>When you have a new project that you’re doing research on, you need a great way to grab and store that research. Referencing it later can be invaluable and save you the trouble of doing that same research multiple times.</p>
+
+<!--more-->
+
+<p><a href="http://joebuhlig.com/evernote-setup-workflow/">My Evernote Setup and Workflow</a></p>
+
+<p><a href="http://joebuhlig.com/simple-trick-naming-tags/">A Simple Trick for Naming Tags</a></p>
+
+<p><a href="http://www.noodlesoft.com/hazel.php">Hazel</a></p>
+
+<p><a href="http://wkhtmltopdf.org/">wkhtmltopdf</a></p>
+
+<p><a href="http://www.cocoatech.com/pathfinder/">PathFinder</a></p>
+
+<p><a href="https://workflow.is/workflows/65a75670ff9542d7b0de56d0a30bd4dc">Save URL Workflow</a></p>
+
+<p><a href="https://workflow.is/workflows/bfecb2d5d7ac405b8a173f8bf4fad48a">Article to PDF Workflow</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
+Use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3lx6iu/6_collecting_and_storing_research/">Discuss this on Reddit.</a></p>
+
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Scheduled Reviews in OmniFocus]]></title>
+    <link>http://104.236.248.91/scheduled-reviews-in-omnifocus/</link>
+    <pubDate>Fri, 18 Sep 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <category><![CDATA[reviews]]></category>
+
+    <guid isPermaLink="true">http://104.236.248.91/scheduled-reviews-in-omnifocus/</guid>
+    <description>
+        <![CDATA[Every Friday morning I do my Weekly Review. I do my Monthly Review on the first of the month and my Annual Review on the first of the year. How do I get OmniFocus to play nicely with this?
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Every Friday morning I do my <a href="http://joebuhlig.com/getting-things-done-reflect/">Weekly Review</a>. I do my Monthly Review on the first of the month and my Annual Review on the first of the year. How do I get OmniFocus to play nicely with this?</p>
+
+<!--more-->
+
+<p>OmniFocus has a great feature for reviewing projects at specific intervals. You can choose to review a project daily or every 50 years if you want. And when that date comes, the project is available in the Review perspective.</p>
+
+<p>It’s a great feature. You can set the date of your Weekly Review as the next review date for a project and tell it to cycle every week. Then the project can be reviewed every week on that day.</p>
+
+<h2 id="the-issue">The issue</h2>
+
+<p>What happens if you do your review a day late? You’d be fine the first time since the project would just wait, but the next week would bring chaos. Your projects would cycle one week and would now be available for review the day after your scheduled review. They cycled by a week, but the day it uses as a base is the day it was reviewed, which was a day late.</p>
+
+<p>If you throw multiple reviews in the mix (bi-weekly, monthly, annual, bi-annual), it can start to get out of hand very quickly. You’ll soon have a lot of projects that need to be reviewed, but they don’t show up in the Review perspective.</p>
+
+<h2 id="the-solution">The solution</h2>
+
+<p>I wanted a way to enter the day for my Weekly, Monthly, and Annual Reviews and have OmniFocus automatically reset the review dates on my projects to the next date each of these occurs.</p>
+
+<p>In other words, if I have a project marked for review weekly (even if it’s every 3 weeks), I want the date for the next review to be the following Friday since that’s when I do my Weekly Review. If it’s marked for review monthly or yearly, I want the next date for my Monthly or Annual Review to be the next review date for those projects.</p>
+
+<p>There’s not a way to do this directly in OmniFocus, so I wrote an AppleScript. You can find the <a href="https://github.com/joebuhlig/OFScripts">script on GitHub here</a>. I originally set this up with a launch agent like I did for the <a href="https://github.com/joebuhlig/OFScripts">OmniFocus Auto-Parser</a>, which you can <a href="http://joebuhlig.com/omnifocus-auto-parser/">learn more about here</a>. But I’ve since reworked this to be run on command directly from OmniFocus.</p>
+
+<h2 id="how-it-works">How it works</h2>
+
+<p>When you launch the script, it takes the next review date of the project and adjusts it forward to the next occurrence of the review. If the review cycle is weekly, the date is set to the next Weekly Review date. If the cycle is monthly or yearly, it is moved forward to the next date for each.</p>
+
+<p>All I have to do is continue as normal and do my reviews on those days. If I see the indicator in OmniFocus before one of my scheduled reviews happens, I simply run the script.</p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3lf4zc/scheduled_reviews_in_omnifocus/">Discuss this on Reddit.</a></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[5: Developing a Task Management System]]></title>
+    <link>http://104.236.248.91/5/</link>
+    <pubDate>Tue, 15 Sep 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[task management]]></category>
+
+    <guid isPermaLink="true">http://104.236.248.91/5/</guid>
+    <description>
+        <![CDATA[If you’ve made the decision to get into task management, congratulations! But you need to be intentional with getting started. Here’s a look at how I helped my wife put together her pen and paper system the first time.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>If you’ve made the decision to get into task management, congratulations! But you need to be intentional with getting started. Here’s a look at how I helped my wife put together her pen and paper system the first time.</p>
+
+<!--more-->
+
+<p><a href="http://agiletortoise.com/drafts/">Drafts</a> (<a href="https://itunes.apple.com/us/app/id905337691">iTunes</a>)</p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
+Use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3l0zqy/5_developing_a_task_management_system/">Discuss this on Reddit.</a></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Writing with GitHub]]></title>
+    <link>http://104.236.248.91/writing-with-github/</link>
+    <pubDate>Fri, 11 Sep 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[github]]></category>
+
+    <category><![CDATA[setups]]></category>
+
+    <category><![CDATA[writing]]></category>
+
+    <guid isPermaLink="true">http://104.236.248.91/writing-with-github/</guid>
+    <description>
+        <![CDATA[I’ve written about my use of Sublime Text for writing, but I didn’t share how I manage the edits from my editor.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I’ve written about my use of <a href="http://joebuhlig.com/my-writing-setup/">Sublime Text for writing</a>, but I didn’t share how I manage the edits from my editor.</p>
+
+<!--more-->
+
+<p>I write everything in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, which means the typical “track changes” tools don’t work very well in my workflow. I write the draft of an article, review and edit my own draft a couple times, and then send it to my editor. Since we do everything digitally, I needed a way to see what changes she has made as compared to my original.</p>
+
+<p>The developer in me recognized the issue and immediately went to GitHub for versioning and merging updates. It has made the process really easy for me and for my editor. I don’t want her worrying about the delivery mechanism on top of all the editing. Here’s how I set it all up:</p>
+
+<h2 id="spanspanthe-setupthe-setup"><a href="#the-setup"><span></span></a>The setup</h2>
+
+<p>If you have experience with GitHub, this will all be second nature. If you don’t, I recommend looking at <a href="https://guides.github.com/activities/hello-world/">this article</a> to get a feel for the terminology and flow of Git.</p>
+
+<p>I created a folder in DropBox to house all of my writing. This includes articles, <a href="http://joebuhlig.com/whaddyaknowjoe/">podcast</a> scripts, and even the <a href="http://joebuhlig.com/omnifocus/">book</a> I’m writing.</p>
+
+<p>Using the GitHub desktop app, I created a new local repository on top of this folder. I’ve found myself using the app even though I know how to use Git from the command line. It’s simple and feels faster to me.</p>
+
+<p>That’s all there was to do, create a new folder and turn it into a repository. I should mention that if you’re inviting someone as a collaborator in the repository, you should keep this outside of DropBox. It can create a lot of issues with syncing. GitHub even warns you about it. I can get away with it because I’m the only one involved and it’s a local repository. Keeping it on DropBox allows me to view and edit files from my iPhone, and I like having that option.</p>
+
+<h2 id="spanspan1-drafting1-drafting"><a href="#1-drafting"><span></span></a>1. Drafting</h2>
+
+<p>I work off of the master branch in the repository and make all of my commits there. For example, I’ll write my first draft of an article and then commit it. I then review and edit that draft and commit my own edits.</p>
+
+<p>To make the commits easy to track, I use a TextExpander snippet for the commit summary with this format:</p>
+
+<p><code>Draftx_Articlex_YYYYMMDD</code></p>
+
+<p>For the first part, I use one of these tags - Draftx, Editx, Reviewx, Managex. My first draft is under Draftx, my edits are Editx, my editor’s changes go under Reviewx, and any changes to the repository (adding/deleting/moving files) go under Managex. As an aside, here’s <a href="http://joebuhlig.com/simple-trick-naming-tags/">why I use the “x”</a> in those names.</p>
+
+<p>The second portion of the commit summary is the type of writing I was doing - Articlex, Bookx, Podcastx, Websitex. Those are pretty self-explanatory.</p>
+
+<h2 id="spanspan2-send-to-editor2-send-to-editor"><a href="#2-send-to-editor"><span></span></a>2. Send to editor</h2>
+
+<p>When I’m happy with what I’ve written and have the edits committed, I make a copy of the file and paste it into a DropBox folder I share with my editor. She is then able to do anything she wants to the file. I make sure she knows I’ll find every character that changes when she’s done.</p>
+
+<h2 id="spanspan3-reviewing-changes3-reviewing-changes"><a href="#3-reviewing-changes"><span></span></a>3. Reviewing changes</h2>
+
+<p>When I’m notified that she’s done editing the piece, I create a branch off of the master branch. I simply name the new branch after the article or chapter that I’ll be reviewing.</p>
+
+<p>After creating the new branch and switching to it, I replace my version of the file with the edited version. It’s a simple copy, paste, and confirm to replace the current version.</p>
+
+<p>I can then go into GitHub and see all of the changes highlighted. If I want to accept her change, I do nothing. They will come through later. If I want to ignore her change or make tweaks, I go to the file and make the edits. Then I return to GitHub and keep working through the article.</p>
+
+<p>When I’ve finished reviewing the changes and making my final edits, I commit the edited file to my newly created branch and then merge the new branch into the master. I could probably do this from the master branch but it just feels weird bringing someone else’s changes directly into the main structure. I prefer not to hear the neurotic developer in me screaming.</p>
+
+<h2 id="spanspantrackingtracking"><a href="#tracking"><span></span></a>Tracking</h2>
+
+<p>Something I’ve wanted to do with my writing for a while is track how many words I’ve written each day. Thankfully, using GitHub makes it possible to pull this off. It’s really technical, so I would say <strong>this part is for the power users</strong>.</p>
+
+<p>With a Git repository, you can set up hooks to run when certain events happen. In other words, I can run a script when something happens in the repository. In this case, I used the “post-commit” hook because I wanted to run a script after I commit changes.</p>
+
+<p>I added this code to the post-commit executable found in the “.git” directory of my writing repository:</p>
+
+<noscript><pre>PATH=$PATH:/usr/local/bin:/usr/local/sbin
+#!/bin/bash
+gitbranch=`git rev-parse --abbrev-ref HEAD`
+if [ $gitbranch = &quot;master&quot; ]; then
+	date=`date +%m/%d/%Y`
+	datetime=`date +%r`
+	gitwa=`git diff HEAD^ HEAD --word-diff=porcelain | grep -e &quot;^+[^+]&quot; | wc -w`
+	gitwd=`git diff HEAD^ HEAD --word-diff=porcelain | grep -e &quot;^-[^-]&quot; | wc -w`
+	commit=`git log -1 --pretty=%B`
+	cnt=`expr $gitwa - $gitwd`
+	theURL=&#39;https://script.google.com/a/macros/username/s/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/exec&#39;
+	curl -L --get $theURL --data-urlencode &quot;Date=$date&quot; --data-urlencode &quot;Time=$datetime&quot; --data-urlencode &quot;WordCount=$cnt&quot; --data-urlencode &quot;Commit=$commit&quot; --data-urlencode &quot;Adds=$gitwa&quot; --data-urlencode &quot;Deletes=$gitwd&quot;
+fi</pre></noscript>
+<script src="https://gist.github.com/joebuhlig/b0c3cd227c148685f98d.js"> </script>
+
+<p>It checks to see if the commit is in the master branch. If it is, then it counts the words that have been added and subtracts the number of words that were removed. That number is then sent to a Google Sheet through a Google Script that I’ve published as a web app.</p>
+
+<p>From the spreadsheet I can see each commit, the date and time of the commit, and how many words I wrote. I like seeing how much progress I’m making and can potentially use this data to find cycles in my writing patterns. If nothing else, it’s fun.</p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3kj2wl/writing_with_github/">Discuss this on Reddit.</a></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[4: Creating the First Checklist]]></title>
+    <link>http://104.236.248.91/4/</link>
+    <pubDate>Tue, 08 Sep 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[checklists]]></category>
+
+    <guid isPermaLink="true">http://104.236.248.91/4/</guid>
+    <description>
+        <![CDATA[Creating a checklist for the first time isn’t always easy. And I did it wrong when I created the initial list for this podcast. I did figure out a better way, though.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Creating a checklist for the first time isn’t always easy. And I did it wrong when I created the initial list for this podcast. I did figure out a better way, though.</p>
+
+<!--more-->
+
+<p><a href="http://www.podcastmethod.co/">The Podcast Method</a></p>
+
+<p><a href="https://www.youtube.com/playlist?list=PLzJ1r4EGn-enCMU1kPstXd7e1SjI3jP_O">Smart Passive Income - Podcasting Tutorial</a></p>
+
+<p><a href="https://www.adobe.com/products/audition.html">Adobe Audition</a></p>
+
+<p><a href="http://cmsauve.com/projects/templates/">OmniFocus Templates Script</a></p>
+
+<p><a href="http://joebuhlig.com/omnifocus/">Working with OmniFocus</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
+Use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3k2xpv/4_creating_the_first_checklist/">Discuss this on Reddit.</a></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[OmniFocus Auto-Parser]]></title>
+    <link>http://104.236.248.91/omnifocus-auto-parser/</link>
+    <pubDate>Fri, 04 Sep 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <guid isPermaLink="true">http://104.236.248.91/omnifocus-auto-parser/</guid>
+    <description>
+        <![CDATA[I love it when my systems do things automatically. In this case, I can capture an idea for a someday/maybe list and it ends up in the right place in OmniFocus.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I love it when my systems do things automatically. In this case, I can capture an idea for a someday/maybe list and it ends up in the right place in OmniFocus.</p>
+
+<!--more-->
+
+<p>I wrote about my original process for this <a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">here</a>, but I’ve since refined it. I didn’t like having an extra app icon sitting in my dock. I knew there had to be a better way to do it… and I found it.</p>
+
+<p>I’m now using a launch agent. If that sounds intimidating, I completely understand. I originally stayed away because I thought it would be too complicated. But it turned out to be less difficult than I expected. If you need help falling asleep tonight, you can <a href="https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html">read more about them</a> on Apple’s developer site.</p>
+
+<p>It’s possible that I’ll be making updates to this code in the future, so I added this to a new GitHub repository I’ve created: <a href="https://github.com/joebuhlig/OFScripts">OFScripts</a>. All of the code and instructions for how to install it can be found there.</p>
+
+<p>From a high-level view, here’s what happens:</p>
+
+<h2 id="spanspan1-when-you-log-in1-when-you-log-in"><a href="#1-when-you-log-in"><span></span></a>1. When you log in</h2>
+
+<p>The launch agent starts running when you log into your account. That’s all a launch agent does. It is a process that runs at log in. It can either run once or on intervals in the background. In this case, it runs at a specified interval.</p>
+
+<h2 id="spanspan2-run-applescript2-run-applescript"><a href="#2-run-applescript"><span></span></a>2. Run AppleScript</h2>
+
+<p>The launch agent is set up to run an AppleScript. It runs first when when you log in and continues to run on an interval afterwards.</p>
+
+<h2 id="spanspan3-parse-your-omnifocus-inbox3-parse-your-omnifocus-inbox"><a href="#3-parse-your-omnifocus-inbox"><span></span></a>3. Parse your OmniFocus inbox</h2>
+
+<p>The AppleScript takes your OmniFocus inbox and parses any tasks that start with “–“. You can learn how to create the parsing strings in <a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">my original post</a>.</p>
+
+<p>This system has become integral to my use of OmniFocus. With this running in the background, I can now email tasks directly into a project and context. The big one for me is the ability to use <a href="http://agiletortoise.com/drafts/">Drafts</a>(<a href="https://itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?mt=8">iTunes</a>) to automatically send tasks to a specific project and context. It makes it incredibly simple to get things into OmniFocus.</p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3jltb3/omnifocus_autoparser/">Discuss this on Reddit.</a></p>
+
+<p><strong>Updates:</strong></p>
+
+<p><strong>20150908:</strong> Patrick at <a href="http://schreibloga.de">http://schreibloga.de</a> was kind enough to write a python install script that you can run from command line to make the installation process a bit easier. You can find it in the GitHub repo here: <a href="https://github.com/joebuhlig/OFScripts">OFScripts</a></p>
+
+<p><strong>20150908:</strong> I had a quick back and forth with Tim Stringer at <a href="http://learnomnifocus.com/?ref=11">Learn OmniFocus</a> about the AppleScript for this. We found a way to use Hazel to trigger this immediately when a new item comes to the inbox. If you’re a Hazel user, you can set up this rule on your OmniFocus database which is located here:</p>
+
+<p><code>/Users/YourUsername/Library/Containers/com.omnigroup.OmniFocus2/Data/Library/Application Support/OmniFocus</code></p>
+
+<p>This has become my preferred way to use the script.</p>
+
+<p><img class="center-image post-image-medium" src="/assets/posts_extra/HazelAutoParser.png" /></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[3: Keeping Up with Pain Pills]]></title>
+    <link>http://104.236.248.91/3/</link>
+    <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <guid isPermaLink="true">http://104.236.248.91/3/</guid>
+    <description>
+        <![CDATA[Ugh. Dealing with water coming into the family room. And of course, I hurt myself and had to have surgery. And surgery leads to pain pills.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Ugh. Dealing with water coming into the family room. And of course, I hurt myself and had to have surgery. And surgery leads to pain pills.</p>
+
+<!--more-->
+
+<p><a href="http://joebuhlig.com/a-chaotic-week-with-gtd/">A Chaotic Week with GTD</a></p>
+
+<p><a href="https://www.omnigroup.com/omnifocus/">OmniFocus</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3j4os3/3_keeping_up_with_pain_pills/">Discuss this on Reddit</a></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[2: The Dunbar Exception]]></title>
+    <link>http://104.236.248.91/2/</link>
+    <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[communication]]></category>
+
+    <category><![CDATA[life]]></category>
+
+    <guid isPermaLink="true">http://104.236.248.91/2/</guid>
+    <description>
+        <![CDATA[In today’s world it’s easy to connect with more than 150 people. This is how keep up with 300+.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>In today’s world it’s easy to connect with more than 150 people. This is how keep up with 300+.</p>
+
+<!--more-->
+
+<p><a href="https://en.wikipedia.org/wiki/Dunbar%27s_number">Dunbar’s number - Wikipedia</a></p>
+
+<p><a href="http://joebuhlig.com/using-thebrain/">Using TheBrain</a></p>
+
+<p><a href="http://jerrysbrain.com">Example Brain in Action</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3j4oqz/2_the_dunbar_exception/">Discuss this on Reddit</a></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[1: New Job New Contexts]]></title>
+    <link>http://104.236.248.91/1/</link>
+    <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[contexts]]></category>
+
+    <category><![CDATA[gtd]]></category>
+
+    <guid isPermaLink="true">http://104.236.248.91/1/</guid>
+    <description>
+        <![CDATA[If you go through a job change, you’ll need to change your GTD contexts. I walk you through my recent job transition and what I did to determine my new contexts.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>If you go through a job change, you’ll need to change your GTD contexts. I walk you through my recent job transition and what I did to determine my new contexts.</p>
+
+<!--more-->
+
+<p><a href="http://joebuhlig.com/getting-things-done-introduction/">Getting Things Done: Introduction</a></p>
+
+<p><a href="http://joebuhlig.com/gtd-contexts-proactive-vs-reactive/">GTD Contexts: Proactive vs. Reactive</a></p>
+
+<p><a href="http://joebuhlig.com/making-time-contexts/">Making Time for Contexts</a></p>
+
+<p><a href="http://joebuhlig.com/making-time-contexts/">Using Omnifocus for Someday/Maybe Lists</a></p>
+
+<p><a href="http://joebuhlig.com/macbook-pro-vs-macbook-air/">MacBook Pro vs MacBook Air</a></p>
+
+<p><img class="left-image" src="/assets/posts_extra/Contexts.png" /></p>
+
+<div class="clear"></div>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3j4opo/1_new_job_new_contexts/">Discuss this on Reddit</a></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Workflow to Share Articles with Twitter Handle]]></title>
+    <link>http://104.236.248.91/workflow-to-share-articles-with-twitter-handle/</link>
+    <pubDate>Fri, 28 Aug 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[apps]]></category>
+
+    <category><![CDATA[workflow]]></category>
+
+    <guid isPermaLink="true">http://104.236.248.91/workflow-to-share-articles-with-twitter-handle/</guid>
+    <description>
+        <![CDATA[I like to share articles on Twitter. And I want to make sure I give the author credit in the tweet. But it’s not always easy to find their Twitter handle.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I like to share articles on <a href="https://twitter.com/joebuhlig">Twitter</a>. And I want to make sure I give the author credit in the tweet. But it’s not always easy to find their Twitter handle.</p>
+
+<!--more-->
+
+<p>I can usually track it down, but I can quickly derail and find myself down a rabbit hole of links. I’m on a mission, but it’s too easy to click on another article and lose 20 minutes.</p>
+
+<p>I mentioned the app <a href="https://workflow.is">Workflow</a> (<a href="https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8&amp;at=1l3vnyQ">iTunes</a>) on my <a href="http://macsparky.com/blog/2015/7/home-screens-joe-buhlig">home screen post</a> for MacSparky’s site. It’s a tool that I continue finding more uses for. In this case, I found a way to search the source code of an article to find all the potential Twitter handles on the page.</p>
+
+<h2 id="spanspancaveatscaveats"><a href="#caveats"><span></span></a>Caveats</h2>
+
+<p>Making this happen was easier than I was expecting, but there are a few caveats you should be aware of <strong>before using this</strong>:</p>
+
+<p>1. Intent, Share, Sharer</p>
+
+<p>There are times when the list of handles shows up and has one of these values. It’s because the article has a share bar of some kind on it. I could find a way to exclude these from the list but it wasn’t a quick fix for me and I didn’t want to spend too much time on it.</p>
+
+<p>2. Not 100%</p>
+
+<p>If there’s a handle on the page, the workflow usually finds them. But there are instances where I know that a handle is in the article and it still doesn’t find it. I haven’t been able to track down why, but it’s infrequent enough that I don’t worry about it.</p>
+
+<h2 id="spanspanhow-it-workshow-it-works"><a href="#how-it-works"><span></span></a>How it works</h2>
+
+<p>You can <a href="https://workflow.is/workflows/6ba3ee1f5f7d4be7bfbe5ed867848662">find the workflow here</a>, but here’s the process:</p>
+
+<p>1. Get the URL and expand it</p>
+
+<p>I use this primarily from Pocket. It drives me crazy when services shorten links with their own shortener. So the first thing the workflow does is get the URL from the input and expand it. It then takes the expanded URL and saves it to a variable for later.</p>
+
+<p>2. Get URL contents and make HTML</p>
+
+<p>It then takes the URL, fetches the content of the webpage, and creates an HTML document from it. This is what allows searching in the next step.</p>
+
+<p>3. Search for Twitter handles</p>
+
+<p>Using a RegEx search string, it looks for anything that looks like a Twitter handle in the source HTML. It takes the results of that search and adds it to a list that you choose from.</p>
+
+<p>4. Create the share string</p>
+
+<p>The last step is to create the string of text that will be passed to the share sheet. It uses the expanded URL from the beginning and the handle you selected to create the string. You can alter this for yours if you like a different format.</p>
+
+<h2 id="spanspanusing-the-workflowusing-the-workflow"><a href="#using-the-workflow"><span></span></a>Using the workflow</h2>
+
+<p>When you find an article you want to share, invoke the share sheet and hit Run Workflow. Select this workflow and wait for it to ask which Twitter handle to use. Once you’ve selected one, the share sheet will pop up again and you can pick your method of sharing. It will dump the created share string into the application. All you have to do is add your comment to the beginning of the string. Poof!</p>
+
+<p><strong>UPDATE:</strong> I had a number of requests to add the title of the article to the tweet. I wanted to encourage myself to add an original comment about the article, but sometimes want this as well. So I went ahead and <a href="https://workflow.is/workflows/6898d8d15333417fa6da8ab316c32c5b">created another version</a> that adds the title to the beginning of the tweet. Enjoy!</p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3ipphq/workflow_to_share_articles_with_twitter_handle/">Discuss this on Reddit.</a></p>
+]]>
+    </content:encoded>
+</item>
+
+
+</channel>
+
+</rss>

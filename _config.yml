@@ -19,7 +19,7 @@ subreddit:  joebuhlig
 # Build settings
 markdown: kramdown
 timezone: America/Chicago
-destination: ~/Codebase/joebuhlig_com_site
+destination: _site
 tag_page_layout: tag_page
 tag_page_dir: tag
 tag_permalink_style: pretty

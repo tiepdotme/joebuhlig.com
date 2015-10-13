@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+>
+ 
+<channel>
+<title>Whaddya Know Joe?</title>
+<atom:link href="http://104.236.248.91/feed/podcast" rel="self" type="application/rss+xml" />
+<link>http://104.236.248.91</link>
+<description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
+<lastBuildDate>Tue, 13 Oct 2015 09:12:22 -0500</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>http://jekyllrb.com</generator>
+<itunes:summary>Joe Buhlig walks you through real life story and then breaks down the productivity tools and techniques used. It's a great way to learn how to implement the tips and tricks that you see across the web. Productivity stories from the trenches. What works and what to never try.</itunes:summary>
+<itunes:author>Joe Buhlig</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+<itunes:owner>
+<itunes:name>Joe Buhlig</itunes:name>
+<itunes:email>joe@joebuhlig.com</itunes:email>
+</itunes:owner>
+<managingEditor>joe@joebuhlig.com (Joe Buhlig)</managingEditor>
+<itunes:subtitle>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</itunes:subtitle>
+<image>
+<title>Whaddya Know Joe?</title>
+<url>http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png</url>
+<link>http://104.236.248.91</link>
+</image>
+<itunes:category text="Technology">
+<itunes:category text="Software How-To" />
+<itunes:category text="Gadgets" />
+</itunes:category>
+
+  <item>
+    <title>8: Waiting to Upgrade</title>
+    <link>http://104.236.248.91/8/</link>
+    <comments>http://104.236.248.91/8/#comments</comments>
+    <pubDate>Tue, 06 Oct 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[apple]]></category>
+
+    <category><![CDATA[hardware]]></category>
+
+    <guid isPermaLink="false">http://104.236.248.91/?p=916</guid>
+    <description>
+        <![CDATA[I’ve started waiting to upgrade operating systems and hardware when new releases are available. My impulse is to upgrade immediately, but I’ve put it off for a variety of reasons.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I’ve started waiting to upgrade operating systems and hardware when new releases are available. My impulse is to upgrade immediately, but I’ve put it off for a variety of reasons.</p>
+
+<!--more-->
+
+<p><a href="http://www.iphonehacks.com/2015/09/ios-9-bugs.html">iOS 9 bugs we’ve found till now - iPhone Hacks</a></p>
+
+<p><a href="http://www.zdnet.com/article/ios-9-annoyances-headaches-and-bugs/">iOS 9 annoyances, headaches and bugs - ZDNet</a></p>
+
+<p><a href="http://www.apple.com/shop/iphone/iphone-upgrade-program">iPhone Upgrade Program - Apple</a></p>
+
+<p><a href="https://workflow.is/workflows/65a75670ff9542d7b0de56d0a30bd4dc">Save URL Workflow</a></p>
+
+<p><a href="https://workflow.is/workflows/bfecb2d5d7ac405b8a173f8bf4fad48a">Article to PDF Workflow</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
+Use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3now3d/8_waiting_to_upgrade/">Discuss this on Reddit.</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ008.mp3" length="19715453" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[I’ve started waiting to upgrade operating systems and hardware when new releases are available. My impulse is to upgrade immediately, but I’ve put it off for a variety of reasons.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>I’ve started waiting to upgrade operating systems and hardware when new releases are available. My impulse is to upgrade immediately, but I’ve put it off for a variety of reasons.</p>
+
+<!--more-->
+
+<p><a href="http://www.iphonehacks.com/2015/09/ios-9-bugs.html">iOS 9 bugs we’ve found till now - iPhone Hacks</a></p>
+
+<p><a href="http://www.zdnet.com/article/ios-9-annoyances-headaches-and-bugs/">iOS 9 annoyances, headaches and bugs - ZDNet</a></p>
+
+<p><a href="http://www.apple.com/shop/iphone/iphone-upgrade-program">iPhone Upgrade Program - Apple</a></p>
+
+<p><a href="https://workflow.is/workflows/65a75670ff9542d7b0de56d0a30bd4dc">Save URL Workflow</a></p>
+
+<p><a href="https://workflow.is/workflows/bfecb2d5d7ac405b8a173f8bf4fad48a">Article to PDF Workflow</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
+Use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3now3d/8_waiting_to_upgrade/">Discuss this on Reddit.</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>20:21</itunes:duration>
+  </item>
+
+  <item>
+    <title>7: Learning a Computer Language</title>
+    <link>http://104.236.248.91/7/</link>
+    <comments>http://104.236.248.91/7/#comments</comments>
+    <pubDate>Tue, 29 Sep 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[development]]></category>
+
+    <category><![CDATA[research]]></category>
+
+    <guid isPermaLink="false">http://104.236.248.91/?p=905</guid>
+    <description>
+        <![CDATA[People are sometimes scared to get into coding because they think it’s complicated to learn. It’s not complicated, so don’t be one of those people. In this episode I talk about how I got into development (with no schooling) and how I pick up new languages.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>People are sometimes scared to get into coding because they think it’s complicated to learn. It’s not complicated, so don’t be one of those people. In this episode I talk about how I got into development (with no schooling) and how I pick up new languages.</p>
+
+<!--more-->
+
+<p><a href="http://www.excel-easy.com/vba.html">Excel VBA Tutorial - Easy Excel Macros</a></p>
+
+<p><a href="https://products.office.com/en-US/access">Microsoft Access</a></p>
+
+<p><a href="http://learn.shayhowe.com/">Learn to Code HTML &amp; CSS - Beginner &amp; Advanced</a></p>
+
+<p><a href="http://jquery.com/">jQuery</a></p>
+
+<p><a href="http://codex.wordpress.org/Theme_Development">PHP and Theme Development « WordPress Codex</a></p>
+
+<p><a href="https://www.python.org/">Welcome to Python.org</a></p>
+
+<p><a href="https://www.djangoproject.com/">The Web framework for perfectionists with deadlines - Django</a></p>
+
+<p><a href="https://www.ruby-lang.org/en/">Ruby Programming Language</a></p>
+
+<p><a href="http://rubyonrails.org/">Ruby on Rails</a></p>
+
+<p><a href="http://jekyllrb.com/">Jekyll • Simple, blog-aware, static sites</a></p>
+
+<p><a href="http://www.discourse.org/">Discourse</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
+Use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3mtguy/7_learning_a_computer_language/">Discuss this on Reddit.</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ007.mp3" length="17791432" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[People are sometimes scared to get into coding because they think it’s complicated to learn. It’s not complicated, so don’t be one of those people. In this episode I talk about how I got into development (with no schooling) and how I pick up new languages.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>People are sometimes scared to get into coding because they think it’s complicated to learn. It’s not complicated, so don’t be one of those people. In this episode I talk about how I got into development (with no schooling) and how I pick up new languages.</p>
+
+<!--more-->
+
+<p><a href="http://www.excel-easy.com/vba.html">Excel VBA Tutorial - Easy Excel Macros</a></p>
+
+<p><a href="https://products.office.com/en-US/access">Microsoft Access</a></p>
+
+<p><a href="http://learn.shayhowe.com/">Learn to Code HTML &amp; CSS - Beginner &amp; Advanced</a></p>
+
+<p><a href="http://jquery.com/">jQuery</a></p>
+
+<p><a href="http://codex.wordpress.org/Theme_Development">PHP and Theme Development « WordPress Codex</a></p>
+
+<p><a href="https://www.python.org/">Welcome to Python.org</a></p>
+
+<p><a href="https://www.djangoproject.com/">The Web framework for perfectionists with deadlines - Django</a></p>
+
+<p><a href="https://www.ruby-lang.org/en/">Ruby Programming Language</a></p>
+
+<p><a href="http://rubyonrails.org/">Ruby on Rails</a></p>
+
+<p><a href="http://jekyllrb.com/">Jekyll • Simple, blog-aware, static sites</a></p>
+
+<p><a href="http://www.discourse.org/">Discourse</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
+Use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3mtguy/7_learning_a_computer_language/">Discuss this on Reddit.</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>18:21</itunes:duration>
+  </item>
+
+  <item>
+    <title>6: Collecting and Storing Research</title>
+    <link>http://104.236.248.91/6/</link>
+    <comments>http://104.236.248.91/6/#comments</comments>
+    <pubDate>Tue, 22 Sep 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[evernote]]></category>
+
+    <category><![CDATA[research]]></category>
+
+    <guid isPermaLink="false">http://104.236.248.91/?p=893</guid>
+    <description>
+        <![CDATA[When you have a new project that you’re doing research on, you need a great way to grab and store that research. Referencing it later can be invaluable and save you the trouble of doing that same research multiple times.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>When you have a new project that you’re doing research on, you need a great way to grab and store that research. Referencing it later can be invaluable and save you the trouble of doing that same research multiple times.</p>
+
+<!--more-->
+
+<p><a href="http://joebuhlig.com/evernote-setup-workflow/">My Evernote Setup and Workflow</a></p>
+
+<p><a href="http://joebuhlig.com/simple-trick-naming-tags/">A Simple Trick for Naming Tags</a></p>
+
+<p><a href="http://www.noodlesoft.com/hazel.php">Hazel</a></p>
+
+<p><a href="http://wkhtmltopdf.org/">wkhtmltopdf</a></p>
+
+<p><a href="http://www.cocoatech.com/pathfinder/">PathFinder</a></p>
+
+<p><a href="https://workflow.is/workflows/65a75670ff9542d7b0de56d0a30bd4dc">Save URL Workflow</a></p>
+
+<p><a href="https://workflow.is/workflows/bfecb2d5d7ac405b8a173f8bf4fad48a">Article to PDF Workflow</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
+Use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3lx6iu/6_collecting_and_storing_research/">Discuss this on Reddit.</a></p>
+
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ006.mp3" length="16701394" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[When you have a new project that you’re doing research on, you need a great way to grab and store that research. Referencing it later can be invaluable and save you the trouble of doing that same research multiple times.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>When you have a new project that you’re doing research on, you need a great way to grab and store that research. Referencing it later can be invaluable and save you the trouble of doing that same research multiple times.</p>
+
+<!--more-->
+
+<p><a href="http://joebuhlig.com/evernote-setup-workflow/">My Evernote Setup and Workflow</a></p>
+
+<p><a href="http://joebuhlig.com/simple-trick-naming-tags/">A Simple Trick for Naming Tags</a></p>
+
+<p><a href="http://www.noodlesoft.com/hazel.php">Hazel</a></p>
+
+<p><a href="http://wkhtmltopdf.org/">wkhtmltopdf</a></p>
+
+<p><a href="http://www.cocoatech.com/pathfinder/">PathFinder</a></p>
+
+<p><a href="https://workflow.is/workflows/65a75670ff9542d7b0de56d0a30bd4dc">Save URL Workflow</a></p>
+
+<p><a href="https://workflow.is/workflows/bfecb2d5d7ac405b8a173f8bf4fad48a">Article to PDF Workflow</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
+Use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3lx6iu/6_collecting_and_storing_research/">Discuss this on Reddit.</a></p>
+
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>17:13</itunes:duration>
+  </item>
+
+  <item>
+    <title>5: Developing a Task Management System</title>
+    <link>http://104.236.248.91/5/</link>
+    <comments>http://104.236.248.91/5/#comments</comments>
+    <pubDate>Tue, 15 Sep 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[task management]]></category>
+
+    <guid isPermaLink="false">http://104.236.248.91/?p=882</guid>
+    <description>
+        <![CDATA[If you’ve made the decision to get into task management, congratulations! But you need to be intentional with getting started. Here’s a look at how I helped my wife put together her pen and paper system the first time.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>If you’ve made the decision to get into task management, congratulations! But you need to be intentional with getting started. Here’s a look at how I helped my wife put together her pen and paper system the first time.</p>
+
+<!--more-->
+
+<p><a href="http://agiletortoise.com/drafts/">Drafts</a> (<a href="https://itunes.apple.com/us/app/id905337691">iTunes</a>)</p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
+Use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3l0zqy/5_developing_a_task_management_system/">Discuss this on Reddit.</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ005.mp3" length="22624462" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[If you’ve made the decision to get into task management, congratulations! But you need to be intentional with getting started. Here’s a look at how I helped my wife put together her pen and paper system the first time.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>If you’ve made the decision to get into task management, congratulations! But you need to be intentional with getting started. Here’s a look at how I helped my wife put together her pen and paper system the first time.</p>
+
+<!--more-->
+
+<p><a href="http://agiletortoise.com/drafts/">Drafts</a> (<a href="https://itunes.apple.com/us/app/id905337691">iTunes</a>)</p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
+Use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3l0zqy/5_developing_a_task_management_system/">Discuss this on Reddit.</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>23:23</itunes:duration>
+  </item>
+
+  <item>
+    <title>4: Creating the First Checklist</title>
+    <link>http://104.236.248.91/4/</link>
+    <comments>http://104.236.248.91/4/#comments</comments>
+    <pubDate>Tue, 08 Sep 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[checklists]]></category>
+
+    <guid isPermaLink="false">http://104.236.248.91/?p=866</guid>
+    <description>
+        <![CDATA[Creating a checklist for the first time isn’t always easy. And I did it wrong when I created the initial list for this podcast. I did figure out a better way, though.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Creating a checklist for the first time isn’t always easy. And I did it wrong when I created the initial list for this podcast. I did figure out a better way, though.</p>
+
+<!--more-->
+
+<p><a href="http://www.podcastmethod.co/">The Podcast Method</a></p>
+
+<p><a href="https://www.youtube.com/playlist?list=PLzJ1r4EGn-enCMU1kPstXd7e1SjI3jP_O">Smart Passive Income - Podcasting Tutorial</a></p>
+
+<p><a href="https://www.adobe.com/products/audition.html">Adobe Audition</a></p>
+
+<p><a href="http://cmsauve.com/projects/templates/">OmniFocus Templates Script</a></p>
+
+<p><a href="http://joebuhlig.com/omnifocus/">Working with OmniFocus</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
+Use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3k2xpv/4_creating_the_first_checklist/">Discuss this on Reddit.</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ004.mp3" length="17404039" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Creating a checklist for the first time isn’t always easy. And I did it wrong when I created the initial list for this podcast. I did figure out a better way, though.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Creating a checklist for the first time isn’t always easy. And I did it wrong when I created the initial list for this podcast. I did figure out a better way, though.</p>
+
+<!--more-->
+
+<p><a href="http://www.podcastmethod.co/">The Podcast Method</a></p>
+
+<p><a href="https://www.youtube.com/playlist?list=PLzJ1r4EGn-enCMU1kPstXd7e1SjI3jP_O">Smart Passive Income - Podcasting Tutorial</a></p>
+
+<p><a href="https://www.adobe.com/products/audition.html">Adobe Audition</a></p>
+
+<p><a href="http://cmsauve.com/projects/templates/">OmniFocus Templates Script</a></p>
+
+<p><a href="http://joebuhlig.com/omnifocus/">Working with OmniFocus</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
+Use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3k2xpv/4_creating_the_first_checklist/">Discuss this on Reddit.</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>17:57</itunes:duration>
+  </item>
+
+  <item>
+    <title>3: Keeping Up with Pain Pills</title>
+    <link>http://104.236.248.91/3/</link>
+    <comments>http://104.236.248.91/3/#comments</comments>
+    <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <guid isPermaLink="false">http://104.236.248.91/?p=860</guid>
+    <description>
+        <![CDATA[Ugh. Dealing with water coming into the family room. And of course, I hurt myself and had to have surgery. And surgery leads to pain pills.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Ugh. Dealing with water coming into the family room. And of course, I hurt myself and had to have surgery. And surgery leads to pain pills.</p>
+
+<!--more-->
+
+<p><a href="http://joebuhlig.com/a-chaotic-week-with-gtd/">A Chaotic Week with GTD</a></p>
+
+<p><a href="https://www.omnigroup.com/omnifocus/">OmniFocus</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3j4os3/3_keeping_up_with_pain_pills/">Discuss this on Reddit</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ003.mp3" length="11227803" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Ugh. Dealing with water coming into the family room. And of course, I hurt myself and had to have surgery. And surgery leads to pain pills.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Ugh. Dealing with water coming into the family room. And of course, I hurt myself and had to have surgery. And surgery leads to pain pills.</p>
+
+<!--more-->
+
+<p><a href="http://joebuhlig.com/a-chaotic-week-with-gtd/">A Chaotic Week with GTD</a></p>
+
+<p><a href="https://www.omnigroup.com/omnifocus/">OmniFocus</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3j4os3/3_keeping_up_with_pain_pills/">Discuss this on Reddit</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>11:30</itunes:duration>
+  </item>
+
+  <item>
+    <title>2: The Dunbar Exception</title>
+    <link>http://104.236.248.91/2/</link>
+    <comments>http://104.236.248.91/2/#comments</comments>
+    <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[communication]]></category>
+
+    <category><![CDATA[life]]></category>
+
+    <guid isPermaLink="false">http://104.236.248.91/?p=857</guid>
+    <description>
+        <![CDATA[In today’s world it’s easy to connect with more than 150 people. This is how keep up with 300+.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>In today’s world it’s easy to connect with more than 150 people. This is how keep up with 300+.</p>
+
+<!--more-->
+
+<p><a href="https://en.wikipedia.org/wiki/Dunbar%27s_number">Dunbar’s number - Wikipedia</a></p>
+
+<p><a href="http://joebuhlig.com/using-thebrain/">Using TheBrain</a></p>
+
+<p><a href="http://jerrysbrain.com">Example Brain in Action</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3j4oqz/2_the_dunbar_exception/">Discuss this on Reddit</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ002.mp3" length="16714604" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[In today’s world it’s easy to connect with more than 150 people. This is how keep up with 300+.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>In today’s world it’s easy to connect with more than 150 people. This is how keep up with 300+.</p>
+
+<!--more-->
+
+<p><a href="https://en.wikipedia.org/wiki/Dunbar%27s_number">Dunbar’s number - Wikipedia</a></p>
+
+<p><a href="http://joebuhlig.com/using-thebrain/">Using TheBrain</a></p>
+
+<p><a href="http://jerrysbrain.com">Example Brain in Action</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3j4oqz/2_the_dunbar_exception/">Discuss this on Reddit</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>17:13</itunes:duration>
+  </item>
+
+  <item>
+    <title>1: New Job New Contexts</title>
+    <link>http://104.236.248.91/1/</link>
+    <comments>http://104.236.248.91/1/#comments</comments>
+    <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[contexts]]></category>
+
+    <category><![CDATA[gtd]]></category>
+
+    <guid isPermaLink="false">http://104.236.248.91/?p=850</guid>
+    <description>
+        <![CDATA[If you go through a job change, you’ll need to change your GTD contexts. I walk you through my recent job transition and what I did to determine my new contexts.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>If you go through a job change, you’ll need to change your GTD contexts. I walk you through my recent job transition and what I did to determine my new contexts.</p>
+
+<!--more-->
+
+<p><a href="http://joebuhlig.com/getting-things-done-introduction/">Getting Things Done: Introduction</a></p>
+
+<p><a href="http://joebuhlig.com/gtd-contexts-proactive-vs-reactive/">GTD Contexts: Proactive vs. Reactive</a></p>
+
+<p><a href="http://joebuhlig.com/making-time-contexts/">Making Time for Contexts</a></p>
+
+<p><a href="http://joebuhlig.com/making-time-contexts/">Using Omnifocus for Someday/Maybe Lists</a></p>
+
+<p><a href="http://joebuhlig.com/macbook-pro-vs-macbook-air/">MacBook Pro vs MacBook Air</a></p>
+
+<p><img class="left-image" src="/assets/posts_extra/Contexts.png" /></p>
+
+<div class="clear"></div>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3j4opo/1_new_job_new_contexts/">Discuss this on Reddit</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ001.mp3" length="17597079" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[If you go through a job change, you’ll need to change your GTD contexts. I walk you through my recent job transition and what I did to determine my new contexts.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>If you go through a job change, you’ll need to change your GTD contexts. I walk you through my recent job transition and what I did to determine my new contexts.</p>
+
+<!--more-->
+
+<p><a href="http://joebuhlig.com/getting-things-done-introduction/">Getting Things Done: Introduction</a></p>
+
+<p><a href="http://joebuhlig.com/gtd-contexts-proactive-vs-reactive/">GTD Contexts: Proactive vs. Reactive</a></p>
+
+<p><a href="http://joebuhlig.com/making-time-contexts/">Making Time for Contexts</a></p>
+
+<p><a href="http://joebuhlig.com/making-time-contexts/">Using Omnifocus for Someday/Maybe Lists</a></p>
+
+<p><a href="http://joebuhlig.com/macbook-pro-vs-macbook-air/">MacBook Pro vs MacBook Air</a></p>
+
+<p><img class="left-image" src="/assets/posts_extra/Contexts.png" /></p>
+
+<div class="clear"></div>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3j4opo/1_new_job_new_contexts/">Discuss this on Reddit</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>18:09</itunes:duration>
+  </item>
+
+</channel>
+</rss>
