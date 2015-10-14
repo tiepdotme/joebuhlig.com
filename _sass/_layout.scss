@@ -38,6 +38,10 @@
     height: $site-links-height;
     margin: 0 auto;
     max-width: $content-width;
+
+    @include media-query($content-width) {
+        padding: 0px 10px;
+    }
 }
 
 .site-nav {
@@ -66,7 +70,7 @@
         }
     }
 
-    @include media-query($on-palm) {
+    @include media-query($content-width) {
         position: absolute;
         top: 7px;
         left: 15px;
@@ -99,7 +103,7 @@
             display: none;
         }
 
-        &:hover .trigger {
+        .trigger.active {
             display: block;
             padding-bottom: 5px;
         }
