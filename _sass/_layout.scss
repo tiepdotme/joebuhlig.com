@@ -183,17 +183,17 @@
     }
 
     .header-spacer{
-        height: 1px;
+        height: 10px;
         position: fixed;
         text-align: center;
-        top: ($site-links-height + $header-bar-height) - ($header-bar-height/2) - 0.5px;
+        top: ($site-links-height + $header-bar-height) - ($header-bar-height/2) - 5.5px;
         width: 100%;
         z-index: 5;
     }
 
     .header-spacer-inner{
         background-color: #FFFFFF;
-        height: 1px;
+        height: 10px;
         margin: 0 auto;
         width: 275px;
     }
