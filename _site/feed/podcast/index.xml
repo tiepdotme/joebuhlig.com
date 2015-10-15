@@ -11,10 +11,10 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
  
 <channel>
 <title>Whaddya Know Joe?</title>
-<atom:link href="http://104.236.248.91/feed/podcast" rel="self" type="application/rss+xml" />
-<link>http://104.236.248.91</link>
+<atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
+<link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Thu, 15 Oct 2015 07:22:50 -0500</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2015 13:10:42 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -22,7 +22,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:summary>Joe Buhlig walks you through real life story and then breaks down the productivity tools and techniques used. It's a great way to learn how to implement the tips and tricks that you see across the web. Productivity stories from the trenches. What works and what to never try.</itunes:summary>
 <itunes:author>Joe Buhlig</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+<itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
 <itunes:owner>
 <itunes:name>Joe Buhlig</itunes:name>
 <itunes:email>joe@joebuhlig.com</itunes:email>
@@ -31,8 +31,8 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:subtitle>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</itunes:subtitle>
 <image>
 <title>Whaddya Know Joe?</title>
-<url>http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png</url>
-<link>http://104.236.248.91</link>
+<url>http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png</url>
+<link>http://joebuhlig.com</link>
 </image>
 <itunes:category text="Technology">
 <itunes:category text="Software How-To" />
@@ -41,8 +41,8 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>9: Really? Journaling?</title>
-    <link>http://104.236.248.91/9/</link>
-    <comments>http://104.236.248.91/9/#comments</comments>
+    <link>http://joebuhlig.com/9/</link>
+    <comments>http://joebuhlig.com/9/#comments</comments>
     <pubDate>Tue, 13 Oct 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -53,7 +53,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="false">http://104.236.248.91/?p=926</guid>
+    <guid isPermaLink="false">http://joebuhlig.com/?p=926</guid>
     <description>
         <![CDATA[I can’t believe I’ve started journaling every day. I’ve always equated journaling with writing in a diary, which is not for me. But the effects of not journaling caught me off-guard.
 
@@ -97,15 +97,15 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>16:32</itunes:duration>
   </item>
 
   <item>
     <title>8: Waiting to Upgrade</title>
-    <link>http://104.236.248.91/8/</link>
-    <comments>http://104.236.248.91/8/#comments</comments>
+    <link>http://joebuhlig.com/8/</link>
+    <comments>http://joebuhlig.com/8/#comments</comments>
     <pubDate>Tue, 06 Oct 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -116,7 +116,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[hardware]]></category>
 
-    <guid isPermaLink="false">http://104.236.248.91/?p=916</guid>
+    <guid isPermaLink="false">http://joebuhlig.com/?p=916</guid>
     <description>
         <![CDATA[I’ve started waiting to upgrade operating systems and hardware when new releases are available. My impulse is to upgrade immediately, but I’ve put it off for a variety of reasons.
 
@@ -176,15 +176,15 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3now3d/8_waiting_to_upgrade/">Discuss this on Reddit.</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>20:21</itunes:duration>
   </item>
 
   <item>
     <title>7: Learning a Computer Language</title>
-    <link>http://104.236.248.91/7/</link>
-    <comments>http://104.236.248.91/7/#comments</comments>
+    <link>http://joebuhlig.com/7/</link>
+    <comments>http://joebuhlig.com/7/#comments</comments>
     <pubDate>Tue, 29 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -195,7 +195,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[research]]></category>
 
-    <guid isPermaLink="false">http://104.236.248.91/?p=905</guid>
+    <guid isPermaLink="false">http://joebuhlig.com/?p=905</guid>
     <description>
         <![CDATA[People are sometimes scared to get into coding because they think it’s complicated to learn. It’s not complicated, so don’t be one of those people. In this episode I talk about how I got into development (with no schooling) and how I pick up new languages.
 
@@ -279,15 +279,15 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3mtguy/7_learning_a_computer_language/">Discuss this on Reddit.</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>18:21</itunes:duration>
   </item>
 
   <item>
     <title>6: Collecting and Storing Research</title>
-    <link>http://104.236.248.91/6/</link>
-    <comments>http://104.236.248.91/6/#comments</comments>
+    <link>http://joebuhlig.com/6/</link>
+    <comments>http://joebuhlig.com/6/#comments</comments>
     <pubDate>Tue, 22 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -298,7 +298,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[research]]></category>
 
-    <guid isPermaLink="false">http://104.236.248.91/?p=893</guid>
+    <guid isPermaLink="false">http://joebuhlig.com/?p=893</guid>
     <description>
         <![CDATA[When you have a new project that you’re doing research on, you need a great way to grab and store that research. Referencing it later can be invaluable and save you the trouble of doing that same research multiple times.
 
@@ -368,15 +368,15 @@ Use the hashtag #question to ask a question.</p>
 
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>17:13</itunes:duration>
   </item>
 
   <item>
     <title>5: Developing a Task Management System</title>
-    <link>http://104.236.248.91/5/</link>
-    <comments>http://104.236.248.91/5/#comments</comments>
+    <link>http://joebuhlig.com/5/</link>
+    <comments>http://joebuhlig.com/5/#comments</comments>
     <pubDate>Tue, 15 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -385,7 +385,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[task management]]></category>
 
-    <guid isPermaLink="false">http://104.236.248.91/?p=882</guid>
+    <guid isPermaLink="false">http://joebuhlig.com/?p=882</guid>
     <description>
         <![CDATA[If you’ve made the decision to get into task management, congratulations! But you need to be intentional with getting started. Here’s a look at how I helped my wife put together her pen and paper system the first time.
 
@@ -429,15 +429,15 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3l0zqy/5_developing_a_task_management_system/">Discuss this on Reddit.</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>23:23</itunes:duration>
   </item>
 
   <item>
     <title>4: Creating the First Checklist</title>
-    <link>http://104.236.248.91/4/</link>
-    <comments>http://104.236.248.91/4/#comments</comments>
+    <link>http://joebuhlig.com/4/</link>
+    <comments>http://joebuhlig.com/4/#comments</comments>
     <pubDate>Tue, 08 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -446,7 +446,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[checklists]]></category>
 
-    <guid isPermaLink="false">http://104.236.248.91/?p=866</guid>
+    <guid isPermaLink="false">http://joebuhlig.com/?p=866</guid>
     <description>
         <![CDATA[Creating a checklist for the first time isn’t always easy. And I did it wrong when I created the initial list for this podcast. I did figure out a better way, though.
 
@@ -506,15 +506,15 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3k2xpv/4_creating_the_first_checklist/">Discuss this on Reddit.</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>17:57</itunes:duration>
   </item>
 
   <item>
     <title>3: Keeping Up with Pain Pills</title>
-    <link>http://104.236.248.91/3/</link>
-    <comments>http://104.236.248.91/3/#comments</comments>
+    <link>http://joebuhlig.com/3/</link>
+    <comments>http://joebuhlig.com/3/#comments</comments>
     <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -523,7 +523,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="false">http://104.236.248.91/?p=860</guid>
+    <guid isPermaLink="false">http://joebuhlig.com/?p=860</guid>
     <description>
         <![CDATA[Ugh. Dealing with water coming into the family room. And of course, I hurt myself and had to have surgery. And surgery leads to pain pills.
 
@@ -569,15 +569,15 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3j4os3/3_keeping_up_with_pain_pills/">Discuss this on Reddit</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>11:30</itunes:duration>
   </item>
 
   <item>
     <title>2: The Dunbar Exception</title>
-    <link>http://104.236.248.91/2/</link>
-    <comments>http://104.236.248.91/2/#comments</comments>
+    <link>http://joebuhlig.com/2/</link>
+    <comments>http://joebuhlig.com/2/#comments</comments>
     <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -588,7 +588,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="false">http://104.236.248.91/?p=857</guid>
+    <guid isPermaLink="false">http://joebuhlig.com/?p=857</guid>
     <description>
         <![CDATA[In today’s world it’s easy to connect with more than 150 people. This is how keep up with 300+.
 
@@ -638,15 +638,15 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3j4oqz/2_the_dunbar_exception/">Discuss this on Reddit</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>17:13</itunes:duration>
   </item>
 
   <item>
     <title>1: New Job New Contexts</title>
-    <link>http://104.236.248.91/1/</link>
-    <comments>http://104.236.248.91/1/#comments</comments>
+    <link>http://joebuhlig.com/1/</link>
+    <comments>http://joebuhlig.com/1/#comments</comments>
     <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -657,7 +657,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="false">http://104.236.248.91/?p=850</guid>
+    <guid isPermaLink="false">http://joebuhlig.com/?p=850</guid>
     <description>
         <![CDATA[If you go through a job change, you’ll need to change your GTD contexts. I walk you through my recent job transition and what I did to determine my new contexts.
 
@@ -723,7 +723,7 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3j4opo/1_new_job_new_contexts/">Discuss this on Reddit</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="http://104.236.248.91/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>18:09</itunes:duration>
   </item>

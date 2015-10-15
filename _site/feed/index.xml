@@ -10,11 +10,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <channel>
 <title>Joe Buhlig</title>
-<atom:link href="http://104.236.248.91/feed/" rel="self" type="application/rss+xml" />
-<link>http://104.236.248.91</link>
+<atom:link href="http://joebuhlig.com/feed/" rel="self" type="application/rss+xml" />
+<link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 15 Oct 2015 07:22:50 -0500</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2015 13:10:42 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -22,7 +22,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[9: Really? Journaling?]]></title>
-    <link>http://104.236.248.91/9/</link>
+    <link>http://joebuhlig.com/9/</link>
     <pubDate>Tue, 13 Oct 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -33,7 +33,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="true">http://104.236.248.91/9/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/9/</guid>
     <description>
         <![CDATA[I can’t believe I’ve started journaling every day. I’ve always equated journaling with writing in a diary, which is not for me. But the effects of not journaling caught me off-guard.
 
@@ -60,7 +60,7 @@ Use the hashtag #question to ask a question.</p>
 
 <item>
     <title><![CDATA[Using Drafts]]></title>
-    <link>http://104.236.248.91/using-drafts/</link>
+    <link>http://joebuhlig.com/using-drafts/</link>
     <pubDate>Sat, 10 Oct 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -73,7 +73,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[setups]]></category>
 
-    <guid isPermaLink="true">http://104.236.248.91/using-drafts/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/using-drafts/</guid>
     <description>
         <![CDATA[Drafts is one of those apps that I cannot go without. The funny thing is that my tech-resistant wife is now dependent on it as well. And you can be sure that I am pretty excited about her use of it.
 
@@ -140,7 +140,7 @@ Use the hashtag #question to ask a question.</p>
 
 <item>
     <title><![CDATA[8: Waiting to Upgrade]]></title>
-    <link>http://104.236.248.91/8/</link>
+    <link>http://joebuhlig.com/8/</link>
     <pubDate>Tue, 06 Oct 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -151,7 +151,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[hardware]]></category>
 
-    <guid isPermaLink="true">http://104.236.248.91/8/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/8/</guid>
     <description>
         <![CDATA[I’ve started waiting to upgrade operating systems and hardware when new releases are available. My impulse is to upgrade immediately, but I’ve put it off for a variety of reasons.
 
@@ -186,7 +186,7 @@ Use the hashtag #question to ask a question.</p>
 
 <item>
     <title><![CDATA[How I Started with Technology]]></title>
-    <link>http://104.236.248.91/how-i-started-with-technology/</link>
+    <link>http://joebuhlig.com/how-i-started-with-technology/</link>
     <pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -197,7 +197,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="true">http://104.236.248.91/how-i-started-with-technology/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/how-i-started-with-technology/</guid>
     <description>
         <![CDATA[When I was 16 I bought my own Compaq laptop. Remember those? I had been using the family computer quite a bit, but this was my own computer. That was the beginning of my journey with technology.
 
@@ -257,7 +257,7 @@ Use the hashtag #question to ask a question.</p>
 
 <item>
     <title><![CDATA[7: Learning a Computer Language]]></title>
-    <link>http://104.236.248.91/7/</link>
+    <link>http://joebuhlig.com/7/</link>
     <pubDate>Tue, 29 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -268,7 +268,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[research]]></category>
 
-    <guid isPermaLink="true">http://104.236.248.91/7/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/7/</guid>
     <description>
         <![CDATA[People are sometimes scared to get into coding because they think it’s complicated to learn. It’s not complicated, so don’t be one of those people. In this episode I talk about how I got into development (with no schooling) and how I pick up new languages.
 
@@ -315,7 +315,7 @@ Use the hashtag #question to ask a question.</p>
 
 <item>
     <title><![CDATA[Sharing a Computer]]></title>
-    <link>http://104.236.248.91/sharing-a-computer/</link>
+    <link>http://joebuhlig.com/sharing-a-computer/</link>
     <pubDate>Fri, 25 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -324,7 +324,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[hardware]]></category>
 
-    <guid isPermaLink="true">http://104.236.248.91/sharing-a-computer/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/sharing-a-computer/</guid>
     <description>
         <![CDATA[When I switched to the MacBook Pro, I also switched from using two computers to one. I know, I know, I was spoiled. But it made my life a lot easier and helped me accomplish a lot more.
 
@@ -364,7 +364,7 @@ Use the hashtag #question to ask a question.</p>
 
 <item>
     <title><![CDATA[6: Collecting and Storing Research]]></title>
-    <link>http://104.236.248.91/6/</link>
+    <link>http://joebuhlig.com/6/</link>
     <pubDate>Tue, 22 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -375,7 +375,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[research]]></category>
 
-    <guid isPermaLink="true">http://104.236.248.91/6/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/6/</guid>
     <description>
         <![CDATA[When you have a new project that you’re doing research on, you need a great way to grab and store that research. Referencing it later can be invaluable and save you the trouble of doing that same research multiple times.
 
@@ -415,7 +415,7 @@ Use the hashtag #question to ask a question.</p>
 
 <item>
     <title><![CDATA[Scheduled Reviews in OmniFocus]]></title>
-    <link>http://104.236.248.91/scheduled-reviews-in-omnifocus/</link>
+    <link>http://joebuhlig.com/scheduled-reviews-in-omnifocus/</link>
     <pubDate>Fri, 18 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -426,7 +426,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[reviews]]></category>
 
-    <guid isPermaLink="true">http://104.236.248.91/scheduled-reviews-in-omnifocus/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/scheduled-reviews-in-omnifocus/</guid>
     <description>
         <![CDATA[Every Friday morning I do my Weekly Review. I do my Monthly Review on the first of the month and my Annual Review on the first of the year. How do I get OmniFocus to play nicely with this?
 
@@ -468,7 +468,7 @@ Use the hashtag #question to ask a question.</p>
 
 <item>
     <title><![CDATA[5: Developing a Task Management System]]></title>
-    <link>http://104.236.248.91/5/</link>
+    <link>http://joebuhlig.com/5/</link>
     <pubDate>Tue, 15 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -477,7 +477,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[task management]]></category>
 
-    <guid isPermaLink="true">http://104.236.248.91/5/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/5/</guid>
     <description>
         <![CDATA[If you’ve made the decision to get into task management, congratulations! But you need to be intentional with getting started. Here’s a look at how I helped my wife put together her pen and paper system the first time.
 
@@ -504,7 +504,7 @@ Use the hashtag #question to ask a question.</p>
 
 <item>
     <title><![CDATA[Writing with GitHub]]></title>
-    <link>http://104.236.248.91/writing-with-github/</link>
+    <link>http://joebuhlig.com/writing-with-github/</link>
     <pubDate>Fri, 11 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -517,7 +517,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[writing]]></category>
 
-    <guid isPermaLink="true">http://104.236.248.91/writing-with-github/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/writing-with-github/</guid>
     <description>
         <![CDATA[I’ve written about my use of Sublime Text for writing, but I didn’t share how I manage the edits from my editor.
 
@@ -602,7 +602,7 @@ fi</pre></noscript>
 
 <item>
     <title><![CDATA[4: Creating the First Checklist]]></title>
-    <link>http://104.236.248.91/4/</link>
+    <link>http://joebuhlig.com/4/</link>
     <pubDate>Tue, 08 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -611,7 +611,7 @@ fi</pre></noscript>
 
     <category><![CDATA[checklists]]></category>
 
-    <guid isPermaLink="true">http://104.236.248.91/4/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/4/</guid>
     <description>
         <![CDATA[Creating a checklist for the first time isn’t always easy. And I did it wrong when I created the initial list for this podcast. I did figure out a better way, though.
 
@@ -646,7 +646,7 @@ Use the hashtag #question to ask a question.</p>
 
 <item>
     <title><![CDATA[OmniFocus Auto-Parser]]></title>
-    <link>http://104.236.248.91/omnifocus-auto-parser/</link>
+    <link>http://joebuhlig.com/omnifocus-auto-parser/</link>
     <pubDate>Fri, 04 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -655,7 +655,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">http://104.236.248.91/omnifocus-auto-parser/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/omnifocus-auto-parser/</guid>
     <description>
         <![CDATA[I love it when my systems do things automatically. In this case, I can capture an idea for a someday/maybe list and it ends up in the right place in OmniFocus.
 
@@ -707,7 +707,7 @@ Use the hashtag #question to ask a question.</p>
 
 <item>
     <title><![CDATA[3: Keeping Up with Pain Pills]]></title>
-    <link>http://104.236.248.91/3/</link>
+    <link>http://joebuhlig.com/3/</link>
     <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -716,7 +716,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">http://104.236.248.91/3/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/3/</guid>
     <description>
         <![CDATA[Ugh. Dealing with water coming into the family room. And of course, I hurt myself and had to have surgery. And surgery leads to pain pills.
 
@@ -744,7 +744,7 @@ Use the hashtag #question to ask a question.</p>
 
 <item>
     <title><![CDATA[2: The Dunbar Exception]]></title>
-    <link>http://104.236.248.91/2/</link>
+    <link>http://joebuhlig.com/2/</link>
     <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -755,7 +755,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="true">http://104.236.248.91/2/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/2/</guid>
     <description>
         <![CDATA[In today’s world it’s easy to connect with more than 150 people. This is how keep up with 300+.
 
@@ -785,7 +785,7 @@ Use the hashtag #question to ask a question.</p>
 
 <item>
     <title><![CDATA[1: New Job New Contexts]]></title>
-    <link>http://104.236.248.91/1/</link>
+    <link>http://joebuhlig.com/1/</link>
     <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
@@ -796,7 +796,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="true">http://104.236.248.91/1/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/1/</guid>
     <description>
         <![CDATA[If you go through a job change, you’ll need to change your GTD contexts. I walk you through my recent job transition and what I did to determine my new contexts.
 
