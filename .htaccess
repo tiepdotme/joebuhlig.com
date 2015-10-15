@@ -3,3 +3,5 @@ ErrorDocument 401 /401.html
 ErrorDocument 403 /403.html
 ErrorDocument 404 /404.html
 ErrorDocument 500 /500.html
+
+Redirect 301 /category/podcast /whaddyaknowjoe

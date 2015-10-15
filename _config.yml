@@ -23,6 +23,22 @@ destination: _site
 tag_page_layout: tag_page
 tag_page_dir: tag
 tag_permalink_style: pretty
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed/index.xml"
+        - "/feed/podcast/index.xml"
+        - "/400.html"
+        - "/401.html"
+        - "/403.html"
+        - "/404.html"
+        - "/500.html"
+    include_posts:
+        - "/index.html"
+        - "/whaddyaknowjoe/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
 
 # ------------------------------------------------------------------------
 # Post settings
