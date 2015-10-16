@@ -48,6 +48,8 @@ In the process of making the shift to a static site, I'm also launching a [new s
 
 Today. I spent the last few weeks working on the static site. There are still some bugs I'm working out, but for the most part it's all here. Let me know what you think!
 
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3oz7bz/from_wordpress_and_google_to_jekyll_and_piwik/)
+
 [Jekyll]: http://jekyllrb.com/
 [Piwik]: http://piwik.org/
 [MarcoDidntFeelRight]: http://www.marco.org/2015/09/18/just-doesnt-feel-good

@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 16 Oct 2015 05:57:09 -0500</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2015 06:29:07 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -79,6 +79,8 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <h2 id="when">When?</h2>
 
 <p>Today. I spent the last few weeks working on the static site. There are still some bugs I’m working out, but for the most part it’s all here. Let me know what you think!</p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3oz7bz/from_wordpress_and_google_to_jekyll_and_piwik/">Discuss this on Reddit.</a></p>
 
 ]]>
     </content:encoded>
