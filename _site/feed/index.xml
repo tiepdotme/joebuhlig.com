@@ -14,11 +14,75 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 15 Oct 2015 13:10:42 -0500</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2015 05:57:09 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[From WordPress and Google to Jekyll and Piwik]]></title>
+    <link>http://joebuhlig.com/from-wordpress-google-to-jekyll-piwik/</link>
+    <pubDate>Fri, 16 Oct 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[jekyll]]></category>
+
+    <category><![CDATA[piwik]]></category>
+
+    <category><![CDATA[web development]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/from-wordpress-google-to-jekyll-piwik/</guid>
+    <description>
+        <![CDATA[This website has run on WordPress and Google Analytics from day one and they’ve both treated me pretty well. But I’ve started to see a need for more flexibility in the site, so it’s time for a big change.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>This website has run on WordPress and Google Analytics from day one and they’ve both treated me pretty well. But I’ve started to see a need for more flexibility in the site, so it’s time for a big change.</p>
+
+<!--more-->
+
+<p>This is mostly a back-end change that shouldn’t affect the UI much. There are a few small UI changes I’m making, but that’s to make the site cleaner. The more I’ve gotten into web development and design the pickier I’ve become with my site. Ultimately, I’m looking for a simplified user experience for you and more respect for your privacy.</p>
+
+<h2 id="why-wordpress-and-google">Why WordPress and Google?</h2>
+
+<p>For about a year and a half I ran the site on <a href="https://wordpress.org/">WordPress</a> through <a href="http://www.bluehost.com/">Bluehost</a> with Google Analytics.  It was easy and quick for me at the time. WordPress has a good, long track record so I fell in line to get my site up quickly. I didn’t want to worry about technicalities - I needed to spend my time creating.</p>
+
+<p>The standard for analytics has been Google Analytics for some time. Google has a reputation for having some of the best if not <em>the</em> best reports and tracking for your website. When I started I knew very little about tracking. I was just looking for a way to see what kind of traffic I was getting and almost everyone recommended GA. Sometimes I’m okay with taking the easy road if it means shipping something quickly. I can evaluate the nuances later. And I can always do the research and migration process after the launch if I need to - which is what I’ve done here.</p>
+
+<h2 id="why-jekyll">Why Jekyll?</h2>
+
+<p>As a replacement for WordPress, I’ve decided to create a static site using <a href="http://jekyllrb.com/">Jekyll</a>. I ran across Jekyll through blog posts from <a href="http://brettterpstra.com/">Brett Terpstra</a>. I then spent a couple of hours researching and reviewing websites built with Jekyll. I was blown away by the load speeds involved.</p>
+
+<p>I started looking at some of the numbers on my site and found that the average page was loading in about eight seconds. All of the tests I was doing on my machine came in around four seconds, but that didn’t take into account the various devices that people use. That extra four seconds meant my site was way too slow. <em>Eight seconds?</em> Sites built with Jekyll are typically loading in less than one second.</p>
+
+<p>I’ve been wanting to get into Ruby and Rails lately. Since Jekyll is built on Ruby and I <a href="http://joebuhlig.com/7/">learn by using a language</a>, it made for a good project. Jekyll seems to be one of the most common static site generators as well. There’s a lot of support and plugins for it already, so I felt comfortable joining that community.</p>
+
+<p>Moving to a static site allows me the flexibility to build one-off pages and posts in a highly customized way. Since I’m becoming more particular about how things look and how you interact with them, it only makes sense. Jekyll seems to fit the bill quite well.</p>
+
+<h2 id="why-piwik">Why Piwik?</h2>
+
+<p>I want to step away from the data collection that Google does on you. I don’t want to share your data against your will and I don’t want to put you into their system simply because you wanted to read my articles. I understand that you might be okay with this, but I’m learning that I’m not necessarily okay with this myself. There’s a big backlash against ads and tracking right now and although I’m not wanting to jump on that bandwagon, it is something that I’ve been thinking a lot about lately.</p>
+
+<p>And although tracking and ads are okay in some scenarios, I’ve found that I’m uneasy about the tracking that goes alongside Google Analytics. That might be unwarranted and unfounded, but I don’t want to leave it when it makes me uncomfortable. A great example of this is <a href="http://www.marco.org/">Marco Arment</a> and his ad-blocking iOS app. He had a great app and it worked well, but it <a href="http://www.marco.org/2015/09/18/just-doesnt-feel-good">didn’t feel right</a> for him. So he pulled it and Apple issued refunds. Google Analytics on this website falls in the same category for me. It might be okay, but I’m not comfortable with it.</p>
+
+<p>I still have a need to understand the analytics for my site so I started looking for alternatives and ran across <a href="http://piwik.org/">Piwik</a>. It allows me to collect the numbers that I’m looking for, but the data stays local. There is no master server that the numbers go back to. Your data never leaves the site. I have a database (that only I have access to) that stores the information and it sits on the same server that this website sits on. The data is anonymous and never goes anywhere. It allows me to get those numbers and not sacrifice your privacy in the process. I think that’s a great trade-off.</p>
+
+<h2 id="hosting">Hosting?</h2>
+
+<p>In the process of making the shift to a static site, I’m also launching a <a href="http://tools.joebuhlig.com/">new sub-domain</a> that will be running on Rails. I was previously running my hosting through Bluehost, but while setting up a Rails application, I found that Bluehost is not very easy to use for anything other than one-click installations. So I’m also moving my host over to <a href="https://www.digitalocean.com/">Digital Ocean</a> (<a href="https://www.digitalocean.com/?refcode=b0f9f06b6067">affiliate</a>).</p>
+
+<h2 id="when">When?</h2>
+
+<p>Today. I spent the last few weeks working on the static site. There are still some bugs I’m working out, but for the most part it’s all here. Let me know what you think!</p>
+
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[9: Really? Journaling?]]></title>
@@ -779,55 +843,6 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3j4oqz/2_the_dunbar_exception/">Discuss this on Reddit</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[1: New Job New Contexts]]></title>
-    <link>http://joebuhlig.com/1/</link>
-    <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[contexts]]></category>
-
-    <category><![CDATA[gtd]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/1/</guid>
-    <description>
-        <![CDATA[If you go through a job change, you’ll need to change your GTD contexts. I walk you through my recent job transition and what I did to determine my new contexts.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<p>If you go through a job change, you’ll need to change your GTD contexts. I walk you through my recent job transition and what I did to determine my new contexts.</p>
-
-<!--more-->
-
-<p><a href="http://joebuhlig.com/getting-things-done-introduction/">Getting Things Done: Introduction</a></p>
-
-<p><a href="http://joebuhlig.com/gtd-contexts-proactive-vs-reactive/">GTD Contexts: Proactive vs. Reactive</a></p>
-
-<p><a href="http://joebuhlig.com/making-time-contexts/">Making Time for Contexts</a></p>
-
-<p><a href="http://joebuhlig.com/making-time-contexts/">Using Omnifocus for Someday/Maybe Lists</a></p>
-
-<p><a href="http://joebuhlig.com/macbook-pro-vs-macbook-air/">MacBook Pro vs MacBook Air</a></p>
-
-<p><img class="left-image" src="/assets/posts_extra/Contexts.png" /></p>
-
-<div class="clear"></div>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3j4opo/1_new_job_new_contexts/">Discuss this on Reddit</a></p>
 ]]>
     </content:encoded>
 </item>
