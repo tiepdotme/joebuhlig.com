@@ -358,6 +358,10 @@
     margin-top: 10px;
 }
 
+.feed-pic img {
+    border-radius:5px;
+}
+
 /**
  * Posts
  */
@@ -388,6 +392,10 @@
 .post-content {
     margin-bottom: $spacing-unit;
     text-align: left;
+}
+
+.featured-image {
+    border-radius: 5px;
 }
 
 .page-navigation {
