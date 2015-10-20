@@ -14,11 +14,45 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Sat, 17 Oct 2015 06:42:29 -0500</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2015 05:35:11 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[10: Why I Don't Use Ads]]></title>
+    <link>http://joebuhlig.com/10/</link>
+    <pubDate>Tue, 20 Oct 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[ads]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/10/</guid>
+    <description>
+        <![CDATA[I’ve avoided ads in my creative work from the beginning. But there’s a lot of pressure to use them as a way to make an income. In this episode, I explain why I don’t plan to change.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I’ve avoided ads in my creative work from the beginning. But there’s a lot of pressure to use them as a way to make an income. In this episode, I explain why I don’t plan to change.</p>
+
+<!--more-->
+<p><a href="http://decknetwork.net/">The DECK</a> - an exception to the tracking ads out there.</p>
+
+<p><a href="http://joebuhlig.com/">Joe Buhlig - leverage the digital and welcome real life</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a> - use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[From WordPress and Google to Jekyll and Piwik]]></title>
@@ -804,47 +838,6 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3j4os3/3_keeping_up_with_pain_pills/">Discuss this on Reddit</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[2: The Dunbar Exception]]></title>
-    <link>http://joebuhlig.com/2/</link>
-    <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[communication]]></category>
-
-    <category><![CDATA[life]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/2/</guid>
-    <description>
-        <![CDATA[In today’s world it’s easy to connect with more than 150 people. This is how keep up with 300+.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<p>In today’s world it’s easy to connect with more than 150 people. This is how keep up with 300+.</p>
-
-<!--more-->
-
-<p><a href="https://en.wikipedia.org/wiki/Dunbar%27s_number">Dunbar’s number - Wikipedia</a></p>
-
-<p><a href="http://joebuhlig.com/using-thebrain/">Using TheBrain</a></p>
-
-<p><a href="http://jerrysbrain.com">Example Brain in Action</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3j4oqz/2_the_dunbar_exception/">Discuss this on Reddit</a></p>
 ]]>
     </content:encoded>
 </item>

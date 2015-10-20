@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Sat, 17 Oct 2015 06:42:29 -0500</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2015 05:35:11 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,63 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>10: Why I Don't Use Ads</title>
+    <link>http://joebuhlig.com/10/</link>
+    <comments>http://joebuhlig.com/10/#comments</comments>
+    <pubDate>Tue, 20 Oct 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[ads]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/10/</guid>
+    <description>
+        <![CDATA[I’ve avoided ads in my creative work from the beginning. But there’s a lot of pressure to use them as a way to make an income. In this episode, I explain why I don’t plan to change.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I’ve avoided ads in my creative work from the beginning. But there’s a lot of pressure to use them as a way to make an income. In this episode, I explain why I don’t plan to change.</p>
+
+<!--more-->
+<p><a href="http://decknetwork.net/">The DECK</a> - an exception to the tracking ads out there.</p>
+
+<p><a href="http://joebuhlig.com/">Joe Buhlig - leverage the digital and welcome real life</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a> - use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ010.mp3" length="13654375" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[I’ve avoided ads in my creative work from the beginning. But there’s a lot of pressure to use them as a way to make an income. In this episode, I explain why I don’t plan to change.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>I’ve avoided ads in my creative work from the beginning. But there’s a lot of pressure to use them as a way to make an income. In this episode, I explain why I don’t plan to change.</p>
+
+<!--more-->
+<p><a href="http://decknetwork.net/">The DECK</a> - an exception to the tracking ads out there.</p>
+
+<p><a href="http://joebuhlig.com/">Joe Buhlig - leverage the digital and welcome real life</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a> - use the hashtag #question to ask a question.</p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>14:02</itunes:duration>
+  </item>
 
   <item>
     <title>9: Really? Journaling?</title>
