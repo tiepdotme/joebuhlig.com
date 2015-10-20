@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Tue, 20 Oct 2015 05:35:11 -0500</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2015 05:48:12 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -70,6 +70,8 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3ph51p/10_why_i_dont_use_ads/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 
@@ -89,6 +91,8 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3ph51p/10_why_i_dont_use_ads/">Discuss this on Reddit.</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
     <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />

@@ -24,3 +24,5 @@ I've avoided ads in my creative work from the beginning. But there's a lot of pr
 [@JoeBuhlig](https://twitter.com/JoeBuhlig)
 
 [Become a Patron](http://joebuhlig.com/patron/)
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3ph51p/10_why_i_dont_use_ads/">Discuss this on Reddit.</a></p>
