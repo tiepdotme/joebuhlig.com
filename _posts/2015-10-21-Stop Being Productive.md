@@ -34,5 +34,7 @@ When you stop, don't always blow it on YouTube. The number one way I stop is by 
 
 But I do care. I don't want to continue feeding that addiction. It's hard, but sometimes it's best to just stop being productive.
 
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3pw5uk/stop_being_productive/">Discuss this on Reddit.</a></p>
+
 [OmniFocusBook]: http://joebuhlig.com/omnifocus/
 [LostInTransition]: http://joebuhlig.com/lost-in-transition/
