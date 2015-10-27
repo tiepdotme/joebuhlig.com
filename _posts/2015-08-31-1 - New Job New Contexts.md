@@ -1,6 +1,6 @@
 ---
 title:  "1: New Job New Contexts"
-date:   2015-08-31
+date:   2015-08-30
 categories: podcast
 tags:
 - contexts
