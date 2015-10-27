@@ -14,11 +14,59 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 23 Oct 2015 06:08:19 -0500</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2015 18:22:36 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[11: Using Evernote for GTD]]></title>
+    <link>http://joebuhlig.com/11/</link>
+    <pubDate>Tue, 27 Oct 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[evernote]]></category>
+
+    <category><![CDATA[gtd]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/11/</guid>
+    <description>
+        <![CDATA[Before I got into OmniFocus, I used Evernote for GTD. I had a few different structures, but I think I ended with a simple setup that worked well for me before I outgrew it.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Before I got into OmniFocus, I used Evernote for GTD. I had a few different structures, but I think I ended with a simple setup that worked well for me before I outgrew it.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/9/">9: Really? Journaling?</a></p>
+
+<p><a href="http://www.thesecretweapon.org/">The Secret Weapon - Evernote + GTD</a></p>
+
+<p><a href="https://twitter.com/toomanyinks/status/653891995308457984">Twitter conversation re: Moleskine</a></p>
+
+<p><a href="http://www.penaddict.com/">Brad Dowdy - The Pen Addict</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B006CQSRDS">Rhodia Black Webnotebook 5.5 inch x 8.3 inch Dot Grid</a></p>
+
+<p><a href="http://mattvanderpol.com/">Matt Vanderpol - Online Craftsman</a></p>
+
+<p><a href="http://joebuhlig.com/10/">10: Why I Don’t Use Ads</a></p>
+
+<p><a href="http://decknetwork.net/">A non-tracking solution for running ads - The Deck</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Stop Being Productive]]></title>
@@ -793,67 +841,6 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3k2xpv/4_creating_the_first_checklist/">Discuss this on Reddit.</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[OmniFocus Auto-Parser]]></title>
-    <link>http://joebuhlig.com/omnifocus-auto-parser/</link>
-    <pubDate>Fri, 04 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[omnifocus]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/omnifocus-auto-parser/</guid>
-    <description>
-        <![CDATA[I love it when my systems do things automatically. In this case, I can capture an idea for a someday/maybe list and it ends up in the right place in OmniFocus.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<p>I love it when my systems do things automatically. In this case, I can capture an idea for a someday/maybe list and it ends up in the right place in OmniFocus.</p>
-
-<!--more-->
-
-<p>I wrote about my original process for this <a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">here</a>, but I’ve since refined it. I didn’t like having an extra app icon sitting in my dock. I knew there had to be a better way to do it… and I found it.</p>
-
-<p>I’m now using a launch agent. If that sounds intimidating, I completely understand. I originally stayed away because I thought it would be too complicated. But it turned out to be less difficult than I expected. If you need help falling asleep tonight, you can <a href="https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html">read more about them</a> on Apple’s developer site.</p>
-
-<p>It’s possible that I’ll be making updates to this code in the future, so I added this to a new GitHub repository I’ve created: <a href="https://github.com/joebuhlig/OFScripts">OFScripts</a>. All of the code and instructions for how to install it can be found there.</p>
-
-<p>From a high-level view, here’s what happens:</p>
-
-<h2 id="spanspan1-when-you-log-in1-when-you-log-in"><a href="#1-when-you-log-in"><span></span></a>1. When you log in</h2>
-
-<p>The launch agent starts running when you log into your account. That’s all a launch agent does. It is a process that runs at log in. It can either run once or on intervals in the background. In this case, it runs at a specified interval.</p>
-
-<h2 id="spanspan2-run-applescript2-run-applescript"><a href="#2-run-applescript"><span></span></a>2. Run AppleScript</h2>
-
-<p>The launch agent is set up to run an AppleScript. It runs first when when you log in and continues to run on an interval afterwards.</p>
-
-<h2 id="spanspan3-parse-your-omnifocus-inbox3-parse-your-omnifocus-inbox"><a href="#3-parse-your-omnifocus-inbox"><span></span></a>3. Parse your OmniFocus inbox</h2>
-
-<p>The AppleScript takes your OmniFocus inbox and parses any tasks that start with “–“. You can learn how to create the parsing strings in <a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">my original post</a>.</p>
-
-<p>This system has become integral to my use of OmniFocus. With this running in the background, I can now email tasks directly into a project and context. The big one for me is the ability to use <a href="http://agiletortoise.com/drafts/">Drafts</a>(<a href="https://itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?mt=8">iTunes</a>) to automatically send tasks to a specific project and context. It makes it incredibly simple to get things into OmniFocus.</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3jltb3/omnifocus_autoparser/">Discuss this on Reddit.</a></p>
-
-<p><strong>Updates:</strong></p>
-
-<p><strong>20150908:</strong> Patrick at <a href="http://schreibloga.de">http://schreibloga.de</a> was kind enough to write a python install script that you can run from command line to make the installation process a bit easier. You can find it in the GitHub repo here: <a href="https://github.com/joebuhlig/OFScripts">OFScripts</a></p>
-
-<p><strong>20150908:</strong> I had a quick back and forth with Tim Stringer at <a href="http://learnomnifocus.com/?ref=11">Learn OmniFocus</a> about the AppleScript for this. We found a way to use Hazel to trigger this immediately when a new item comes to the inbox. If you’re a Hazel user, you can set up this rule on your OmniFocus database which is located here:</p>
-
-<p><code>/Users/YourUsername/Library/Containers/com.omnigroup.OmniFocus2/Data/Library/Application Support/OmniFocus</code></p>
-
-<p>This has become my preferred way to use the script.</p>
-
-<p><img class="center-image post-image-medium" src="/assets/posts_extra/HazelAutoParser.png" /></p>
 ]]>
     </content:encoded>
 </item>

@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Fri, 23 Oct 2015 06:08:19 -0500</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2015 18:22:36 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,89 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>11: Using Evernote for GTD</title>
+    <link>http://joebuhlig.com/11/</link>
+    <comments>http://joebuhlig.com/11/#comments</comments>
+    <pubDate>Tue, 27 Oct 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[evernote]]></category>
+
+    <category><![CDATA[gtd]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/11/</guid>
+    <description>
+        <![CDATA[Before I got into OmniFocus, I used Evernote for GTD. I had a few different structures, but I think I ended with a simple setup that worked well for me before I outgrew it.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Before I got into OmniFocus, I used Evernote for GTD. I had a few different structures, but I think I ended with a simple setup that worked well for me before I outgrew it.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/9/">9: Really? Journaling?</a></p>
+
+<p><a href="http://www.thesecretweapon.org/">The Secret Weapon - Evernote + GTD</a></p>
+
+<p><a href="https://twitter.com/toomanyinks/status/653891995308457984">Twitter conversation re: Moleskine</a></p>
+
+<p><a href="http://www.penaddict.com/">Brad Dowdy - The Pen Addict</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B006CQSRDS">Rhodia Black Webnotebook 5.5 inch x 8.3 inch Dot Grid</a></p>
+
+<p><a href="http://mattvanderpol.com/">Matt Vanderpol - Online Craftsman</a></p>
+
+<p><a href="http://joebuhlig.com/10/">10: Why I Don’t Use Ads</a></p>
+
+<p><a href="http://decknetwork.net/">A non-tracking solution for running ads - The Deck</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ011.mp3" length="20665040" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Before I got into OmniFocus, I used Evernote for GTD. I had a few different structures, but I think I ended with a simple setup that worked well for me before I outgrew it.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Before I got into OmniFocus, I used Evernote for GTD. I had a few different structures, but I think I ended with a simple setup that worked well for me before I outgrew it.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/9/">9: Really? Journaling?</a></p>
+
+<p><a href="http://www.thesecretweapon.org/">The Secret Weapon - Evernote + GTD</a></p>
+
+<p><a href="https://twitter.com/toomanyinks/status/653891995308457984">Twitter conversation re: Moleskine</a></p>
+
+<p><a href="http://www.penaddict.com/">Brad Dowdy - The Pen Addict</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B006CQSRDS">Rhodia Black Webnotebook 5.5 inch x 8.3 inch Dot Grid</a></p>
+
+<p><a href="http://mattvanderpol.com/">Matt Vanderpol - Online Craftsman</a></p>
+
+<p><a href="http://joebuhlig.com/10/">10: Why I Don’t Use Ads</a></p>
+
+<p><a href="http://decknetwork.net/">A non-tracking solution for running ads - The Deck</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>21:20</itunes:duration>
+  </item>
 
   <item>
     <title>10: Why I Don't Use Ads</title>
