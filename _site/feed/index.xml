@@ -14,11 +14,96 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 28 Oct 2015 14:08:18 -0500</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2015 05:52:10 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Favorite Workflows]]></title>
+    <link>http://joebuhlig.com/favorite-workflows/</link>
+    <pubDate>Fri, 30 Oct 2015 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[setups]]></category>
+
+    <category><![CDATA[workflow]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/favorite-workflows/</guid>
+    <description>
+        <![CDATA[I’ve received a number of requests for more detail around my use of Workflow (iTunes). I’ve said that it saves time, but here are some details.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I’ve received a number of requests for more detail around my use of <a href="https://workflow.is/">Workflow</a> (<a href="https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8&amp;at=1l3vnyQ">iTunes</a>). I’ve said that it saves time, but here are some details.
+<!--more--></p>
+
+<p>If I find myself doing something repeatedly, I look for a way to automate it. Since AppleScripting isn’t possible on iOS, I turn to Workflow for some of the same functionality. Here are my heavy hitter workflows.</p>
+
+<h2 id="headed-home">Headed Home</h2>
+
+<p><a href="https://workflow.is/workflows/efa5488ee8e44687ad75e628a5ba1b1d">Headed Home Workflow</a></p>
+
+<p><img class="center-image post-image-small" src="/assets/posts_extra/Workflow_Headed-Home.png" /></p>
+
+<p>There a quite a few instances each week when I’m out of the house without a specific time that I’m expected to return. My wife often needs to know when I’m headed home so she can plan accordingly. In those cases, I use this workflow to let her know I’m on my way and how long it should be before I get there. This workflow is one of three that I keep in the Today View for easy access because I use it so frequently.</p>
+
+<h2 id="copy-base-url">Copy Base URL</h2>
+
+<p><a href="https://workflow.is/workflows/1de51ad711624c1daace1159e2abab4e">Copy Base URL Workflow</a></p>
+
+<p>This is a rare case when I introduce more steps to a process in order to get a cleaner result. Many times I need to copy a URL but I really don’t like having extra querystring parameters at the end of the URL. I use this to expand shortened URLS and strip the extra nonsense off the end. Then it’s added to my clipboard.</p>
+
+<h2 id="save-to-dropbox">Save to DropBox</h2>
+
+<p><a href="https://workflow.is/workflows/db653ceda86942328b802cce58f6b6ed">Save to DropBox Workflow</a></p>
+
+<p>Any time I run across a file (typically a PDF) on my phone that I want to save to DropBox, I use this. I could do the “Open in…” thing, but I know where I want it to go in DropBox before I even start - my DropBox inbox. This workflow takes the file and drops it into my inbox. It’s faster than everything else I’ve tried.</p>
+
+<h2 id="share-title--twitter">Share Title &amp; Twitter</h2>
+
+<p><a href="https://workflow.is/workflows/44904f69761047ae8fb3d8a741ff08d6">Share Title &amp; Twitter Workflow</a></p>
+
+<p>I have another <a href="http://joebuhlig.com/workflow-to-share-articles-with-twitter-handle/">one similar to this</a> that shares an article with a Twitter handle and asks for a comment about the article. If I don’t have a specific thought about an article but still want to share it, I use this instead. It puts the title of the article in quotes, adds a link to the article, and searches the page for a Twitter handle to include at the end of the tweet.</p>
+
+<h2 id="instatweet">InstaTweet</h2>
+
+<p><a href="https://workflow.is/workflows/7702a22e5dfe426da5a60f59d519ba10">InstaTweet Workflow</a></p>
+
+<p>When I want to share a photo on Instagram and Twitter I know I can select Twitter from Instagram, but I prefer to embed them directly. This workflow allows me to select the photo, add a caption, and send it both places at once.</p>
+
+<h2 id="article-to-pdf">Article to PDF</h2>
+
+<p><a href="https://workflow.is/workflows/2ec2ca89dbad4c4db754788f6fccae9d">Article to PDF Workflow</a></p>
+
+<p>This is a small piece of my research storage mechanism. To save an article  for a project I’m working on, I run this workflow which saves it as a PDF in my DropBox inbox. These are processed during my <a href="http://joebuhlig.com/gaining-perspective-daily-review/">Daily Review</a> and are often moved to project folders.</p>
+
+<h2 id="take-pic-to-dropbox">Take Pic to DropBox</h2>
+
+<p><a href="https://workflow.is/workflows/c348878f30b24163afc1d4cbdce15b87">Take Pic to DropBox Workflow</a></p>
+
+<p>This is similar to the Article to PDF workflow, but it opens the camera. I take a picture and it is immediately sent to my DropBox inbox. This is really handy if I want to save a picture of a restaurant menu or a bag of coffee. When I process these, I move them to their respective locations in my file structure for reference.</p>
+
+<h2 id="send-pic-to-dropbox">Send Pic to DropBox</h2>
+
+<p><a href="https://workflow.is/workflows/ec13b1062c5d47a1813a348ed659c27c">Send Pic to DropBox Workflow</a></p>
+
+<p>Just like the previous workflow, this adds a picture to my DropBox inbox but allows me to select pictures from my photo library. There are times when I remember taking a picture that I want to use for a project. This helps me get them into DropBox quickly and easily.</p>
+
+<h2 id="screenshot-to-dropbox">Screenshot to DropBox</h2>
+
+<p><a href="https://workflow.is/workflows/43d066eb6d194620b1ed4f9134d96810">Screenshot to DropBox Workflow</a></p>
+
+<p>I’m building a lot of websites lately and part of my process involves looking for web design inspiration. This means I’m taking a lot of screenshots of other websites. I keep this workflow in my Today View so I can take the screenshot, swipe down, and send it to DropBox right away.</p>
+
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[11: Using Evernote for GTD]]></title>
@@ -799,50 +884,6 @@ fi</pre></noscript>
 <p>From the spreadsheet I can see each commit, the date and time of the commit, and how many words I wrote. I like seeing how much progress I’m making and can potentially use this data to find cycles in my writing patterns. If nothing else, it’s fun.</p>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3kj2wl/writing_with_github/">Discuss this on Reddit.</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[4: Creating the First Checklist]]></title>
-    <link>http://joebuhlig.com/4/</link>
-    <pubDate>Tue, 08 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[checklists]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/4/</guid>
-    <description>
-        <![CDATA[Creating a checklist for the first time isn’t always easy. And I did it wrong when I created the initial list for this podcast. I did figure out a better way, though.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<p>Creating a checklist for the first time isn’t always easy. And I did it wrong when I created the initial list for this podcast. I did figure out a better way, though.</p>
-
-<!--more-->
-
-<p><a href="http://www.podcastmethod.co/">The Podcast Method</a></p>
-
-<p><a href="https://www.youtube.com/playlist?list=PLzJ1r4EGn-enCMU1kPstXd7e1SjI3jP_O">Smart Passive Income - Podcasting Tutorial</a></p>
-
-<p><a href="https://www.adobe.com/products/audition.html">Adobe Audition</a></p>
-
-<p><a href="http://cmsauve.com/projects/templates/">OmniFocus Templates Script</a></p>
-
-<p><a href="http://joebuhlig.com/omnifocus/">Working with OmniFocus</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
-Use the hashtag #question to ask a question.</p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3k2xpv/4_creating_the_first_checklist/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 </item>
