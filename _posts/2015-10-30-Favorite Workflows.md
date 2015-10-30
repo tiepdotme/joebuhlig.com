@@ -70,6 +70,8 @@ Just like the previous workflow, this adds a picture to my DropBox inbox but all
 
 I'm building a lot of websites lately and part of my process involves looking for web design inspiration. This means I'm taking a lot of screenshots of other websites. I keep this workflow in my Today View so I can take the screenshot, swipe down, and send it to DropBox right away.
 
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3qtrfi/favorite_workflows/)
+
 [HeadedHomeWorkflow]: https://workflow.is/workflows/efa5488ee8e44687ad75e628a5ba1b1d
 [ArticleToPDFWorkflow]: https://workflow.is/workflows/2ec2ca89dbad4c4db754788f6fccae9d
 [WorkflowITunes]: https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8&at=1l3vnyQ
