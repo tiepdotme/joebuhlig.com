@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 30 Oct 2015 06:19:05 -0500</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2015 06:51:46 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -40,7 +40,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<p>I’ve received a number of requests for more detail around my use of <a href="https://workflow.is/">Workflow</a> (<a href="https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8&amp;at=1l3vnyQ">iTunes</a>). I’ve said that it saves time, but here are some details.
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Favorite-Workflows.jpg" /><p>I’ve received a number of requests for more detail around my use of <a href="https://workflow.is/">Workflow</a> (<a href="https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8&amp;at=1l3vnyQ">iTunes</a>). I’ve said that it saves time, but here are some details.
 <!--more--></p>
 
 <p>If I find myself doing something repeatedly, I look for a way to automate it. Since AppleScripting isn’t possible on iOS, I turn to Workflow for some of the same functionality. Here are my heavy hitter workflows.</p>
@@ -127,7 +127,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<p>Before I got into OmniFocus, I used Evernote for GTD. I had a few different structures, but I think I ended with a simple setup that worked well for me before I outgrew it.
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Using-Evernote-for-GTD.jpg" /><p>Before I got into OmniFocus, I used Evernote for GTD. I had a few different structures, but I think I ended with a simple setup that worked well for me before I outgrew it.
 <!--more--></p>
 
 <p><a href="http://joebuhlig.com/9/">9: Really? Journaling?</a></p>
@@ -177,7 +177,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<p>There are a lot of productivity bloggers and podcasters out there. And we’re all looking for ways to get better, faster, and create higher quality products. That’s pretty obvious when you read our articles.
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Stop-Being-Productive.jpg" /><p>There are a lot of productivity bloggers and podcasters out there. And we’re all looking for ways to get better, faster, and create higher quality products. That’s pretty obvious when you read our articles.
 <!--more--></p>
 
 <p>But if you were able to see my side of the screen you would see my daily fight to be productive. I want to waste a day on YouTube every day. I could do that. I would hate myself for it, but I want to do it anyway. It’s a struggle that I think we all fight at some level.</p>
@@ -226,7 +226,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<p>I’ve avoided ads in my creative work from the beginning. But there’s a lot of pressure to use them as a way to make an income. In this episode, I explain why I don’t plan to change.</p>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Why-I-Dont-Use-Ads.jpg" /><p>I’ve avoided ads in my creative work from the beginning. But there’s a lot of pressure to use them as a way to make an income. In this episode, I explain why I don’t plan to change.</p>
 
 <!--more-->
 <p><a href="http://decknetwork.net/">The DECK</a> - an exception to the tracking ads out there.</p>
@@ -266,7 +266,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<p>This website has run on WordPress and Google Analytics from day one and they’ve both treated me pretty well. But I’ve started to see a need for more flexibility in the site, so it’s time for a big change.</p>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/From-Wordpress-Google-to-Jekyll-Piwik.jpg" /><p>This website has run on WordPress and Google Analytics from day one and they’ve both treated me pretty well. But I’ve started to see a need for more flexibility in the site, so it’s time for a big change.</p>
 
 <!--more-->
 
@@ -330,7 +330,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<p>I can’t believe I’ve started journaling every day. I’ve always equated journaling with writing in a diary, which is not for me. But the effects of not journaling caught me off-guard.</p>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Really-Journaling.png" /><p>I can’t believe I’ve started journaling every day. I’ve always equated journaling with writing in a diary, which is not for me. But the effects of not journaling caught me off-guard.</p>
 
 <!--more-->
 
@@ -370,7 +370,7 @@ Use the hashtag #question to ask a question.</p>
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<p><a href="https://itunes.apple.com/us/app/id905337691?mt=8&amp;ign-mpt=uo%3D4">Drafts</a> is one of those apps that I cannot go without. The funny thing is that my tech-resistant wife is now dependent on it as well. And you can be sure that I am pretty excited about <a href="http://joebuhlig.com/5/">her use of it</a>.</p>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Using-Drafts.jpg" /><p><a href="https://itunes.apple.com/us/app/id905337691?mt=8&amp;ign-mpt=uo%3D4">Drafts</a> is one of those apps that I cannot go without. The funny thing is that my tech-resistant wife is now dependent on it as well. And you can be sure that I am pretty excited about <a href="http://joebuhlig.com/5/">her use of it</a>.</p>
 
 <!--more-->
 
@@ -448,7 +448,7 @@ Use the hashtag #question to ask a question.</p>
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<p>I’ve started waiting to upgrade operating systems and hardware when new releases are available. My impulse is to upgrade immediately, but I’ve put it off for a variety of reasons.</p>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Waiting-to-Upgrade.jpg" /><p>I’ve started waiting to upgrade operating systems and hardware when new releases are available. My impulse is to upgrade immediately, but I’ve put it off for a variety of reasons.</p>
 
 <!--more-->
 
@@ -494,7 +494,7 @@ Use the hashtag #question to ask a question.</p>
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<p>When I was 16 I bought my own Compaq laptop. Remember those? I had been using the family computer quite a bit, but this was my own computer. That was the beginning of my journey with technology.</p>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/How-I-Started-with-Technology.jpg" /><p>When I was 16 I bought my own Compaq laptop. Remember those? I had been using the family computer quite a bit, but this was my own computer. That was the beginning of my journey with technology.</p>
 
 <!--more-->
 
@@ -565,7 +565,7 @@ Use the hashtag #question to ask a question.</p>
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<p>People are sometimes scared to get into coding because they think it’s complicated to learn. It’s not complicated, so don’t be one of those people. In this episode I talk about how I got into development (with no schooling) and how I pick up new languages.</p>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Learning-a-Computer-Language.jpg" /><p>People are sometimes scared to get into coding because they think it’s complicated to learn. It’s not complicated, so don’t be one of those people. In this episode I talk about how I got into development (with no schooling) and how I pick up new languages.</p>
 
 <!--more-->
 
@@ -621,7 +621,7 @@ Use the hashtag #question to ask a question.</p>
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<p>When I switched to the MacBook Pro, I also switched from using two computers to one. I know, I know, I was spoiled. But it made my life a lot easier and helped me accomplish a lot more.</p>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Sharing-a-Computer.jpg" /><p>When I switched to the MacBook Pro, I also switched from using two computers to one. I know, I know, I was spoiled. But it made my life a lot easier and helped me accomplish a lot more.</p>
 
 <!--more-->
 
@@ -672,7 +672,7 @@ Use the hashtag #question to ask a question.</p>
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<p>When you have a new project that you’re doing research on, you need a great way to grab and store that research. Referencing it later can be invaluable and save you the trouble of doing that same research multiple times.</p>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Collecting-and-Storing-Research.jpg" /><p>When you have a new project that you’re doing research on, you need a great way to grab and store that research. Referencing it later can be invaluable and save you the trouble of doing that same research multiple times.</p>
 
 <!--more-->
 
@@ -723,7 +723,7 @@ Use the hashtag #question to ask a question.</p>
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<p>Every Friday morning I do my <a href="http://joebuhlig.com/getting-things-done-reflect/">Weekly Review</a>. I do my Monthly Review on the first of the month and my Annual Review on the first of the year. How do I get OmniFocus to play nicely with this?</p>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Scheduled-Reviews-in-OmniFocus.jpg" /><p>Every Friday morning I do my <a href="http://joebuhlig.com/getting-things-done-reflect/">Weekly Review</a>. I do my Monthly Review on the first of the month and my Annual Review on the first of the year. How do I get OmniFocus to play nicely with this?</p>
 
 <!--more-->
 
@@ -774,7 +774,7 @@ Use the hashtag #question to ask a question.</p>
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<p>If you’ve made the decision to get into task management, congratulations! But you need to be intentional with getting started. Here’s a look at how I helped my wife put together her pen and paper system the first time.</p>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Developing-a-Task-Management-System.jpg" /><p>If you’ve made the decision to get into task management, congratulations! But you need to be intentional with getting started. Here’s a look at how I helped my wife put together her pen and paper system the first time.</p>
 
 <!--more-->
 
@@ -814,7 +814,7 @@ Use the hashtag #question to ask a question.</p>
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<p>I’ve written about my use of <a href="http://joebuhlig.com/my-writing-setup/">Sublime Text for writing</a>, but I didn’t share how I manage the edits from my editor.</p>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Writing-with-GitHub.jpg" /><p>I’ve written about my use of <a href="http://joebuhlig.com/my-writing-setup/">Sublime Text for writing</a>, but I didn’t share how I manage the edits from my editor.</p>
 
 <!--more-->
 

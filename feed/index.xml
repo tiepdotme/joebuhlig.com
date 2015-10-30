@@ -38,7 +38,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <![CDATA[{{ post.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
     </description>
     <content:encoded>
-        <![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]>
+        <![CDATA[<img class="featured-image" src="{{ post.image | prepend: site.url }}" />{{ post.content | expand_urls: site.url | cdata_escape }}]]>
     </content:encoded>
 </item>
 {% endfor %}

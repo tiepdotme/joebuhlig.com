@@ -9,27 +9,27 @@
 <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 <!-- Stylesheets -->
-<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.url }}">
 <!-- Feeds -->
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url | prepend: site.url }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url | prepend: site.url }}" />
 <!-- Fonts -->
 <link href="http://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet" type="text/css">
 <!-- Favicons and icons -->
-<link rel="apple-touch-icon" sizes="57x57" href="{{ "/assets/base/apple-touch-icon-57x57.png" | prepend: site.baseurl }}">
-<link rel="apple-touch-icon" sizes="114x114" href="{{ "/assets/base/apple-touch-icon-114x114.png" | prepend: site.baseurl }}">
-<link rel="apple-touch-icon" sizes="72x72" href="{{ "/assets/base/apple-touch-icon-72x72.png" | prepend: site.baseurl }}">
-<link rel="apple-touch-icon" sizes="144x144" href="{{ "/assets/base/apple-touch-icon-144x144.png" | prepend: site.baseurl }}">
-<link rel="apple-touch-icon" sizes="60x60" href="{{ "/assets/base/apple-touch-icon-60x60.png" | prepend: site.baseurl }}">
-<link rel="apple-touch-icon" sizes="120x120" href="{{ "/assets/base/apple-touch-icon-120x120.png" | prepend: site.baseurl }}">
-<link rel="apple-touch-icon" sizes="76x76" href="{{ "/assets/base/apple-touch-icon-76x76.png" | prepend: site.baseurl }}">
-<link rel="apple-touch-icon" sizes="152x152" href="{{ "/assets/base/apple-touch-icon-152x152.png" | prepend: site.baseurl }}">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/base/apple-touch-icon-180x180.png" | prepend: site.baseurl }}">
-<link rel="icon" type="image/png" href="{{ "/assets/base/favicon-192x192.png" | prepend: site.baseurl }}" sizes="192x192">
-<link rel="icon" type="image/png" href="{{ "/assets/base/favicon-160x160.png" | prepend: site.baseurl }}" sizes="160x160">
-<link rel="icon" type="image/png" href="{{ "/assets/base/favicon-96x96.png" | prepend: site.baseurl }}" sizes="96x96">
-<link rel="icon" type="image/png" href="{{ "/assets/base/favicon-16x16.png" | prepend: site.baseurl }}" sizes="16x16">
-<link rel="icon" type="image/png" href="{{ "/assets/base/favicon-32x32.png" | prepend: site.baseurl }}" sizes="32x32">
+<link rel="apple-touch-icon" sizes="57x57" href="{{ "/assets/base/apple-touch-icon-57x57.png" | prepend: site.url }}">
+<link rel="apple-touch-icon" sizes="114x114" href="{{ "/assets/base/apple-touch-icon-114x114.png" | prepend: site.url }}">
+<link rel="apple-touch-icon" sizes="72x72" href="{{ "/assets/base/apple-touch-icon-72x72.png" | prepend: site.url }}">
+<link rel="apple-touch-icon" sizes="144x144" href="{{ "/assets/base/apple-touch-icon-144x144.png" | prepend: site.url }}">
+<link rel="apple-touch-icon" sizes="60x60" href="{{ "/assets/base/apple-touch-icon-60x60.png" | prepend: site.url }}">
+<link rel="apple-touch-icon" sizes="120x120" href="{{ "/assets/base/apple-touch-icon-120x120.png" | prepend: site.url }}">
+<link rel="apple-touch-icon" sizes="76x76" href="{{ "/assets/base/apple-touch-icon-76x76.png" | prepend: site.url }}">
+<link rel="apple-touch-icon" sizes="152x152" href="{{ "/assets/base/apple-touch-icon-152x152.png" | prepend: site.url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/base/apple-touch-icon-180x180.png" | prepend: site.url }}">
+<link rel="icon" type="image/png" href="{{ "/assets/base/favicon-192x192.png" | prepend: site.url }}" sizes="192x192">
+<link rel="icon" type="image/png" href="{{ "/assets/base/favicon-160x160.png" | prepend: site.url }}" sizes="160x160">
+<link rel="icon" type="image/png" href="{{ "/assets/base/favicon-96x96.png" | prepend: site.url }}" sizes="96x96">
+<link rel="icon" type="image/png" href="{{ "/assets/base/favicon-16x16.png" | prepend: site.url }}" sizes="16x16">
+<link rel="icon" type="image/png" href="{{ "/assets/base/favicon-32x32.png" | prepend: site.url }}" sizes="32x32">
 <!-- Open Graph tags -->
 <meta content="{{ site.title }}" property="og:site_name">
 <meta property="og:locale" content="en_US" />
@@ -51,7 +51,7 @@
 <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 {% if page.image %}<meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">{% else %}<meta name="twitter:image:src" content="{{ site.url }}/assets/base/header_tree.png">{% endif %}
 <!-- Javascript -->
-<script src="{{ "/assets/js/jquery-1.11.3.min.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/assets/js/clean-search.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/jquery-1.11.3.min.js" | prepend: site.url }}"></script>
+<script src="{{ "/assets/js/clean-search.js" | prepend: site.url }}"></script>
+<script src="{{ "/assets/js/main.js" | prepend: site.url }}"></script>
 </head>
