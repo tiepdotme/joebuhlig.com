@@ -437,8 +437,12 @@ pre {
 .feed-excerpt {
   margin-top: 10px; }
 
+.feed-pic {
+  text-align: center; }
+
 .feed-pic img {
-  border-radius: 5px; }
+  border-radius: 5px;
+  max-height: 266px; }
 
 /**
  * Posts
@@ -466,7 +470,8 @@ pre {
   text-align: left; }
 
 .featured-image {
-  border-radius: 5px; }
+  border-radius: 5px;
+  max-height: 600px; }
 
 .page-navigation {
   height: 56px;
@@ -487,6 +492,22 @@ pre {
   background: #f8f8f8;
   border: 1px dotted #D7D7D7;
   margin: 0 auto 20px; }
+
+.callout {
+  min-height: 200px;
+  max-width: 550px;
+  margin: 0px auto;
+  background-color: #eee;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 20px; }
+
+.callout-book-cover {
+  float: left;
+  margin-right: 15px; }
+
+.callout-image {
+  max-height: 200px; }
 
 /**
  * Search

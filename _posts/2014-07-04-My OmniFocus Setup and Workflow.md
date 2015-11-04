@@ -15,6 +15,8 @@ image: /assets/posts/My-Omnifocus-Setup-and-Workflow.jpg
 
 <!--more-->
 
+{% include omnifocus_callout.html %}
+
 This article focuses on Omnifocus 2 for Mac. I use the iPhone and iPad versions as well, but here I want to walk you through the setup of my central hub.
 
 There are two main sides of Omnifocus: Projects and Contexts. Every action item is part of one project and is assigned one context.

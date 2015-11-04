@@ -12,6 +12,8 @@ I love it when my systems do things automatically. In this case, I can capture a
 
 <!--more-->
 
+{% include omnifocus_callout.html %}
+
 I wrote about my original process for this [here](http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/), but I've since refined it. I didn't like having an extra app icon sitting in my dock. I knew there had to be a better way to do it… and I found it.
 
 I'm now using a launch agent. If that sounds intimidating, I completely understand. I originally stayed away because I thought it would be too complicated. But it turned out to be less difficult than I expected. If you need help falling asleep tonight, you can [read more about them](https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html) on Apple's developer site.

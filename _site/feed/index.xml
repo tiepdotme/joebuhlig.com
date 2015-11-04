@@ -14,11 +14,51 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 30 Oct 2015 06:51:46 -0500</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2015 07:00:49 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Working with OmniFocus]]></title>
+    <link>http://joebuhlig.com/working-with-omnifocus/</link>
+    <pubDate>Wed, 04 Nov 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[books]]></category>
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/working-with-omnifocus/</guid>
+    <description>
+        <![CDATA[In the two days before this book launched I checked off 387 tasks in OmniFocus. And there’s no other tool I’d rather do it with.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/base/WorkingWithOmniFocus-Small.png" /><p>In the two days before this book launched I checked off 387 tasks in OmniFocus. And there’s no other tool I’d rather do it with.
+<!--more--></p>
+
+<h2 id="get-working-with-omnifocushttptoolsjoebuhligcomworking-with-omnifocus"><a href="http://tools.joebuhlig.com/working-with-omnifocus/">Get Working with OmniFocus</a></h2>
+
+<p>It’s been down to the wire, but it’s finally here - <em>Working with OmniFocus</em>. A book that takes you through my entire system. It’s not for someone looking for a how-to manual for OmniFocus, but for those looking to understand the deeper concepts and nuances of the tool.</p>
+
+<p>I’m super excited that it’s finally here! I’ve spent most of my editing time trying to make sure that it’s packed full of details and examples. The more real I can be with you, the better you can understand how it works.</p>
+
+<h2 id="affiliate-sign-uphttptoolsjoebuhligcomaffiliates"><a href="http://tools.joebuhlig.com/affiliates/">Affiliate Sign Up</a></h2>
+
+<p>If you’ve read the book and want to share it with others, why not make money while you’re at it? You can <a href="http://tools.joebuhlig.com/affiliates/">sign up</a> to be an affiliate and get paid when others make a purchase using your link.</p>
+
+<h2 id="discuss-the-bookhttpswwwredditcomrjoebuhligcomments3rhediworkingwithomnifocus"><a href="https://www.reddit.com/r/joebuhlig/comments/3rhedi/working_with_omnifocus/">Discuss the Book</a></h2>
+
+<p>I made a consolidated place for us to chat about the book. Most of the time that discussion is more helpful in public. And the quickest, easiest way I know to do that is with Reddit. I have a Subreddit (<a href="https://www.reddit.com/r/joebuhlig/">/r/joebuhlig</a>) where I’ve posted the link to the book. Let’s discuss it there - <a href="https://www.reddit.com/r/joebuhlig/comments/3rhedi/working_with_omnifocus/">Reddit Discussion</a>.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Favorite Workflows]]></title>
@@ -727,6 +767,16 @@ Use the hashtag #question to ask a question.</p>
 
 <!--more-->
 
+<div class="callout">
+	<div class="callout-book-cover">
+		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
+			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
+		</a>
+	</div>
+	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
+	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
+</div>
+
 <p>OmniFocus has a great feature for reviewing projects at specific intervals. You can choose to review a project daily or every 50 years if you want. And when that date comes, the project is available in the Review perspective.</p>
 
 <p>It’s a great feature. You can set the date of your Weekly Review as the next review date for a project and tell it to cycle every week. Then the project can be reviewed every week on that day.</p>
@@ -788,104 +838,6 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3l0zqy/5_developing_a_task_management_system/">Discuss this on Reddit.</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Writing with GitHub]]></title>
-    <link>http://joebuhlig.com/writing-with-github/</link>
-    <pubDate>Fri, 11 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[github]]></category>
-
-    <category><![CDATA[setups]]></category>
-
-    <category><![CDATA[writing]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/writing-with-github/</guid>
-    <description>
-        <![CDATA[I’ve written about my use of Sublime Text for writing, but I didn’t share how I manage the edits from my editor.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Writing-with-GitHub.jpg" /><p>I’ve written about my use of <a href="http://joebuhlig.com/my-writing-setup/">Sublime Text for writing</a>, but I didn’t share how I manage the edits from my editor.</p>
-
-<!--more-->
-
-<p>I write everything in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, which means the typical “track changes” tools don’t work very well in my workflow. I write the draft of an article, review and edit my own draft a couple times, and then send it to my editor. Since we do everything digitally, I needed a way to see what changes she has made as compared to my original.</p>
-
-<p>The developer in me recognized the issue and immediately went to GitHub for versioning and merging updates. It has made the process really easy for me and for my editor. I don’t want her worrying about the delivery mechanism on top of all the editing. Here’s how I set it all up:</p>
-
-<h2 id="spanspanthe-setupthe-setup"><a href="#the-setup"><span></span></a>The setup</h2>
-
-<p>If you have experience with GitHub, this will all be second nature. If you don’t, I recommend looking at <a href="https://guides.github.com/activities/hello-world/">this article</a> to get a feel for the terminology and flow of Git.</p>
-
-<p>I created a folder in DropBox to house all of my writing. This includes articles, <a href="http://joebuhlig.com/whaddyaknowjoe/">podcast</a> scripts, and even the <a href="http://joebuhlig.com/omnifocus/">book</a> I’m writing.</p>
-
-<p>Using the GitHub desktop app, I created a new local repository on top of this folder. I’ve found myself using the app even though I know how to use Git from the command line. It’s simple and feels faster to me.</p>
-
-<p>That’s all there was to do, create a new folder and turn it into a repository. I should mention that if you’re inviting someone as a collaborator in the repository, you should keep this outside of DropBox. It can create a lot of issues with syncing. GitHub even warns you about it. I can get away with it because I’m the only one involved and it’s a local repository. Keeping it on DropBox allows me to view and edit files from my iPhone, and I like having that option.</p>
-
-<h2 id="spanspan1-drafting1-drafting"><a href="#1-drafting"><span></span></a>1. Drafting</h2>
-
-<p>I work off of the master branch in the repository and make all of my commits there. For example, I’ll write my first draft of an article and then commit it. I then review and edit that draft and commit my own edits.</p>
-
-<p>To make the commits easy to track, I use a TextExpander snippet for the commit summary with this format:</p>
-
-<p><code>Draftx_Articlex_YYYYMMDD</code></p>
-
-<p>For the first part, I use one of these tags - Draftx, Editx, Reviewx, Managex. My first draft is under Draftx, my edits are Editx, my editor’s changes go under Reviewx, and any changes to the repository (adding/deleting/moving files) go under Managex. As an aside, here’s <a href="http://joebuhlig.com/simple-trick-naming-tags/">why I use the “x”</a> in those names.</p>
-
-<p>The second portion of the commit summary is the type of writing I was doing - Articlex, Bookx, Podcastx, Websitex. Those are pretty self-explanatory.</p>
-
-<h2 id="spanspan2-send-to-editor2-send-to-editor"><a href="#2-send-to-editor"><span></span></a>2. Send to editor</h2>
-
-<p>When I’m happy with what I’ve written and have the edits committed, I make a copy of the file and paste it into a DropBox folder I share with my editor. She is then able to do anything she wants to the file. I make sure she knows I’ll find every character that changes when she’s done.</p>
-
-<h2 id="spanspan3-reviewing-changes3-reviewing-changes"><a href="#3-reviewing-changes"><span></span></a>3. Reviewing changes</h2>
-
-<p>When I’m notified that she’s done editing the piece, I create a branch off of the master branch. I simply name the new branch after the article or chapter that I’ll be reviewing.</p>
-
-<p>After creating the new branch and switching to it, I replace my version of the file with the edited version. It’s a simple copy, paste, and confirm to replace the current version.</p>
-
-<p>I can then go into GitHub and see all of the changes highlighted. If I want to accept her change, I do nothing. They will come through later. If I want to ignore her change or make tweaks, I go to the file and make the edits. Then I return to GitHub and keep working through the article.</p>
-
-<p>When I’ve finished reviewing the changes and making my final edits, I commit the edited file to my newly created branch and then merge the new branch into the master. I could probably do this from the master branch but it just feels weird bringing someone else’s changes directly into the main structure. I prefer not to hear the neurotic developer in me screaming.</p>
-
-<h2 id="spanspantrackingtracking"><a href="#tracking"><span></span></a>Tracking</h2>
-
-<p>Something I’ve wanted to do with my writing for a while is track how many words I’ve written each day. Thankfully, using GitHub makes it possible to pull this off. It’s really technical, so I would say <strong>this part is for the power users</strong>.</p>
-
-<p>With a Git repository, you can set up hooks to run when certain events happen. In other words, I can run a script when something happens in the repository. In this case, I used the “post-commit” hook because I wanted to run a script after I commit changes.</p>
-
-<p>I added this code to the post-commit executable found in the “.git” directory of my writing repository:</p>
-
-<noscript><pre>PATH=$PATH:/usr/local/bin:/usr/local/sbin
-#!/bin/bash
-gitbranch=`git rev-parse --abbrev-ref HEAD`
-if [ $gitbranch = &quot;master&quot; ]; then
-	date=`date +%m/%d/%Y`
-	datetime=`date +%r`
-	gitwa=`git diff HEAD^ HEAD --word-diff=porcelain | grep -e &quot;^+[^+]&quot; | wc -w`
-	gitwd=`git diff HEAD^ HEAD --word-diff=porcelain | grep -e &quot;^-[^-]&quot; | wc -w`
-	commit=`git log -1 --pretty=%B`
-	cnt=`expr $gitwa - $gitwd`
-	theURL=&#39;https://script.google.com/a/macros/username/s/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/exec&#39;
-	curl -L --get $theURL --data-urlencode &quot;Date=$date&quot; --data-urlencode &quot;Time=$datetime&quot; --data-urlencode &quot;WordCount=$cnt&quot; --data-urlencode &quot;Commit=$commit&quot; --data-urlencode &quot;Adds=$gitwa&quot; --data-urlencode &quot;Deletes=$gitwd&quot;
-fi</pre></noscript>
-<script src="https://gist.github.com/joebuhlig/b0c3cd227c148685f98d.js"> </script>
-
-<p>It checks to see if the commit is in the master branch. If it is, then it counts the words that have been added and subtracts the number of words that were removed. That number is then sent to a Google Sheet through a Google Script that I’ve published as a web app.</p>
-
-<p>From the spreadsheet I can see each commit, the date and time of the commit, and how many words I wrote. I like seeing how much progress I’m making and can potentially use this data to find cycles in my writing patterns. If nothing else, it’s fun.</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3kj2wl/writing_with_github/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 </item>

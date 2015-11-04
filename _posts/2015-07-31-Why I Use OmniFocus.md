@@ -13,6 +13,8 @@ Task managers. There are so many options available and it’s painful making a d
 
 <!--more-->
 
+{% include omnifocus_callout.html %}
+
 There’s a lot of hype around to-do list apps, but I’m not known for jumping into an app just because people are excited about it. And with task managers, I knew I was picky. I did the normal thing and ran Google searches to find out what the broader internet prefers. It was a mixed bag and that was three years ago. It’s worse now.
 
 Not knowing whose opinion to trust, I pulled together my list of needs in a task manager. I compared that to the list of task managers I could find and quickly concluded that [OmniFocus](http://joebuhlig.com/tag/omnifocus/) was my only real option.

@@ -13,6 +13,8 @@ With one of the recent releases of [OmniFocus for iOS](https://itunes.apple.com/
 
 <!--more-->
 
+{% include omnifocus_callout.html %}
+
 ## [<span></span>](#inbox)Inbox
 
 I keep my Inbox available as I often want to empty it. If I’m getting ready to focus on a project for a couple hours or just got off a call, I need to process things immediately so my pinball brain can go in a straight line for a while. Easy access to my inbox makes [clarification](http://joebuhlig.com/getting-things-done-clarify/) easier.

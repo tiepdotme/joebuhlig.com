@@ -13,6 +13,8 @@ Every Friday morning I do my [Weekly Review](http://joebuhlig.com/getting-things
 
 <!--more-->
 
+{% include omnifocus_callout.html %}
+
 OmniFocus has a great feature for reviewing projects at specific intervals. You can choose to review a project daily or every 50 years if you want. And when that date comes, the project is available in the Review perspective.
 
 It's a great feature. You can set the date of your Weekly Review as the next review date for a project and tell it to cycle every week. Then the project can be reviewed every week on that day.

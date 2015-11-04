@@ -13,6 +13,8 @@ In our digital age, we tend to receive a large number of files via email. And we
 
 <!--more-->
 
+{% include omnifocus_callout.html %}
+
 I could invoke the quick entry dialog and drag the file into the notes field, but there are times when I have 10 files or more to do at once. That gets to be a lot of repetitive steps.
 
 I started searching for a solution and came across [this post](http://www.asianefficiency.com/task-management/omnifocus-hotspot/) by the guys at Asian Efficiency. It’s a simple process using [Hazel](http://www.noodlesoft.com/hazel.php) to turn a folder into a hotspot. This folder will _sense_ that files are in it and add those files to Omnifocus automatically.
