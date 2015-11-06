@@ -35,7 +35,7 @@ In practice, here’s what I do:
 
 3.  Select the action for the appropriate list
 
-    <img src="/assets/posts_extra/Drafts_actions.png" />
+    <img src="/assets/posts_extra/Drafts_Actions.png" />
 
 Behind the scenes, here’s what happens:
 
