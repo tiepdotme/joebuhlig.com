@@ -14,11 +14,46 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 04 Nov 2015 07:00:49 -0600</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2015 06:04:21 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Take a Break]]></title>
+    <link>http://joebuhlig.com/take-a-break/</link>
+    <pubDate>Fri, 06 Nov 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[books]]></category>
+
+    <category><![CDATA[energy]]></category>
+
+    <category><![CDATA[life]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/take-a-break/</guid>
+    <description>
+        <![CDATA[Numerous times I’ve said that being able to put off work is an important step of being productive. And when you have a big push, it’s even more important to stop.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Take-a-break.jpg" /><p>Numerous times I’ve said that being able to put off work is an important step of being productive. And when you have a big push, it’s even more important to stop.
+<!--more--></p>
+
+<p>I’ve been working long hours for the last couple months to make <a href="https://tools.joebuhlig.com/working-with-omnifocus/"><em>Working with OmniFocus</em></a> happen. There were late nights, early mornings, and long afternoons. Blood, sweat, tears, sickness and exhaustion all came into play at some point. And I’ve been thrilled at the response.</p>
+
+<p>Many of you have sent me emails and joined the <a href="https://www.reddit.com/r/joebuhlig/comments/3rhedi/working_with_omnifocus/">Reddit discussion</a> to let me know what you think of the book. I have received emails from folks who have changed their perspective on how they work and look for better ways to manage their tasks. They are heartfelt and grateful. They drive me to do more and help anywhere I can. It’s these people that keep me excited about the work I do.</p>
+
+<p>And I will continue to look for ways to do that, but not right now. After the hard work that’s gone into this and the unending support that my family has given me over the past months, it’s time to take a short break and give to them. I’ll be back at it next week, but I’m taking a long weekend to recoup.  Thank you for all the great feedback, it’s been a wild ride.</p>
+
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Working with OmniFocus]]></title>
@@ -802,42 +837,6 @@ Use the hashtag #question to ask a question.</p>
 <p>All I have to do is continue as normal and do my reviews on those days. If I see the indicator in OmniFocus before one of my scheduled reviews happens, I simply run the script.</p>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3lf4zc/scheduled_reviews_in_omnifocus/">Discuss this on Reddit.</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[5: Developing a Task Management System]]></title>
-    <link>http://joebuhlig.com/5/</link>
-    <pubDate>Tue, 15 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[task management]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/5/</guid>
-    <description>
-        <![CDATA[If you’ve made the decision to get into task management, congratulations! But you need to be intentional with getting started. Here’s a look at how I helped my wife put together her pen and paper system the first time.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Developing-a-Task-Management-System.jpg" /><p>If you’ve made the decision to get into task management, congratulations! But you need to be intentional with getting started. Here’s a look at how I helped my wife put together her pen and paper system the first time.</p>
-
-<!--more-->
-
-<p><a href="http://agiletortoise.com/drafts/">Drafts</a> (<a href="https://itunes.apple.com/us/app/id905337691">iTunes</a>)</p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
-Use the hashtag #question to ask a question.</p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3l0zqy/5_developing_a_task_management_system/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 </item>
