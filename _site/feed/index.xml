@@ -14,11 +14,53 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 06 Nov 2015 07:10:58 -0600</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2015 09:50:46 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[12: The Higher Horizons]]></title>
+    <link>http://joebuhlig.com/12/</link>
+    <pubDate>Tue, 10 Nov 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[gtd]]></category>
+
+    <category><![CDATA[horizons]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/12/</guid>
+    <description>
+        <![CDATA[A quick overview of how I see the higher Horizons of GTD and why they are important. Also, I talk about why I think our babysitter is awesome.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/The-Higher-Horizons.jpg" /><p>A quick overview of how I see the higher Horizons of GTD and why they are important. Also, I talk about why I think our babysitter is awesome.
+<!--more--></p>
+
+<p><a href="http://gettingthingsdone.com/2011/01/the-6-horizons-of-focus/">Getting Things Done® - The 6 Horizons of Focus</a></p>
+
+<p><a href="http://productivity.stackexchange.com/questions/14221/gtd-horizons-of-focus">GTD - Horizons of Focus - Personal Productivity Stack Exchange</a></p>
+
+<p><a href="http://www.247inktoner.com/blog/post/2013/08/05/Understanding-GTDs-6-Horizons-of-Focus.aspx">Understanding GTD’s 6 Horizons of Focus - The Spill</a></p>
+
+<p><a href="http://productivityist.com/15000-feet/">15,000 Feet: The Space Between Projects and Areas of Focus and Responsibility - Productivityist</a></p>
+
+<p><a href="http://www.degconsulting.net/2014/01/productive-gtd-horizons-of-focus.html">How To Be More Productive By Mastering Your GTD Horizons Of Focus</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Take a Break]]></title>
@@ -776,69 +818,6 @@ Use the hashtag #question to ask a question.</p>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3lx6iu/6_collecting_and_storing_research/">Discuss this on Reddit.</a></p>
 
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Scheduled Reviews in OmniFocus]]></title>
-    <link>http://joebuhlig.com/scheduled-reviews-in-omnifocus/</link>
-    <pubDate>Fri, 18 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[omnifocus]]></category>
-
-    <category><![CDATA[reviews]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/scheduled-reviews-in-omnifocus/</guid>
-    <description>
-        <![CDATA[Every Friday morning I do my Weekly Review. I do my Monthly Review on the first of the month and my Annual Review on the first of the year. How do I get OmniFocus to play nicely with this?
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Scheduled-Reviews-in-OmniFocus.jpg" /><p>Every Friday morning I do my <a href="http://joebuhlig.com/getting-things-done-reflect/">Weekly Review</a>. I do my Monthly Review on the first of the month and my Annual Review on the first of the year. How do I get OmniFocus to play nicely with this?</p>
-
-<!--more-->
-
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
-
-<p>OmniFocus has a great feature for reviewing projects at specific intervals. You can choose to review a project daily or every 50 years if you want. And when that date comes, the project is available in the Review perspective.</p>
-
-<p>It’s a great feature. You can set the date of your Weekly Review as the next review date for a project and tell it to cycle every week. Then the project can be reviewed every week on that day.</p>
-
-<h2 id="the-issue">The issue</h2>
-
-<p>What happens if you do your review a day late? You’d be fine the first time since the project would just wait, but the next week would bring chaos. Your projects would cycle one week and would now be available for review the day after your scheduled review. They cycled by a week, but the day it uses as a base is the day it was reviewed, which was a day late.</p>
-
-<p>If you throw multiple reviews in the mix (bi-weekly, monthly, annual, bi-annual), it can start to get out of hand very quickly. You’ll soon have a lot of projects that need to be reviewed, but they don’t show up in the Review perspective.</p>
-
-<h2 id="the-solution">The solution</h2>
-
-<p>I wanted a way to enter the day for my Weekly, Monthly, and Annual Reviews and have OmniFocus automatically reset the review dates on my projects to the next date each of these occurs.</p>
-
-<p>In other words, if I have a project marked for review weekly (even if it’s every 3 weeks), I want the date for the next review to be the following Friday since that’s when I do my Weekly Review. If it’s marked for review monthly or yearly, I want the next date for my Monthly or Annual Review to be the next review date for those projects.</p>
-
-<p>There’s not a way to do this directly in OmniFocus, so I wrote an AppleScript. You can find the <a href="https://github.com/joebuhlig/OFScripts">script on GitHub here</a>. I originally set this up with a launch agent like I did for the <a href="https://github.com/joebuhlig/OFScripts">OmniFocus Auto-Parser</a>, which you can <a href="http://joebuhlig.com/omnifocus-auto-parser/">learn more about here</a>. But I’ve since reworked this to be run on command directly from OmniFocus.</p>
-
-<h2 id="how-it-works">How it works</h2>
-
-<p>When you launch the script, it takes the next review date of the project and adjusts it forward to the next occurrence of the review. If the review cycle is weekly, the date is set to the next Weekly Review date. If the cycle is monthly or yearly, it is moved forward to the next date for each.</p>
-
-<p>All I have to do is continue as normal and do my reviews on those days. If I see the indicator in OmniFocus before one of my scheduled reviews happens, I simply run the script.</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3lf4zc/scheduled_reviews_in_omnifocus/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 </item>

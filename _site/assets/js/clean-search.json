@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"12: The Higher Horizons",
+			"image":"/assets/posts/The-Higher-Horizons.jpg",
+			"permalink":"/12/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"gtd",
+				"horizons"
+			],
+			"excerpt": "<p>A quick overview of how I see the higher Horizons of GTD and why they are important. Also, I talk about why I think our babysitter is awesome.</p>\n\n",
+			"content": "A%20quick%20overview%20of%20how%20I%20see%20the%20higher%20Horizons%20of%20GTD%20and%20why%20they%20are%20important.%20Also,%20I%20talk%20about%20why%20I%20think%20our%20babysitter%20is%20awesome.%0A%0A%0AGetting%20Things%20Done%C2%AE%20-%20The%206%20Horizons%20of%20Focus%0A%0AGTD%20-%20Horizons%20of%20Focus%20-%20Personal%20Productivity%20Stack%20Exchange%0A%0AUnderstanding%20GTD%E2%80%99s%206%20Horizons%20of%20Focus%20-%20The%20Spill%0A%0A15,000%20Feet:%20The%20Space%20Between%20Projects%20and%20Areas%20of%20Focus%20and%20Responsibility%20-%20Productivityist%0A%0AHow%20To%20Be%20More%20Productive%20By%20Mastering%20Your%20GTD%20Horizons%20Of%20Focus%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ABecome%20a%20Patron%0A"
+		},
+	
 		{	"title":"Take a Break",
 			"image":"/assets/posts/Take-a-break.jpg",
 			"permalink":"/take-a-break/",

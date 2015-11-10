@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Fri, 06 Nov 2015 07:10:58 -0600</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2015 09:50:46 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,77 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>12: The Higher Horizons</title>
+    <link>http://joebuhlig.com/12/</link>
+    <comments>http://joebuhlig.com/12/#comments</comments>
+    <pubDate>Tue, 10 Nov 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[gtd]]></category>
+
+    <category><![CDATA[horizons]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/12/</guid>
+    <description>
+        <![CDATA[A quick overview of how I see the higher Horizons of GTD and why they are important. Also, I talk about why I think our babysitter is awesome.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>A quick overview of how I see the higher Horizons of GTD and why they are important. Also, I talk about why I think our babysitter is awesome.
+<!--more--></p>
+
+<p><a href="http://gettingthingsdone.com/2011/01/the-6-horizons-of-focus/">Getting Things Done® - The 6 Horizons of Focus</a></p>
+
+<p><a href="http://productivity.stackexchange.com/questions/14221/gtd-horizons-of-focus">GTD - Horizons of Focus - Personal Productivity Stack Exchange</a></p>
+
+<p><a href="http://www.247inktoner.com/blog/post/2013/08/05/Understanding-GTDs-6-Horizons-of-Focus.aspx">Understanding GTD’s 6 Horizons of Focus - The Spill</a></p>
+
+<p><a href="http://productivityist.com/15000-feet/">15,000 Feet: The Space Between Projects and Areas of Focus and Responsibility - Productivityist</a></p>
+
+<p><a href="http://www.degconsulting.net/2014/01/productive-gtd-horizons-of-focus.html">How To Be More Productive By Mastering Your GTD Horizons Of Focus</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ012.mp3" length="16190986" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[A quick overview of how I see the higher Horizons of GTD and why they are important. Also, I talk about why I think our babysitter is awesome.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>A quick overview of how I see the higher Horizons of GTD and why they are important. Also, I talk about why I think our babysitter is awesome.
+<!--more--></p>
+
+<p><a href="http://gettingthingsdone.com/2011/01/the-6-horizons-of-focus/">Getting Things Done® - The 6 Horizons of Focus</a></p>
+
+<p><a href="http://productivity.stackexchange.com/questions/14221/gtd-horizons-of-focus">GTD - Horizons of Focus - Personal Productivity Stack Exchange</a></p>
+
+<p><a href="http://www.247inktoner.com/blog/post/2013/08/05/Understanding-GTDs-6-Horizons-of-Focus.aspx">Understanding GTD’s 6 Horizons of Focus - The Spill</a></p>
+
+<p><a href="http://productivityist.com/15000-feet/">15,000 Feet: The Space Between Projects and Areas of Focus and Responsibility - Productivityist</a></p>
+
+<p><a href="http://www.degconsulting.net/2014/01/productive-gtd-horizons-of-focus.html">How To Be More Productive By Mastering Your GTD Horizons Of Focus</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>16:40</itunes:duration>
+  </item>
 
   <item>
     <title>11: Using Evernote for GTD</title>
