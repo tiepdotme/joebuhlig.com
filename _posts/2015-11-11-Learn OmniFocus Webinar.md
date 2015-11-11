@@ -20,6 +20,8 @@ In the recording below you'll see normal stuff like setting up projects and cont
 
 Outside of [Working with Omnifocus](https://tools.joebuhlig.com/working-with-omnifocus/), this is one of the most complete overviews of my entire system. Tim Stringer has generously given me the feed to share with you, so check it out.
 
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3sewyr/reviews_and_scripting_learn_omnifocus_webinar/)
+
 <div class="center video-container">
 <iframe src="https://player.vimeo.com/video/144911621" width="1000" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
