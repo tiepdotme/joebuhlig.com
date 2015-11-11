@@ -359,7 +359,14 @@
 }
 
 .feed-pic {
+    display: table;
+    margin: 0px auto;
+    min-height: 266px;
     text-align: center;
+}
+.feed-pic a {
+    display: table-cell;
+    vertical-align: middle;
 }
 .feed-pic img {
     border-radius:5px;
@@ -441,6 +448,24 @@
 }
 .callout-image{
     max-height:200px;
+}
+
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 10px;
+    height: 0;
+    overflow: hidden;
+}
+.video-container iframe,  
+.video-container object,  
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 /**
  * Search

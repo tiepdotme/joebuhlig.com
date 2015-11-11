@@ -4,7 +4,7 @@ date:   2014-11-21
 categories: blog
 tags:
 - gtd
-- review
+- reviews
 permalink: /getting-things-done-reflect/
 image: /assets/posts/GTD-Reflect.jpg
 ---

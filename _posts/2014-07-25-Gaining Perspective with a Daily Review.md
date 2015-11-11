@@ -4,7 +4,7 @@ date:   2014-07-25
 categories: blog
 tags:
 - perspective
-- review
+- reviews
 permalink: /gaining-perspective-daily-review/
 image: /assets/posts/Gaining-Perspective-with-a-Daily-Review.jpg
 ---

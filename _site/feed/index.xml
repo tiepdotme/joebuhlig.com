@@ -14,11 +14,51 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 10 Nov 2015 09:53:08 -0600</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2015 09:23:04 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Reviews and Scripting - Learn OmniFocus Webinar]]></title>
+    <link>http://joebuhlig.com/reviews-and-scripting-learn-omnifocus-webinar/</link>
+    <pubDate>Wed, 11 Nov 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <category><![CDATA[reviews]]></category>
+
+    <category><![CDATA[scripting]]></category>
+
+    <category><![CDATA[webinar]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/reviews-and-scripting-learn-omnifocus-webinar/</guid>
+    <description>
+        <![CDATA[A great asset behind OmniFocus is the community of people willing to share and ask questions; and one place to enjoy the resources this community creates is at Learn OmniFocus.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Reviews-and-Scripting-Learn-OmniFocus-Webinar.jpg" /><p>A great asset behind OmniFocus is the community of people willing to share and ask questions; and one place to enjoy the resources this community creates is at <a href="http://learnomnifocus.com/?ref=11">Learn OmniFocus</a>.
+<!--more--></p>
+
+<p>Tim Stringer, founder of Learn OmniFocus, recently invited me to do a live webinar about my OmniFocus setup on the site and add to this growing repository of content. I was thrilled and  honored to share.</p>
+
+<p>In the recording below you’ll see normal stuff like setting up projects and contexts, but I also emphasize the importance of doing regular reviews and share a script I’ve written to help. I like doing reviews on set days, so I needed to be able to move the Next Review Date of a project to match my scheduled review date. If you’re interested in this script or some of the others I mention in the webinar, you can <a href="https://github.com/joebuhlig/OFScripts">find them on GitHub</a>.</p>
+
+<p>Outside of <a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working with Omnifocus</a>, this is one of the most complete overviews of my entire system. Tim Stringer has generously given me the feed to share with you, so check it out.</p>
+
+<div class="center video-container">
+<iframe src="https://player.vimeo.com/video/144911621" width="1000" height="560" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+</div>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[12: The Higher Horizons]]></title>
@@ -769,57 +809,6 @@ Use the hashtag #question to ask a question.</p>
 <p>Be gracious. It’s hard sharing something like a computer, especially when you need to get something done. It’s easy to get upset or frustrated with the other person. Show a little grace and be willing to compromise. It’ll make both of your lives a lot easier.</p>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3mblhd/sharing_a_computer/">Discuss this on Reddit.</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[6: Collecting and Storing Research]]></title>
-    <link>http://joebuhlig.com/6/</link>
-    <pubDate>Tue, 22 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[evernote]]></category>
-
-    <category><![CDATA[research]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/6/</guid>
-    <description>
-        <![CDATA[When you have a new project that you’re doing research on, you need a great way to grab and store that research. Referencing it later can be invaluable and save you the trouble of doing that same research multiple times.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Collecting-and-Storing-Research.jpg" /><p>When you have a new project that you’re doing research on, you need a great way to grab and store that research. Referencing it later can be invaluable and save you the trouble of doing that same research multiple times.</p>
-
-<!--more-->
-
-<p><a href="http://joebuhlig.com/evernote-setup-workflow/">My Evernote Setup and Workflow</a></p>
-
-<p><a href="http://joebuhlig.com/simple-trick-naming-tags/">A Simple Trick for Naming Tags</a></p>
-
-<p><a href="http://www.noodlesoft.com/hazel.php">Hazel</a></p>
-
-<p><a href="http://wkhtmltopdf.org/">wkhtmltopdf</a></p>
-
-<p><a href="http://www.cocoatech.com/pathfinder/">PathFinder</a></p>
-
-<p><a href="https://workflow.is/workflows/65a75670ff9542d7b0de56d0a30bd4dc">Save URL Workflow</a></p>
-
-<p><a href="https://workflow.is/workflows/bfecb2d5d7ac405b8a173f8bf4fad48a">Article to PDF Workflow</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
-Use the hashtag #question to ask a question.</p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3lx6iu/6_collecting_and_storing_research/">Discuss this on Reddit.</a></p>
-
 ]]>
     </content:encoded>
 </item>
