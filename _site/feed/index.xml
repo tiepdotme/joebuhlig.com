@@ -14,11 +14,71 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 11 Nov 2015 09:28:29 -0600</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2015 05:50:06 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Breaking the Cycle]]></title>
+    <link>http://joebuhlig.com/breaking-the-cycle/</link>
+    <pubDate>Fri, 13 Nov 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[addiction]]></category>
+
+    <category><![CDATA[life]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/breaking-the-cycle/</guid>
+    <description>
+        <![CDATA[It’s time for a confession: I’m addicted to my phone. I want to check Twitter every five minutes and find myself refreshing Feedly every ten. And I hate it.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Breaking-the-Cycle.jpg" /><p>It’s time for a confession: I’m addicted to my phone. I want to check Twitter every five minutes and find myself refreshing Feedly every ten. And I hate it.
+<!--more--></p>
+
+<p>I’ve developed a habit of always wondering if there is something that needs my response. If someone asks me a question on Twitter, I want to get back to them right away. I don’t want them waiting on me. I don’t like being the one that holds up the line.</p>
+
+<h2 id="steps-to-building-a-habit">Steps to building a habit</h2>
+
+<p>There’s a lot of research behind building habits, but it doesn’t have to apply only to good habits. Understanding this cycle can help break bad habits as well. Break one of the steps and the habit stops.</p>
+
+<h3 id="trigger">1. Trigger</h3>
+
+<p>I love helping. Finding ways to solve problems for others will motivate me to work all day, every day. The downside is that I will sometimes go looking for problems that need to be solved. I primarily look for these problems in my own systems and tools, so the trigger is simply wondering if someone found an issue or has a question.</p>
+
+<h3 id="reaction">2. Reaction</h3>
+
+<p>My reaction to this trigger is to solve the problem or look for a problem. Whenever I wonder if there is a problem that needs solved or I think that a question might have popped up, I check the various places where a problem or question could arise. In my case, that’s mostly Twitter, Reddit, or email.</p>
+
+<h3 id="treat">3. Treat</h3>
+
+<p>Much like our dog gets treats when he does a trick, I get a treat when I solve a problem or answer a question. People tend to say thank you or show appreciation when you help out and that small incentive makes me want to keep helping. The trigger has been set off again.</p>
+
+<h2 id="breaking-the-cycle">Breaking the cycle</h2>
+
+<p>Scientists in agriculture have become really good at breaking the life cycle of insects. Whether it’s interrupting their mating season, creating a bad environment for eggs, or not allowing one of the metamorphosis steps, they can find ways to keep the pests from propagating and damaging crops.</p>
+
+<p>It’s this cycle interruption that I’m attempting to put in place. Just telling myself not to  wonder will not likely happen. The thought enters faster than I can stop it, so I need to stop my reaction to the trigger - looking at social media and email. My primary means of checking is my phone and the best way to keep me off my phone is to leave it out of my reach. I’m much too lazy to get up just to check Twitter.</p>
+
+<p>While I’m at work I can keep my phone across the room since I don’t usually check things on my Mac. I can leave it in my office when I go upstairs for lunch. After work, I have designated a place for it to land. If it’s not in my pocket, I’m less likely to get it and check things.</p>
+
+<p>My hope is that by breaking this cycle, I’ll be more present with my family and break the habit. I know that my attention has fallen away from them when they need it. I’m not okay with that.</p>
+
+<h3 id="resources">Resources:</h3>
+
+<p><a href="http://jamesclear.com/three-steps-habit-change">The 3 R’s of Habit Change: How To Start New Habits That Actually Stick - James Clear</a></p>
+
+<p><a href="http://shawnblanc.net/2014/11/alternatives-to-the-just-checks/">Alternatives to the Just Checks — Shawn Blanc</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Reviews and Scripting - Learn OmniFocus Webinar]]></title>
@@ -762,55 +822,6 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3mtguy/7_learning_a_computer_language/">Discuss this on Reddit.</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Sharing a Computer]]></title>
-    <link>http://joebuhlig.com/sharing-a-computer/</link>
-    <pubDate>Fri, 25 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[hardware]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/sharing-a-computer/</guid>
-    <description>
-        <![CDATA[When I switched to the MacBook Pro, I also switched from using two computers to one. I know, I know, I was spoiled. But it made my life a lot easier and helped me accomplish a lot more.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Sharing-a-Computer.jpg" /><p>When I switched to the MacBook Pro, I also switched from using two computers to one. I know, I know, I was spoiled. But it made my life a lot easier and helped me accomplish a lot more.</p>
-
-<!--more-->
-
-<p>One benefit of using two computers that I hadn’t noticed was the flexibility it gave my wife and me. When I used one computer, she could use the other. When the job-shift happened, it quickly became apparent that we were used to using them at the same time. I would grab the MacBook Air and she would do some work on the Mac Pro or vice versa.</p>
-
-<p>Two computers was really convenient. However, I’m now building my own business, which means I’m tight on dollars spent. So I’m using a single computer for everything. And that has led to the need to coordinate work with my wife. I have writing and development to do and she has design and editing to do.</p>
-
-<p>Here’s what we’ve learned on how to successfully share a computer:</p>
-
-<h2 id="communicate">Communicate</h2>
-
-<p>We have a daily conversation about time on the computer. I’m the one that spends the most time on it, but my wife has a few deadlines that she’s under as well. We need to make sure we’re talking about what’s needed, when it’s needed, and our plan for making it happen.</p>
-
-<h2 id="multiple-users">Multiple users</h2>
-
-<p>This almost goes without saying, but don’t share a user login on a shared computer. If my wife tries to do something on my profile, it will most likely do things she’s not expecting. If I use her profile, I’ll keep banging the keyboard wondering why it doesn’t launch the app I want. It just creates unnecessary angst. Get your own profile.</p>
-
-<h2 id="external-hard-drive">External hard drive</h2>
-
-<p>Unless you’ve upgraded the internal hard drive of your machine as much as you can, you’ll probably run into storage issues. The computer I’m on has a simple 128GB hard drive. That’s pretty small for having multiple users on it. So I have 4TB of Network Attached Storage (NAS) in the house. That allows us to connect to them over the wireless from anywhere in the house and keeps us from being unable to save files.</p>
-
-<h2 id="grace">Grace</h2>
-
-<p>Be gracious. It’s hard sharing something like a computer, especially when you need to get something done. It’s easy to get upset or frustrated with the other person. Show a little grace and be willing to compromise. It’ll make both of your lives a lot easier.</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3mblhd/sharing_a_computer/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 </item>
