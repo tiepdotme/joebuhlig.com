@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Fri, 13 Nov 2015 06:04:24 -0600</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2015 10:24:00 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,75 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>13: Wandering Brain</title>
+    <link>http://joebuhlig.com/13/</link>
+    <comments>http://joebuhlig.com/13/#comments</comments>
+    <pubDate>Wed, 18 Nov 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[ideas]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/13/</guid>
+    <description>
+        <![CDATA[I have more ideas than I can keep track of. And this is the whole of my creative process from idea development to storage.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I have more ideas than I can keep track of. And this is the whole of my creative process from idea development to storage.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working with OmniFocus</a></p>
+
+<p><a href="http://joebuhlig.com/omnifocus-auto-parser/">OmniFocus Auto-Parser</a></p>
+
+<p><a href="http://joebuhlig.com/6/">6: Collecting and Storing Research</a></p>
+
+<p><a href="http://joebuhlig.com/using-drafts/">Using Drafts</a></p>
+
+<p><a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">Using Omnifocus for Someday/Maybe Lists</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ013.mp3" length="9532800" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[I have more ideas than I can keep track of. And this is the whole of my creative process from idea development to storage.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>I have more ideas than I can keep track of. And this is the whole of my creative process from idea development to storage.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working with OmniFocus</a></p>
+
+<p><a href="http://joebuhlig.com/omnifocus-auto-parser/">OmniFocus Auto-Parser</a></p>
+
+<p><a href="http://joebuhlig.com/6/">6: Collecting and Storing Research</a></p>
+
+<p><a href="http://joebuhlig.com/using-drafts/">Using Drafts</a></p>
+
+<p><a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">Using Omnifocus for Someday/Maybe Lists</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>9:44</itunes:duration>
+  </item>
 
   <item>
     <title>12: The Higher Horizons</title>
@@ -738,7 +807,7 @@ Use the hashtag #question to ask a question.</p>
     <title>3: Keeping Up with Pain Pills</title>
     <link>http://joebuhlig.com/3/</link>
     <comments>http://joebuhlig.com/3/#comments</comments>
-    <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
+    <pubDate>Tue, 01 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>

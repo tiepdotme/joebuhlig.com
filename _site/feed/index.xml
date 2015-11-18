@@ -14,11 +14,51 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 13 Nov 2015 06:04:24 -0600</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2015 10:24:00 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[13: Wandering Brain]]></title>
+    <link>http://joebuhlig.com/13/</link>
+    <pubDate>Wed, 18 Nov 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[ideas]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/13/</guid>
+    <description>
+        <![CDATA[I have more ideas than I can keep track of. And this is the whole of my creative process from idea development to storage.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Wandering-Brain.jpg" /><p>I have more ideas than I can keep track of. And this is the whole of my creative process from idea development to storage.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working with OmniFocus</a></p>
+
+<p><a href="http://joebuhlig.com/omnifocus-auto-parser/">OmniFocus Auto-Parser</a></p>
+
+<p><a href="http://joebuhlig.com/6/">6: Collecting and Storing Research</a></p>
+
+<p><a href="http://joebuhlig.com/using-drafts/">Using Drafts</a></p>
+
+<p><a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">Using Omnifocus for Someday/Maybe Lists</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Breaking the Cycle]]></title>
@@ -766,64 +806,6 @@ Use the hashtag #question to ask a question.</p>
 <p>Since starting on my own, I’ve been exploring new computer languages and building some of the bigger ideas that I never had time to tackle before. There’s some start-up time involved, but along this journey I have found systems and disciplines that help me stay motivated to focus on the work that I’m doing. Figuring out what technology to build next is exciting, and I’m having a blast.</p>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3n7p8a/how_i_started_with_technology/">Discuss this on Reddit.</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[7: Learning a Computer Language]]></title>
-    <link>http://joebuhlig.com/7/</link>
-    <pubDate>Tue, 29 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[development]]></category>
-
-    <category><![CDATA[research]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/7/</guid>
-    <description>
-        <![CDATA[People are sometimes scared to get into coding because they think it’s complicated to learn. It’s not complicated, so don’t be one of those people. In this episode I talk about how I got into development (with no schooling) and how I pick up new languages.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Learning-a-Computer-Language.jpg" /><p>People are sometimes scared to get into coding because they think it’s complicated to learn. It’s not complicated, so don’t be one of those people. In this episode I talk about how I got into development (with no schooling) and how I pick up new languages.</p>
-
-<!--more-->
-
-<p><a href="http://www.excel-easy.com/vba.html">Excel VBA Tutorial - Easy Excel Macros</a></p>
-
-<p><a href="https://products.office.com/en-US/access">Microsoft Access</a></p>
-
-<p><a href="http://learn.shayhowe.com/">Learn to Code HTML &amp; CSS - Beginner &amp; Advanced</a></p>
-
-<p><a href="http://jquery.com/">jQuery</a></p>
-
-<p><a href="http://codex.wordpress.org/Theme_Development">PHP and Theme Development « WordPress Codex</a></p>
-
-<p><a href="https://www.python.org/">Welcome to Python.org</a></p>
-
-<p><a href="https://www.djangoproject.com/">The Web framework for perfectionists with deadlines - Django</a></p>
-
-<p><a href="https://www.ruby-lang.org/en/">Ruby Programming Language</a></p>
-
-<p><a href="http://rubyonrails.org/">Ruby on Rails</a></p>
-
-<p><a href="http://jekyllrb.com/">Jekyll • Simple, blog-aware, static sites</a></p>
-
-<p><a href="http://www.discourse.org/">Discourse</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
-Use the hashtag #question to ask a question.</p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3mtguy/7_learning_a_computer_language/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 </item>

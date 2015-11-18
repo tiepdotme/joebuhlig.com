@@ -1,6 +1,6 @@
 ---
 title:  "3: Keeping Up with Pain Pills"
-date:   2015-08-31
+date:   2015-09-01
 categories: podcast
 tags:
 - omnifocus
