@@ -14,6 +14,7 @@ podcast_length: 9532800
 
 I have more ideas than I can keep track of. And this is the whole of my creative process from idea development to storage.
 <!--more-->
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3tb6vj/13_wandering_brain/)
 
 [Become a Patron](http://joebuhlig.com/patron/)
 
