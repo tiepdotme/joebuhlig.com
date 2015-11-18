@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Wed, 18 Nov 2015 10:31:46 -0600</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2015 10:32:36 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -59,8 +59,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<p>I have more ideas than I can keep track of. And this is the whole of my creative process from idea development to storage.
-<!--more-->
-<a href="https://www.reddit.com/r/joebuhlig/comments/3tb6vj/13_wandering_brain/">Discuss this on Reddit.</a></p>
+<!--more--></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3tb6vj/13_wandering_brain/">Discuss this on Reddit.</a></p>
 
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 
@@ -85,8 +86,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 ]]></itunes:subtitle>
     <itunes:summary><![CDATA[<p>I have more ideas than I can keep track of. And this is the whole of my creative process from idea development to storage.
-<!--more-->
-<a href="https://www.reddit.com/r/joebuhlig/comments/3tb6vj/13_wandering_brain/">Discuss this on Reddit.</a></p>
+<!--more--></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3tb6vj/13_wandering_brain/">Discuss this on Reddit.</a></p>
 
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 
