@@ -22,7 +22,7 @@ server '104.236.248.91', user: 'joebuhlig', roles: %w{app db web}, port: 22
 # role :web, %w{user1@primary.com user2@additional.com}, other_property: :other_value
 # role :db,  %w{deploy@example.com}
 
-set :deploy_to, '/var/www/html'
+set :deploy_to, '/var/www/html_TEST'
 set :use_sudo, true
 set :ssh_options, {:forward_agent => true}
 
