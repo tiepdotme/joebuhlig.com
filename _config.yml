@@ -20,13 +20,6 @@ subreddit:  joebuhlig
 markdown: kramdown
 timezone: America/Chicago
 destination: _site
-gems:
-  - jekyll
-  - jekyll-sitemap
-  - jekyll/tagging
-  - jekyll-gist
-  - kramdown
-  - jekyll-watch
 tag_page_layout: tag_page
 tag_page_dir: tag
 tag_permalink_style: pretty
