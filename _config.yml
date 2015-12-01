@@ -21,6 +21,7 @@ markdown: kramdown
 timezone: America/Chicago
 destination: _site
 gems:
+  - jekyll
   - jekyll-sitemap
   - jekyll/tagging
   - jekyll-gist
