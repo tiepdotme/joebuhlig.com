@@ -14,11 +14,51 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 01 Dec 2015 15:35:04 -0600</lastBuildDate>
+<lastBuildDate>Wed, 02 Dec 2015 05:51:34 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[14: How Much is Down Time Worth?]]></title>
+    <link>http://joebuhlig.com/14/</link>
+    <pubDate>Wed, 02 Dec 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[time]]></category>
+
+    <category><![CDATA[tracking]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/14/</guid>
+    <description>
+        <![CDATA[I’m starting to track my time. I’ve struggled with this in the past, but now I want to tie it to dollars. I want to know where my time is best spent.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/How-Much-is-Down-Time-Worth.jpg" /><p>I’m starting to track my time. I’ve struggled with this in the past, but now I want to tie it to dollars. I want to know where my time is best spent.
+<!--more--></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3v4rnv/14_how_much_is_down_time_worth/">Discuss this on Reddit.</a></p>
+
+<p><a href="http://www.relay.fm/cortex/3">Cortex #3: Good for Brain Health - Relay FM</a></p>
+
+<p><a href="http://contrast.co/launch-center-pro/">Contrast - Launch Center Pro</a></p>
+
+<p><a href="http://programs.clearerthinking.org/what_is_your_time_really_worth_to_you.html">‎Clearer Thinking - What Is Your Time Really Worth To You</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[13: Wandering Brain]]></title>
@@ -737,77 +777,6 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3now3d/8_waiting_to_upgrade/">Discuss this on Reddit.</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[How I Started with Technology]]></title>
-    <link>http://joebuhlig.com/how-i-started-with-technology/</link>
-    <pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[development]]></category>
-
-    <category><![CDATA[life]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/how-i-started-with-technology/</guid>
-    <description>
-        <![CDATA[When I was 16 I bought my own Compaq laptop. Remember those? I had been using the family computer quite a bit, but this was my own computer. That was the beginning of my journey with technology.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/How-I-Started-with-Technology.jpg" /><p>When I was 16 I bought my own Compaq laptop. Remember those? I had been using the family computer quite a bit, but this was my own computer. That was the beginning of my journey with technology.</p>
-
-<!--more-->
-
-<h2 id="sound-and-slides">Sound and slides</h2>
-
-<p>I claimed it would be for school work. That was my crap-rationalization. But if I’m honest with myself it had more to do with exploring without consequences. I didn’t want to screw up the family computer by running a bunch of batch files just to see what they would do. I would rather create a mess for myself on my own computer. That, and it was a lot of fun to say I own my own computer when I went to school.</p>
-
-<p>Around the same time I started running sound and slides on Sunday morning at our church. If they wanted help with a special event when the sound system or a computer was involved, I nearly always said yes. I was drawn to it, fascinated by problem-solving with a bunch of cords and components working together.</p>
-
-<h2 id="my-first-mac">My first Mac</h2>
-
-<p>I bought my first Mac while at college. It was different and it seemed as though people who were building software and websites were using Macs. My thinking was purely, “That looks cool. I wanna try.” I don’t recommend making purchases of this size because something looks cool. But it was college, and I know there’s an unwritten requirement somewhere that says you should do something dumb in college.</p>
-
-<p>The MacBook was my first jump into productivity, but I didn’t realize it. The Mac made it a lot easier for me to track events and notes. I always had a side-job in college and I needed help keeping track of my schedule. Looking back on it, I didn’t have a busy schedule. I just wanted to play with the apps. I guess my mind and digital tendencies naturally drew me to the building of systems that come with productivity.</p>
-
-<h2 id="gis">GIS</h2>
-
-<p>Also in college I did a couple of internships that had me working with GIS and handheld computers. They were set up to collect data on soil samples and crop scouting for corn and soybean fields, (yes, if you didn’t know, I’m a farm kid. No matter what I do or where I go, I’m always drawn to farmers and growing food. And tractors).</p>
-
-<p>The fun part of those internships was finding ways of using handheld computers to make the process easier. I even began dictating notes into those devices. They were very crude at the time and I spent a lot of time cleaning up the notes I entered, but it was still a system that worked for me. It also taught me a lot about mapping and how to collect and report spatial data on crops.</p>
-
-<h2 id="excel">Excel</h2>
-
-<p>During my senior year of college I worked as a teaching assistant in a farm management class and began teaching other students how to use Excel. I was very basic in my use of Excel at the time, but I was more advanced than most of the students and professors. It was my first jump into teaching others how to use software. I was surprised that I actually enjoyed it. I’ve learned that my mind just works the same way computers do, which makes it very easy to catch on to a computer system and then translate it for others.</p>
-
-<h2 id="databases-vba--sql">Databases, VBA, &amp; SQL</h2>
-
-<p>When I graduated from college I went into soybean breeding and quickly learned that seed research works with a lot of data. And I also learned how to dissect tiny soybean flowers. My use of Excel grew exponentially and I found myself starting create basic programs through VBA and macros. It was a progression and eventually led me to using bar-code scanners and Excel macros to collect and verify data.</p>
-
-<p>My experience in soybean breeding and the databases involved led me to a corporate position where I analyzed large amounts of data on a SQL Server. It was a very nerdy job and I didn’t really know what I was doing when I started. But I knew that I could learn just about anything computer-related pretty quickly, so I jumped in.</p>
-
-<p>There was a lot of data to work with in that role. There were so many ways I <em>could</em> analyze the data that I often got lost trying to figure out what to work on. That’s when the productivity monster caught me and I started down the path of GTD.</p>
-
-<h2 id="corporate-productivity-and-design">Corporate, productivity, and design</h2>
-
-<p>In the corporate environment I had a big influx of information and creative work that I needed to do. Yes, I had a very analytical role but there’s a large amount of creativity that is needed to design and develop interfaces and structures around data. It was essentially the beginnings of web development for me because I wanted to show the data in an easy to understand way. I can’t stand looking at the same bar charts every day and wondering if the data has been altered to show a biased view of the information. I wanted them to be clean and accurate. That’s when my supervisor introduced me to <a href="http://www.edwardtufte.com/tufte/">Edward Tufte</a> and I began to delve into the data design world.</p>
-
-<p>In that process I learned I have a strong creative side. I explored that more fully when I took a position with a marketing company. I started to develop more extensive web reports and began building an internal web application. That’s when I started to look beyond what I knew how to do and started building out new ideas and finding alternative ways to do things. In other words I finally let my brain loose and started learning how to pair my creative mind with the analytical.</p>
-
-<h2 id="whats-next">What’s next?</h2>
-
-<p>If you listen to <a href="http://joebuhlig.com/whaddyaknowjoe/">my podcast</a> you heard me mention that I recently left my job and I’m now beginning to develop apps and web applications for myself and others. I’m now running with my own ideas and building them. I never thought I would be at this point, but it’s been an exciting journey.</p>
-
-<p>Since starting on my own, I’ve been exploring new computer languages and building some of the bigger ideas that I never had time to tackle before. There’s some start-up time involved, but along this journey I have found systems and disciplines that help me stay motivated to focus on the work that I’m doing. Figuring out what technology to build next is exciting, and I’m having a blast.</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3n7p8a/how_i_started_with_technology/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 </item>

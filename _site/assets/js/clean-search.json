@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"14: How Much is Down Time Worth?",
+			"image":"/assets/posts/How-Much-is-Down-Time-Worth.jpg",
+			"permalink":"/14/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"time",
+				"tracking"
+			],
+			"excerpt": "<p>I’m starting to track my time. I’ve struggled with this in the past, but now I want to tie it to dollars. I want to know where my time is best spent.</p>\n\n",
+			"content": "I%E2%80%99m%20starting%20to%20track%20my%20time.%20I%E2%80%99ve%20struggled%20with%20this%20in%20the%20past,%20but%20now%20I%20want%20to%20tie%20it%20to%20dollars.%20I%20want%20to%20know%20where%20my%20time%20is%20best%20spent.%0A%0A%0ADiscuss%20this%20on%20Reddit.%0A%0ACortex%20%233:%20Good%20for%20Brain%20Health%20-%20Relay%20FM%0A%0AContrast%20-%20Launch%20Center%20Pro%0A%0A%E2%80%8EClearer%20Thinking%20-%20What%20Is%20Your%20Time%20Really%20Worth%20To%20You%0A%0ABecome%20a%20Patron%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A"
+		},
+	
 		{	"title":"13: Wandering Brain",
 			"image":"/assets/posts/Wandering-Brain.jpg",
 			"permalink":"/13/",

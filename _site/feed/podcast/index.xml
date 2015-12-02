@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Tue, 01 Dec 2015 15:35:04 -0600</lastBuildDate>
+<lastBuildDate>Wed, 02 Dec 2015 05:51:34 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,73 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>14: How Much is Down Time Worth?</title>
+    <link>http://joebuhlig.com/14/</link>
+    <comments>http://joebuhlig.com/14/#comments</comments>
+    <pubDate>Wed, 02 Dec 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[time]]></category>
+
+    <category><![CDATA[tracking]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/14/</guid>
+    <description>
+        <![CDATA[I’m starting to track my time. I’ve struggled with this in the past, but now I want to tie it to dollars. I want to know where my time is best spent.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I’m starting to track my time. I’ve struggled with this in the past, but now I want to tie it to dollars. I want to know where my time is best spent.
+<!--more--></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3v4rnv/14_how_much_is_down_time_worth/">Discuss this on Reddit.</a></p>
+
+<p><a href="http://www.relay.fm/cortex/3">Cortex #3: Good for Brain Health - Relay FM</a></p>
+
+<p><a href="http://contrast.co/launch-center-pro/">Contrast - Launch Center Pro</a></p>
+
+<p><a href="http://programs.clearerthinking.org/what_is_your_time_really_worth_to_you.html">‎Clearer Thinking - What Is Your Time Really Worth To You</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ014.mp3" length="12578515" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[I’m starting to track my time. I’ve struggled with this in the past, but now I want to tie it to dollars. I want to know where my time is best spent.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>I’m starting to track my time. I’ve struggled with this in the past, but now I want to tie it to dollars. I want to know where my time is best spent.
+<!--more--></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3v4rnv/14_how_much_is_down_time_worth/">Discuss this on Reddit.</a></p>
+
+<p><a href="http://www.relay.fm/cortex/3">Cortex #3: Good for Brain Health - Relay FM</a></p>
+
+<p><a href="http://contrast.co/launch-center-pro/">Contrast - Launch Center Pro</a></p>
+
+<p><a href="http://programs.clearerthinking.org/what_is_your_time_really_worth_to_you.html">‎Clearer Thinking - What Is Your Time Really Worth To You</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>12:54</itunes:duration>
+  </item>
 
   <item>
     <title>13: Wandering Brain</title>
