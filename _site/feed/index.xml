@@ -14,11 +14,74 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 02 Dec 2015 05:51:34 -0600</lastBuildDate>
+<lastBuildDate>Fri, 04 Dec 2015 06:09:48 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Generating Creative Energy]]></title>
+    <link>http://joebuhlig.com/generating-creative-energy/</link>
+    <pubDate>Fri, 04 Dec 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[creativity]]></category>
+
+    <category><![CDATA[energy]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/generating-creative-energy/</guid>
+    <description>
+        <![CDATA[I had never thought of myself as a creative person until recently. Math and science have always been my strengths, so the arty side never took center stage.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Generating-Creative-Energy.jpg" /><p>I had never thought of myself as a creative person until recently. Math and science have always been my strengths, so the arty side never took center stage.
+<!--more--></p>
+
+<p>Then I started this blog. People say that one benefit of writing is a better understanding of your own thoughts. It’s true. I’ve learned a lot about myself since starting to blog, and it’s one of the primary reasons I recommend blogging to others.</p>
+
+<p>But writing on a schedule or regularly creating anything requires a lot of new ideas. When you start, you may have a backlog of these that you’ve been thinking about. But at some point you’ll need more. How do you plan to generate them?</p>
+
+<p>Do a quick search for “releasing creative energy” and you’ll find a lot of articles on how to develop more ideas - going on a walk, meditating, getting outside, drinking coffee, people watching, and so on.</p>
+
+<p>These are great tips to help clear your mind and allow you to find and connect new dots. But I’ve found that there’s more to it than <a href="http://joebuhlig.com/13/">letting my mind wander</a>. Sometimes I need to take action to kick off creativity flow.</p>
+
+<h2 id="check-things-off">Check Things Off</h2>
+
+<p>Think about the most recent big project you completed. What did you do after it was checked off? Celebrate? Take a week off? Lie low for a while?</p>
+
+<p>And how did you feel when it was done? After a big push like I did for <em><a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working with OmniFocus</a></em>, I felt a huge weight lift and I started wondering what would come next. I had been working so hard for so long that not having that big project in front of me gave me a sense of freedom and excitement. It released my mind to go on to the next thing, which kicked off creative flow.</p>
+
+<h2 id="analog-brainstorming">Analog Brainstorming</h2>
+
+<p>There’s something about leaving ink on a piece of paper that helps my mind process thoughts more clearly. The process of analog writing is so natural that I can move from one idea to the other with very little friction. Even hitting a keyboard shortcut to add a node to a mindmap can create enough resistance to slow my wandering brain and interfere with the next idea. I have two things to think about - the idea itself and the process of entering that idea. (Talk about high maintenance.)</p>
+
+<p>Between paper and whiteboards, I’m free to roam from one topic or crazy idea to another with zero resistance to connecting the next dot. Writing by hand is natural; when I need an idea for something, I go analog and let my mind meander.</p>
+
+<p>Note: a timer is helpful here. It can eliminate the worry of spending too much time daydreaming.</p>
+
+<h2 id="talk-about-it">Talk About It</h2>
+
+<p>I often forget this step or don’t want to do it, but telling friends about your ideas can spark more ideas. A different perspective on a topic can lead to more connections, developing your idea into something more complete.</p>
+
+<p>I don’t like to do this. What if someone steals my idea? I don’t want something I’ve come up with being taken from me. But I’ve found that rarely happens. If I stick to my trusted circle of mentors and friendships, it’s not an issue.</p>
+
+<h2 id="collect">Collect</h2>
+
+<p>The more inputs and experiences you can bring into your mind, the more points you have to connect. This is partly why going for a walk, getting outside, and watching people can drive new ideas. These experiences provoke your mind to roam and give you new information to connect to your previous ideas and thoughts.</p>
+
+<p>The more information you can collect about your topic and the more experiences you have, the more ingredients you have to formulate and expand your idea.</p>
+
+<p>My goal in all of these scenarios is to <a href="http://joebuhlig.com/getting-things-done-introduction/">free my mind</a> to have ideas. If I’m able to think clearly without worry, I can create more freely.</p>
+
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[14: How Much is Down Time Worth?]]></title>
@@ -731,52 +794,6 @@ Use the hashtag #question to ask a question.</p>
 
 <p>Ultimately, I use Drafts to get things out of my head. Anytime I see something online or I have an idea, I add it to Drafts first. Sometimes I can make the decision about what I want to do with it right then and will action it off immediately. But most of time I find myself leaving it in Drafts until my <a href="http://joebuhlig.com/gaining-perspective-daily-review/">Daily Review</a>. Drafts is my primary tool for keeping my head clear and my mind focused.</p>
 
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[8: Waiting to Upgrade]]></title>
-    <link>http://joebuhlig.com/8/</link>
-    <pubDate>Tue, 06 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[apple]]></category>
-
-    <category><![CDATA[hardware]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/8/</guid>
-    <description>
-        <![CDATA[I’ve started waiting to upgrade operating systems and hardware when new releases are available. My impulse is to upgrade immediately, but I’ve put it off for a variety of reasons.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Waiting-to-Upgrade.jpg" /><p>I’ve started waiting to upgrade operating systems and hardware when new releases are available. My impulse is to upgrade immediately, but I’ve put it off for a variety of reasons.</p>
-
-<!--more-->
-
-<p><a href="http://www.iphonehacks.com/2015/09/ios-9-bugs.html">iOS 9 bugs we’ve found till now - iPhone Hacks</a></p>
-
-<p><a href="http://www.zdnet.com/article/ios-9-annoyances-headaches-and-bugs/">iOS 9 annoyances, headaches and bugs - ZDNet</a></p>
-
-<p><a href="http://www.apple.com/shop/iphone/iphone-upgrade-program">iPhone Upgrade Program - Apple</a></p>
-
-<p><a href="https://workflow.is/workflows/65a75670ff9542d7b0de56d0a30bd4dc">Save URL Workflow</a></p>
-
-<p><a href="https://workflow.is/workflows/bfecb2d5d7ac405b8a173f8bf4fad48a">Article to PDF Workflow</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a><br />
-Use the hashtag #question to ask a question.</p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3now3d/8_waiting_to_upgrade/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 </item>
