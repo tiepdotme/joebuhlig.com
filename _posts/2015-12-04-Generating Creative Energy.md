@@ -48,4 +48,6 @@ The more information you can collect about your topic and the more experiences y
 
 My goal in all of these scenarios is to [free my mind][GTDIntroArticle] to have ideas. If I'm able to think clearly without worry, I can create more freely.
 
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3veq1r/generating_creative_energy/)
+
 [GTDIntroArticle]: http://joebuhlig.com/getting-things-done-introduction/
