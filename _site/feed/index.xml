@@ -14,11 +14,68 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Sun, 06 Dec 2015 07:16:30 -0600</lastBuildDate>
+<lastBuildDate>Mon, 07 Dec 2015 07:05:35 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Keeping Up with Ideas]]></title>
+    <link>http://joebuhlig.com/keeping-up-with-ideas/</link>
+    <pubDate>Mon, 07 Dec 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[creativity]]></category>
+
+    <category><![CDATA[ideas]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/keeping-up-with-ideas/</guid>
+    <description>
+        <![CDATA[Ideas are sometimes hard to come up with. But what happens when you have so many that you get lost? You have all these ideas begging you for attention and it becomes unclear which ones you should take on and which ones you should let go.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Keeping-Up-with-Ideas.jpg" /><p>Ideas are sometimes hard to come up with. But what happens when you have so many that you get lost? You have all these ideas begging you for attention and it becomes unclear which ones you should take on and which ones you should let go.
+<!--more--></p>
+
+<p>I don’t know how to tackle this issue with anything other than a list. But a list is no good if you don’t trust it. You have to trust that you’ll add items to it and you have to trust that you’ll come back to it. There may be mental freedom in writing it down, but if you never look at it again you’ve just conned yourself into forgetting.</p>
+
+<h2 id="analog-vs-digital">Analog vs Digital</h2>
+
+<p>Where you keep this list doesn’t matter, as long as it works for you. Most people assume that I do everything digitally. False. Many times I’m writing notes or drawing pictures on a <a href="http://joebuhlig.com/what-is-an-hpda-and-how-do-i-use-it/">note card</a>. I convert it later, but I still prefer pen and paper.</p>
+
+<p>Choose the process that works for you. If you’re using a paper calendar, you’ll likely want to keep this list on paper as well. If you don’t have a printer, you’ll probably find an app for it.</p>
+
+<h2 id="capture">Capture</h2>
+
+<p>No matter which form of list keeping you use, it’s imperative that you keep something around to <a href="http://joebuhlig.com/getting-things-done-capture/">grab these ideas</a> when they come. And they <em>will</em> hit you at inopportune times. Think about how you’ll capture ideas when you’re driving your car or taking a shower. If you don’t have a plan, you’ll start losing them.</p>
+
+<h2 id="building-trust">Building Trust</h2>
+
+<p>The only way you’ll build trust in your new list is to read through it regularly. I’ve found weekly to be a great starting point. It doesn’t matter when, so long as you do it. Schedule a time if you have to, but make sure you don’t forget this step; it is the most vital part of the process.</p>
+
+<p>With consistent review, you begin to trust that your ideas aren’t lost after you write them down. You will come back to them. And as a nice bonus, you’ll start to have more ideas as you go through the list. Seeing them all together typically prompts new ones to form.</p>
+
+<h2 id="making-decisions">Making Decisions</h2>
+
+<p>If you create this list, collect ideas for it, and trust it, it’s still worthless if you never activate an idea. But when do you start working on an idea and how do you know which one to pick?</p>
+
+<p>Timing is the easy part. You can only choose to work on an idea if you have time (or make time) for it. If you decide to <a href="http://joebuhlig.com/why-getting-up-early/">get up early</a> to work on that new side project, you know when you’ll work on it. If you feel overwhelmed by your workload as it is, you need to focus on completing current projects before you take on a new one.</p>
+
+<p>Deciding which idea to pursue is the hard part. If possible, you want the idea to have purpose and hold your interest. If there’s no strategic or direct value in it, why work on it? It should either be a building block to something else or a straightforward product that you’ll enjoy.</p>
+
+<p>When you find yourself having a lot of new ideas, take advantage of it. Write them down, because they don’t always come when you want them.</p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3vsb8u/keeping_up_with_ideas/">Discuss this on Reddit.</a></p>
+
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Generating Creative Energy]]></title>
@@ -716,86 +773,6 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Using Drafts]]></title>
-    <link>http://joebuhlig.com/using-drafts/</link>
-    <pubDate>Sat, 10 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[apps]]></category>
-
-    <category><![CDATA[drafts]]></category>
-
-    <category><![CDATA[setups]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/using-drafts/</guid>
-    <description>
-        <![CDATA[Drafts is one of those apps that I cannot go without. The funny thing is that my tech-resistant wife is now dependent on it as well. And you can be sure that I am pretty excited about her use of it.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Using-Drafts.jpg" /><p><a href="https://itunes.apple.com/us/app/id905337691?mt=8&amp;ign-mpt=uo%3D4">Drafts</a> is one of those apps that I cannot go without. The funny thing is that my tech-resistant wife is now dependent on it as well. And you can be sure that I am pretty excited about <a href="http://joebuhlig.com/5/">her use of it</a>.</p>
-
-<!--more-->
-
-<p>Drafts can be intimidating if you’re not used to dreaming up ways to connect apps on your phone. So it’s helpful to use other people’s ideas as a baseline for building your own methods. Here are a some of my favorite ways to use Drafts:</p>
-
-<h2 id="omnifocus-with-note">OmniFocus with note</h2>
-
-<p><a href="x-drafts4://x-callback-url/import_action?v=2&amp;tintColor=%5B%0A%20%200.451%2C%0A%20%200.29%2C%0A%20%200.553%0A%5D&amp;shouldConfirm=0&amp;logLevel=1&amp;uuid=BDE52DB2-95AF-4AD4-8734-17068C3E8C9F&amp;disposition=2&amp;actionSteps=%5B%0A%20%20%7B%0A%20%20%20%20%22urlTemplate%22%20%3A%20%22omnifocus%3A%5C%2F%5C%2F%5C%2Fadd%3Fname%3D%7B%7B%5B%5Btitle%5D%5D%7D%7D%26note%3D%7B%7B%5B%5Bbody%5D%5D%7D%7D%22%2C%0A%20%20%20%20%22encodeTags%22%20%3A%20false%2C%0A%20%20%20%20%22actionStepType%22%20%3A%20%22URL%22%0A%20%20%7D%0A%5D&amp;description=First%20line%20saves%20to%20the%20title%20of%20a%20OmniFocus%20task%2C%20while%20the%20rest%20of%20the%20Draft%20is%20added%20to%20Notes%20section.%20The%20original%20draft%20is%20then%20archived%20automatically.%20&amp;modifiedAt=2015-07-20%2012%3A13%3A49%20%2B0000&amp;name=OmniFocus%20with%20Note&amp;iconImageName=action_clipboard">Install OmniFocus with Note Drafts Action</a></p>
-
-<p>My primary use of Drafts is to capture tasks that will end up in OmniFocus. It’s not uncommon to see the Drafts badge at six or higher. Those are typically tasks that will be moved to OmniFocus but I needed to capture them quickly.</p>
-
-<h2 id="save-url-as-pdf-in-dropbox">Save URL as PDF in DropBox</h2>
-
-<p><a href="x-drafts4://x-callback-url/import_action?v=2&amp;tintColor=%5B%0A%0A%5D&amp;shouldConfirm=0&amp;logLevel=1&amp;uuid=D65D2C58-A84A-4517-8015-1BE97D43C6B5&amp;disposition=2&amp;actionSteps=%5B%0A%20%20%7B%0A%20%20%20%20%22writeType%22%20%3A%20%22create%22%2C%0A%20%20%20%20%22fileTemplate%22%20%3A%20%22%5B%5Bbody%5D%5D%22%2C%0A%20%20%20%20%22actionStepType%22%20%3A%20%22Dropbox%22%2C%0A%20%20%20%20%22folderTemplate%22%20%3A%20%22%5C%2FArticle_Import%22%2C%0A%20%20%20%20%22fileExtTemplate%22%20%3A%20%22txt%22%2C%0A%20%20%20%20%22fileNameTemplate%22%20%3A%20%22%5B%5Btitle%5D%5D%22%0A%20%20%7D%0A%5D&amp;description=&amp;modifiedAt=2015-09-28%2012%3A02%3A35%20%2B0000&amp;name=Save%20URL%20as%20PDF&amp;iconImageName=action_dropbox">Install Save URL as PDF Drafts Action</a></p>
-
-<p>When I run across an article I’m interested in but I’m not sure what I want to do with it I’ll dump it into Drafts. When I’m emptying my Drafts inbox during my <a href="http://joebuhlig.com/gaining-perspective-daily-review/">Daily Review</a> and run across one of these that I want to save as research, I use this action. It creates a text file in DropBox with the title of the article as the title of the file and puts the URL in the body of the file. My Mac will then turn that text file into a PDF that I can use for later.</p>
-
-<h2 id="omnifocus-list">OmniFocus list</h2>
-
-<p><a href="x-drafts4://x-callback-url/import_action?v=2&amp;tintColor=%5B%0A%20%200.451%2C%0A%20%200.29%2C%0A%20%200.553%0A%5D&amp;shouldConfirm=0&amp;logLevel=1&amp;uuid=9B95D317-17CC-4336-809D-2410C52B7AF2&amp;disposition=2&amp;actionSteps=%5B%0A%20%20%7B%0A%20%20%20%20%22listName%22%20%3A%20%22Omnifocus%22%2C%0A%20%20%20%20%22noteDelimiter%22%20%3A%20%22%7C%22%2C%0A%20%20%20%20%22actionStepType%22%20%3A%20%22List%20in%20Reminders%22%0A%20%20%7D%0A%5D&amp;description=&amp;modifiedAt=2015-09-28%2015%3A57%3A57%20%2B0000&amp;name=OmniFocus&amp;iconImageName=action_reminder">Install OmniFocus List Drafts Action</a></p>
-
-<p>Close behind the <em>OmniFocus with Note</em> action is the <em>OmniFocus List</em> action. It works pretty much the same way as the first except I can brain-dump a list of items all at once. Each line in the draft will become a new task in OmniFocus.</p>
-
-<h2 id="today-extension">Today extension</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/Drafts_Today_Clip.png" /></p>
-
-<p>If I run across a quote that I want to embed in a blog post or share with someone, I can copy it and send it Drafts with the “+clip” action in the Today View. It lands in my Drafts inbox for triage later, but sometimes I go and action it right then.</p>
-
-<h2 id="omnifocus-action-key">OmniFocus action key</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/OmniFocus_Keyboard_Action.png" /></p>
-
-<p>If I want to be really quick and send ideas to OmniFocus immediately, I can invoke the action key. It sits right on top of the keyboard so as soon as I’m done typing I can hit that to send it to OmniFocus immediately and start typing the next task without any delay. This one feature has me using Drafts for brainstorming sessions.</p>
-
-<h2 id="siri-to-drafts">Siri to Drafts</h2>
-
-<p>I have my default reminders list set to a list called “Drafts.” Drafts is set up to pull items from this list into my Drafts inbox. This allows me to ask Siri to remind me of something and it will automatically end up in my Drafts inbox.</p>
-
-<h2 id="omnifocus-somedaymaybes">OmniFocus Someday/Maybes</h2>
-
-<p>I’ve written about these in the past but I have a dedicated list of actions that take drafts and dump them into Someday/Maybe lists in OmniFocus without the need for any triage in my OmniFocus inbox. You can see how I <a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">set up the actions here</a> and how I <a href="http://joebuhlig.com/omnifocus-auto-parser/">automatically parse them here</a>.</p>
-
-<p>And because I’m proud of her getting into digital capture methods, here’s the one my wife uses all the time:</p>
-
-<h2 id="email-yourself-a-task">Email yourself a task</h2>
-
-<p><a href="x-drafts4://x-callback-url/import_action?v=2&amp;tintColor=%5B%0A%20%200.031%2C%0A%20%200.455%2C%0A%20%200.627%0A%5D&amp;shouldConfirm=0&amp;logLevel=2&amp;uuid=EA743F3F-8612-4615-88E4-6DAF1E0B344D&amp;disposition=2&amp;actionSteps=%5B%0A%20%20%7B%0A%20%20%20%20%22sendInBackground%22%20%3A%20true%2C%0A%20%20%20%20%22bccRecipientString%22%20%3A%20%22%22%2C%0A%20%20%20%20%22toRecipientString%22%20%3A%20%22example%40example.com%22%2C%0A%20%20%20%20%22subject%22%20%3A%20%22%5B%5Btitle%5D%5D%22%2C%0A%20%20%20%20%22replyTo%22%20%3A%20%22%22%2C%0A%20%20%20%20%22sendAsHTML%22%20%3A%20false%2C%0A%20%20%20%20%22sendInBackgroundPrefix%22%20%3A%20%22%22%2C%0A%20%20%20%20%22body%22%20%3A%20%22%5B%5Bbody%5D%5D%22%2C%0A%20%20%20%20%22actionStepType%22%20%3A%20%22Email%22%2C%0A%20%20%20%20%22ccRecipientString%22%20%3A%20%22%22%0A%20%20%7D%0A%5D&amp;description=Open%20Mail.app%20email%20window%20with%20first%20line%20of%20draft%20as%20subject%2C%20and%20the%20remainder%20of%20the%20draft%20as%20the%20body.&amp;modifiedAt=2015-10-08%2015%3A06%3A19%20%2B0000&amp;name=Email%20To%20Do&amp;iconImageName=action_email_filled">Install Email Yourself Drafts Action</a></p>
-
-<p>Becky knows that having items sitting in her email inbox drives her crazy. She doesn’t like seeing new emails that she needs to act on. And she knows that if she emails a task to herself she will move it out of her inbox and into her paper system as soon as possible. Her email inbox is the one digital place that she checks regularly. So it’s nice for her to be able to email tasks to herself since she knows she’ll act on them. She uses drafts with an action key above her keyboard to type the task and immediately send it to her email. This would drive me insane, but it has been very helpful for her.</p>
-
-<p>Ultimately, I use Drafts to get things out of my head. Anytime I see something online or I have an idea, I add it to Drafts first. Sometimes I can make the decision about what I want to do with it right then and will action it off immediately. But most of time I find myself leaving it in Drafts until my <a href="http://joebuhlig.com/gaining-perspective-daily-review/">Daily Review</a>. Drafts is my primary tool for keeping my head clear and my mind focused.</p>
-
 ]]>
     </content:encoded>
 </item>
