@@ -1,5 +1,20 @@
 {
 	"clean_search" : [
+		{	"title":"15: Messed Up Mornings",
+			"image":"/assets/posts/Messed-Up-Mornings.jpg",
+			"permalink":"/15/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"early-riser",
+				"kids",
+				"life"
+			],
+			"excerpt": "<p>The way people structure their morning routine can easily dictate your motivation for the day. But what happens when you can’t control the circumstances around your morning? What about kids?</p>\n\n",
+			"content": "The%20way%20people%20structure%20their%20morning%20routine%20can%20easily%20dictate%20your%20motivation%20for%20the%20day.%20But%20what%20happens%20when%20you%20can%E2%80%99t%20control%20the%20circumstances%20around%20your%20morning?%20What%20about%20kids?%0A%0A%0ABecome%20a%20Patron%0A%0AMy%20Morning%20Routine%20-%20Inspiring%20Morning%20Routines%0A%0AThe%20%E2%80%9CWhy%E2%80%9D%20of%20Getting%20Up%20Early%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Keeping Up with Ideas",
 			"image":"/assets/posts/Keeping-Up-with-Ideas.jpg",
 			"permalink":"/keeping-up-with-ideas/",

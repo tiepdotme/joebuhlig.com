@@ -14,11 +14,51 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 08 Dec 2015 14:13:43 -0600</lastBuildDate>
+<lastBuildDate>Wed, 09 Dec 2015 10:24:29 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[15: Messed Up Mornings]]></title>
+    <link>http://joebuhlig.com/15/</link>
+    <pubDate>Wed, 09 Dec 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[early-riser]]></category>
+
+    <category><![CDATA[kids]]></category>
+
+    <category><![CDATA[life]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/15/</guid>
+    <description>
+        <![CDATA[The way people structure their morning routine can easily dictate your motivation for the day. But what happens when you can’t control the circumstances around your morning? What about kids?
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Messed-Up-Mornings.jpg" /><p>The way people structure their morning routine can easily dictate your motivation for the day. But what happens when you can’t control the circumstances around your morning? What about kids?
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://mymorningroutine.com/">My Morning Routine - Inspiring Morning Routines</a></p>
+
+<p><a href="http://joebuhlig.com/why-getting-up-early/">The “Why” of Getting Up Early</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Keeping Up with Ideas]]></title>
@@ -735,44 +775,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3oz7bz/from_wordpress_and_google_to_jekyll_and_piwik/">Discuss this on Reddit.</a></p>
 
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[9: Really? Journaling?]]></title>
-    <link>http://joebuhlig.com/9/</link>
-    <pubDate>Tue, 13 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[journaling]]></category>
-
-    <category><![CDATA[life]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/9/</guid>
-    <description>
-        <![CDATA[I can’t believe I’ve started journaling every day. I’ve always equated journaling with writing in a diary, which is not for me. But the effects of not journaling caught me off-guard.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Really-Journaling.png" /><p>I can’t believe I’ve started journaling every day. I’ve always equated journaling with writing in a diary, which is not for me. But the effects of not journaling caught me off-guard.</p>
-
-<!--more-->
-
-<p><a href="http://www.amazon.com/Moleskine-Classic-Notebook-Large-Notebooks/dp/8883701127/ref=pd_bxgy_14_img_z">Moleskine Classic Notebook, Large, Ruled, Black, Hard Cover (5 x 8.25)</a></p>
-
-<p><a href="http://www.amazon.com/Lamy-Safari-Fountain-Pen-Charcoal/dp/B0002T401Y">Lamy Safari Fountain Pen - Charcoal - Fine</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a>
-Use the hashtag #question to ask a question.</p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 ]]>
     </content:encoded>
 </item>
