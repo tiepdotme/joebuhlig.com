@@ -14,11 +14,179 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 09 Dec 2015 10:29:00 -0600</lastBuildDate>
+<lastBuildDate>Fri, 11 Dec 2015 06:38:37 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[TextExpander Snippet Nomenclature]]></title>
+    <link>http://joebuhlig.com/textexpander-snippet-nomenclature/</link>
+    <pubDate>Fri, 11 Dec 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[textexpander]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/textexpander-snippet-nomenclature/</guid>
+    <description>
+        <![CDATA[I currently have 217 snippets in TextExpander. That’s likely not a big number for some people, but for my forgetful mind it’s a lot. To keep them straight, I use a simple nomenclature for my snippet abbreviations.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/TextExpander-Snippet-Nomenclature.jpg" /><p>I currently have 217 snippets in TextExpander. That’s likely not a big number for some people, but for my forgetful mind it’s a lot. To keep them straight, I use a simple nomenclature for my snippet abbreviations.
+<!--more--></p>
+
+<p>The general premise is to use a short group indicator followed by a more specific identifier. It’s kind of like tagging. I still use groups in TextExpander to keep them clean, but this helps me remember them.</p>
+
+<h2 id="links">Links</h2>
+
+<p>There are some URLs that I type a lot. I use the links to <a href="https://tools.joebuhlig.com/working-with-omnifocus/"><em>Working with OmniFocus</em></a>, <a href="https://github.com/joebuhlig/OFScripts">OFScripts</a>, this website, and my email accounts (Gmail) daily, so I added them to TextExpander. I use the group indicator <code class="highlighter-rouge">link</code> and an identifier like <code class="highlighter-rouge">wwo</code> to help me remember them. So I would type <code class="highlighter-rouge">link.wwo</code> to get <code class="highlighter-rouge">https://tools.joebuhlig.com/working-with-omnifocus/</code>.</p>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text">link.home = http://joebuhlig.com
+
+link.tools = https://tools.joebuhlig.com
+
+link.pod = http://joebuhlig.com/whaddyaknowjoe/
+
+link.wwo = https://tools.joebuhlig.com/working-with-omnifocus/
+
+link.ofscripts = https://github.com/joebuhlig/OFScripts</code></pre></figure>
+
+<h2 id="markdown">Markdown</h2>
+
+<p>All of my writing is done in <a href="https://daringfireball.net/projects/markdown/">markdown</a> because I can get it into HTML so easily. It’s only natural that I have a few snippets to make this even easier. To help me remember them, I use the group indicator <code class="highlighter-rouge">md</code>.</p>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text">*This one uses two snippets that I'll mention later*
+md.curtab = [%snippet:xcurtitle%](%snippet:xcurlink%)
+
+md.image = ![%|](/assets/posts_extra/)
+
+md.reddit = [Discuss this on Reddit.](%filltext:name=Insert link to Reddit discussion%)</code></pre></figure>
+
+<h2 id="yaml">YAML</h2>
+
+<p>A couple months ago I moved from WordPress to a <a href="http://joebuhlig.com/from-wordpress-google-to-jekyll-piwik/">static site with Jekyll</a>. Part of the Jekyll environment involves “Front Matter” which is comprised of <a href="http://yaml.org/">YAML</a>. Every time I create a new article or podcast, I add this to the top of the markdown file. In my scenario, I also need to create the slug for the article. I’ve create the following snippets with the group indicator <code class="highlighter-rouge">yaml</code>.</p>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text">*For the slug, you first need to copy the text to be slugified.*
+*I usually just copy the title of the article.*
+
+yaml.slug = Javascript Snippet
+
+var text = TextExpander.pasteboardText;
+text = text.replace(/[^\w\s]/gi, '');
+var newtext = text.split(" ").join("-");
+TextExpander.appendOutput("/" + newtext.toLowerCase() + "/");</code></pre></figure>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text">yaml.blog =
+
+---
+title:  "Put Distractions in Their Place"
+date:   2014-06-08
+categories: blog
+tags:
+- email
+- communication
+permalink: /put-distractions-place/
+image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+---</code></pre></figure>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text">yaml.pod =
+
+---
+title:  "8: Waiting to Upgrade"
+date:   2014-06-08
+categories: podcast
+tags:
+- apple
+- hardware
+permalink: /8/
+image: /assets/posts/Waiting-to-Upgrade.jpg
+podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ008.mp3
+podcast_file_size: 18.8 MB
+podcast_duration: "20:21"
+podcast_length: 19715453
+---</code></pre></figure>
+
+<h2 id="code">Code</h2>
+
+<p>I write a lot of code. I build my own websites and do freelance development. I use a number of languages, so I’ve created group indicators for each language: <code class="highlighter-rouge">html</code> for HTML, <code class="highlighter-rouge">css</code> for CSS, <code class="highlighter-rouge">rb</code> for Ruby, <code class="highlighter-rouge">py</code> for Python, and so on. And because HTML can get to be big, I broke it into groupings for individual tags as well.</p>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text">a.n = &lt;a href=""&gt;%|&lt;/a&gt;
+
+p.n = &lt;p&gt;%|&lt;/p&gt;
+
+p.class = &lt;p class=""&gt;%|&lt;/p&gt;
+
+div.n = &lt;div&gt;%|&lt;/div&gt;
+
+html.base = &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;%|&lt;/body&gt;&lt;/html&gt;
+
+html.clear = &lt;div class="clear"&gt;&lt;/div&gt;
+
+html.img = &lt;img src="%|" /&gt;</code></pre></figure>
+
+<h2 id="ip-addresses">IP Addresses</h2>
+
+<p>Along with coding, I have a number of IP addresses to keep track of. I don’t like referencing a table somewhere or even looking them up in 1Password. I prefer to create shortcuts to them with <code class="highlighter-rouge">ip</code> as the indicator.</p>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text">ip.jb = XX.XX.XX.XX
+
+ip.tools = XX.XX.XX.XX
+
+ip.clientname = XX.XX.XX.XX
+
+*You didn't think I'd actually share them, did you?*</code></pre></figure>
+
+<h2 id="catchallscripts">Catchall/Scripts</h2>
+
+<p>There are a lot of cases when I just want something short and it doesn’t have to be grouped because I use them so much. Formatted dates are great and so are a few scripts I run frequently. I simply use <code class="highlighter-rouge">x</code> at the start of the snippet.</p>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text">*Today's date in the format of YYYYMMDD*
+xtd = 20151211
+
+*Next Monday's date in the format of YYYYMMDD. I have one for each day of the week.*
+xnm = 20151214</code></pre></figure>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text">*The title of the current page in Safari*
+xcurtitle = Applescript
+
+tell application "Safari"
+    set theName to name of front document
+    return theName
+end tell</code></pre></figure>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text">*The URL of the current page in Safari. It removes any querystrings as well.*
+xcurlink = Applescript
+
+tell application "Safari"
+    set theName to name of front document
+    set theURL to URL of front document
+    set oldDelimiters to AppleScript's text item delimiters
+    set AppleScript's text item delimiters to "?"
+    set theArray to every text item of theURL
+    set AppleScript's text item delimiters to oldDelimiters
+    set theURL to item 1 of theArray
+    return theURL
+end tell</code></pre></figure>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text">xplan = Plan project for 
+
+xwait = Waiting for 
+
+xas = AppleScript
+
+xgh = GitHub
+
+xof = OmniFocus</code></pre></figure>
+
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[15: Messed Up Mornings]]></title>
@@ -711,72 +879,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3ph51p/10_why_i_dont_use_ads/">Discuss this on Reddit.</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[From WordPress and Google to Jekyll and Piwik]]></title>
-    <link>http://joebuhlig.com/from-wordpress-google-to-jekyll-piwik/</link>
-    <pubDate>Fri, 16 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[jekyll]]></category>
-
-    <category><![CDATA[piwik]]></category>
-
-    <category><![CDATA[web development]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/from-wordpress-google-to-jekyll-piwik/</guid>
-    <description>
-        <![CDATA[This website has run on WordPress and Google Analytics from day one and they’ve both treated me pretty well. But I’ve started to see a need for more flexibility in the site, so it’s time for a big change.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/From-Wordpress-Google-to-Jekyll-Piwik.jpg" /><p>This website has run on WordPress and Google Analytics from day one and they’ve both treated me pretty well. But I’ve started to see a need for more flexibility in the site, so it’s time for a big change.</p>
-
-<!--more-->
-
-<p>This is mostly a back-end change that shouldn’t affect the UI much. There are a few small UI changes I’m making, but that’s to make the site cleaner. The more I’ve gotten into web development and design the pickier I’ve become with my site. Ultimately, I’m looking for a simplified user experience for you and more respect for your privacy.</p>
-
-<h2 id="why-wordpress-and-google">Why WordPress and Google?</h2>
-
-<p>For about a year and a half I ran the site on <a href="https://wordpress.org/">WordPress</a> through <a href="http://www.bluehost.com/">Bluehost</a> with Google Analytics.  It was easy and quick for me at the time. WordPress has a good, long track record so I fell in line to get my site up quickly. I didn’t want to worry about technicalities - I needed to spend my time creating.</p>
-
-<p>The standard for analytics has been Google Analytics for some time. Google has a reputation for having some of the best if not <em>the</em> best reports and tracking for your website. When I started I knew very little about tracking. I was just looking for a way to see what kind of traffic I was getting and almost everyone recommended GA. Sometimes I’m okay with taking the easy road if it means shipping something quickly. I can evaluate the nuances later. And I can always do the research and migration process after the launch if I need to - which is what I’ve done here.</p>
-
-<h2 id="why-jekyll">Why Jekyll?</h2>
-
-<p>As a replacement for WordPress, I’ve decided to create a static site using <a href="http://jekyllrb.com/">Jekyll</a>. I ran across Jekyll through blog posts from <a href="http://brettterpstra.com/">Brett Terpstra</a>. I then spent a couple of hours researching and reviewing websites built with Jekyll. I was blown away by the load speeds involved.</p>
-
-<p>I started looking at some of the numbers on my site and found that the average page was loading in about eight seconds. All of the tests I was doing on my machine came in around four seconds, but that didn’t take into account the various devices that people use. That extra four seconds meant my site was way too slow. <em>Eight seconds?</em> Sites built with Jekyll are typically loading in less than one second.</p>
-
-<p>I’ve been wanting to get into Ruby and Rails lately. Since Jekyll is built on Ruby and I <a href="http://joebuhlig.com/7/">learn by using a language</a>, it made for a good project. Jekyll seems to be one of the most common static site generators as well. There’s a lot of support and plugins for it already, so I felt comfortable joining that community.</p>
-
-<p>Moving to a static site allows me the flexibility to build one-off pages and posts in a highly customized way. Since I’m becoming more particular about how things look and how you interact with them, it only makes sense. Jekyll seems to fit the bill quite well.</p>
-
-<h2 id="why-piwik">Why Piwik?</h2>
-
-<p>I want to step away from the data collection that Google does on you. I don’t want to share your data against your will and I don’t want to put you into their system simply because you wanted to read my articles. I understand that you might be okay with this, but I’m learning that I’m not necessarily okay with this myself. There’s a big backlash against ads and tracking right now and although I’m not wanting to jump on that bandwagon, it is something that I’ve been thinking a lot about lately.</p>
-
-<p>And although tracking and ads are okay in some scenarios, I’ve found that I’m uneasy about the tracking that goes alongside Google Analytics. That might be unwarranted and unfounded, but I don’t want to leave it when it makes me uncomfortable. A great example of this is <a href="http://www.marco.org/">Marco Arment</a> and his ad-blocking iOS app. He had a great app and it worked well, but it <a href="http://www.marco.org/2015/09/18/just-doesnt-feel-good">didn’t feel right</a> for him. So he pulled it and Apple issued refunds. Google Analytics on this website falls in the same category for me. It might be okay, but I’m not comfortable with it.</p>
-
-<p>I still have a need to understand the analytics for my site so I started looking for alternatives and ran across <a href="http://piwik.org/">Piwik</a>. It allows me to collect the numbers that I’m looking for, but the data stays local. There is no master server that the numbers go back to. Your data never leaves the site. I have a database (that only I have access to) that stores the information and it sits on the same server that this website sits on. The data is anonymous and never goes anywhere. It allows me to get those numbers and not sacrifice your privacy in the process. I think that’s a great trade-off.</p>
-
-<h2 id="hosting">Hosting?</h2>
-
-<p>In the process of making the shift to a static site, I’m also launching a <a href="http://tools.joebuhlig.com/">new sub-domain</a> that will be running on Rails. I was previously running my hosting through Bluehost, but while setting up a Rails application, I found that Bluehost is not very easy to use for anything other than one-click installations. So I’m also moving my host over to <a href="https://www.digitalocean.com/">Digital Ocean</a> (<a href="https://www.digitalocean.com/?refcode=b0f9f06b6067">affiliate</a>).</p>
-
-<h2 id="when">When?</h2>
-
-<p>Today. I spent the last few weeks working on the static site. There are still some bugs I’m working out, but for the most part it’s all here. Let me know what you think!</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3oz7bz/from_wordpress_and_google_to_jekyll_and_piwik/">Discuss this on Reddit.</a></p>
-
 ]]>
     </content:encoded>
 </item>
