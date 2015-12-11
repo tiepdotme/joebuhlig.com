@@ -171,6 +171,8 @@ xgh = GitHub
 xof = OmniFocus
 {% endhighlight %}
 
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3wdbal/textexpander_snippet_nomenclature/)
+
 [YAML]: http://yaml.org/
 [Markdown]: https://daringfireball.net/projects/markdown/
 [WordPressToJekyll]: http://joebuhlig.com/from-wordpress-google-to-jekyll-piwik/
