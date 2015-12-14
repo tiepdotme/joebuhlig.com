@@ -46,4 +46,6 @@ When I'm finished looking over the Monthly Plan, I translate it into a plan for 
 
 I'm terrible at remembering, that's why I need these systems. This sounds like a lot of work even for me, but here's the point: 12 months is too far out, and I need guidance. I use this month by month plan to help me decide what to work on each day. It's a single, uncluttered list that is easily reviewed and updated. I don't want complicated. I want it to keep my head on straight and help me hit my goals. If it does that, it's a success.
 
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3ws2o2/monthly_planning/)
+
 [AnnualGoalArticle]: http://joebuhlig.com/an-alternative-to-annual-goals/
