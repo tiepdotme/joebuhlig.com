@@ -423,6 +423,18 @@ pre {
 .post-image-large {
   width: 100%; }
 
+@media screen and (max-width: 800px) {
+  .post-image-tiny {
+    width: 100%; }
+
+  .post-image-small {
+    width: 100%; }
+
+  .post-image-medium {
+    width: 100%; }
+
+  .post-image-large {
+    width: 100%; } }
 .content-wrapper {
   text-align: center; }
 

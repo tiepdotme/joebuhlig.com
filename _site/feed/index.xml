@@ -14,11 +14,72 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 11 Dec 2015 06:41:59 -0600</lastBuildDate>
+<lastBuildDate>Mon, 14 Dec 2015 06:42:50 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Monthly Planning]]></title>
+    <link>http://joebuhlig.com/monthly-planning/</link>
+    <pubDate>Mon, 14 Dec 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[goals]]></category>
+
+    <category><![CDATA[reviews]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/monthly-planning/</guid>
+    <description>
+        <![CDATA[We’re sneaking up on the annual goal setting push. It’s exciting to sit down and dream about what you want to do next year. But what if your life moves and changes too fast for annual goals?
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Monthly-Planning.jpg" /><p>We’re sneaking up on the annual goal setting push. It’s exciting to sit down and dream about what you want to do next year. But what if your life moves and changes too fast for annual goals?
+<!--more--></p>
+
+<p>Setting goals is something <a href="http://joebuhlig.com/an-alternative-to-annual-goals/">I’ve struggled with</a>. And it has generally been instigated by the company I worked for. I went through the typical annual review process when I worked in corporate and at the virtual company I worked for. You find it just about everywhere.</p>
+
+<h2 id="annual-expectation">Annual Expectation</h2>
+
+<p>It always felt like I did it because I <em>should</em>. I even completed a similar process personally because I thought it was the silver bullet to achieving more. I was wrong.</p>
+
+<p>Annual planning doesn’t work for me. That’s one reason I’ve always struggled with it. Putting a plan together for how you’ll build new technology is fun, but often very inaccurate. It moves quickly and you learn a lot in the building process. That typically means that when 12 months have passed, I’ve discovered a new area to work on that is more beneficial or more advantageous. Year-end reviews typically involved a discussion of why I didn’t hit the original goals.</p>
+
+<h2 id="move-to-monthly">Move to Monthly</h2>
+
+<p>12 months is simply too long in my world. So I’ve scaled it back. I still set goals, but I turn those into projects and plan them month by month. And most of those projects are only two or three months long.</p>
+
+<p>Because I can usually see the next two - sometimes three - projects that are coming up, I go ahead and plan those out. I’m only looking at the next seven or eight months at a time, and even those later months will typically change a few times before I complete them.</p>
+
+<h2 id="what-it-looks-like">What It Looks Like</h2>
+
+<p>I keep a simple list of my monthly goals. Each goal is a single line item with a brief description. For the GTD fans, this is synonymous with my 30,000 Horizon of Focus. Here’s what it looks like:</p>
+
+<p><img class="center-image post-image-medium" src="/assets/posts_extra/MonthlyPlanning_MonthlyPlan.jpg" /></p>
+
+<p>I have multiple goals per month. I put the name of the month in the title of the task so I can keep them in order, and that’s all it takes for me to stay on track. When I see this list, I know what’s coming up and I can plan my days and weeks appropriately.</p>
+
+<h2 id="working-the-plan">Working The Plan</h2>
+
+<p>A plan is worthless if it isn’t reviewed, so I read each line item once a week and let that dictate what I work on each day. I make sure that I’m on track and that the direction I’ve chosen is still accurate. I don’t get bent out of shape when I change the plan for the next four months; I’m being realistic with myself.</p>
+
+<p>When I’m finished looking over the Monthly Plan, I translate it into a plan for the upcoming week - my Weekly Plan. The Weekly Plan is a simple two or three item list of the things I need to complete next week in order to make progress on the Monthly Plan. It breaks it down into pieces I can digest that week.</p>
+
+<p><img class="center-image post-image-medium" src="/assets/posts_extra/MonthlyPlanning_WeeklyPlan.jpg" /></p>
+
+<h2 id="overkill">Overkill</h2>
+
+<p>I’m terrible at remembering, that’s why I need these systems. This sounds like a lot of work even for me, but here’s the point: 12 months is too far out, and I need guidance. I use this month by month plan to help me decide what to work on each day. It’s a single, uncluttered list that is easily reviewed and updated. I don’t want complicated. I want it to keep my head on straight and help me hit my goals. If it does that, it’s a success.</p>
+
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[TextExpander Snippet Nomenclature]]></title>
@@ -845,42 +906,6 @@ xof = OmniFocus</code></pre></figure>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3pw5uk/stop_being_productive/">Discuss this on Reddit.</a></p>
 
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[10: Why I Don't Use Ads]]></title>
-    <link>http://joebuhlig.com/10/</link>
-    <pubDate>Tue, 20 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[ads]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/10/</guid>
-    <description>
-        <![CDATA[I’ve avoided ads in my creative work from the beginning. But there’s a lot of pressure to use them as a way to make an income. In this episode, I explain why I don’t plan to change.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Why-I-Dont-Use-Ads.jpg" /><p>I’ve avoided ads in my creative work from the beginning. But there’s a lot of pressure to use them as a way to make an income. In this episode, I explain why I don’t plan to change.</p>
-
-<!--more-->
-<p><a href="http://decknetwork.net/">The DECK</a> - an exception to the tracking ads out there.</p>
-
-<p><a href="http://joebuhlig.com/">Joe Buhlig - leverage the digital and welcome real life</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a> - use the hashtag #question to ask a question.</p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3ph51p/10_why_i_dont_use_ads/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 </item>

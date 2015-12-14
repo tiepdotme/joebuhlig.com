@@ -340,6 +340,23 @@
 .post-image-large {
     width: 100%;
 }
+@include media-query($on-palm) {
+    .post-image-tiny {
+        width: 100%;
+    }
+
+    .post-image-small {
+        width: 100%;
+    }
+
+    .post-image-medium {
+        width: 100%;
+    }
+
+    .post-image-large {
+        width: 100%;
+    }
+}
 
 .content-wrapper {
     text-align:center;
