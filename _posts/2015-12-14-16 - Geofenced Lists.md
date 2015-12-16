@@ -15,6 +15,8 @@ podcast_length: 12483439
 Location based lists have a lot of uses. In this episode, I talk about the main ways I use them and how they've helped me in the past. There's also some follow-up to my time tracking mechanism.
 <!--more-->
 
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3x2m2o/16_geofenced_lists/)
+
 [Become a Patron](http://joebuhlig.com/patron/)
 
 [Tweet about Coffee](https://twitter.com/JoeBuhlig/status/670595803048603648)

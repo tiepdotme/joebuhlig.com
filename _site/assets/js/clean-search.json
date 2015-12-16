@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"16: Geofenced Lists",
+			"image":"/assets/posts/Geofenced-Lists.jpg",
+			"permalink":"/16/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"lists"
+			],
+			"excerpt": "<p>Location based lists have a lot of uses. In this episode, I talk about the main ways I use them and how they’ve helped me in the past. There’s also some follow-up to my time tracking mechanism.</p>\n\n",
+			"content": "Location%20based%20lists%20have%20a%20lot%20of%20uses.%20In%20this%20episode,%20I%20talk%20about%20the%20main%20ways%20I%20use%20them%20and%20how%20they%E2%80%99ve%20helped%20me%20in%20the%20past.%20There%E2%80%99s%20also%20some%20follow-up%20to%20my%20time%20tracking%20mechanism.%0A%0A%0ADiscuss%20this%20on%20Reddit.%0A%0ABecome%20a%20Patron%0A%0ATweet%20about%20Coffee%0A%0A1Password%0A%0AArticle%20on%20Monthly%20Planning%0A%0AOmniFocus%0A%0ATodoist%0A%0AAny.do%0A%0AWunderlist%0A%0A14:%20How%20Much%20is%20Down%20Time%20Worth?%0A%0A12:%20The%20Higher%20Horizons%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Monthly Planning",
 			"image":"/assets/posts/Monthly-Planning.jpg",
 			"permalink":"/monthly-planning/",
