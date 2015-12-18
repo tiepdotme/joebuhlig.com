@@ -14,11 +14,45 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 17 Dec 2015 16:59:12 -0600</lastBuildDate>
+<lastBuildDate>Fri, 18 Dec 2015 07:02:54 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Merry Christmas]]></title>
+    <link>http://joebuhlig.com/christmas-2015/</link>
+    <pubDate>Fri, 18 Dec 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[christmas]]></category>
+
+    <category><![CDATA[discounts]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/christmas-2015/</guid>
+    <description>
+        <![CDATA[I’m thrilled to give you a gift for Christmas this year. I’ve wanted to do something like this for a long time and the opportunity is finally here.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Merry-Christmas-2015.jpg" /><p>I’m thrilled to give you a gift for Christmas this year. I’ve wanted to do something like this for a long time and the opportunity is finally here.
+<!--more--></p>
+
+<p>I enjoy helping others and I’ve heard from a lot of people that <em>Working with OmniFocus</em> has finally showed them the tools they needed to put their life in perspective. Folks have shared stories about being able to start a business because of the principles shared in the book. One reader found treatment for a serious illness in their child because they were able to work clearly with the doctors. That blows my mind.</p>
+
+<p>If you’ve been on the fence about buying the book, want to give yourself a Christmas present, or know someone who might benefit from reading it, here’s a discount code for you to use when buying <a href="https://tools.joebuhlig.com/working-with-omnifocus/"><em>Working with OmniFocus</em></a>. Use the code <code class="highlighter-rouge">Christmas15</code> when filling in your information and it will take $5 off the price. The code will be valid through the day after Christmas.</p>
+
+<p>And if you’re willing, send me your story. I love hearing from you. Merry Christmas!</p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3xc9me/merry_christmas/">Discuss this on Reddit.</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[16: Geofenced Lists]]></title>
@@ -859,56 +893,6 @@ xof = OmniFocus</code></pre></figure>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3qtrfi/favorite_workflows/">Discuss this on Reddit.</a></p>
 
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[11: Using Evernote for GTD]]></title>
-    <link>http://joebuhlig.com/11/</link>
-    <pubDate>Tue, 27 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[evernote]]></category>
-
-    <category><![CDATA[gtd]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/11/</guid>
-    <description>
-        <![CDATA[Before I got into OmniFocus, I used Evernote for GTD. I had a few different structures, but I think I ended with a simple setup that worked well for me before I outgrew it.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Using-Evernote-for-GTD.jpg" /><p>Before I got into OmniFocus, I used Evernote for GTD. I had a few different structures, but I think I ended with a simple setup that worked well for me before I outgrew it.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/9/">9: Really? Journaling?</a></p>
-
-<p><a href="http://www.thesecretweapon.org/">The Secret Weapon - Evernote + GTD</a></p>
-
-<p><a href="https://twitter.com/toomanyinks/status/653891995308457984">Twitter conversation re: Moleskine</a></p>
-
-<p><a href="http://www.penaddict.com/">Brad Dowdy - The Pen Addict</a></p>
-
-<p><a href="http://www.amazon.com/gp/product/B006CQSRDS">Rhodia Black Webnotebook 5.5 inch x 8.3 inch Dot Grid</a></p>
-
-<p><a href="http://mattvanderpol.com/">Matt Vanderpol - Online Craftsman</a></p>
-
-<p><a href="http://joebuhlig.com/10/">10: Why I Don’t Use Ads</a></p>
-
-<p><a href="http://decknetwork.net/">A non-tracking solution for running ads - The Deck</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3qej76/11_using_evernote_for_gtd/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 </item>

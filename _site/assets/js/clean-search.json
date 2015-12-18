@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"Merry Christmas",
+			"image":"/assets/posts/Merry-Christmas-2015.jpg",
+			"permalink":"/christmas-2015/",
+			"categories": [
+				"blog"
+			],
+			"tags": [
+				"christmas",
+				"discounts"
+			],
+			"excerpt": "<p>I’m thrilled to give you a gift for Christmas this year. I’ve wanted to do something like this for a long time and the opportunity is finally here.</p>\n\n",
+			"content": "I%E2%80%99m%20thrilled%20to%20give%20you%20a%20gift%20for%20Christmas%20this%20year.%20I%E2%80%99ve%20wanted%20to%20do%20something%20like%20this%20for%20a%20long%20time%20and%20the%20opportunity%20is%20finally%20here.%0A%0A%0AI%20enjoy%20helping%20others%20and%20I%E2%80%99ve%20heard%20from%20a%20lot%20of%20people%20that%20Working%20with%20OmniFocus%20has%20finally%20showed%20them%20the%20tools%20they%20needed%20to%20put%20their%20life%20in%20perspective.%20Folks%20have%20shared%20stories%20about%20being%20able%20to%20start%20a%20business%20because%20of%20the%20principles%20shared%20in%20the%20book.%20One%20reader%20found%20treatment%20for%20a%20serious%20illness%20in%20their%20child%20because%20they%20were%20able%20to%20work%20clearly%20with%20the%20doctors.%20That%20blows%20my%20mind.%0A%0AIf%20you%E2%80%99ve%20been%20on%20the%20fence%20about%20buying%20the%20book,%20want%20to%20give%20yourself%20a%20Christmas%20present,%20or%20know%20someone%20who%20might%20benefit%20from%20reading%20it,%20here%E2%80%99s%20a%20discount%20code%20for%20you%20to%20use%20when%20buying%20Working%20with%20OmniFocus.%20Use%20the%20code%20Christmas15%20when%20filling%20in%20your%20information%20and%20it%20will%20take%20$5%20off%20the%20price.%20The%20code%20will%20be%20valid%20through%20the%20day%20after%20Christmas.%0A%0AAnd%20if%20you%E2%80%99re%20willing,%20send%20me%20your%20story.%20I%20love%20hearing%20from%20you.%20Merry%20Christmas!%0A%0ADiscuss%20this%20on%20Reddit.%0A"
+		},
+	
 		{	"title":"16: Geofenced Lists",
 			"image":"/assets/posts/Geofenced-Lists.jpg",
 			"permalink":"/16/",
