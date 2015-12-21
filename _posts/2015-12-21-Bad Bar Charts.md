@@ -56,3 +56,5 @@ When you include all of the data points, you can see a big difference. Your perc
 This is just bad design. It's hard to get a feel for the difference in the bars because our eyes are trying to follow the perceived lines on the chart. And it looks bad. Don't do it.
 
 Overall, these are really simple fixes. But they can have a major impact on the viewer and how they perceive the data. Don't lie with a visual. If the data doesn't show what you want, then you have bigger decisions to make. Get to work and change your methods to get to your desired outcome. Don't fabricate positive results.
+
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3xp1l4/bad_bar_charts/)

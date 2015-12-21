@@ -14,11 +14,85 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Sun, 20 Dec 2015 06:34:14 -0600</lastBuildDate>
+<lastBuildDate>Mon, 21 Dec 2015 06:13:51 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Bad Bar Charts]]></title>
+    <link>http://joebuhlig.com/bad-bar-charts/</link>
+    <pubDate>Mon, 21 Dec 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[charts]]></category>
+
+    <category><![CDATA[data]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/bad-bar-charts/</guid>
+    <description>
+        <![CDATA[In previous roles I worked on data analysis and visualization. When you boil it down, that just means I was well versed in Excel and building charts.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Bad-Bar-Charts.jpg" /><p>In previous roles I worked on data analysis and visualization. When you boil it down, that just means I was well versed in Excel and building charts.
+<!--more--></p>
+
+<p>I love the challenge of working on a chart until it displays the data honestly. That also means I notice bad designs in charts. There are many ways to skew results with chart design and they all make me see red. If you see a chart with one of these aspects, either ignore it or rebuild it.</p>
+
+<h2 id="non-zero-based-scale">Non-Zero Based Scale</h2>
+
+<p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/nonzero_baseline.jpg" /></p>
+
+<p>This is one of the biggest culprits in bad charts. It’s easy to change the baseline of a chart and make it look like there’s a big difference between two segments. In the chart above, it looks like “Unsure” is drastically overpowering the “Unlikely” category. But if we change the chart to a zero-based axis, we can see that the difference is fairly small.</p>
+
+<p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/zero_baseline.jpg" /></p>
+
+<p>Now it’s a lot harder to see the difference between the categories, but it provides a more accurate picture of what’s going on because the visual matches the real data.</p>
+
+<h2 id="varying-width-bars">Varying Width Bars</h2>
+
+<p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/bar_width.jpg" /></p>
+
+<p>This is more subtle but it can make a big impact on how the outcome is perceived. If you make the already taller bars wider than the others, you increase the visual effect on the viewer and leave them with an exaggerated perception of the data.</p>
+
+<h2 id="unnecessary-lines">Unnecessary Lines</h2>
+
+<p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/extra_lines.jpg" /></p>
+
+<p>In the same way that a non-zero based scale alters the view of the data, a scale that goes too high can also mislead you to thinking there is no difference between two data points. You want the scale to go from zero to the lowest possible number while still allowing room for the entirety of  the bars.</p>
+
+<p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/removed_extra_lines.jpg" /></p>
+
+<p>We can now see that Minnesota has a decent lead on the others. But we couldn’t draw that conclusion until the scale was set appropriately.</p>
+
+<h2 id="inconsistent-scale">Inconsistent scale</h2>
+
+<p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/inconsistent_scale.jpg" /></p>
+
+<p>If you don’t have all the data points (or don’t like them), you either need to forego the chart entirely or be honest. I have seen a similar chart used to show exponential growth of membership when in reality the membership growth rate was fairly consistent. Don’t lie with the data.</p>
+
+<p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/consistent_scale.jpg" /></p>
+
+<p>When you include all of the data points, you can see a big difference. Your perception of the first is that the pace is picking up fast. The second chart shows that the rate of increase is normalized.</p>
+
+<h2 id="d">3D</h2>
+
+<p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/3d.jpg" /></p>
+
+<p>This is just bad design. It’s hard to get a feel for the difference in the bars because our eyes are trying to follow the perceived lines on the chart. And it looks bad. Don’t do it.</p>
+
+<p>Overall, these are really simple fixes. But they can have a major impact on the viewer and how they perceive the data. Don’t lie with a visual. If the data doesn’t show what you want, then you have bigger decisions to make. Get to work and change your methods to get to your desired outcome. Don’t fabricate positive results.</p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3xp1l4/bad_bar_charts/">Discuss this on Reddit.</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Merry Christmas]]></title>
@@ -806,93 +880,6 @@ xof = OmniFocus</code></pre></figure>
 <h2 id="discuss-the-bookhttpswwwredditcomrjoebuhligcomments3rhediworkingwithomnifocus"><a href="https://www.reddit.com/r/joebuhlig/comments/3rhedi/working_with_omnifocus/">Discuss the Book</a></h2>
 
 <p>I made a consolidated place for us to chat about the book. Most of the time that discussion is more helpful in public. And the quickest, easiest way I know to do that is with Reddit. I have a Subreddit (<a href="https://www.reddit.com/r/joebuhlig/">/r/joebuhlig</a>) where I’ve posted the link to the book. Let’s discuss it there - <a href="https://www.reddit.com/r/joebuhlig/comments/3rhedi/working_with_omnifocus/">Reddit Discussion</a>.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Favorite Workflows]]></title>
-    <link>http://joebuhlig.com/favorite-workflows/</link>
-    <pubDate>Fri, 30 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[setups]]></category>
-
-    <category><![CDATA[workflow]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/favorite-workflows/</guid>
-    <description>
-        <![CDATA[I’ve received a number of requests for more detail around my use of Workflow (iTunes). I’ve said that it saves time, but here are some details.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Favorite-Workflows.jpg" /><p>I’ve received a number of requests for more detail around my use of <a href="https://workflow.is/">Workflow</a> (<a href="https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8&amp;at=1l3vnyQ">iTunes</a>). I’ve said that it saves time, but here are some details.
-<!--more--></p>
-
-<p>If I find myself doing something repeatedly, I look for a way to automate it. Since AppleScripting isn’t possible on iOS, I turn to Workflow for some of the same functionality. Here are my heavy hitter workflows.</p>
-
-<h2 id="headed-home">Headed Home</h2>
-
-<p><a href="https://workflow.is/workflows/efa5488ee8e44687ad75e628a5ba1b1d">Headed Home Workflow</a></p>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/Workflow_Headed-Home.png" /></p>
-
-<p>There a quite a few instances each week when I’m out of the house without a specific time that I’m expected to return. My wife often needs to know when I’m headed home so she can plan accordingly. In those cases, I use this workflow to let her know I’m on my way and how long it should be before I get there. This workflow is one of three that I keep in the Today View for easy access because I use it so frequently.</p>
-
-<h2 id="copy-base-url">Copy Base URL</h2>
-
-<p><a href="https://workflow.is/workflows/1de51ad711624c1daace1159e2abab4e">Copy Base URL Workflow</a></p>
-
-<p>This is a rare case when I introduce more steps to a process in order to get a cleaner result. Many times I need to copy a URL but I really don’t like having extra querystring parameters at the end of the URL. I use this to expand shortened URLS and strip the extra nonsense off the end. Then it’s added to my clipboard.</p>
-
-<h2 id="save-to-dropbox">Save to DropBox</h2>
-
-<p><a href="https://workflow.is/workflows/db653ceda86942328b802cce58f6b6ed">Save to DropBox Workflow</a></p>
-
-<p>Any time I run across a file (typically a PDF) on my phone that I want to save to DropBox, I use this. I could do the “Open in…” thing, but I know where I want it to go in DropBox before I even start - my DropBox inbox. This workflow takes the file and drops it into my inbox. It’s faster than everything else I’ve tried.</p>
-
-<h2 id="share-title--twitter">Share Title &amp; Twitter</h2>
-
-<p><a href="https://workflow.is/workflows/44904f69761047ae8fb3d8a741ff08d6">Share Title &amp; Twitter Workflow</a></p>
-
-<p>I have another <a href="http://joebuhlig.com/workflow-to-share-articles-with-twitter-handle/">one similar to this</a> that shares an article with a Twitter handle and asks for a comment about the article. If I don’t have a specific thought about an article but still want to share it, I use this instead. It puts the title of the article in quotes, adds a link to the article, and searches the page for a Twitter handle to include at the end of the tweet.</p>
-
-<h2 id="instatweet">InstaTweet</h2>
-
-<p><a href="https://workflow.is/workflows/7702a22e5dfe426da5a60f59d519ba10">InstaTweet Workflow</a></p>
-
-<p>When I want to share a photo on Instagram and Twitter I know I can select Twitter from Instagram, but I prefer to embed them directly. This workflow allows me to select the photo, add a caption, and send it both places at once.</p>
-
-<h2 id="article-to-pdf">Article to PDF</h2>
-
-<p><a href="https://workflow.is/workflows/2ec2ca89dbad4c4db754788f6fccae9d">Article to PDF Workflow</a></p>
-
-<p>This is a small piece of my research storage mechanism. To save an article  for a project I’m working on, I run this workflow which saves it as a PDF in my DropBox inbox. These are processed during my <a href="http://joebuhlig.com/gaining-perspective-daily-review/">Daily Review</a> and are often moved to project folders.</p>
-
-<h2 id="take-pic-to-dropbox">Take Pic to DropBox</h2>
-
-<p><a href="https://workflow.is/workflows/c348878f30b24163afc1d4cbdce15b87">Take Pic to DropBox Workflow</a></p>
-
-<p>This is similar to the Article to PDF workflow, but it opens the camera. I take a picture and it is immediately sent to my DropBox inbox. This is really handy if I want to save a picture of a restaurant menu or a bag of coffee. When I process these, I move them to their respective locations in my file structure for reference.</p>
-
-<h2 id="send-pic-to-dropbox">Send Pic to DropBox</h2>
-
-<p><a href="https://workflow.is/workflows/ec13b1062c5d47a1813a348ed659c27c">Send Pic to DropBox Workflow</a></p>
-
-<p>Just like the previous workflow, this adds a picture to my DropBox inbox but allows me to select pictures from my photo library. There are times when I remember taking a picture that I want to use for a project. This helps me get them into DropBox quickly and easily.</p>
-
-<h2 id="screenshot-to-dropbox">Screenshot to DropBox</h2>
-
-<p><a href="https://workflow.is/workflows/43d066eb6d194620b1ed4f9134d96810">Screenshot to DropBox Workflow</a></p>
-
-<p>I’m building a lot of websites lately and part of my process involves looking for web design inspiration. This means I’m taking a lot of screenshots of other websites. I keep this workflow in my Today View so I can take the screenshot, swipe down, and send it to DropBox right away.</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3qtrfi/favorite_workflows/">Discuss this on Reddit.</a></p>
-
 ]]>
     </content:encoded>
 </item>
