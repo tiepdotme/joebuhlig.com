@@ -14,11 +14,47 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 22 Dec 2015 06:56:50 -0600</lastBuildDate>
+<lastBuildDate>Wed, 23 Dec 2015 06:35:56 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[17: Time Off for the Holidays]]></title>
+    <link>http://joebuhlig.com/17/</link>
+    <pubDate>Wed, 23 Dec 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[breaks]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/17/</guid>
+    <description>
+        <![CDATA[Take time off this holiday season. And try not to spend too much time doing support for family. Also, don’t miss out on the discount for Working with OmniFocus.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Time-Off-for-the-Holidays.jpg" /><p>Take time off this holiday season. And try not to spend too much time doing support for family. Also, don’t miss out on the discount for <em>Working with OmniFocus</em>.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/17/">Discuss this on Reddit.</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working with OmniFocus - Use ‘Christmas15’</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Bad Bar Charts]]></title>
@@ -840,46 +876,6 @@ xof = OmniFocus</code></pre></figure>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3rr6s0/take_a_break/">Discuss this on Reddit.</a></p>
 
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Working with OmniFocus]]></title>
-    <link>http://joebuhlig.com/working-with-omnifocus/</link>
-    <pubDate>Wed, 04 Nov 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[books]]></category>
-
-    <category><![CDATA[omnifocus]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/working-with-omnifocus/</guid>
-    <description>
-        <![CDATA[In the two days before this book launched I checked off 387 tasks in OmniFocus. And there’s no other tool I’d rather do it with.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/base/WorkingWithOmniFocus-Small.png" /><p>In the two days before this book launched I checked off 387 tasks in OmniFocus. And there’s no other tool I’d rather do it with.
-<!--more--></p>
-
-<h2 id="get-working-with-omnifocushttptoolsjoebuhligcomworking-with-omnifocus"><a href="http://tools.joebuhlig.com/working-with-omnifocus/">Get Working with OmniFocus</a></h2>
-
-<p>It’s been down to the wire, but it’s finally here - <em>Working with OmniFocus</em>. A book that takes you through my entire system. It’s not for someone looking for a how-to manual for OmniFocus, but for those looking to understand the deeper concepts and nuances of the tool.</p>
-
-<p>I’m super excited that it’s finally here! I’ve spent most of my editing time trying to make sure that it’s packed full of details and examples. The more real I can be with you, the better you can understand how it works.</p>
-
-<h2 id="affiliate-sign-uphttptoolsjoebuhligcomaffiliates"><a href="http://tools.joebuhlig.com/affiliates/">Affiliate Sign Up</a></h2>
-
-<p>If you’ve read the book and want to share it with others, why not make money while you’re at it? You can <a href="http://tools.joebuhlig.com/affiliates/">sign up</a> to be an affiliate and get paid when others make a purchase using your link.</p>
-
-<h2 id="discuss-the-bookhttpswwwredditcomrjoebuhligcomments3rhediworkingwithomnifocus"><a href="https://www.reddit.com/r/joebuhlig/comments/3rhedi/working_with_omnifocus/">Discuss the Book</a></h2>
-
-<p>I made a consolidated place for us to chat about the book. Most of the time that discussion is more helpful in public. And the quickest, easiest way I know to do that is with Reddit. I have a Subreddit (<a href="https://www.reddit.com/r/joebuhlig/">/r/joebuhlig</a>) where I’ve posted the link to the book. Let’s discuss it there - <a href="https://www.reddit.com/r/joebuhlig/comments/3rhedi/working_with_omnifocus/">Reddit Discussion</a>.</p>
 ]]>
     </content:encoded>
 </item>

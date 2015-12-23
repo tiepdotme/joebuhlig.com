@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"17: Time Off for the Holidays",
+			"image":"/assets/posts/Time-Off-for-the-Holidays.jpg",
+			"permalink":"/17/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"breaks"
+			],
+			"excerpt": "<p>Take time off this holiday season. And try not to spend too much time doing support for family. Also, don’t miss out on the discount for <em>Working with OmniFocus</em>.</p>\n\n",
+			"content": "Take%20time%20off%20this%20holiday%20season.%20And%20try%20not%20to%20spend%20too%20much%20time%20doing%20support%20for%20family.%20Also,%20don%E2%80%99t%20miss%20out%20on%20the%20discount%20for%20Working%20with%20OmniFocus.%0A%0A%0ADiscuss%20this%20on%20Reddit.%0A%0ABecome%20a%20Patron%0A%0AWorking%20with%20OmniFocus%20-%20Use%20%E2%80%98Christmas15%E2%80%99%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Bad Bar Charts",
 			"image":"/assets/posts/Bad-Bar-Charts.jpg",
 			"permalink":"/bad-bar-charts/",

@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Tue, 22 Dec 2015 06:56:50 -0600</lastBuildDate>
+<lastBuildDate>Wed, 23 Dec 2015 06:35:56 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,67 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>17: Time Off for the Holidays</title>
+    <link>http://joebuhlig.com/17/</link>
+    <comments>http://joebuhlig.com/17/#comments</comments>
+    <pubDate>Wed, 23 Dec 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[breaks]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/17/</guid>
+    <description>
+        <![CDATA[Take time off this holiday season. And try not to spend too much time doing support for family. Also, don’t miss out on the discount for Working with OmniFocus.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Take time off this holiday season. And try not to spend too much time doing support for family. Also, don’t miss out on the discount for <em>Working with OmniFocus</em>.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/17/">Discuss this on Reddit.</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working with OmniFocus - Use ‘Christmas15’</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ017.mp3" length="5989962" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Take time off this holiday season. And try not to spend too much time doing support for family. Also, don’t miss out on the discount for Working with OmniFocus.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Take time off this holiday season. And try not to spend too much time doing support for family. Also, don’t miss out on the discount for <em>Working with OmniFocus</em>.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/17/">Discuss this on Reddit.</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working with OmniFocus - Use ‘Christmas15’</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>6:02</itunes:duration>
+  </item>
 
   <item>
     <title>16: Geofenced Lists</title>
