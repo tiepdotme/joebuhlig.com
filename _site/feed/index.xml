@@ -14,11 +14,51 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 23 Dec 2015 06:35:56 -0600</lastBuildDate>
+<lastBuildDate>Sat, 26 Dec 2015 06:49:59 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Trust & Let Loose]]></title>
+    <link>http://joebuhlig.com/trust-let-loose/</link>
+    <pubDate>Fri, 25 Dec 2015 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[trust]]></category>
+
+    <category><![CDATA[systems]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/trust-let-loose/</guid>
+    <description>
+        <![CDATA[It takes time to develop consistency in a task management system. I forget. I climb back on the horse, but fall off again. It looks easy - and it is at times - but other times it feels like one more item on my to-do list.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Trust-and-Let-Loose.jpg" /><p>It takes time to develop consistency in a task management system. I forget. I climb back on the horse, but fall off again. It looks easy - and it is at times - but other times it feels like one more item on my to-do list.
+<!--more--></p>
+
+<p>All of the apps and systems are nice, but I go through seasons with them. People see my systems and might think I have it all together. I don’t. I forget things all the time. It’s why I gravitate to the structure: it gives me a place to put things so I can come back to them.</p>
+
+<p>There are times when I fail to stick to them. It’s at those times that I drop the ball and miss a deadline, or disappoint my family. It sometimes takes a painful reminder to push me back into the lists. I know I can trust them, but I don’t always.</p>
+
+<p>But the time I spend away from them is continually growing shorter. I climb back into the cockpit more quickly each time. If I continue to collect my thoughts and do something about them, I know they’re taken care of. I know that I can go play with my girls without being concerned about work.</p>
+
+<p>Here is one of the deterrents to GTD: You put a system together, but a big urgent project comes up and you put the structure aside. A month goes by before you notice that thoughts about work are invading your family time and that when you’re at work all you want to do is go home. You come back to the system and start to find clarity again.</p>
+
+<p>It takes time to trust the system in all seasons. I would say it takes years of developing your personal system before you can trust it in every circumstance. This ongoing cycle of leaving and returning builds the trust you need to mentally let go.</p>
+
+<p>Develop a system you can trust and let loose.</p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3y6fxb/trust_let_loose/">Discuss this on Reddit.</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[17: Time Off for the Holidays]]></title>
@@ -41,7 +81,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Time-Off-for-the-Holidays.jpg" /><p>Take time off this holiday season. And try not to spend too much time doing support for family. Also, don’t miss out on the discount for <em>Working with OmniFocus</em>.
 <!--more--></p>
 
-<p><a href="http://joebuhlig.com/17/">Discuss this on Reddit.</a></p>
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3xygpv/17_time_off_for_the_holidays/">Discuss this on Reddit.</a></p>
 
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 
@@ -839,43 +879,6 @@ xof = OmniFocus</code></pre></figure>
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Take a Break]]></title>
-    <link>http://joebuhlig.com/take-a-break/</link>
-    <pubDate>Fri, 06 Nov 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[books]]></category>
-
-    <category><![CDATA[energy]]></category>
-
-    <category><![CDATA[life]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/take-a-break/</guid>
-    <description>
-        <![CDATA[Numerous times I’ve said that being able to put off work is an important step of being productive. And when you have a big push, it’s even more important to stop.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Take-a-break.jpg" /><p>Numerous times I’ve said that being able to put off work is an important step of being productive. And when you have a big push, it’s even more important to stop.
-<!--more--></p>
-
-<p>I’ve been working long hours for the last couple months to make <a href="https://tools.joebuhlig.com/working-with-omnifocus/"><em>Working with OmniFocus</em></a> happen. There were late nights, early mornings, and long afternoons. Blood, sweat, tears, sickness and exhaustion all came into play at some point. And I’ve been thrilled at the response.</p>
-
-<p>Many of you have sent me emails and joined the <a href="https://www.reddit.com/r/joebuhlig/comments/3rhedi/working_with_omnifocus/">Reddit discussion</a> to let me know what you think of the book. I have received emails from folks who have changed their perspective on how they work and look for better ways to manage their tasks. They are heartfelt and grateful. They drive me to do more and help anywhere I can. It’s these people that keep me excited about the work I do.</p>
-
-<p>And I will continue to look for ways to do that, but not right now. After the hard work that’s gone into this and the unending support that my family has given me over the past months, it’s time to take a short break and give to them. I’ll be back at it next week, but I’m taking a long weekend to recoup.  Thank you for all the great feedback, it’s been a wild ride.</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3rr6s0/take_a_break/">Discuss this on Reddit.</a></p>
-
 ]]>
     </content:encoded>
 </item>

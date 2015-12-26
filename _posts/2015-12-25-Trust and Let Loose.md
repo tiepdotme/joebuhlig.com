@@ -22,3 +22,5 @@ Here is one of the deterrents to GTD: You put a system together, but a big urgen
 It takes time to trust the system in all seasons. I would say it takes years of developing your personal system before you can trust it in every circumstance. This ongoing cycle of leaving and returning builds the trust you need to mentally let go. 
 
 Develop a system you can trust and let loose.
+
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3y6fxb/trust_let_loose/)
