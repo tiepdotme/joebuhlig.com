@@ -29,7 +29,7 @@ body {
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
+p, table, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
@@ -184,6 +184,13 @@ pre {
     }
 }
 
+table {
+    margin:0px auto 15px auto;
+    
+    td, th {
+        padding: 2px 5px;
+    }
+}
 
 
 /**

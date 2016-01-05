@@ -14,11 +14,152 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 28 Dec 2015 06:37:03 -0600</lastBuildDate>
+<lastBuildDate>Tue, 05 Jan 2016 06:45:58 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[2015 by the Numbers]]></title>
+    <link>http://joebuhlig.com/2015-by-the-numbers/</link>
+    <pubDate>Tue, 05 Jan 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[reviews]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/2015-by-the-numbers/</guid>
+    <description>
+        <![CDATA[With 2015 completed, we’ll start seeing numbers roll in summarizing what happened throughout the year. So I thought I would pull together this site’s numbers for 2015. It’s been a ride.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/2015-by-the-Numbers.jpg" /><p>With 2015 completed, we’ll start seeing numbers roll in summarizing what happened throughout the year. So I thought I would pull together this site’s numbers for 2015. It’s been a ride. 
+<!--more--></p>
+
+<h2 id="top-articles">Top Articles</h2>
+
+<p>This is the most basic form of counting I do: how many views did each article receive? The OmniFocus Setup article has always been my top article, but one of the newcomers is the Monthly Planning article. It made the top 10 in views for the year and it’s only been live for three weeks.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Article</th>
+      <th style="text-align: center">Pageviews</th>
+      <th style="text-align: center">Published Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. <a href="http://joebuhlig.com/omnifocus-setup-workflow/">OmniFocus Setup and Workflow</a></td>
+      <td style="text-align: center">12,637</td>
+      <td style="text-align: center">2014-07-14</td>
+    </tr>
+    <tr>
+      <td>2. <a href="http://joebuhlig.com/evernote-setup-workflow/">Evernote Setup and Workflow</a></td>
+      <td style="text-align: center">3,492</td>
+      <td style="text-align: center">2015-01-23</td>
+    </tr>
+    <tr>
+      <td>3. <a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">Using OmniFocus for Someday/Maybe Lists</a></td>
+      <td style="text-align: center">3,476</td>
+      <td style="text-align: center">2015-05-01</td>
+    </tr>
+    <tr>
+      <td>4. <a href="http://joebuhlig.com/using-drafts/">Using Drafts</a></td>
+      <td style="text-align: center">2,910</td>
+      <td style="text-align: center">2015-10-09</td>
+    </tr>
+    <tr>
+      <td>5. <a href="http://joebuhlig.com/omnifocus-auto-parser/">OmniFocus Auto-Parser</a></td>
+      <td style="text-align: center">1,613</td>
+      <td style="text-align: center">2015-09-04</td>
+    </tr>
+    <tr>
+      <td>6. <a href="http://joebuhlig.com/my-omnifocus-home-screen/">My OmniFocus Home Screen</a></td>
+      <td style="text-align: center">1,410</td>
+      <td style="text-align: center">2015-06-05</td>
+    </tr>
+    <tr>
+      <td>7. <a href="http://joebuhlig.com/getting-things-done-introduction/">Getting Things Done: Introduction</a></td>
+      <td style="text-align: center">1,370</td>
+      <td style="text-align: center">2014-10-24</td>
+    </tr>
+    <tr>
+      <td>8. <a href="http://joebuhlig.com/a-chaotic-week-with-gtd/">A Chaotic Week with GTD</a></td>
+      <td style="text-align: center">1,234</td>
+      <td style="text-align: center">2015-05-29</td>
+    </tr>
+    <tr>
+      <td>9. <a href="http://joebuhlig.com/getting-things-done-day-life/">Getting Things Done: A Day In The Life</a></td>
+      <td style="text-align: center">1,142</td>
+      <td style="text-align: center">2014-12-05</td>
+    </tr>
+    <tr>
+      <td>10. <a href="http://joebuhlig.com/monthly-planning/">Monthly Planning</a></td>
+      <td style="text-align: center">831</td>
+      <td style="text-align: center">2015-12-14</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="whaddya-know-joe">Whaddya Know Joe?</h2>
+
+<p>One of my goals for 2015 was to step into the podcasting world, and I have been amazed by the number of you who have been listening. <a href="http://joebuhlig.com/whaddyaknowjoe/"><em>Whaddya Know Joe?</em></a> has only been public for about five months and it managed to break the 10,000 downloads mark right at the end of December.</p>
+
+<p>Here are the top five episodes by download count:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Episode</th>
+      <th style="text-align: center">Downloads</th>
+      <th style="text-align: center">Published Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. <a href="http://joebuhlig.com/5/">5: Developing a Task Management System</a></td>
+      <td style="text-align: center">929</td>
+      <td style="text-align: center">2015-09-15</td>
+    </tr>
+    <tr>
+      <td>2. <a href="http://joebuhlig.com/11/">11: Using Evernote for GTD</a></td>
+      <td style="text-align: center">813</td>
+      <td style="text-align: center">2015-10-27</td>
+    </tr>
+    <tr>
+      <td>3. <a href="http://joebuhlig.com/12/">12: The Higher Horizons</a></td>
+      <td style="text-align: center">767</td>
+      <td style="text-align: center">2015-11-10</td>
+    </tr>
+    <tr>
+      <td>4. <a href="http://joebuhlig.com/9/">9: Really? Journaling?</a></td>
+      <td style="text-align: center">710</td>
+      <td style="text-align: center">2015-10-13</td>
+    </tr>
+    <tr>
+      <td>5. <a href="http://joebuhlig.com/6/">6: Collecting and Storing Research</a></td>
+      <td style="text-align: center">691</td>
+      <td style="text-align: center">2015-09-22</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="working-with-omnifocus">Working with OmniFocus</h2>
+
+<p>This is my favorite accomplishment of 2015. I had been wanting to write a book for a long time but never had the time. It seems that there were a lot of you interested in reading it as well. In two short months, there were 667 copies of <a href="https://tools.joebuhlig.com/working-with-omnifocus/"><em>Working with OmniFocus</em></a> sold! I wasn’t expecting anywhere near that number when I started, and I’ve been overwhelmed by the feedback. Thank you.</p>
+
+<h2 id="ha-tech">H&amp;A Tech</h2>
+
+<p>In August, I left the company I was working for and started my own business. It was a fast and unnerving transition, but I’m thrilled to be where I am today. I’m able to work on the projects I love and build things with little or no delay. If I get a crazy idea, I can pursue it without worrying about politics or the red tape of company approvals. I wish I could have done this sooner.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Writing a Book with GitHub]]></title>
@@ -849,48 +990,6 @@ xof = OmniFocus</code></pre></figure>
 <p><a href="http://jamesclear.com/three-steps-habit-change">The 3 R’s of Habit Change: How To Start New Habits That Actually Stick - James Clear</a></p>
 
 <p><a href="http://shawnblanc.net/2014/11/alternatives-to-the-just-checks/">Alternatives to the Just Checks — Shawn Blanc</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Reviews and Scripting - Learn OmniFocus Webinar]]></title>
-    <link>http://joebuhlig.com/reviews-and-scripting-learn-omnifocus-webinar/</link>
-    <pubDate>Wed, 11 Nov 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[omnifocus]]></category>
-
-    <category><![CDATA[reviews]]></category>
-
-    <category><![CDATA[scripting]]></category>
-
-    <category><![CDATA[webinar]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/reviews-and-scripting-learn-omnifocus-webinar/</guid>
-    <description>
-        <![CDATA[A great asset behind OmniFocus is the community of people willing to share and ask questions; and one place to enjoy the resources this community creates is at Learn OmniFocus.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Reviews-and-Scripting-Learn-OmniFocus-Webinar.jpg" /><p>A great asset behind OmniFocus is the community of people willing to share and ask questions; and one place to enjoy the resources this community creates is at <a href="http://learnomnifocus.com/?ref=11">Learn OmniFocus</a>.
-<!--more--></p>
-
-<p>Tim Stringer, founder of Learn OmniFocus, recently invited me to do a live webinar about my OmniFocus setup on the site and add to this growing repository of content. I was thrilled and  honored to share.</p>
-
-<p>In the recording below you’ll see normal stuff like setting up projects and contexts, but I also emphasize the importance of doing regular reviews and share a script I’ve written to help. I like doing reviews on set days, so I needed to be able to move the Next Review Date of a project to match my scheduled review date. If you’re interested in this script or some of the others I mention in the webinar, you can <a href="https://github.com/joebuhlig/OFScripts">find them on GitHub</a>.</p>
-
-<p>Outside of <a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working with Omnifocus</a>, this is one of the most complete overviews of my entire system. Tim Stringer has generously given me the feed to share with you, so check it out.</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3sewyr/reviews_and_scripting_learn_omnifocus_webinar/">Discuss this on Reddit.</a></p>
-
-<div class="center video-container">
-<iframe src="https://player.vimeo.com/video/144911621" width="1000" height="560" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-</div>
 ]]>
     </content:encoded>
 </item>
