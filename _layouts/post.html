@@ -20,6 +20,32 @@ layout: default
 				</p>
 			</div>
 		{% endif %}
+		<div class="related-posts">
+			<h2>Related Articles</h2>
+			{% assign count = 1 %}
+			{% for post in site.posts %}
+				{% if count <= 6 %}
+				    {% if post.url != page.url %}	
+				    	{% for tag in page.tags %} 
+				        	{% if post.tags contains tag %}
+				          		<div class="related-post"><a href="{{ post.url }}"><img src="{{ post.image }}"></a></div>
+				          		{% assign count = count | plus:'1' %}
+								{% break %}
+					        {% endif %}
+					    {% endfor %}
+				    {% endif %}
+				{% else %}
+					{% break %}
+				{% endif %}
+			{% endfor %}
+			{% if count == 1 %}
+				<style>
+					.related-posts{
+						display: none;
+					}
+				</style>
+			{% endif %}
+		</div>
 	</article>
 	<div class="page-navigation">
 		{% if page.categories contains 'blog' %}
