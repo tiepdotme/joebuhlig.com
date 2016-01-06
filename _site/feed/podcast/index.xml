@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Tue, 05 Jan 2016 10:48:47 -0600</lastBuildDate>
+<lastBuildDate>Wed, 06 Jan 2016 07:08:18 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,93 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>18: Cold Turkey on QWERTY</title>
+    <link>http://joebuhlig.com/18/</link>
+    <comments>http://joebuhlig.com/18/#comments</comments>
+    <pubDate>Wed, 06 Jan 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[dvorak]]></category>
+
+    <category><![CDATA[hardware]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/18/</guid>
+    <description>
+        <![CDATA[After an awesome break for Christmas and the New Year, I’m back with a slight change and format to talk about my switch to Dvorak, the bloated web, and resolutions.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>After an awesome break for Christmas and the New Year, I’m back with a slight change and format to talk about my switch to Dvorak, the bloated web, and resolutions.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://joebuhlig.com/2015-by-the-numbers/">2015 by the Numbers</a></p>
+
+<p><a href="https://twitter.com/joebuhlig/status/683406828286312448">Tweet about Dvorak - Joe Buhlig</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard">Dvorak Simplified Keyboard - Wikipedia</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/QWERTY">QWERTY - Wikipedia</a></p>
+
+<p><a href="http://kbcovers.com/dvorak-keyboard-cover">Dvorak Layout Keyboard Cover for Mac Keyboards - KBCovers</a></p>
+
+<p><a href="https://fleksy.com/">Fleksy Keyboard - GIFs, Custom Extensions, and Themes</a></p>
+
+<p><a href="http://idlewords.com/talks/website_obesity.htm">The Website Obesity Crisis</a></p>
+
+<p><a href="https://twitter.com/gtdguy/status/683413489461903360">Tweet from David Allen</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ018.mp3" length="17613076" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[After an awesome break for Christmas and the New Year, I’m back with a slight change and format to talk about my switch to Dvorak, the bloated web, and resolutions.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>After an awesome break for Christmas and the New Year, I’m back with a slight change and format to talk about my switch to Dvorak, the bloated web, and resolutions.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://joebuhlig.com/2015-by-the-numbers/">2015 by the Numbers</a></p>
+
+<p><a href="https://twitter.com/joebuhlig/status/683406828286312448">Tweet about Dvorak - Joe Buhlig</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard">Dvorak Simplified Keyboard - Wikipedia</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/QWERTY">QWERTY - Wikipedia</a></p>
+
+<p><a href="http://kbcovers.com/dvorak-keyboard-cover">Dvorak Layout Keyboard Cover for Mac Keyboards - KBCovers</a></p>
+
+<p><a href="https://fleksy.com/">Fleksy Keyboard - GIFs, Custom Extensions, and Themes</a></p>
+
+<p><a href="http://idlewords.com/talks/website_obesity.htm">The Website Obesity Crisis</a></p>
+
+<p><a href="https://twitter.com/gtdguy/status/683413489461903360">Tweet from David Allen</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>18:09</itunes:duration>
+  </item>
 
   <item>
     <title>17: Time Off for the Holidays</title>

@@ -14,11 +14,61 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 05 Jan 2016 10:48:47 -0600</lastBuildDate>
+<lastBuildDate>Wed, 06 Jan 2016 07:08:18 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[18: Cold Turkey on QWERTY]]></title>
+    <link>http://joebuhlig.com/18/</link>
+    <pubDate>Wed, 06 Jan 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[dvorak]]></category>
+
+    <category><![CDATA[hardware]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/18/</guid>
+    <description>
+        <![CDATA[After an awesome break for Christmas and the New Year, I’m back with a slight change and format to talk about my switch to Dvorak, the bloated web, and resolutions.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Cold-Turkey-on-QWERTY.jpg" /><p>After an awesome break for Christmas and the New Year, I’m back with a slight change and format to talk about my switch to Dvorak, the bloated web, and resolutions.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://joebuhlig.com/2015-by-the-numbers/">2015 by the Numbers</a></p>
+
+<p><a href="https://twitter.com/joebuhlig/status/683406828286312448">Tweet about Dvorak - Joe Buhlig</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard">Dvorak Simplified Keyboard - Wikipedia</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/QWERTY">QWERTY - Wikipedia</a></p>
+
+<p><a href="http://kbcovers.com/dvorak-keyboard-cover">Dvorak Layout Keyboard Cover for Mac Keyboards - KBCovers</a></p>
+
+<p><a href="https://fleksy.com/">Fleksy Keyboard - GIFs, Custom Extensions, and Themes</a></p>
+
+<p><a href="http://idlewords.com/talks/website_obesity.htm">The Website Obesity Crisis</a></p>
+
+<p><a href="https://twitter.com/gtdguy/status/683413489461903360">Tweet from David Allen</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[2015 by the Numbers]]></title>
@@ -930,68 +980,6 @@ xof = OmniFocus</code></pre></figure>
 <p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
 
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Breaking the Cycle]]></title>
-    <link>http://joebuhlig.com/breaking-the-cycle/</link>
-    <pubDate>Fri, 13 Nov 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[addiction]]></category>
-
-    <category><![CDATA[life]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/breaking-the-cycle/</guid>
-    <description>
-        <![CDATA[It’s time for a confession: I’m addicted to my phone. I want to check Twitter every five minutes and find myself refreshing Feedly every ten. And I hate it.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Breaking-the-Cycle.jpg" /><p>It’s time for a confession: I’m addicted to my phone. I want to check Twitter every five minutes and find myself refreshing Feedly every ten. And I hate it.
-<!--more--></p>
-
-<p>I’ve developed a habit of always wondering if there is something that needs my response. If someone asks me a question on Twitter, I want to get back to them right away. I don’t want them waiting on me. I don’t like being the one that holds up the line.</p>
-
-<h2 id="steps-to-building-a-habit">Steps to building a habit</h2>
-
-<p>There’s a lot of research behind building habits, but it doesn’t have to apply only to good habits. Understanding this cycle can help break bad habits as well. Break one of the steps and the habit stops.</p>
-
-<h3 id="trigger">1. Trigger</h3>
-
-<p>I love helping. Finding ways to solve problems for others will motivate me to work all day, every day. The downside is that I will sometimes go looking for problems that need to be solved. I primarily look for these problems in my own systems and tools, so the trigger is simply wondering if someone found an issue or has a question.</p>
-
-<h3 id="reaction">2. Reaction</h3>
-
-<p>My reaction to this trigger is to solve the problem or look for a problem. Whenever I wonder if there is a problem that needs solved or I think that a question might have popped up, I check the various places where a problem or question could arise. In my case, that’s mostly Twitter, Reddit, or email.</p>
-
-<h3 id="treat">3. Treat</h3>
-
-<p>Much like our dog gets treats when he does a trick, I get a treat when I solve a problem or answer a question. People tend to say thank you or show appreciation when you help out and that small incentive makes me want to keep helping. The trigger has been set off again.</p>
-
-<h2 id="breaking-the-cycle">Breaking the cycle</h2>
-
-<p>Scientists in agriculture have become really good at breaking the life cycle of insects. Whether it’s interrupting their mating season, creating a bad environment for eggs, or not allowing one of the metamorphosis steps, they can find ways to keep the pests from propagating and damaging crops.</p>
-
-<p>It’s this cycle interruption that I’m attempting to put in place. Just telling myself not to  wonder will not likely happen. The thought enters faster than I can stop it, so I need to stop my reaction to the trigger - looking at social media and email. My primary means of checking is my phone and the best way to keep me off my phone is to leave it out of my reach. I’m much too lazy to get up just to check Twitter.</p>
-
-<p>While I’m at work I can keep my phone across the room since I don’t usually check things on my Mac. I can leave it in my office when I go upstairs for lunch. After work, I have designated a place for it to land. If it’s not in my pocket, I’m less likely to get it and check things.</p>
-
-<p>My hope is that by breaking this cycle, I’ll be more present with my family and break the habit. I know that my attention has fallen away from them when they need it. I’m not okay with that.</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3snjem/breaking_the_cycle/">Discuss this on Reddit.</a></p>
-
-<h3 id="resources">Resources:</h3>
-
-<p><a href="http://jamesclear.com/three-steps-habit-change">The 3 R’s of Habit Change: How To Start New Habits That Actually Stick - James Clear</a></p>
-
-<p><a href="http://shawnblanc.net/2014/11/alternatives-to-the-just-checks/">Alternatives to the Just Checks — Shawn Blanc</a></p>
 ]]>
     </content:encoded>
 </item>

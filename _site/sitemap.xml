@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/18/</loc>
+    <lastmod>2016-01-06T00:00:00-06:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/2015-by-the-numbers/</loc>
     <lastmod>2016-01-05T00:00:00-06:00</lastmod>
   </url>
@@ -676,6 +680,9 @@
   <url>
     <loc>http://joebuhlig.com/tag/book/</loc>
   </url>
+  <url>
+    <loc>http://joebuhlig.com/tag/dvorak/</loc>
+  </url>
     <url>
       <loc>http://joebuhlig.com/put-distractions-place/</loc>
     </url>
@@ -984,5 +991,8 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/2015-by-the-numbers/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/18/</loc>
     </url>
 </urlset>
