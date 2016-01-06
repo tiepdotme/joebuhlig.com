@@ -38,3 +38,5 @@ After an awesome break for Christmas and the New Year, I'm back with a slight ch
 [@JoeBuhlig](https://twitter.com/JoeBuhlig)
 
 [Subscribe on iTunes](https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948)
+
+[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3zq0xe/18_cold_turkey_on_qwerty/)

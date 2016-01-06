@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Wed, 06 Jan 2016 07:08:18 -0600</lastBuildDate>
+<lastBuildDate>Wed, 06 Jan 2016 08:38:57 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -86,6 +86,8 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3zq0xe/18_cold_turkey_on_qwerty/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 
@@ -119,6 +121,8 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/comments/3zq0xe/18_cold_turkey_on_qwerty/">Discuss this on Reddit.</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
     <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
