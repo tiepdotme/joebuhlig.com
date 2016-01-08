@@ -186,9 +186,16 @@ pre {
 
 table {
     margin:0px auto 15px auto;
+    border-spacing: 0px;
     
     td, th {
         padding: 2px 5px;
+    }
+    tbody tr:nth-child(odd){
+        background-color:#EEEEEE;
+    }
+    .header{
+        cursor: pointer;
     }
 }
 

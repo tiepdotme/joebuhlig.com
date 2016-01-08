@@ -14,11 +14,314 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 06 Jan 2016 08:38:57 -0600</lastBuildDate>
+<lastBuildDate>Fri, 08 Jan 2016 06:33:35 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Dvorak Transition]]></title>
+    <link>http://joebuhlig.com/dvorak-transition/</link>
+    <pubDate>Fri, 08 Jan 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[dvorak]]></category>
+
+    <category><![CDATA[hardware]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/dvorak-transition/</guid>
+    <description>
+        <![CDATA[I’ve had an interest in the Dvorak keyboard layout for a couple years now. The concept makes sense to me and I’m finally doing something about it.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Dvorak-Transition.jpg" /><p>I’ve had an interest in the Dvorak keyboard layout for a couple years now. The concept makes sense to me and I’m finally doing something about it.
+<!--more--></p>
+
+<p>For those not familiar with <a href="https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard">Dvorak</a>, it’s a simplified keyboard layout that is designed to reduce finger motion and errors. And by association, many proponents claim faster typing speed as a result.</p>
+
+<p>I’m very interested in the typing speed claims, but I’m also intrigued by the idea of preemptively combating RSI. I don’t have any major issues right now, but as someone who makes a living by typing I can’t afford long-term degradation.</p>
+
+<p>When it’s all over, I would like to know if the switch was worth it. But measuring finger movements would be pretty difficult. It would require setting up cameras and running the video through a sensing algorithm to determine the distance my fingers travel while typing a lot of text. And since Dvorak is already built to reduce motion, I don’t see the point. I would be trying to prove it was correctly designed. So instead, I’ll be measuring my typing speed to get a comparison.</p>
+
+<p>I’m a data junky and want to make sure I have good numbers. But this case is complicated. I use two different keyboards in two different locations for most of my typing. I use the built-in keyboard in my MacBook Pro (MBP) when I’m writing from the couch and an Apple Wireless Keyboard (AWK) when I’m at my desk. Those scenarios rarely deviate, so I’ll be testing each instance.</p>
+
+<p>I needed a baseline, so I started with the QWERTY keyboard I’m used to and picked four texts from <a href="http://www.typingtest.com/">typingtest.com</a>. I ran two rounds of two minutes from each keyboard/location. I started on the couch with the MBP and did two rounds of two minutes and then moved to my desk for another two rounds.</p>
+
+<p>However, I have one issue with this: timing. I’ve always felt that my speed tends to fluctuate from the morning to the afternoon. I did the initial testing in the morning so I did another round in the afternoon. And because I like be extra sure of things, I repeated the whole process two days in a row. All of this was done from the QWERTY keyboard before switching anything to Dvorak. No need tainting the waters.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>QWERTY</th>
+      <th style="text-align: center">Day</th>
+      <th style="text-align: center">Time</th>
+      <th style="text-align: center">Location</th>
+      <th style="text-align: center">WPM</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">74</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">69</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">74</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">67</td>
+    </tr>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">72</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">70</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">71</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">68</td>
+    </tr>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">75</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">73</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">78</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">76</td>
+    </tr>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">73</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">71</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">74</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">72</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>I was surprised to see very little difference between the MBP and the AWK. Overall, my average QWERTY typing speed was 72 wpm. Not bad.</p>
+
+<p>Once I had all of my numbers on QWERTY, I added a <a href="http://kbcovers.com/dvorak-keyboard-cover">keyboard cover</a> to my MBP and switched everything over to Dvorak. I made the switch cold turkey and won’t be trying to maintain QWERTY at the same time. And in the interest of good data, I repeated the entire process above on Dvorak.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Dvorak</th>
+      <th style="text-align: center">Day</th>
+      <th style="text-align: center">Time</th>
+      <th style="text-align: center">Location</th>
+      <th style="text-align: center">WPM</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">10</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">12</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">9</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">11</td>
+    </tr>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">13</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">14</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">12</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">15</td>
+    </tr>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">16</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">13</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">11</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">14</td>
+    </tr>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">15</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">17</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">14</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">12</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>I have a long way to go before I reach my initial QWERTY speed. My hope is that going all-in with Dvorak will help me get there quicker. It’s all for the sake of faster and more efficient typing.</p>
+
+<script src="/assets/js/jquery-tablesorter.js"></script>
+
+<script>
+$("table").tablesorter();
+</script>
+
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[18: Cold Turkey on QWERTY]]></title>
@@ -936,48 +1239,6 @@ xof = OmniFocus</code></pre></figure>
 <p><a href="http://programs.clearerthinking.org/what_is_your_time_really_worth_to_you.html">‎Clearer Thinking - What Is Your Time Really Worth To You</a></p>
 
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[13: Wandering Brain]]></title>
-    <link>http://joebuhlig.com/13/</link>
-    <pubDate>Wed, 18 Nov 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[ideas]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/13/</guid>
-    <description>
-        <![CDATA[I have more ideas than I can keep track of. And this is the whole of my creative process from idea development to storage.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Wandering-Brain.jpg" /><p>I have more ideas than I can keep track of. And this is the whole of my creative process from idea development to storage.
-<!--more--></p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3tb6vj/13_wandering_brain/">Discuss this on Reddit.</a></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working with OmniFocus</a></p>
-
-<p><a href="http://joebuhlig.com/omnifocus-auto-parser/">OmniFocus Auto-Parser</a></p>
-
-<p><a href="http://joebuhlig.com/6/">6: Collecting and Storing Research</a></p>
-
-<p><a href="http://joebuhlig.com/using-drafts/">Using Drafts</a></p>
-
-<p><a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">Using Omnifocus for Someday/Maybe Lists</a></p>
 
 <p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
 

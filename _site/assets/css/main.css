@@ -136,9 +136,14 @@ pre {
     padding-left: 0; }
 
 table {
-  margin: 0px auto 15px auto; }
+  margin: 0px auto 15px auto;
+  border-spacing: 0px; }
   table td, table th {
     padding: 2px 5px; }
+  table tbody tr:nth-child(odd) {
+    background-color: #EEEEEE; }
+  table .header {
+    cursor: pointer; }
 
 /**
  * Wrapper

@@ -8,12 +8,12 @@
 <meta name="bitly-verification" content="ac0f04117b06">
 <meta name="p:domain_verify" content="92caa79b9e843a42436dface55a7595f">
 <!-- Page info -->
-<title>Writing a Book with GitHub</title>
-<meta name="description" content="A lot of time and effort go into writing a book. It gets even harder when you need to collaborate with your editor and make revisions.">
+<title>Dvorak Transition</title>
+<meta name="description" content="I’ve had an interest in the Dvorak keyboard layout for a couple years now. The concept makes sense to me and I’m finally doing something about it.">
 <!-- Stylesheets -->
 <link rel="stylesheet" href="/assets/css/main.css">
 <!-- Feeds -->
-<link rel="canonical" href="http://joebuhlig.com/writing-a-book-with-github/">
+<link rel="canonical" href="http://joebuhlig.com/dvorak-transition/">
 <link rel="alternate" type="application/rss+xml" title="leverage the digital and welcome real life" href="http://joebuhlig.com/feed.xml" />
 <!-- Fonts -->
 <link href="http://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet" type="text/css">
@@ -35,23 +35,23 @@
 <!-- Open Graph tags -->
 <meta content="leverage the digital and welcome real life" property="og:site_name">
 <meta property="og:locale" content="en_US" />
-<meta content="Writing a Book with GitHub" property="og:title">
+<meta content="Dvorak Transition" property="og:title">
 <meta content="article" property="og:type">
-<meta content="A lot of time and effort go into writing a book. It gets even harder when you need to collaborate with your editor and make revisions." property="og:description">
-<meta content="http://joebuhlig.com/writing-a-book-with-github/" property="og:url">
-<meta content="2015-12-28T00:00:00-06:00" property="article:published_time">
+<meta content="I’ve had an interest in the Dvorak keyboard layout for a couple years now. The concept makes sense to me and I’m finally doing something about it." property="og:description">
+<meta content="http://joebuhlig.com/dvorak-transition/" property="og:url">
+<meta content="2016-01-08T00:00:00-06:00" property="article:published_time">
 <meta content="http://joebuhlig.com/about/" property="article:author">
-<meta content="http://joebuhlig.com/assets/posts/Writing-a-Book-with-GitHub.jpg" property="og:image">
+<meta content="http://joebuhlig.com/assets/posts/Dvorak-Transition.jpg" property="og:image">
 <meta content="blog" property="article:section">
-<meta content="book" property="article:tag"><meta content="github" property="article:tag"><meta content="writing" property="article:tag">
+<meta content="dvorak" property="article:tag"><meta content="hardware" property="article:tag">
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@joebuhlig">
 <meta name="twitter:creator" content="@joebuhlig">
-<meta name="twitter:title" content="Writing a Book with GitHub">
-<meta name="twitter:url" content="http://joebuhlig.com/writing-a-book-with-github/">
-<meta name="twitter:description" content="A lot of time and effort go into writing a book. It gets even harder when you need to collaborate with your editor and make revisions.">
-<meta name="twitter:image:src" content="http://joebuhlig.com/assets/posts/Writing-a-Book-with-GitHub.jpg">
+<meta name="twitter:title" content="Dvorak Transition">
+<meta name="twitter:url" content="http://joebuhlig.com/dvorak-transition/">
+<meta name="twitter:description" content="I’ve had an interest in the Dvorak keyboard layout for a couple years now. The concept makes sense to me and I’m finally doing something about it.">
+<meta name="twitter:image:src" content="http://joebuhlig.com/assets/posts/Dvorak-Transition.jpg">
 <!-- Javascript -->
 <script src="http://joebuhlig.com/assets/js/jquery-1.11.3.min.js"></script>
 <script src="http://joebuhlig.com/assets/js/clean-search.js"></script>
@@ -212,43 +212,292 @@
     <div class="page-content">
       <div class="wrapper content-wrapper">
         <div class="post">
-	<img class="featured-image" src="/assets/posts/Writing-a-Book-with-GitHub.jpg" />
+	<img class="featured-image" src="/assets/posts/Dvorak-Transition.jpg" />
 	<header class="post-header">
 		<p class="post-meta">
-			Writing a Book with GitHub • Dec 28, 2015 • Joe Buhlig • ~2  mins • <a href="/tag/book">book</a>,  <a href="/tag/github">github</a>,  <a href="/tag/writing">writing</a> 
+			Dvorak Transition • Jan 8, 2016 • Joe Buhlig • ~4  mins • <a href="/tag/dvorak">dvorak</a>,  <a href="/tag/hardware">hardware</a> 
 		</p>
 	</header>
 	<article class="post-content">
-		<p>A lot of time and effort go into writing a book. It gets even harder when you need to collaborate with your editor and make revisions.
+		<p>I’ve had an interest in the Dvorak keyboard layout for a couple years now. The concept makes sense to me and I’m finally doing something about it.
 <!--more--></p>
 
-<p>All of the edits must be reviewed and approved. Do you keep the change or do you toss it? Multiply this by hundreds of edits (or in my case thousands) and the task is enormous. Even when you think you nailed a paragraph, it can come back shredded (that means it’s better in the end, right?).</p>
+<p>For those not familiar with <a href="https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard">Dvorak</a>, it’s a simplified keyboard layout that is designed to reduce finger motion and errors. And by association, many proponents claim faster typing speed as a result.</p>
 
-<p>When I wrote <a href="https://tools.joebuhlig.com/working-with-omnifocus/"><em>Working with OmniFocus</em></a> I used GitHub to manage all of the revisions and help me see the edits. I was doing all of my writing for the blog in Markdown and I didn’t want to change that workflow for the book.  It turned out to be a great choice.</p>
+<p>I’m very interested in the typing speed claims, but I’m also intrigued by the idea of preemptively combating RSI. I don’t have any major issues right now, but as someone who makes a living by typing I can’t afford long-term degradation.</p>
 
-<h2 id="file-layout">File Layout</h2>
+<p>When it’s all over, I would like to know if the switch was worth it. But measuring finger movements would be pretty difficult. It would require setting up cameras and running the video through a sensing algorithm to determine the distance my fingers travel while typing a lot of text. And since Dvorak is already built to reduce motion, I don’t see the point. I would be trying to prove it was correctly designed. So instead, I’ll be measuring my typing speed to get a comparison.</p>
 
-<p>I kept the file structure for the book really simple. A single markdown file for the outline and a single file for each chapter. I wrote the first draft for the entire book before I went back to start editing. When I finished editing each chapter I uploaded a copy of it to a DropBox folder I share with my editor. That allowed her to get started while I kept editing the later chapters.</p>
+<p>I’m a data junky and want to make sure I have good numbers. But this case is complicated. I use two different keyboards in two different locations for most of my typing. I use the built-in keyboard in my MacBook Pro (MBP) when I’m writing from the couch and an Apple Wireless Keyboard (AWK) when I’m at my desk. Those scenarios rarely deviate, so I’ll be testing each instance.</p>
 
-<p><img class="center-image post-image-tiny" src="/assets/posts_extra/Writing a Book with GitHub/file_structure.jpg" /></p>
+<p>I needed a baseline, so I started with the QWERTY keyboard I’m used to and picked four texts from <a href="http://www.typingtest.com/">typingtest.com</a>. I ran two rounds of two minutes from each keyboard/location. I started on the couch with the MBP and did two rounds of two minutes and then moved to my desk for another two rounds.</p>
 
-<p>I created a local git repository on my computer with the GitHub for Mac application. I could do it via command line, but I like the UI that comes with the app. Every time I made edits to the book, I committed the changes to save a history of the work I was doing.</p>
+<p>However, I have one issue with this: timing. I’ve always felt that my speed tends to fluctuate from the morning to the afternoon. I did the initial testing in the morning so I did another round in the afternoon. And because I like be extra sure of things, I repeated the whole process two days in a row. All of this was done from the QWERTY keyboard before switching anything to Dvorak. No need tainting the waters.</p>
 
-<h2 id="receiving-edits">Receiving Edits</h2>
+<table>
+  <thead>
+    <tr>
+      <th>QWERTY</th>
+      <th style="text-align: center">Day</th>
+      <th style="text-align: center">Time</th>
+      <th style="text-align: center">Location</th>
+      <th style="text-align: center">WPM</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">74</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">69</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">74</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">67</td>
+    </tr>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">72</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">70</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">71</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">68</td>
+    </tr>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">75</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">73</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">78</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">76</td>
+    </tr>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">73</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">71</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">74</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">72</td>
+    </tr>
+  </tbody>
+</table>
 
-<p>When my editor finished each chapter, she let me know via email or text. I created a new branch in my local repository that I used to overwrite my version of the chapter with hers. That gave me her edits on my machine with the GitHub application waiting for me to merge those changes. I read through each edit and made decisions.</p>
+<p>I was surprised to see very little difference between the MBP and the AWK. Overall, my average QWERTY typing speed was 72 wpm. Not bad.</p>
 
-<p><img class="center-image post-image-small" src="/assets/posts_extra/Writing a Book with GitHub/github_edits.jpg" /></p>
+<p>Once I had all of my numbers on QWERTY, I added a <a href="http://kbcovers.com/dvorak-keyboard-cover">keyboard cover</a> to my MBP and switched everything over to Dvorak. I made the switch cold turkey and won’t be trying to maintain QWERTY at the same time. And in the interest of good data, I repeated the entire process above on Dvorak.</p>
 
-<p>It was simple to see any adds, deletes, or comments that she made. The interface clearly showed what had been done to the file. If I needed to revise what she had done, I could jump over to the file in Sublime Text, make the edits, and save it. When I was done acting on her edits, I committed the changes and then merged them into my master branch in GitHub.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Dvorak</th>
+      <th style="text-align: center">Day</th>
+      <th style="text-align: center">Time</th>
+      <th style="text-align: center">Location</th>
+      <th style="text-align: center">WPM</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">10</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">12</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">9</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">11</td>
+    </tr>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">13</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">14</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">12</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">15</td>
+    </tr>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">16</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">13</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">11</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Morning</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">14</td>
+    </tr>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">15</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">17</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">14</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">Afternoon</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">12</td>
+    </tr>
+  </tbody>
+</table>
 
-<h2 id="version-history">Version History</h2>
+<p>I have a long way to go before I reach my initial QWERTY speed. My hope is that going all-in with Dvorak will help me get there quicker. It’s all for the sake of faster and more efficient typing.</p>
 
-<p>A big benefit of this process is the version history. I can look back on every commit I have made and roll back to that point in time. It keeps each revision and allows me to come back to them as needed. This is a huge load off of my brain. I don’t have to worry about making a change - I know I can always undo it or look back on what I did and see the progression.</p>
+<script src="/assets/js/jquery-tablesorter.js"></script>
 
-<p>I plan to use this method for any books I write in the future. I use GitHub quite a bit, so I’m comfortable with it and it makes the editing process painless. Well, at least logistically.</p>
+<script>
+$("table").tablesorter();
+</script>
 
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3yimvg/writing_a_book_with_github/">Discuss this on Reddit.</a></p>
 
 		
 		<div class="related-posts">
@@ -256,14 +505,6 @@
 			
 			
 				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
 				    
 				
 			
@@ -271,409 +512,7 @@
 				    	
 				    	 
 				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-				          		<div class="related-post"><a href="/writing-with-github/"><img src="/assets/posts/Writing-with-GitHub.jpg"></a></div>
+				          		<div class="related-post"><a href="/18/"><img src="/assets/posts/Cold-Turkey-on-QWERTY.jpg"></a></div>
 				          		
 								
 				    
@@ -685,8 +524,6 @@
 				        	
 					     
 				        	
-					     
-				        	
 					    
 				    
 				
@@ -694,20 +531,6 @@
 				
 				    	
 				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
 				        	
 					     
 				        	
@@ -721,8 +544,6 @@
 				        	
 					     
 				        	
-					     
-				        	
 					    
 				    
 				
@@ -730,20 +551,6 @@
 				
 				    	
 				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
 				        	
 					     
 				        	
@@ -757,8 +564,6 @@
 				        	
 					     
 				        	
-					     
-				        	
 					    
 				    
 				
@@ -766,20 +571,6 @@
 				
 				    	
 				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
 				        	
 					     
 				        	
@@ -793,8 +584,6 @@
 				        	
 					     
 				        	
-					     
-				        	
 					    
 				    
 				
@@ -802,20 +591,6 @@
 				
 				    	
 				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
 				        	
 					     
 				        	
@@ -829,8 +604,6 @@
 				        	
 					     
 				        	
-					     
-				        	
 					    
 				    
 				
@@ -838,20 +611,6 @@
 				
 				    	
 				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
 				        	
 					     
 				        	
@@ -865,9 +624,167 @@
 				        	
 					     
 				        	
+					    
+				    
+				
+			
+				
+				    	
+				    	 
+				        	
 					     
 				        	
-				          		<div class="related-post"><a href="/my-writing-setup/"><img src="/assets/posts/My-Writing-Setup.jpg"></a></div>
+					    
+				    
+				
+			
+				
+				    	
+				    	 
+				        	
+					     
+				        	
+					    
+				    
+				
+			
+				
+				    	
+				    	 
+				        	
+					     
+				        	
+					    
+				    
+				
+			
+				
+				    	
+				    	 
+				        	
+					     
+				        	
+					    
+				    
+				
+			
+				
+				    	
+				    	 
+				        	
+					     
+				        	
+					    
+				    
+				
+			
+				
+				    	
+				    	 
+				        	
+					     
+				        	
+					    
+				    
+				
+			
+				
+				    	
+				    	 
+				        	
+					     
+				        	
+					    
+				    
+				
+			
+				
+				    	
+				    	 
+				        	
+					     
+				        	
+					    
+				    
+				
+			
+				
+				    	
+				    	 
+				        	
+					     
+				        	
+					    
+				    
+				
+			
+				
+				    	
+				    	 
+				        	
+					     
+				        	
+					    
+				    
+				
+			
+				
+				    	
+				    	 
+				        	
+					     
+				        	
+					    
+				    
+				
+			
+				
+				    	
+				    	 
+				        	
+					     
+				        	
+					    
+				    
+				
+			
+				
+				    	
+				    	 
+				        	
+					     
+				        	
+					    
+				    
+				
+			
+				
+				    	
+				    	 
+				        	
+					     
+				        	
+					    
+				    
+				
+			
+				
+				    	
+				    	 
+				        	
+					     
+				        	
+					    
+				    
+				
+			
+				
+				    	
+				    	 
+				        	
+					     
+				        	
+				          		<div class="related-post"><a href="/8/"><img src="/assets/posts/Waiting-to-Upgrade.jpg"></a></div>
 				          		
 								
 				    
@@ -879,8 +796,6 @@
 				        	
 					     
 				        	
-					     
-				        	
 					    
 				    
 				
@@ -888,20 +803,6 @@
 				
 				    	
 				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
 				        	
 					     
 				        	
@@ -915,29 +816,15 @@
 				        	
 					     
 				        	
-					     
-				        	
-					    
+				          		<div class="related-post"><a href="/sharing-a-computer/"><img src="/assets/posts/Sharing-a-Computer.jpg"></a></div>
+				          		
+								
 				    
 				
 			
 				
 				    	
 				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
 				        	
 					     
 				        	
@@ -951,8 +838,6 @@
 				        	
 					     
 				        	
-					     
-				        	
 					    
 				    
 				
@@ -960,20 +845,6 @@
 				
 				    	
 				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
 				        	
 					     
 				        	
@@ -987,8 +858,6 @@
 				        	
 					     
 				        	
-					     
-				        	
 					    
 				    
 				
@@ -996,20 +865,6 @@
 				
 				    	
 				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
 				        	
 					     
 				        	
@@ -1023,8 +878,6 @@
 				        	
 					     
 				        	
-					     
-				        	
 					    
 				    
 				
@@ -1032,20 +885,6 @@
 				
 				    	
 				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
 				        	
 					     
 				        	
@@ -1059,8 +898,6 @@
 				        	
 					     
 				        	
-					     
-				        	
 					    
 				    
 				
@@ -1068,20 +905,6 @@
 				
 				    	
 				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
 				        	
 					     
 				        	
@@ -1095,8 +918,6 @@
 				        	
 					     
 				        	
-					     
-				        	
 					    
 				    
 				
@@ -1107,29 +928,15 @@
 				        	
 					     
 				        	
-					     
-				        	
-					    
+				          		<div class="related-post"><a href="/how-i-use-the-m-o-u-s-9/"><img src="/assets/posts/How-I-Use-the-M.O.U.S.-9.jpg"></a></div>
+				          		
+								
 				    
 				
 			
 				
 				    	
 				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
 				        	
 					     
 				        	
@@ -1143,29 +950,15 @@
 				        	
 					     
 				        	
-					     
-				        	
-					    
+				          		<div class="related-post"><a href="/macbook-pro-vs-macbook-air/"><img src="/assets/posts/Macbook-Pro-Vs-MacBook-Air.jpg"></a></div>
+				          		
+								
 				    
 				
 			
 				
 				    	
 				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
 				        	
 					     
 				        	
@@ -1179,346 +972,22 @@
 				        	
 					     
 				        	
-					     
-				        	
-					    
+				          		<div class="related-post"><a href="/my-mobile-office/"><img src="/assets/posts/My-Mobile-Office.jpg"></a></div>
+				          		
+								
 				    
 				
 			
 				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
-				
-				    	
-				    	 
-				        	
-					     
-				        	
-					     
-				        	
-					    
-				    
-				
-			
+					
 			
 		</div>
 	</article>
 	<div class="page-navigation">
 		
 			
-				<a class="prev-page" href="/trust-let-loose/">&laquo; Trust & Let Loose</a>
+				<a class="prev-page" href="/2015-by-the-numbers/">&laquo; 2015 by the Numbers</a>
 			
-			
-				<a class="next-page" href="/2015-by-the-numbers/">2015 by the Numbers &raquo;</a>
 			
 		
 	</div>
