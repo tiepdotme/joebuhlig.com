@@ -14,11 +14,51 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 08 Jan 2016 06:33:35 -0600</lastBuildDate>
+<lastBuildDate>Mon, 11 Jan 2016 06:48:54 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Mac Navigation]]></title>
+    <link>http://joebuhlig.com/mac-navigation/</link>
+    <pubDate>Mon, 11 Jan 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[alfred]]></category>
+
+    <category><![CDATA[mac]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/mac-navigation/</guid>
+    <description>
+        <![CDATA[Nerdy Mac users are known for customizing their machines. Between keyboard shortcuts, Spaces, and third-party apps, you can effectively set up a computer that is perfect for you and unusable by someone else.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Mac-Navigation.jpg" /><p>Nerdy Mac users are known for customizing their machines. Between keyboard shortcuts, Spaces, and third-party apps, you can effectively set up a computer that is perfect for you and unusable by someone else.
+<!--more--></p>
+
+<p>But folks don’t typically think about how they move from one application to another. Mission Control or Spaces are the standard solutions. I’ve found that Spaces doesn’t work well because it forces me to pull my hands from the keyboard to the trackpad. And I can never find the app I want in Mission Control.</p>
+
+<h2 id="hiding">Hiding</h2>
+
+<p>I’ve developed a process of showing and hiding apps, making it possible to immediately switch to the app I want by hiding the one I was just using. I use the built in shortcut Command-H to hide an application from view. It doesn’t close the application, it just moves it to the background. I can get back to it in a couple ways, by using Spotlight or by clicking on the app icon in the dock.</p>
+
+<h2 id="alfred">Alfred</h2>
+
+<p>But I prefer to use my launcher of choice, <a href="https://www.alfredapp.com/">Alfred</a>, to bring it back. I can invoke Alfred, type the name of the application I want, and keep moving. To make it even faster, I set up a few shortcuts for commonly used programs so I can go directly to the app I want. For example, I can hit Control-Option-O to pull up OmniFocus. Control-Option-F will open Finder and Control-Option-T opens Sublime Text. They all start with Control-Option to make it easier to remember.</p>
+
+<h2 id="in-practice">In Practice</h2>
+
+<p>Anytime I need a different app, I either type the Alfred shortcut or type the name of the app into Alfred. When I’m done with it, I hide it or repeat the process to open the next one. Just remember to close them when you’re done or your computer will be as slow as a slug.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Dvorak Transition]]></title>
@@ -1203,46 +1243,6 @@ xof = OmniFocus</code></pre></figure>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3veq1r/generating_creative_energy/">Discuss this on Reddit.</a></p>
 
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[14: How Much is Down Time Worth?]]></title>
-    <link>http://joebuhlig.com/14/</link>
-    <pubDate>Wed, 02 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[time]]></category>
-
-    <category><![CDATA[tracking]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/14/</guid>
-    <description>
-        <![CDATA[I’m starting to track my time. I’ve struggled with this in the past, but now I want to tie it to dollars. I want to know where my time is best spent.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/How-Much-is-Down-Time-Worth.jpg" /><p>I’m starting to track my time. I’ve struggled with this in the past, but now I want to tie it to dollars. I want to know where my time is best spent.
-<!--more--></p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3v4rnv/14_how_much_is_down_time_worth/">Discuss this on Reddit.</a></p>
-
-<p><a href="http://www.relay.fm/cortex/3">Cortex #3: Good for Brain Health - Relay FM</a></p>
-
-<p><a href="http://contrast.co/launch-center-pro/">Contrast - Launch Center Pro</a></p>
-
-<p><a href="http://programs.clearerthinking.org/what_is_your_time_really_worth_to_you.html">‎Clearer Thinking - What Is Your Time Really Worth To You</a></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 ]]>
     </content:encoded>
 </item>

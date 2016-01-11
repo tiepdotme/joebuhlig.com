@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"Mac Navigation",
+			"image":"/assets/posts/Mac-Navigation.jpg",
+			"permalink":"/mac-navigation/",
+			"categories": [
+				"blog"
+			],
+			"tags": [
+				"alfred",
+				"mac"
+			],
+			"excerpt": "<p>Nerdy Mac users are known for customizing their machines. Between keyboard shortcuts, Spaces, and third-party apps, you can effectively set up a computer that is perfect for you and unusable by someone else.</p>\n\n",
+			"content": "Nerdy%20Mac%20users%20are%20known%20for%20customizing%20their%20machines.%20Between%20keyboard%20shortcuts,%20Spaces,%20and%20third-party%20apps,%20you%20can%20effectively%20set%20up%20a%20computer%20that%20is%20perfect%20for%20you%20and%20unusable%20by%20someone%20else.%0A%0A%0ABut%20folks%20don%E2%80%99t%20typically%20think%20about%20how%20they%20move%20from%20one%20application%20to%20another.%20Mission%20Control%20or%20Spaces%20are%20the%20standard%20solutions.%20I%E2%80%99ve%20found%20that%20Spaces%20doesn%E2%80%99t%20work%20well%20because%20it%20forces%20me%20to%20pull%20my%20hands%20from%20the%20keyboard%20to%20the%20trackpad.%20And%20I%20can%20never%20find%20the%20app%20I%20want%20in%20Mission%20Control.%0A%0AHiding%0A%0AI%E2%80%99ve%20developed%20a%20process%20of%20showing%20and%20hiding%20apps,%20making%20it%20possible%20to%20immediately%20switch%20to%20the%20app%20I%20want%20by%20hiding%20the%20one%20I%20was%20just%20using.%20I%20use%20the%20built%20in%20shortcut%20Command-H%20to%20hide%20an%20application%20from%20view.%20It%20doesn%E2%80%99t%20close%20the%20application,%20it%20just%20moves%20it%20to%20the%20background.%20I%20can%20get%20back%20to%20it%20in%20a%20couple%20ways,%20by%20using%20Spotlight%20or%20by%20clicking%20on%20the%20app%20icon%20in%20the%20dock.%0A%0AAlfred%0A%0ABut%20I%20prefer%20to%20use%20my%20launcher%20of%20choice,%20Alfred,%20to%20bring%20it%20back.%20I%20can%20invoke%20Alfred,%20type%20the%20name%20of%20the%20application%20I%20want,%20and%20keep%20moving.%20To%20make%20it%20even%20faster,%20I%20set%20up%20a%20few%20shortcuts%20for%20commonly%20used%20programs%20so%20I%20can%20go%20directly%20to%20the%20app%20I%20want.%20For%20example,%20I%20can%20hit%20Control-Option-O%20to%20pull%20up%20OmniFocus.%20Control-Option-F%20will%20open%20Finder%20and%20Control-Option-T%20opens%20Sublime%20Text.%20They%20all%20start%20with%20Control-Option%20to%20make%20it%20easier%20to%20remember.%0A%0AIn%20Practice%0A%0AAnytime%20I%20need%20a%20different%20app,%20I%20either%20type%20the%20Alfred%20shortcut%20or%20type%20the%20name%20of%20the%20app%20into%20Alfred.%20When%20I%E2%80%99m%20done%20with%20it,%20I%20hide%20it%20or%20repeat%20the%20process%20to%20open%20the%20next%20one.%20Just%20remember%20to%20close%20them%20when%20you%E2%80%99re%20done%20or%20your%20computer%20will%20be%20as%20slow%20as%20a%20slug.%0A"
+		},
+	
 		{	"title":"Dvorak Transition",
 			"image":"/assets/posts/Dvorak-Transition.jpg",
 			"permalink":"/dvorak-transition/",
