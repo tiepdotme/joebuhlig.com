@@ -68,6 +68,23 @@ Once I had all of my numbers on QWERTY, I added a [keyboard cover](http://kbcove
 
 I have a long way to go before I reach my initial QWERTY speed. My hope is that going all-in with Dvorak will help me get there quicker. It's all for the sake of faster and more efficient typing.
 
+**Updates:**
+
+**Day 5:** 
+
+At five days in I'm already making some great progress. Here are the latest numbers:
+
+| Dvorak | Location | WPM |
+|-----|:-----:|:-----:|:-----:|:-----:|
+| The Wonderful Wizard of Oz | MBP | 22 |
+| Rules of Baseball | MBP | 24 |
+| The Enchanted Typewriter | AWK | 20 |
+| Tigers in the Wild | AWK | 23 |
+| The Wonderful Wizard of Oz | AWK | 21 |
+| Rules of Baseball | AWK | 26 |
+| The Enchanted Typewriter | MBP | 22 |
+| Tigers in the Wild | MBP | 24 |
+
 <script src="/assets/js/jquery-tablesorter.js"></script>
 <script>
 $("table").tablesorter();
