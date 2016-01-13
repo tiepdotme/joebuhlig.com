@@ -1,5 +1,20 @@
 {
 	"clean_search" : [
+		{	"title":"19: Online Discussions",
+			"image":"/assets/posts/Online-Discussions.jpg",
+			"permalink":"/19/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"dvorak",
+				"forums",
+				"masterminds"
+			],
+			"excerpt": "<p>I’m looking for a good way to promote online discussions. I share my idea about it and give an update on Dvorak. And what about masterminds?</p>\n\n",
+			"content": "I%E2%80%99m%20looking%20for%20a%20good%20way%20to%20promote%20online%20discussions.%20I%20share%20my%20idea%20about%20it%20and%20give%20an%20update%20on%20Dvorak.%20And%20what%20about%20masterminds?%0A%0A%0ABecome%20a%20Patron%0A%0A/r/joebuhlig%0A%0ANewsletter%0A%0ADiscourse%0A%0AThe%20Focus%20Course%0A%0ADvorak%20Transition%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Mac Navigation",
 			"image":"/assets/posts/Mac-Navigation.jpg",
 			"permalink":"/mac-navigation/",

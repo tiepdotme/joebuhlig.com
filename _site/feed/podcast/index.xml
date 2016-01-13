@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Mon, 11 Jan 2016 06:48:54 -0600</lastBuildDate>
+<lastBuildDate>Wed, 13 Jan 2016 06:30:03 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,83 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>19: Online Discussions</title>
+    <link>http://joebuhlig.com/19/</link>
+    <comments>http://joebuhlig.com/19/#comments</comments>
+    <pubDate>Wed, 13 Jan 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[dvorak]]></category>
+
+    <category><![CDATA[forums]]></category>
+
+    <category><![CDATA[masterminds]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/19/</guid>
+    <description>
+        <![CDATA[I’m looking for a good way to promote online discussions. I share my idea about it and give an update on Dvorak. And what about masterminds?
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I’m looking for a good way to promote online discussions. I share my idea about it and give an update on Dvorak. And what about masterminds?
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/">/r/joebuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/newsletter/">Newsletter</a></p>
+
+<p><a href="http://www.discourse.org/">Discourse</a></p>
+
+<p><a href="https://thefocuscourse.com/">The Focus Course</a></p>
+
+<p><a href="http://joebuhlig.com/dvorak-transition/">Dvorak Transition</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ019.mp3" length="16690135" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[I’m looking for a good way to promote online discussions. I share my idea about it and give an update on Dvorak. And what about masterminds?
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>I’m looking for a good way to promote online discussions. I share my idea about it and give an update on Dvorak. And what about masterminds?
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://www.reddit.com/r/joebuhlig/">/r/joebuhlig</a></p>
+
+<p><a href="http://joebuhlig.com/newsletter/">Newsletter</a></p>
+
+<p><a href="http://www.discourse.org/">Discourse</a></p>
+
+<p><a href="https://thefocuscourse.com/">The Focus Course</a></p>
+
+<p><a href="http://joebuhlig.com/dvorak-transition/">Dvorak Transition</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>17:11</itunes:duration>
+  </item>
 
   <item>
     <title>18: Cold Turkey on QWERTY</title>

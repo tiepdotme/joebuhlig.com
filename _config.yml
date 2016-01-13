@@ -6,13 +6,13 @@ email: joe@joebuhlig.com
 description: > # this means to ignore newlines until "baseurl:"
   leverage the digital and welcome real life
 author: Joe Buhlig
-copyright: Copyright © Joe Buhlig 2015 • All Rights Reserved
+copyright: Copyright © Joe Buhlig 2016 • All Rights Reserved
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://joebuhlig.com" # the base hostname & protocol for your site
 twitter_username: joebuhlig
 github_username:  joebuhlig
 tumblr_username: joebuhlig
-instagram_username: joe_buhlig
+instagram_username: joebuhlig
 subreddit:  joebuhlig
 
 # ------------------------------------------------------------------------
