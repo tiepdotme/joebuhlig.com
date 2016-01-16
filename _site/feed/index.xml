@@ -14,11 +14,49 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 14 Jan 2016 21:26:28 -0600</lastBuildDate>
+<lastBuildDate>Sat, 16 Jan 2016 06:47:43 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Dictating vs Typing]]></title>
+    <link>http://joebuhlig.com/dictating-vs-typing/</link>
+    <pubDate>Fri, 15 Jan 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[dictation]]></category>
+
+    <category><![CDATA[writing]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/dictating-vs-typing/</guid>
+    <description>
+        <![CDATA[Dictation is becoming more and more commonplace, and as the software behind it continues to get better we’ll likely see it become a bigger part of our daily lives.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Dictating-vs-Typing.jpg" /><p>Dictation is becoming more and more commonplace, and as the software behind it continues to get better we’ll likely see it become a bigger part of our daily lives.
+<!--more--></p>
+
+<p>It takes some practice, but once you understand the mechanics, dictating can increase your time efficiency. From texting to getting the latest Chiefs scores, there are endless uses for the technology. I use Siri a fair amount and now that “Hey Siri” is wireless in the iPhone 6S, I’ve found my use cases increasing.</p>
+
+<p>Because of Siri’s current accuracy, I decided to dictate the first draft of <a href="https://tools.joebuhlig.com/working-with-omnifocus/"><em>Working with OmniFocus</em></a>. I knew that I could get the ideas out of my mind much faster if I were able to simply speak them.</p>
+
+<p>It was great. I plugged in my podcasting mic, turned on dictation, and went to town. I could draft an entire chapter in about 90 minutes. In 6 days I had finished the entire first draft. It felt awesome to be able to do so much in so little time.</p>
+
+<p>When I reflected on that process I realized that I spent a lot of time trying to find the specific words I wanted instead of working to get the ideas out of my head. I was able to input the words so quickly that I had a hard time coming up with the words I wanted. This by itself really isn’t a big deal, but it meant that I needed to find a way to pre-process my thoughts ahead of time.  In the end I spent an hour writing or typing my notes for each chapter before I dictated them, so there wasn’t much for time savings.</p>
+
+<p>Since the dictation wasn’t 100% perfect, I spent quite a bit of time deciphering my original intent when editing. Not only was I trying to improve the sentences and paragraphs, but the words themselves were so far off at times that I couldn’t figure out what I was talking about and ended up rewriting the whole thing anyway.</p>
+
+<p>More practice would likely improve my dictation, but the slower pace of typing gives me time to process my thoughts more clearly and reduce editing later. It helps me gain clarity faster and spend more time refining the ideas than the process. I will continue to use dictation for smaller chunks, but in my case anything long-form is better suited to typing.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[19: Online Discussions]]></title>
@@ -1225,63 +1263,6 @@ xof = OmniFocus</code></pre></figure>
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Keeping Up with Ideas]]></title>
-    <link>http://joebuhlig.com/keeping-up-with-ideas/</link>
-    <pubDate>Mon, 07 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[creativity]]></category>
-
-    <category><![CDATA[ideas]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/keeping-up-with-ideas/</guid>
-    <description>
-        <![CDATA[Ideas are sometimes hard to come up with. But what happens when you have so many that you get lost? You have all these ideas begging you for attention and it becomes unclear which ones you should take on and which ones you should let go.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Keeping-Up-with-Ideas.jpg" /><p>Ideas are sometimes hard to come up with. But what happens when you have so many that you get lost? You have all these ideas begging you for attention and it becomes unclear which ones you should take on and which ones you should let go.
-<!--more--></p>
-
-<p>I don’t know how to tackle this issue with anything other than a list. But a list is no good if you don’t trust it. You have to trust that you’ll add items to it and you have to trust that you’ll come back to it. There may be mental freedom in writing it down, but if you never look at it again you’ve just conned yourself into forgetting.</p>
-
-<h2 id="analog-vs-digital">Analog vs Digital</h2>
-
-<p>Where you keep this list doesn’t matter, as long as it works for you. Most people assume that I do everything digitally. False. Many times I’m writing notes or drawing pictures on a <a href="http://joebuhlig.com/what-is-an-hpda-and-how-do-i-use-it/">note card</a>. I convert it later, but I still prefer pen and paper.</p>
-
-<p>Choose the process that works for you. If you’re using a paper calendar, you’ll likely want to keep this list on paper as well. If you don’t have a printer, you’ll probably find an app for it.</p>
-
-<h2 id="capture">Capture</h2>
-
-<p>No matter which form of list keeping you use, it’s imperative that you keep something around to <a href="http://joebuhlig.com/getting-things-done-capture/">grab these ideas</a> when they come. And they <em>will</em> hit you at inopportune times. Think about how you’ll capture ideas when you’re driving your car or taking a shower. If you don’t have a plan, you’ll start losing them.</p>
-
-<h2 id="building-trust">Building Trust</h2>
-
-<p>The only way you’ll build trust in your new list is to read through it regularly. I’ve found weekly to be a great starting point. It doesn’t matter when, so long as you do it. Schedule a time if you have to, but make sure you don’t forget this step; it is the most vital part of the process.</p>
-
-<p>With consistent review, you begin to trust that your ideas aren’t lost after you write them down. You will come back to them. And as a nice bonus, you’ll start to have more ideas as you go through the list. Seeing them all together typically prompts new ones to form.</p>
-
-<h2 id="making-decisions">Making Decisions</h2>
-
-<p>If you create this list, collect ideas for it, and trust it, it’s still worthless if you never activate an idea. But when do you start working on an idea and how do you know which one to pick?</p>
-
-<p>Timing is the easy part. You can only choose to work on an idea if you have time (or make time) for it. If you decide to <a href="http://joebuhlig.com/why-getting-up-early/">get up early</a> to work on that new side project, you know when you’ll work on it. If you feel overwhelmed by your workload as it is, you need to focus on completing current projects before you take on a new one.</p>
-
-<p>Deciding which idea to pursue is the hard part. If possible, you want the idea to have purpose and hold your interest. If there’s no strategic or direct value in it, why work on it? It should either be a building block to something else or a straightforward product that you’ll enjoy.</p>
-
-<p>When you find yourself having a lot of new ideas, take advantage of it. Write them down, because they don’t always come when you want them.</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3vsb8u/keeping_up_with_ideas/">Discuss this on Reddit.</a></p>
-
 ]]>
     </content:encoded>
 </item>

@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"Dictating vs Typing",
+			"image":"/assets/posts/Dictating-vs-Typing.jpg",
+			"permalink":"/dictating-vs-typing/",
+			"categories": [
+				"blog"
+			],
+			"tags": [
+				"dictation",
+				"writing"
+			],
+			"excerpt": "<p>Dictation is becoming more and more commonplace, and as the software behind it continues to get better we’ll likely see it become a bigger part of our daily lives.</p>\n\n",
+			"content": "Dictation%20is%20becoming%20more%20and%20more%20commonplace,%20and%20as%20the%20software%20behind%20it%20continues%20to%20get%20better%20we%E2%80%99ll%20likely%20see%20it%20become%20a%20bigger%20part%20of%20our%20daily%20lives.%0A%0A%0AIt%20takes%20some%20practice,%20but%20once%20you%20understand%20the%20mechanics,%20dictating%20can%20increase%20your%20time%20efficiency.%20From%20texting%20to%20getting%20the%20latest%20Chiefs%20scores,%20there%20are%20endless%20uses%20for%20the%20technology.%20I%20use%20Siri%20a%20fair%20amount%20and%20now%20that%20%E2%80%9CHey%20Siri%E2%80%9D%20is%20wireless%20in%20the%20iPhone%206S,%20I%E2%80%99ve%20found%20my%20use%20cases%20increasing.%0A%0ABecause%20of%20Siri%E2%80%99s%20current%20accuracy,%20I%20decided%20to%20dictate%20the%20first%20draft%20of%20Working%20with%20OmniFocus.%20I%20knew%20that%20I%20could%20get%20the%20ideas%20out%20of%20my%20mind%20much%20faster%20if%20I%20were%20able%20to%20simply%20speak%20them.%0A%0AIt%20was%20great.%20I%20plugged%20in%20my%20podcasting%20mic,%20turned%20on%20dictation,%20and%20went%20to%20town.%20I%20could%20draft%20an%20entire%20chapter%20in%20about%2090%20minutes.%20In%206%20days%20I%20had%20finished%20the%20entire%20first%20draft.%20It%20felt%20awesome%20to%20be%20able%20to%20do%20so%20much%20in%20so%20little%20time.%0A%0AWhen%20I%20reflected%20on%20that%20process%20I%20realized%20that%20I%20spent%20a%20lot%20of%20time%20trying%20to%20find%20the%20specific%20words%20I%20wanted%20instead%20of%20working%20to%20get%20the%20ideas%20out%20of%20my%20head.%20I%20was%20able%20to%20input%20the%20words%20so%20quickly%20that%20I%20had%20a%20hard%20time%20coming%20up%20with%20the%20words%20I%20wanted.%20This%20by%20itself%20really%20isn%E2%80%99t%20a%20big%20deal,%20but%20it%20meant%20that%20I%20needed%20to%20find%20a%20way%20to%20pre-process%20my%20thoughts%20ahead%20of%20time.%20%20In%20the%20end%20I%20spent%20an%20hour%20writing%20or%20typing%20my%20notes%20for%20each%20chapter%20before%20I%20dictated%20them,%20so%20there%20wasn%E2%80%99t%20much%20for%20time%20savings.%0A%0ASince%20the%20dictation%20wasn%E2%80%99t%20100%25%20perfect,%20I%20spent%20quite%20a%20bit%20of%20time%20deciphering%20my%20original%20intent%20when%20editing.%20Not%20only%20was%20I%20trying%20to%20improve%20the%20sentences%20and%20paragraphs,%20but%20the%20words%20themselves%20were%20so%20far%20off%20at%20times%20that%20I%20couldn%E2%80%99t%20figure%20out%20what%20I%20was%20talking%20about%20and%20ended%20up%20rewriting%20the%20whole%20thing%20anyway.%0A%0AMore%20practice%20would%20likely%20improve%20my%20dictation,%20but%20the%20slower%20pace%20of%20typing%20gives%20me%20time%20to%20process%20my%20thoughts%20more%20clearly%20and%20reduce%20editing%20later.%20It%20helps%20me%20gain%20clarity%20faster%20and%20spend%20more%20time%20refining%20the%20ideas%20than%20the%20process.%20I%20will%20continue%20to%20use%20dictation%20for%20smaller%20chunks,%20but%20in%20my%20case%20anything%20long-form%20is%20better%20suited%20to%20typing.%0A"
+		},
+	
 		{	"title":"19: Online Discussions",
 			"image":"/assets/posts/Online-Discussions.jpg",
 			"permalink":"/19/",
