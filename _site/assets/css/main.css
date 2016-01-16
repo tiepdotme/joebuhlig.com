@@ -417,7 +417,8 @@ table {
 .post-meta {
   font-size: 14px;
   color: #828282;
-  margin-top: 10px; }
+  margin-top: 10px;
+  text-align: center; }
 
 .post-link {
   display: block;
@@ -471,7 +472,7 @@ table {
   max-width: 400px; }
 
 .feed-excerpt {
-  margin-top: 10px; }
+  margin: 0px 0px 25px 0px; }
 
 .feed-pic {
   display: table;
@@ -486,6 +487,12 @@ table {
 .feed-pic img {
   border-radius: 5px;
   max-height: 266px; }
+
+.feed-meta {
+  font-size: 14px;
+  color: #828282;
+  margin: 5px 0px 0px 0px;
+  text-align: center; }
 
 /**
  * Posts

@@ -318,6 +318,7 @@
     font-size: $small-font-size;
     color: $grey-color;
     margin-top: 10px;
+    text-align: center;
 }
 
 .post-link {
@@ -387,7 +388,7 @@
 }
 
 .feed-excerpt {
-    margin-top: 10px;
+    margin: 0px 0px 25px 0px;
 }
 
 .feed-pic {
@@ -404,7 +405,12 @@
     border-radius:5px;
     max-height: 266px;
 }
-
+.feed-meta{
+    font-size: $small-font-size;
+    color: $grey-color;
+    margin: 5px 0px 0px 0px;
+    text-align: center;
+}
 /**
  * Posts
  */
