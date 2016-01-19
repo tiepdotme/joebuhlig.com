@@ -125,7 +125,8 @@ code {
   background-color: #eef; }
 
 code {
-  padding: 1px 5px; }
+  padding: 1px 5px;
+  word-wrap: break-word; }
 
 pre {
   padding: 8px 12px;
@@ -472,6 +473,15 @@ table {
   max-width: 400px; }
 
 .feed-excerpt {
+  display: block;
+  display: -webkit-box;
+  max-width: 100%;
+  height: 74px;
+  font-size: 16px;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
   margin: 0px 0px 25px 0px; }
 
 .feed-pic {

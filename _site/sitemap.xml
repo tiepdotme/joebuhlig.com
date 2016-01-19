@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/just-a-laptop/</loc>
+    <lastmod>2016-01-18T00:00:00-06:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/dictating-vs-typing/</loc>
     <lastmod>2016-01-15T00:00:00-06:00</lastmod>
   </url>
@@ -448,13 +452,13 @@
     <loc>http://joebuhlig.com/500.html</loc>
   </url>
   <url>
-    <loc>http://joebuhlig.com/patron/</loc>
-  </url>
-  <url>
-    <loc>http://joebuhlig.com/newsletter/</loc>
-  </url>
-  <url>
     <loc>http://joebuhlig.com/newsletter/confirm/</loc>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/newsletter/thank-you/</loc>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/patron/</loc>
   </url>
   <url>
     <loc>http://joebuhlig.com/whaddyaknowjoe/</loc>
@@ -466,7 +470,7 @@
     <loc>http://joebuhlig.com/about/</loc>
   </url>
   <url>
-    <loc>http://joebuhlig.com/newsletter/thank-you/</loc>
+    <loc>http://joebuhlig.com/newsletter/</loc>
   </url>
   <url>
     <loc>http://joebuhlig.com/tag/distractions/</loc>
@@ -1037,5 +1041,8 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/dictating-vs-typing/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/just-a-laptop/</loc>
     </url>
 </urlset>

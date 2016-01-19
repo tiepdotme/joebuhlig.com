@@ -2,9 +2,7 @@
 layout: default
 ---
 <div class="posts">
-	{% for post in site.categories.podcast limit: 10 %}
+	{% for post in site.categories.podcast %}
 	    {% include content_feed.html post=post %}
 	{% endfor %}
 </div>
-<div class="infinite-spinner"></div>
-<script src="{{ "/assets/js/infinite-podcast-posts.js" | prepend: site.url }}"></script>

@@ -72,8 +72,6 @@ I have a long way to go before I reach my initial QWERTY speed. My hope is that 
 
 **Day 5:** 
 
-At five days in I'm already making some great progress. Here are the latest numbers:
-
 | Dvorak | Location | WPM |
 |-----|:-----:|:-----:|:-----:|:-----:|
 | The Wonderful Wizard of Oz | MBP | 22 |
@@ -84,6 +82,19 @@ At five days in I'm already making some great progress. Here are the latest numb
 | Rules of Baseball | AWK | 26 |
 | The Enchanted Typewriter | MBP | 22 |
 | Tigers in the Wild | MBP | 24 |
+
+**Day 10:** 
+
+| Dvorak | Location | WPM |
+|-----|:-----:|:-----:|:-----:|:-----:|
+| The Wonderful Wizard of Oz | MBP | 31 |
+| Rules of Baseball | MBP | 34 |
+| The Enchanted Typewriter | AWK | 29 |
+| Tigers in the Wild | AWK | 35 |
+| The Wonderful Wizard of Oz | AWK | 33 |
+| Rules of Baseball | AWK | 34 |
+| The Enchanted Typewriter | MBP | 36 |
+| Tigers in the Wild | MBP | 31 |
 
 <script src="/assets/js/jquery-tablesorter.js"></script>
 <script>

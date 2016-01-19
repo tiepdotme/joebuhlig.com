@@ -14,11 +14,51 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Sat, 16 Jan 2016 07:06:09 -0600</lastBuildDate>
+<lastBuildDate>Tue, 19 Jan 2016 13:37:40 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Just a Laptop]]></title>
+    <link>http://joebuhlig.com/just-a-laptop/</link>
+    <pubDate>Mon, 18 Jan 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[hardware]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/just-a-laptop/</guid>
+    <description>
+        <![CDATA[When I started my business I made the shift from three 27” monitors to just a laptop screen. That shift has taught me a few things about how I work.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Just-a-Laptop.jpg" /><p>When I started my business I made the shift from three 27” monitors to just a laptop screen. That shift has taught me a few things about how I work.
+<!--more--></p>
+
+<h2 id="different-modes">Different Modes</h2>
+
+<p>I have different mindsets and needs when I’m doing different types of work. I can listen to upbeat music and kick back on the couch when I’m cycling through email, but I need instrumental, low-key music and my desk when I’m coding. These two examples were the extremes that made me start to pay attention.</p>
+
+<p>Noticing those subtle differences has brought some pretty big gains in productivity. I used to rarely leave my desk because the monitors made it possible to see so much at once. When I only have the laptop screen it forces me to focus and choose the best (or most comfortable) environment.</p>
+
+<h2 id="focus">Focus</h2>
+
+<p>Forcing focus has paid big dividends in my writing. Because I don’t have the ability to see a whole bunch of things at once, I stick to the task in front of me. Since the time I’m most vulnerable to YouTube binges is when I sit down to write, this has paid off. I usually enjoy the process of writing but getting started is hard when there’s a Twitter feed staring at me from the corner.</p>
+
+<h2 id="development">Development</h2>
+
+<p>One area that has suffered is coding. It’s not uncommon for me to have three browsers open, multiple instances of Sublime Text, and multiple terminal windows running all at once. The ease of seeing a bunch of those at once is extremely helpful and allows me to work much more quickly and efficiently.</p>
+
+<p>This isn’t my forever setup, but it is good for me to appreciate the advantages and acknowledge the limitations of working from “just a laptop.”</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Dictating vs Typing]]></title>
@@ -441,8 +481,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <p><strong>Day 5:</strong></p>
 
-<p>At five days in I’m already making some great progress. Here are the latest numbers:</p>
-
 <table>
   <thead>
     <tr>
@@ -491,6 +529,60 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
       <td>Tigers in the Wild</td>
       <td style="text-align: center">MBP</td>
       <td style="text-align: center">24</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Day 10:</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Dvorak</th>
+      <th style="text-align: center">Location</th>
+      <th style="text-align: center">WPM</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">31</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">34</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">29</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">35</td>
+    </tr>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">33</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">34</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">36</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">31</td>
     </tr>
   </tbody>
 </table>
@@ -1221,48 +1313,6 @@ xof = OmniFocus</code></pre></figure>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3wdbal/textexpander_snippet_nomenclature/">Discuss this on Reddit.</a></p>
 
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[15: Messed Up Mornings]]></title>
-    <link>http://joebuhlig.com/15/</link>
-    <pubDate>Wed, 09 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[early-riser]]></category>
-
-    <category><![CDATA[kids]]></category>
-
-    <category><![CDATA[life]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/15/</guid>
-    <description>
-        <![CDATA[The way people structure their morning routine can easily dictate your motivation for the day. But what happens when you can’t control the circumstances around your morning? What about kids?
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Messed-Up-Mornings.jpg" /><p>The way people structure their morning routine can easily dictate your motivation for the day. But what happens when you can’t control the circumstances around your morning? What about kids?
-<!--more--></p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3w3a1h/15_messed_up_mornings/">Discuss this on Reddit.</a></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="http://mymorningroutine.com/">My Morning Routine - Inspiring Morning Routines</a></p>
-
-<p><a href="http://joebuhlig.com/why-getting-up-early/">The “Why” of Getting Up Early</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]>
     </content:encoded>
 </item>
