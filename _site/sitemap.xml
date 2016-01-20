@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/20/</loc>
+    <lastmod>2016-01-20T00:00:00-06:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/just-a-laptop/</loc>
     <lastmod>2016-01-18T00:00:00-06:00</lastmod>
   </url>
@@ -710,13 +714,16 @@
     <loc>http://joebuhlig.com/tag/mac/</loc>
   </url>
   <url>
-    <loc>http://joebuhlig.com/tag/forums/</loc>
+    <loc>http://joebuhlig.com/tag/discussions/</loc>
   </url>
   <url>
     <loc>http://joebuhlig.com/tag/masterminds/</loc>
   </url>
   <url>
     <loc>http://joebuhlig.com/tag/dictation/</loc>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/tag/discussion/</loc>
   </url>
     <url>
       <loc>http://joebuhlig.com/put-distractions-place/</loc>
@@ -1044,5 +1051,8 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/just-a-laptop/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/20/</loc>
     </url>
 </urlset>

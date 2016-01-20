@@ -3,8 +3,8 @@ title:  "19: Online Discussions"
 date:   2016-01-13
 categories: podcast
 tags:
+- discussions
 - dvorak
-- forums
 - masterminds
 permalink: /19/
 image: /assets/posts/Online-Discussions.jpg

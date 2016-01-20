@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"20: Code Freeze",
+			"image":"/assets/posts/Code-Freeze.jpg",
+			"permalink":"/20/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"discussion",
+				"dvorak"
+			],
+			"excerpt": "<p>My Dvorak typing speed is picking up and I’ll be launching a new discussion in two days. Once that’s out, I’ll be going on a code freeze.</p>\n\n",
+			"content": "My%20Dvorak%20typing%20speed%20is%20picking%20up%20and%20I%E2%80%99ll%20be%20launching%20a%20new%20discussion%20in%20two%20days.%20Once%20that%E2%80%99s%20out,%20I%E2%80%99ll%20be%20going%20on%20a%20code%20freeze.%0A%0A%0ABecome%20a%20Patron%0A%0ADvorak%20Transition%0A%0A19:%20Online%20Discussions%0A%0AUsing%20Drafts%0A%0ADisqus%0A%0ADiscourse%0A%0AphpBB%0A%0AThe%20Omni%20Group%20Forums%0A%0AJekyll%20Talk%0A%0ADiscourse%20Meta%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Just a Laptop",
 			"image":"/assets/posts/Just-a-Laptop.jpg",
 			"permalink":"/just-a-laptop/",
@@ -34,8 +48,8 @@
 				"podcast"
 			],
 			"tags": [
+				"discussions",
 				"dvorak",
-				"forums",
 				"masterminds"
 			],
 			"excerpt": "<p>I’m looking for a good way to promote online discussions. I share my idea about it and give an update on Dvorak. And what about masterminds?</p>\n\n",

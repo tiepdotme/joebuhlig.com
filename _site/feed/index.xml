@@ -14,11 +14,63 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 19 Jan 2016 13:54:47 -0600</lastBuildDate>
+<lastBuildDate>Wed, 20 Jan 2016 09:50:46 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[20: Code Freeze]]></title>
+    <link>http://joebuhlig.com/20/</link>
+    <pubDate>Wed, 20 Jan 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[discussion]]></category>
+
+    <category><![CDATA[dvorak]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/20/</guid>
+    <description>
+        <![CDATA[My Dvorak typing speed is picking up and I’ll be launching a new discussion in two days. Once that’s out, I’ll be going on a code freeze.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Code-Freeze.jpg" /><p>My Dvorak typing speed is picking up and I’ll be launching a new discussion in two days. Once that’s out, I’ll be going on a code freeze.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://joebuhlig.com/dvorak-transition/">Dvorak Transition</a></p>
+
+<p><a href="http://joebuhlig.com/19/">19: Online Discussions</a></p>
+
+<p><a href="http://joebuhlig.com/using-drafts/">Using Drafts</a></p>
+
+<p><a href="https://disqus.com/">Disqus</a></p>
+
+<p><a href="http://www.discourse.org/">Discourse</a></p>
+
+<p><a href="https://www.phpbb.com/">phpBB</a></p>
+
+<p><a href="https://discourse.omnigroup.com/">The Omni Group Forums</a></p>
+
+<p><a href="https://talk.jekyllrb.com/">Jekyll Talk</a></p>
+
+<p><a href="https://meta.discourse.org/">Discourse Meta</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Just a Laptop]]></title>
@@ -107,9 +159,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <category><![CDATA[podcast]]></category>
 
 
-    <category><![CDATA[dvorak]]></category>
+    <category><![CDATA[discussions]]></category>
 
-    <category><![CDATA[forums]]></category>
+    <category><![CDATA[dvorak]]></category>
 
     <category><![CDATA[masterminds]]></category>
 
@@ -1142,176 +1194,6 @@ $("table").tablesorter();
 <p>I’m terrible at remembering, that’s why I need these systems. This sounds like a lot of work even for me, but here’s the point: 12 months is too far out, and I need guidance. I use this month by month plan to help me decide what to work on each day. It’s a single, uncluttered list that is easily reviewed and updated. I don’t want complicated. I want it to keep my head on straight and help me hit my goals. If it does that, it’s a success.</p>
 
 <p><a href="https://www.reddit.com/r/joebuhlig/comments/3ws2o2/monthly_planning/">Discuss this on Reddit.</a></p>
-
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[TextExpander Snippet Nomenclature]]></title>
-    <link>http://joebuhlig.com/textexpander-snippet-nomenclature/</link>
-    <pubDate>Fri, 11 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[textexpander]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/textexpander-snippet-nomenclature/</guid>
-    <description>
-        <![CDATA[I currently have 217 snippets in TextExpander. That’s likely not a big number for some people, but for my forgetful mind it’s a lot. To keep them straight, I use a simple nomenclature for my snippet abbreviations.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/TextExpander-Snippet-Nomenclature.jpg" /><p>I currently have 217 snippets in TextExpander. That’s likely not a big number for some people, but for my forgetful mind it’s a lot. To keep them straight, I use a simple nomenclature for my snippet abbreviations.
-<!--more--></p>
-
-<p>The general premise is to use a short group indicator followed by a more specific identifier. It’s kind of like tagging. I still use groups in TextExpander to keep them clean, but this helps me remember them.</p>
-
-<h2 id="links">Links</h2>
-
-<p>There are some URLs that I type a lot. I use the links to <a href="https://tools.joebuhlig.com/working-with-omnifocus/"><em>Working with OmniFocus</em></a>, <a href="https://github.com/joebuhlig/OFScripts">OFScripts</a>, this website, and my email accounts (Gmail) daily, so I added them to TextExpander. I use the group indicator <code class="highlighter-rouge">link</code> and an identifier like <code class="highlighter-rouge">wwo</code> to help me remember them. So I would type <code class="highlighter-rouge">link.wwo</code> to get <code class="highlighter-rouge">https://tools.joebuhlig.com/working-with-omnifocus/</code>.</p>
-
-<figure class="highlight"><pre><code class="language-text" data-lang="text">link.home = http://joebuhlig.com
-
-link.tools = https://tools.joebuhlig.com
-
-link.pod = http://joebuhlig.com/whaddyaknowjoe/
-
-link.wwo = https://tools.joebuhlig.com/working-with-omnifocus/
-
-link.ofscripts = https://github.com/joebuhlig/OFScripts</code></pre></figure>
-
-<h2 id="markdown">Markdown</h2>
-
-<p>All of my writing is done in <a href="https://daringfireball.net/projects/markdown/">markdown</a> because I can get it into HTML so easily. It’s only natural that I have a few snippets to make this even easier. To help me remember them, I use the group indicator <code class="highlighter-rouge">md</code>.</p>
-
-<figure class="highlight"><pre><code class="language-text" data-lang="text">*This one uses two snippets that I'll mention later*
-md.curtab = [%snippet:xcurtitle%](%snippet:xcurlink%)
-
-md.image = ![%|](/assets/posts_extra/)
-
-md.reddit = [Discuss this on Reddit.](%filltext:name=Insert link to Reddit discussion%)</code></pre></figure>
-
-<h2 id="yaml">YAML</h2>
-
-<p>A couple months ago I moved from WordPress to a <a href="http://joebuhlig.com/from-wordpress-google-to-jekyll-piwik/">static site with Jekyll</a>. Part of the Jekyll environment involves “Front Matter” which is comprised of <a href="http://yaml.org/">YAML</a>. Every time I create a new article or podcast, I add this to the top of the markdown file. In my scenario, I also need to create the slug for the article. I’ve create the following snippets with the group indicator <code class="highlighter-rouge">yaml</code>.</p>
-
-<figure class="highlight"><pre><code class="language-text" data-lang="text">*For the slug, you first need to copy the text to be slugified.*
-*I usually just copy the title of the article.*
-
-yaml.slug = Javascript Snippet
-
-var text = TextExpander.pasteboardText;
-text = text.replace(/[^\w\s]/gi, '');
-var newtext = text.split(" ").join("-");
-TextExpander.appendOutput("/" + newtext.toLowerCase() + "/");</code></pre></figure>
-
-<figure class="highlight"><pre><code class="language-text" data-lang="text">yaml.blog =
-
----
-title:  "Put Distractions in Their Place"
-date:   2014-06-08
-categories: blog
-tags:
-- email
-- communication
-permalink: /put-distractions-place/
-image: /assets/posts/Put-Distractions-In-Their-Place.jpg
----</code></pre></figure>
-
-<figure class="highlight"><pre><code class="language-text" data-lang="text">yaml.pod =
-
----
-title:  "8: Waiting to Upgrade"
-date:   2014-06-08
-categories: podcast
-tags:
-- apple
-- hardware
-permalink: /8/
-image: /assets/posts/Waiting-to-Upgrade.jpg
-podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ008.mp3
-podcast_file_size: 18.8 MB
-podcast_duration: "20:21"
-podcast_length: 19715453
----</code></pre></figure>
-
-<h2 id="code">Code</h2>
-
-<p>I write a lot of code. I build my own websites and do freelance development. I use a number of languages, so I’ve created group indicators for each language: <code class="highlighter-rouge">html</code> for HTML, <code class="highlighter-rouge">css</code> for CSS, <code class="highlighter-rouge">rb</code> for Ruby, <code class="highlighter-rouge">py</code> for Python, and so on. And because HTML can get to be big, I broke it into groupings for individual tags as well.</p>
-
-<figure class="highlight"><pre><code class="language-text" data-lang="text">a.n = &lt;a href=""&gt;%|&lt;/a&gt;
-
-p.n = &lt;p&gt;%|&lt;/p&gt;
-
-p.class = &lt;p class=""&gt;%|&lt;/p&gt;
-
-div.n = &lt;div&gt;%|&lt;/div&gt;
-
-html.base = &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;%|&lt;/body&gt;&lt;/html&gt;
-
-html.clear = &lt;div class="clear"&gt;&lt;/div&gt;
-
-html.img = &lt;img src="%|" /&gt;</code></pre></figure>
-
-<h2 id="ip-addresses">IP Addresses</h2>
-
-<p>Along with coding, I have a number of IP addresses to keep track of. I don’t like referencing a table somewhere or even looking them up in 1Password. I prefer to create shortcuts to them with <code class="highlighter-rouge">ip</code> as the indicator.</p>
-
-<figure class="highlight"><pre><code class="language-text" data-lang="text">ip.jb = XX.XX.XX.XX
-
-ip.tools = XX.XX.XX.XX
-
-ip.clientname = XX.XX.XX.XX
-
-*You didn't think I'd actually share them, did you?*</code></pre></figure>
-
-<h2 id="catchallscripts">Catchall/Scripts</h2>
-
-<p>There are a lot of cases when I just want something short and it doesn’t have to be grouped because I use them so much. Formatted dates are great and so are a few scripts I run frequently. I simply use <code class="highlighter-rouge">x</code> at the start of the snippet.</p>
-
-<figure class="highlight"><pre><code class="language-text" data-lang="text">*Today's date in the format of YYYYMMDD*
-xtd = 20151211
-
-*Next Monday's date in the format of YYYYMMDD. I have one for each day of the week.*
-xnm = 20151214</code></pre></figure>
-
-<figure class="highlight"><pre><code class="language-text" data-lang="text">*The title of the current page in Safari*
-xcurtitle = Applescript
-
-tell application "Safari"
-    set theName to name of front document
-    return theName
-end tell</code></pre></figure>
-
-<figure class="highlight"><pre><code class="language-text" data-lang="text">*The URL of the current page in Safari. It removes any querystrings as well.*
-xcurlink = Applescript
-
-tell application "Safari"
-    set theName to name of front document
-    set theURL to URL of front document
-    set oldDelimiters to AppleScript's text item delimiters
-    set AppleScript's text item delimiters to "?"
-    set theArray to every text item of theURL
-    set AppleScript's text item delimiters to oldDelimiters
-    set theURL to item 1 of theArray
-    return theURL
-end tell</code></pre></figure>
-
-<figure class="highlight"><pre><code class="language-text" data-lang="text">xplan = Plan project for 
-
-xwait = Waiting for 
-
-xas = AppleScript
-
-xgh = GitHub
-
-xof = OmniFocus</code></pre></figure>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3wdbal/textexpander_snippet_nomenclature/">Discuss this on Reddit.</a></p>
 
 ]]>
     </content:encoded>
