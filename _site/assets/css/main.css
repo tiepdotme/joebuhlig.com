@@ -242,7 +242,6 @@ table {
       position: absolute;
       top: 7px;
       left: 15px;
-      border-radius: 5px;
       text-align: left;
       width: auto; }
       .site-nav .page-link:not(:first-child) {
@@ -345,7 +344,6 @@ table {
   padding: 5px; }
 
 .related-post img {
-  border-radius: 5px;
   max-height: 167px; }
 
 .site-footer {
@@ -495,7 +493,6 @@ table {
   vertical-align: middle; }
 
 .feed-pic img {
-  border-radius: 5px;
   max-height: 266px; }
 
 .feed-meta {
@@ -530,7 +527,6 @@ table {
   text-align: left; }
 
 .featured-image {
-  border-radius: 5px;
   max-height: 600px; }
 
 .page-navigation {
@@ -559,7 +555,6 @@ table {
   margin: 0px auto;
   background-color: #eee;
   padding: 15px;
-  border-radius: 5px;
   margin-bottom: 20px; }
 
 .callout-book-cover {
@@ -655,7 +650,6 @@ table {
 
 .search-result-item {
   background: #FFFFFF;
-  border-radius: 5px;
   clear: both;
   height: 150px;
   margin: 5px auto;
@@ -670,11 +664,12 @@ table {
       height: auto; } }
 
 .search-result-image {
-  border-radius: 5px 0px 0px 5px;
-  height: 100%; }
+  max-height: 100%;
+  max-width: 225px; }
   @media screen and (max-width: 550px) {
     .search-result-image {
-      height: auto; } }
+      height: auto;
+      max-width: 100%; } }
 
 .search-result-image-wrapper {
   float: left;
