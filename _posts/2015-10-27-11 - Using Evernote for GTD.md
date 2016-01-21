@@ -37,5 +37,3 @@ Before I got into OmniFocus, I used Evernote for GTD. I had a few different stru
 [@JoeBuhlig](https://twitter.com/JoeBuhlig)
 
 [Become a Patron](http://joebuhlig.com/patron/)
-
-[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3qej76/11_using_evernote_for_gtd/)

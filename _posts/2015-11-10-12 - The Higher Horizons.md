@@ -16,8 +16,6 @@ podcast_length: 16190986
 A quick overview of how I see the higher Horizons of GTD and why they are important. Also, I talk about why I think our babysitter is awesome.
 <!--more-->
 
-[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3sa9b1/12_the_higher_horizons/)
-
 [Getting Things Done® - The 6 Horizons of Focus](http://gettingthingsdone.com/2011/01/the-6-horizons-of-focus/)
 
 [GTD - Horizons of Focus - Personal Productivity Stack Exchange](http://productivity.stackexchange.com/questions/14221/gtd-horizons-of-focus)

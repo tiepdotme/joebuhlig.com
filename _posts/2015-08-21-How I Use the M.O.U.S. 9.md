@@ -61,5 +61,3 @@ I have a lot of browser tabs open when I’m doing development work or research 
 Similar to number five, I’m frequently going back a page in the browser. I have the circular side button set up to take me back a page. This also works well in other applications. For example, I can go to the last note I was looking at in Evernote using this button.
 
 If you’re in the market for a new mouse and want something ergonomic that has more features than you should be allowed to use, take a look at the M.O.U.S. 9\. I recommend it and I’m not even an affiliate.
-
-If you prefer, you can [discuss this on Reddit](https://www.reddit.com/r/joebuhlig/comments/3hu2zv/how_i_use_the_mous_9/).

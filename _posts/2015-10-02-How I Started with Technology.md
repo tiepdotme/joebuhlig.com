@@ -54,5 +54,3 @@ In that process I learned I have a strong creative side. I explored that more fu
 If you listen to [my podcast](http://joebuhlig.com/whaddyaknowjoe/) you heard me mention that I recently left my job and I'm now beginning to develop apps and web applications for myself and others. I'm now running with my own ideas and building them. I never thought I would be at this point, but it's been an exciting journey.
 
 Since starting on my own, I've been exploring new computer languages and building some of the bigger ideas that I never had time to tackle before. There's some start-up time involved, but along this journey I have found systems and disciplines that help me stay motivated to focus on the work that I'm doing. Figuring out what technology to build next is exciting, and I'm having a blast.
-
-[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3n7p8a/how_i_started_with_technology/)

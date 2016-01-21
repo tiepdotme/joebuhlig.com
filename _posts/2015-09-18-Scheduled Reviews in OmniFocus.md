@@ -38,5 +38,3 @@ There's not a way to do this directly in OmniFocus, so I wrote an AppleScript. Y
 When you launch the script, it takes the next review date of the project and adjusts it forward to the next occurrence of the review. If the review cycle is weekly, the date is set to the next Weekly Review date. If the cycle is monthly or yearly, it is moved forward to the next date for each.
 
 All I have to do is continue as normal and do my reviews on those days. If I see the indicator in OmniFocus before one of my scheduled reviews happens, I simply run the script.
-
-[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3lf4zc/scheduled_reviews_in_omnifocus/)

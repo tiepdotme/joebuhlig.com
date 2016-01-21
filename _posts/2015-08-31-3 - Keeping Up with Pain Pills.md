@@ -26,5 +26,3 @@ Ugh. Dealing with water coming into the family room. And of course, I hurt mysel
 [@JoeBuhlig](https://twitter.com/JoeBuhlig)
 
 [Become a Patron](http://joebuhlig.com/patron/)
-
-[Discuss this on Reddit](https://www.reddit.com/r/joebuhlig/comments/3j4os3/3_keeping_up_with_pain_pills/)

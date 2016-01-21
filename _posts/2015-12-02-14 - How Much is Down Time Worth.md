@@ -16,8 +16,6 @@ podcast_length: 12578515
 I'm starting to track my time. I've struggled with this in the past, but now I want to tie it to dollars. I want to know where my time is best spent.
 <!--more-->
 
-[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3v4rnv/14_how_much_is_down_time_worth/)
-
 [Cortex #3: Good for Brain Health - Relay FM](http://www.relay.fm/cortex/3)
 
 [Contrast - Launch Center Pro](http://contrast.co/launch-center-pro/)

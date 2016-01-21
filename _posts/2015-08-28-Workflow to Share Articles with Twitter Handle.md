@@ -54,5 +54,3 @@ The last step is to create the string of text that will be passed to the share s
 When you find an article you want to share, invoke the share sheet and hit Run Workflow. Select this workflow and wait for it to ask which Twitter handle to use. Once you’ve selected one, the share sheet will pop up again and you can pick your method of sharing. It will dump the created share string into the application. All you have to do is add your comment to the beginning of the string. Poof!
 
 **UPDATE:** I had a number of requests to add the title of the article to the tweet. I wanted to encourage myself to add an original comment about the article, but sometimes want this as well. So I went ahead and [created another version](https://workflow.is/workflows/6898d8d15333417fa6da8ab316c32c5b) that adds the title to the beginning of the tweet. Enjoy!
-
-[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3ipphq/workflow_to_share_articles_with_twitter_handle/)

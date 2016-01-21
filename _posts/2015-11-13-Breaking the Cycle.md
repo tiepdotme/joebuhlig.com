@@ -40,8 +40,6 @@ While I'm at work I can keep my phone across the room since I don't usually chec
 
 My hope is that by breaking this cycle, I'll be more present with my family and break the habit. I know that my attention has fallen away from them when they need it. I'm not okay with that.
 
-[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3snjem/breaking_the_cycle/)
-
 ### Resources:
 
 [The 3 R's of Habit Change: How To Start New Habits That Actually Stick - James Clear](http://jamesclear.com/three-steps-habit-change)

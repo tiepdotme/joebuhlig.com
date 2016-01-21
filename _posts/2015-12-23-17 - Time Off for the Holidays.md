@@ -15,8 +15,6 @@ podcast_length: 5989962
 Take time off this holiday season. And try not to spend too much time doing support for family. Also, don't miss out on the discount for _Working with OmniFocus_.
 <!--more-->
 
-[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3xygpv/17_time_off_for_the_holidays/)
-
 [Become a Patron](http://joebuhlig.com/patron/)
 
 [Working with OmniFocus - Use 'Christmas15'](https://tools.joebuhlig.com/working-with-omnifocus/)

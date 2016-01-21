@@ -36,8 +36,6 @@ The AppleScript takes your OmniFocus inbox and parses any tasks that start with 
 
 This system has become integral to my use of OmniFocus. With this running in the background, I can now email tasks directly into a project and context. The big one for me is the ability to use [Drafts](http://agiletortoise.com/drafts/)([iTunes](https://itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?mt=8)) to automatically send tasks to a specific project and context. It makes it incredibly simple to get things into OmniFocus.
 
-[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3jltb3/omnifocus_autoparser/)
-
 **Updates:**
 
 **20150908:** Patrick at [http://schreibloga.de](http://schreibloga.de) was kind enough to write a python install script that you can run from command line to make the installation process a bit easier. You can find it in the GitHub repo here: [OFScripts](https://github.com/joebuhlig/OFScripts)

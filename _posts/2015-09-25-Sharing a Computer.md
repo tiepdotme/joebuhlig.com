@@ -33,5 +33,3 @@ Unless you've upgraded the internal hard drive of your machine as much as you ca
 ## Grace
 
 Be gracious. It's hard sharing something like a computer, especially when you need to get something done. It's easy to get upset or frustrated with the other person. Show a little grace and be willing to compromise. It'll make both of your lives a lot easier.
-
-[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3mblhd/sharing_a_computer/)

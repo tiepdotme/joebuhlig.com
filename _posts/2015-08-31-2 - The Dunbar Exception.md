@@ -29,5 +29,3 @@ In today’s world it’s easy to connect with more than 150 people. This is how
 [@JoeBuhlig](https://twitter.com/JoeBuhlig)
 
 [Become a Patron](http://joebuhlig.com/patron/)
-
-[Discuss this on Reddit](https://www.reddit.com/r/joebuhlig/comments/3j4oqz/2_the_dunbar_exception/)

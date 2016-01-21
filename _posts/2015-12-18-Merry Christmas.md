@@ -17,5 +17,3 @@ I enjoy helping others and I've heard from a lot of people that _Working with Om
 If you've been on the fence about buying the book, want to give yourself a Christmas present, or know someone who might benefit from reading it, here's a discount code for you to use when buying [_Working with OmniFocus_](https://tools.joebuhlig.com/working-with-omnifocus/). Use the code `Christmas15` when filling in your information and it will take $5 off the price. The code will be valid through the day after Christmas.
 
 And if you're willing, send me your story. I love hearing from you. Merry Christmas!
-
-[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3xc9me/merry_christmas/)

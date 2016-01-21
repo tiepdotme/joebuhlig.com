@@ -39,8 +39,6 @@ Use the hashtag #question to ask a question.
 
 [Become a Patron][11]
 
-[Discuss this on Reddit.][12]
-
 [1]: http://joebuhlig.com/wp-content/uploads/2015/09/Collecting-and-Storing-Research.png
 [2]: http://joebuhlig.com/evernote-setup-workflow/
 [3]: http://joebuhlig.com/simple-trick-naming-tags/
@@ -52,7 +50,6 @@ Use the hashtag #question to ask a question.
 [9]: https://twitter.com/whaddyaknowjoe
 [10]: https://twitter.com/JoeBuhlig
 [11]: http://joebuhlig.com/patron/
-[12]: https://www.reddit.com/r/joebuhlig/comments/3lx6iu/6_collecting_and_storing_research/
 [13]: http://traffic.libsyn.com/whaddyaknowjoe/WKJ006.mp3 "Play in new window"
 [14]: http://traffic.libsyn.com/whaddyaknowjoe/WKJ006.mp3 "Download"
 [15]: https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948?mt=2&ls=1 "Subscribe on iTunes"

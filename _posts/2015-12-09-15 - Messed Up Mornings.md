@@ -17,8 +17,6 @@ podcast_length: 15742294
 The way people structure their morning routine can easily dictate your motivation for the day. But what happens when you can't control the circumstances around your morning? What about kids?
 <!--more-->
 
-[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3w3a1h/15_messed_up_mornings/)
-
 [Become a Patron](http://joebuhlig.com/patron/)
 
 [My Morning Routine - Inspiring Morning Routines](http://mymorningroutine.com/)

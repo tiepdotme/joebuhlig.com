@@ -37,5 +37,3 @@ If you go through a job change, you’ll need to change your GTD contexts. I wal
 [@JoeBuhlig](https://twitter.com/JoeBuhlig)
 
 [Become a Patron](http://joebuhlig.com/patron/)
-
-[Discuss this on Reddit](https://www.reddit.com/r/joebuhlig/comments/3j4opo/1_new_job_new_contexts/)

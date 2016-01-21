@@ -40,8 +40,6 @@ Deciding which idea to pursue is the hard part. If possible, you want the idea t
 
 When you find yourself having a lot of new ideas, take advantage of it. Write them down, because they don't always come when you want them.
 
-[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3vsb8u/keeping_up_with_ideas/)
-
 [GTDCapture]: http://joebuhlig.com/getting-things-done-capture/
 [WhyGettingUpEarlyArticle]: http://joebuhlig.com/why-getting-up-early/
 [hPDAArticle]: http://joebuhlig.com/what-is-an-hpda-and-how-do-i-use-it/

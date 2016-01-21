@@ -46,5 +46,3 @@ Use the hashtag #question to ask a question.
 [@JoeBuhlig](https://twitter.com/JoeBuhlig)
 
 [Become a Patron](http://joebuhlig.com/patron/)
-
-[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3mtguy/7_learning_a_computer_language/)

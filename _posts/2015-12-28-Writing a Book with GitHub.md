@@ -37,6 +37,4 @@ It was simple to see any adds, deletes, or comments that she made. The interface
 
 A big benefit of this process is the version history. I can look back on every commit I have made and roll back to that point in time. It keeps each revision and allows me to come back to them as needed. This is a huge load off of my brain. I don't have to worry about making a change - I know I can always undo it or look back on what I did and see the progression.
 
-I plan to use this method for any books I write in the future. I use GitHub quite a bit, so I'm comfortable with it and it makes the editing process painless. Well, at least logistically. 
-
-[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3yimvg/writing_a_book_with_github/)
+I plan to use this method for any books I write in the future. I use GitHub quite a bit, so I'm comfortable with it and it makes the editing process painless. Well, at least logistically.

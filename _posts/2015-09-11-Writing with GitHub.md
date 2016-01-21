@@ -67,5 +67,3 @@ I added this code to the post-commit executable found in the “.git” director
 It checks to see if the commit is in the master branch. If it is, then it counts the words that have been added and subtracts the number of words that were removed. That number is then sent to a Google Sheet through a Google Script that I’ve published as a web app.
 
 From the spreadsheet I can see each commit, the date and time of the commit, and how many words I wrote. I like seeing how much progress I’m making and can potentially use this data to find cycles in my writing patterns. If nothing else, it’s fun.
-
-[Discuss this on Reddit.](https://www.reddit.com/r/joebuhlig/comments/3kj2wl/writing_with_github/)

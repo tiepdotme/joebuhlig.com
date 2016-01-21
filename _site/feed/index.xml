@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 21 Jan 2016 10:04:13 -0600</lastBuildDate>
+<lastBuildDate>Thu, 21 Jan 2016 10:12:31 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -695,8 +695,6 @@ $("table").tablesorter();
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3zq0xe/18_cold_turkey_on_qwerty/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 </item>
@@ -838,8 +836,6 @@ $("table").tablesorter();
 <h2 id="ha-tech">H&amp;A Tech</h2>
 
 <p>In August, I left the company I was working for and started my own business. It was a fast and unnerving transition, but I’m thrilled to be where I am today. I’m able to work on the projects I love and build things with little or no delay. If I get a crazy idea, I can pursue it without worrying about politics or the red tape of company approvals. I wish I could have done this sooner.</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3zk075/2015_by_the_numbers/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 </item>
@@ -894,8 +890,6 @@ $("table").tablesorter();
 <p>A big benefit of this process is the version history. I can look back on every commit I have made and roll back to that point in time. It keeps each revision and allows me to come back to them as needed. This is a huge load off of my brain. I don’t have to worry about making a change - I know I can always undo it or look back on what I did and see the progression.</p>
 
 <p>I plan to use this method for any books I write in the future. I use GitHub quite a bit, so I’m comfortable with it and it makes the editing process painless. Well, at least logistically.</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3yimvg/writing_a_book_with_github/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 </item>
@@ -934,8 +928,6 @@ $("table").tablesorter();
 <p>It takes time to trust the system in all seasons. I would say it takes years of developing your personal system before you can trust it in every circumstance. This ongoing cycle of leaving and returning builds the trust you need to mentally let go.</p>
 
 <p>Develop a system you can trust and let loose.</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3y6fxb/trust_let_loose/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 </item>
@@ -960,8 +952,6 @@ $("table").tablesorter();
     <content:encoded>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Time-Off-for-the-Holidays.jpg" /><p>Take time off this holiday season. And try not to spend too much time doing support for family. Also, don’t miss out on the discount for <em>Working with OmniFocus</em>.
 <!--more--></p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3xygpv/17_time_off_for_the_holidays/">Discuss this on Reddit.</a></p>
 
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 
@@ -1044,8 +1034,6 @@ $("table").tablesorter();
 <p>This is just bad design. It’s hard to get a feel for the difference in the bars because our eyes are trying to follow the perceived lines on the chart. And it looks bad. Don’t do it.</p>
 
 <p>Overall, these are really simple fixes. But they can have a major impact on the viewer and how they perceive the data. Don’t lie with a visual. If the data doesn’t show what you want, then you have bigger decisions to make. Get to work and change your methods to get to your desired outcome. Don’t fabricate positive results.</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3xp1l4/bad_bar_charts/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 </item>
@@ -1078,8 +1066,6 @@ $("table").tablesorter();
 <p>If you’ve been on the fence about buying the book, want to give yourself a Christmas present, or know someone who might benefit from reading it, here’s a discount code for you to use when buying <a href="https://tools.joebuhlig.com/working-with-omnifocus/"><em>Working with OmniFocus</em></a>. Use the code <code class="highlighter-rouge">Christmas15</code> when filling in your information and it will take $5 off the price. The code will be valid through the day after Christmas.</p>
 
 <p>And if you’re willing, send me your story. I love hearing from you. Merry Christmas!</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3xc9me/merry_christmas/">Discuss this on Reddit.</a></p>
 ]]>
     </content:encoded>
 </item>
@@ -1104,8 +1090,6 @@ $("table").tablesorter();
     <content:encoded>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Geofenced-Lists.jpg" /><p>Location based lists have a lot of uses. In this episode, I talk about the main ways I use them and how they’ve helped me in the past. There’s also some follow-up to my time tracking mechanism.
 <!--more--></p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3x2m2o/16_geofenced_lists/">Discuss this on Reddit.</a></p>
 
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 
@@ -1192,8 +1176,6 @@ $("table").tablesorter();
 <h2 id="overkill">Overkill</h2>
 
 <p>I’m terrible at remembering, that’s why I need these systems. This sounds like a lot of work even for me, but here’s the point: 12 months is too far out, and I need guidance. I use this month by month plan to help me decide what to work on each day. It’s a single, uncluttered list that is easily reviewed and updated. I don’t want complicated. I want it to keep my head on straight and help me hit my goals. If it does that, it’s a success.</p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/comments/3ws2o2/monthly_planning/">Discuss this on Reddit.</a></p>
 
 ]]>
     </content:encoded>
