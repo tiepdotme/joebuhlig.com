@@ -73,9 +73,17 @@ layout: default
 			{% endif %}
 		{% endif %}
 	</div>
+	{% if jekyll.environment == "production" %}
+	<div class="discourse-comments"></div>
+	<script type="text/javascript">
+	  DiscourseEmbed = { discourseUrl: 'http://discussion.joebuhlig.com/',
+	                     discourseEmbedUrl: '{{site.url}}{{page.url}}' };
+
+	  (function() {
+	    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+	    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+	    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+	  })();
+	</script>
+	{% endif %}
 </div>
-{% if jekyll.environment == "production" %}
-<div class="discourse-comments">
-	
-</div>
-{% endif %}
