@@ -340,11 +340,17 @@ table {
 
 .related-post {
   display: inline-block;
-  max-width: 250px;
+  max-width: calc(33.33% - 13px);
   padding: 5px; }
+  @media screen and (max-width: 700px) {
+    .related-post {
+      max-width: calc(50% - 13px); } }
+  @media screen and (max-width: 425px) {
+    .related-post {
+      max-width: calc(100% - 13px); } }
 
 .related-post img {
-  max-height: 167px; }
+  max-height: 286px; }
 
 .site-footer {
   border-top: 1px solid #e8e8e8;

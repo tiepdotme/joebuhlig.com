@@ -216,11 +216,19 @@
 }
 .related-post{
     display: inline-block;
-    max-width:250px;
+    max-width: calc(33.33% - 13px);
     padding: 5px;
+
+    @include media-query(700px) {
+            max-width: calc(50% - 13px);
+        }
+
+    @include media-query(425px) {
+        max-width: calc(100% - 13px);
+        }
 }
 .related-post img{
-    max-height: 167px;
+    max-height: 286px;
 }
 .site-footer {
     border-top: 1px solid $grey-color-light;
