@@ -14,11 +14,73 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 22 Jan 2016 10:04:23 -0600</lastBuildDate>
+<lastBuildDate>Mon, 25 Jan 2016 09:45:23 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Tracking Time with Launch Center Pro]]></title>
+    <link>http://joebuhlig.com/tracking-time-with-launch-center-pro/</link>
+    <pubDate>Mon, 25 Jan 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[apps]]></category>
+
+    <category><![CDATA[ifttt]]></category>
+
+    <category><![CDATA[launch-center-pro]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/tracking-time-with-launch-center-pro/</guid>
+    <description>
+        <![CDATA[Lately I’ve been tracking my time and starting to correlate it with dollars earned. The idea is to help me decide which types of work are the most valuable. This is a look at how I’m doing the time tracking portion using Launch Center Pro.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Tracking-time-with-launch-center-pro.jpg" /><p>Lately I’ve been tracking my time and starting to correlate it with dollars earned. The idea is to help me decide which types of work are the most valuable. This is a look at how I’m doing the time tracking portion using <a href="http://contrast.co/launch-center-pro/">Launch Center Pro</a>.
+<!--more--></p>
+
+<h2 id="google-sheet">1. Google Sheet</h2>
+
+<p>The data needs to live somewhere and I’m comfortable with Google Drive. So I created a new sheet with five columns:</p>
+
+<ol>
+  <li><strong>DateTime</strong> - Timestamp of when it was recorded.</li>
+  <li><strong>Client</strong> - Who is the activity for? This is mostly “Joe Buhlig.”</li>
+  <li><strong>Activity</strong> - Writing an article, recording a podcast, coding, etc…</li>
+  <li><strong>Amount</strong> - How long was I doing the activity?</li>
+  <li><strong>Notes</strong> - Any notes I have about it.</li>
+</ol>
+
+<p>With this format I can do roll-ups by client or by activity. It allows me to compare the time I spend on a client and the gross income from that client to determine my hourly rate. This makes it easy to know if my rates are where they should be.</p>
+
+<p>It also helps me determine the types of work that are the highest paying. Doing a similar roll-up by activity will tell me if my time is better spent coding or consulting. But I have to be careful, because the answers can be a bit misleading. Writing articles for this site shows a zero for profit, but I know that writing is what brings people to my site. And in turn, that leads to sales elsewhere. So my conclusions are a judgment call, but it is helpful to have the data in front of me.</p>
+
+<h2 id="ifttt">2. IFTTT</h2>
+
+<p>To collect the data I’m using a single recipe in <a href="https://ifttt.com">IFTTT</a>. It adds a row to the Google Sheet each time the LCP action is triggered. By passing different parameters to the recipe, I alter the data that is entered into the spreadsheet.</p>
+
+<p><a href="https://ifttt.com/view_embed_recipe/375147-time-tracking" target="_blank" class="embed_recipe embed_recipe-l_13" id="embed_recipe-375147"><img src="https://ifttt.com/recipe_embed_img/375147" alt="IFTTT Recipe: Time Tracking connects launch-center to google-drive" width="370px" style="max-width:100%" /></a><script async="" type="text/javascript" src="//ifttt.com/assets/embed_recipe.js"></script></p>
+
+<h2 id="launch-center-pro">3. Launch Center Pro</h2>
+
+<p>In LCP, I set up a different action for each activity I want to record. Each action uses the same url scheme to send the data on to Google. Here’s what it looks like:</p>
+
+<p><code class="highlighter-rouge">launch://ifttt/trigger?name=&amp;value1=&amp;value2=&amp;value3=[prompt-num:Time in Mins]&amp;value4=[prompt:Notes]</code></p>
+
+<p>The <code class="highlighter-rouge">name</code> parameter will always be the same: the Trigger Name in the IFTTT recipe. In this case, I’m passing my own name as <code class="highlighter-rouge">value1</code> because this particular action is for recording development work I do for myself. The last three values record the activity type, amount of time I spent on the task, and any notes I want to enter about it.</p>
+
+<h2 id="in-practice">In Practice</h2>
+
+<p>Whenever I start a new task, I start a stopwatch. When I finish the task or need to move on to something else, I stop the watch, open LCP, and select the action for the task I was working on. I enter the time and any notes about it and I’m done. This creates a new record in the Google Sheet that I can use for analytics later.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[A New Discussion]]></title>
@@ -1110,56 +1172,6 @@ $("table").tablesorter();
 <p>If you’ve been on the fence about buying the book, want to give yourself a Christmas present, or know someone who might benefit from reading it, here’s a discount code for you to use when buying <a href="https://tools.joebuhlig.com/working-with-omnifocus/"><em>Working with OmniFocus</em></a>. Use the code <code class="highlighter-rouge">Christmas15</code> when filling in your information and it will take $5 off the price. The code will be valid through the day after Christmas.</p>
 
 <p>And if you’re willing, send me your story. I love hearing from you. Merry Christmas!</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[16: Geofenced Lists]]></title>
-    <link>http://joebuhlig.com/16/</link>
-    <pubDate>Wed, 16 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[lists]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/16/</guid>
-    <description>
-        <![CDATA[Location based lists have a lot of uses. In this episode, I talk about the main ways I use them and how they’ve helped me in the past. There’s also some follow-up to my time tracking mechanism.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Geofenced-Lists.jpg" /><p>Location based lists have a lot of uses. In this episode, I talk about the main ways I use them and how they’ve helped me in the past. There’s also some follow-up to my time tracking mechanism.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig/status/670595803048603648">Tweet about Coffee</a></p>
-
-<p><a href="https://agilebits.com/onepassword">1Password</a></p>
-
-<p><a href="http://joebuhlig.com/monthly-planning/">Article on Monthly Planning</a></p>
-
-<p><a href="https://www.omnigroup.com/omnifocus/">OmniFocus</a></p>
-
-<p><a href="https://todoist.com/">Todoist</a></p>
-
-<p><a href="http://www.any.do/">Any.do</a></p>
-
-<p><a href="https://www.wunderlist.com/">Wunderlist</a></p>
-
-<p><a href="http://joebuhlig.com/14/">14: How Much is Down Time Worth?</a></p>
-
-<p><a href="http://joebuhlig.com/12/">12: The Higher Horizons</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]>
     </content:encoded>
 </item>

@@ -390,6 +390,10 @@ table {
     float: none;
     width: -webkit-calc(100% - (30px / 2));
     width: calc(100% - (30px / 2)); } }
+.copyright {
+  font-size: 14px;
+  margin: 10px 0px; }
+
 /**
  * Page content
  */

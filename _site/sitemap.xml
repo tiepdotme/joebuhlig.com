@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/tracking-time-with-launch-center-pro/</loc>
+    <lastmod>2016-01-25T00:00:00-06:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/a-new-discussion/</loc>
     <lastmod>2016-01-22T00:00:00-06:00</lastmod>
   </url>
@@ -726,6 +730,12 @@
   <url>
     <loc>http://joebuhlig.com/tag/dictation/</loc>
   </url>
+  <url>
+    <loc>http://joebuhlig.com/tag/ifttt/</loc>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/tag/launch-center-pro/</loc>
+  </url>
     <url>
       <loc>http://joebuhlig.com/put-distractions-place/</loc>
     </url>
@@ -1058,5 +1068,8 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/a-new-discussion/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/tracking-time-with-launch-center-pro/</loc>
     </url>
 </urlset>
