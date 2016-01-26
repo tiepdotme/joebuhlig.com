@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 25 Jan 2016 11:08:49 -0600</lastBuildDate>
+<lastBuildDate>Tue, 26 Jan 2016 10:16:03 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -741,6 +741,60 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
       <td>Tigers in the Wild</td>
       <td style="text-align: center">MBP</td>
       <td style="text-align: center">31</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Day 15:</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Dvorak</th>
+      <th style="text-align: center">Location</th>
+      <th style="text-align: center">WPM</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">33</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">32</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">30</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">34</td>
+    </tr>
+    <tr>
+      <td>The Wonderful Wizard of Oz</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">35</td>
+    </tr>
+    <tr>
+      <td>Rules of Baseball</td>
+      <td style="text-align: center">AWK</td>
+      <td style="text-align: center">31</td>
+    </tr>
+    <tr>
+      <td>The Enchanted Typewriter</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">33</td>
+    </tr>
+    <tr>
+      <td>Tigers in the Wild</td>
+      <td style="text-align: center">MBP</td>
+      <td style="text-align: center">36</td>
     </tr>
   </tbody>
 </table>

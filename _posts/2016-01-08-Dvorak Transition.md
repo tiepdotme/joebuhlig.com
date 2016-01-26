@@ -96,6 +96,19 @@ I have a long way to go before I reach my initial QWERTY speed. My hope is that 
 | The Enchanted Typewriter | MBP | 36 |
 | Tigers in the Wild | MBP | 31 |
 
+**Day 15:** 
+
+| Dvorak | Location | WPM |
+|-----|:-----:|:-----:|:-----:|:-----:|
+| The Wonderful Wizard of Oz | MBP | 33 |
+| Rules of Baseball | MBP | 32 |
+| The Enchanted Typewriter | AWK | 30 |
+| Tigers in the Wild | AWK | 34 |
+| The Wonderful Wizard of Oz | AWK | 35 |
+| Rules of Baseball | AWK | 31 |
+| The Enchanted Typewriter | MBP | 33 |
+| Tigers in the Wild | MBP | 36 |
+
 <script src="/assets/js/jquery-tablesorter.js"></script>
 <script>
 $("table").tablesorter();
