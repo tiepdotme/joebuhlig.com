@@ -14,11 +14,79 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 26 Jan 2016 15:08:18 -0600</lastBuildDate>
+<lastBuildDate>Wed, 27 Jan 2016 06:21:50 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[21: Issues with Evernote]]></title>
+    <link>http://joebuhlig.com/21/</link>
+    <pubDate>Wed, 27 Jan 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[dvorak]]></category>
+
+    <category><![CDATA[evernote]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/21/</guid>
+    <description>
+        <![CDATA[I’ve found that I have a lot of reasons to leave Evernote. In this episode, I talk through those and give a few updates to the articles I’ve written recently.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Issues-with-Evernote.jpg" /><p>I’ve found that I have a lot of reasons to leave Evernote. In this episode, I talk through those and give a few updates to the articles I’ve written recently.
+<!--more--></p>
+
+<p><a href="https://evernote.com">Evernote</a></p>
+
+<p><a href="http://omz-software.com/editorial/">Editorial for iOS</a></p>
+
+<p><a href="https://workflow.is/">Workflow - Powerful automation made simple.</a></p>
+
+<p><a href="https://mindnode.com/">MindNode</a></p>
+
+<p><a href="https://evernote.com/upgrade/">Evernote Premium</a></p>
+
+<p><a href="https://www.evernote.com/market/">Evernote Market</a></p>
+
+<p><a href="http://joebuhlig.com/adding-contacts-business-cards-evernote/">Adding Contacts from Business Cards with Evernote</a></p>
+
+<p><a href="http://www.sublimetext.com/">Sublime Text</a></p>
+
+<p><a href="http://www.devontechnologies.com/products/devonthink/overview.html">DEVONthink</a></p>
+
+<p><a href="http://discussion.joebuhlig.com/">The Joe Buhlig Discussions</a></p>
+
+<p><a href="http://www.discourse.org/">Discourse</a></p>
+
+<p><a href="http://discussion.joebuhlig.com/t/please-add-new-categories/152?u=joebuhlig">Topic about Introduction category </a></p>
+
+<p><a href="http://macsparky.com/search">Home Screens - MacSparky</a></p>
+
+<p><a href="http://mymorningroutine.com/">My Morning Routine</a></p>
+
+<p><a href="http://joebuhlig.com/dvorak-transition/">Dvorak Transition</a></p>
+
+<p><a href="http://joebuhlig.com/tracking-time-with-launch-center-pro/">Tracking Time with Launch Center Pro</a></p>
+
+<p><a href="https://toggl.com/">Toggl - Free Time Tracking Software &amp; App</a></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Tracking Time with Launch Center Pro]]></title>
@@ -1194,38 +1262,6 @@ $("table").tablesorter();
 <p>This is just bad design. It’s hard to get a feel for the difference in the bars because our eyes are trying to follow the perceived lines on the chart. And it looks bad. Don’t do it.</p>
 
 <p>Overall, these are really simple fixes. But they can have a major impact on the viewer and how they perceive the data. Don’t lie with a visual. If the data doesn’t show what you want, then you have bigger decisions to make. Get to work and change your methods to get to your desired outcome. Don’t fabricate positive results.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Merry Christmas]]></title>
-    <link>http://joebuhlig.com/christmas-2015/</link>
-    <pubDate>Fri, 18 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[christmas]]></category>
-
-    <category><![CDATA[discounts]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/christmas-2015/</guid>
-    <description>
-        <![CDATA[I’m thrilled to give you a gift for Christmas this year. I’ve wanted to do something like this for a long time and the opportunity is finally here.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Merry-Christmas-2015.jpg" /><p>I’m thrilled to give you a gift for Christmas this year. I’ve wanted to do something like this for a long time and the opportunity is finally here.
-<!--more--></p>
-
-<p>I enjoy helping others and I’ve heard from a lot of people that <em>Working with OmniFocus</em> has finally showed them the tools they needed to put their life in perspective. Folks have shared stories about being able to start a business because of the principles shared in the book. One reader found treatment for a serious illness in their child because they were able to work clearly with the doctors. That blows my mind.</p>
-
-<p>If you’ve been on the fence about buying the book, want to give yourself a Christmas present, or know someone who might benefit from reading it, here’s a discount code for you to use when buying <a href="https://tools.joebuhlig.com/working-with-omnifocus/"><em>Working with OmniFocus</em></a>. Use the code <code class="highlighter-rouge">Christmas15</code> when filling in your information and it will take $5 off the price. The code will be valid through the day after Christmas.</p>
-
-<p>And if you’re willing, send me your story. I love hearing from you. Merry Christmas!</p>
 ]]>
     </content:encoded>
 </item>
