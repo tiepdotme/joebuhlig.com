@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/22/</loc>
+    <lastmod>2016-02-02T00:00:00-06:00</lastmod>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/the-importance-of-data-visualizations/</loc>
+    <lastmod>2016-02-01T00:00:00-06:00</lastmod>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/time-and-dollars/</loc>
+    <lastmod>2016-01-29T00:00:00-06:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/21/</loc>
     <lastmod>2016-01-27T00:00:00-06:00</lastmod>
   </url>
@@ -740,6 +752,12 @@
   <url>
     <loc>http://joebuhlig.com/tag/launch-center-pro/</loc>
   </url>
+  <url>
+    <loc>http://joebuhlig.com/tag/budget/</loc>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/tag/visualization/</loc>
+  </url>
     <url>
       <loc>http://joebuhlig.com/put-distractions-place/</loc>
     </url>
@@ -1078,5 +1096,14 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/21/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/time-and-dollars/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/the-importance-of-data-visualizations/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/22/</loc>
     </url>
 </urlset>

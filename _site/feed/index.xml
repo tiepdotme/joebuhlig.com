@@ -14,11 +14,169 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 28 Jan 2016 14:13:20 -0600</lastBuildDate>
+<lastBuildDate>Tue, 02 Feb 2016 14:44:12 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[22: Addiction to Numbers]]></title>
+    <link>http://joebuhlig.com/22/</link>
+    <pubDate>Tue, 02 Feb 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[addiction]]></category>
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/22/</guid>
+    <description>
+        <![CDATA[Since I started my business I’ve developed an addiction to checking numbers. But I watched a webinar last week that really changed the game for me and has me hand writing my schedule for the day.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Addiction-to-Numbers.jpg" /><p>Since I started my business I’ve developed an addiction to checking numbers. But I watched a webinar last week that really changed the game for me and has me hand writing my schedule for the day.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://learnomnifocus.com/tutorials/2016-01-28-omnifocus-workflows-with-shawn-blanc/?ref=11">OmniFocus Workflows with Shawn Blanc</a></p>
+
+<p><a href="https://learnomnifocus.com/">Learn OmniFocus</a></p>
+
+<p><a href="http://www.timstringer.com/">Tim Stringer</a></p>
+
+<p><a href="http://shawnblanc.net/">Shawn Blanc</a></p>
+
+<p><a href="https://www.instagram.com/p/BBFkAYIORl0/">Shawn’s paper plan for the day</a></p>
+
+<p><a href="https://farmerhank.com/">Farmer Hank</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[The Importance of Data Visualizations]]></title>
+    <link>http://joebuhlig.com/the-importance-of-data-visualizations/</link>
+    <pubDate>Mon, 01 Feb 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[data]]></category>
+
+    <category><![CDATA[visualization]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/the-importance-of-data-visualizations/</guid>
+    <description>
+        <![CDATA[It’s easy to present data in a summarized table, but what about turning it into a data visualization?
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/The-Importance-of-Data-Visualization.jpg" /><p>It’s easy to present data in a summarized table, but what about turning it into a data visualization?
+<!--more--></p>
+
+<h2 id="what-is-it">What is it?</h2>
+
+<p>Data visualization is the display of data in a picture. Its purpose is to give a clear and easily understood visual of what the data is saying. Understanding the story in a data set by looking at spreadsheets and raw data isn’t something most people are accustomed to or good at, so we rely on a visualized format of the data, typically a graph or chart,  to help us.</p>
+
+<h2 id="false-perceptions">False Perceptions</h2>
+
+<p>It is critical to do this well or we risk giving the viewer an <a href="http://data.heapanalytics.com/how-to-lie-with-data-visualization/">incorrect perception</a> of the story behind the data. The display should show what is going on behind the scenes and the focus should be the data, not your interpretation of the data. Following conventional graphing methods will make it easier for your viewer to understand it. If you ignore these conventions, you risk building a <a href="http://joebuhlig.com/bad-bar-charts/">bad bar chart</a> and deceiving your audience. You can get away with this if you do it subtly, but you’re sacrificing your integrity in the process and it will eventually come around to bite you.</p>
+
+<h2 id="interpretation">Interpretation</h2>
+
+<p>When the visualization is done right, it explains what is happening. It’s impossible to look through millions of data points and know how things turned out. We can do summaries of the data to help, but oftentimes the summaries are even too complicated. People are visual by nature so a picture helps us see what is going on and interpret the results more clearly.</p>
+
+<h2 id="patterns-and-outliers">Patterns and Outliers</h2>
+
+<p>When you take the time to pull together this picture, you might be surprised at the patterns that start to reveal themselves. There are times when you may not realize you have patterns in your data until you put it in picture form. There are also times when the visual helps you see something that stands out. Just like the unknown patterns, you may not be aware of an outstanding data point until you graph it.</p>
+
+<p>Take the time to build a good display of data. You want it to tell an accurate story and paint a picture of what is really going on. And it may show you something you didn’t know before.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Time and Dollars]]></title>
+    <link>http://joebuhlig.com/time-and-dollars/</link>
+    <pubDate>Fri, 29 Jan 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[budget]]></category>
+
+    <category><![CDATA[time]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/time-and-dollars/</guid>
+    <description>
+        <![CDATA[When I started my business, I wasn’t in a place to say no to anything. I needed to provide an income, and every little bit helped. But recently I’ve had to start deciding which activities are most worth my time and which ones need to be put aside.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Time-and-dollars.jpg" /><p>When I started my business, I wasn’t in a place to say no to anything. I needed to provide an income, and every little bit helped. But recently I’ve had to start deciding which activities are most worth my time and which ones need to be put aside.
+<!--more--></p>
+
+<p>This isn’t a decision I can make by sitting in front of a fire drinking coffee. As much as I like coffee, it’s not <em>that</em> good. I need some numbers to reveal the biggest (and smallest) returns on my time. I started <a href="http://joebuhlig.com/tracking-time-with-launch-center-pro/">tracking my time</a>, but I need to dig deeper than that.</p>
+
+<h2 id="budget">Budget</h2>
+
+<p>Every good business has a budget. And mine, H&amp;A Tech, is no different. Without it, I don’t know if I’m making money or losing money. This simple document has a line for income and separate lines for each type of expense I incur. At the beginning of each month I plan the expenses and expected income for the month, and I do what I can to stick to it. Any deviation can create issues for my family later.</p>
+
+<p>This is pretty standard, but it deviates from the norm when I pull in transactional data. I have a second tab that accepts copy-pasted transactions from my bank. Once a month I pull in this data and then augment each line item with a client and activity. It sounds tedious, but with the help of a few filters similar transactions can be filled in simultaneously.</p>
+
+<p>Because I’m correlating the transactional data with the budget categories, I can see a clear summary of each month. How well did I stick to the plan?</p>
+
+<p>Then I have savings. With an online business comes subscriptions and those often have annual payments. I handle those with a savings tab in the spreadsheet, but that’s a topic for another day.</p>
+
+<h2 id="google-sheet">Google Sheet</h2>
+
+<p>This might be a bit hard to get your head around so I put together an example budget for you to look through. I keep my budget in a Google Sheet so I made a copy and cleared it out for you to see. Here are the tabs you’ll find in <a href="https://docs.google.com/spreadsheets/d/1kDUSdsIKvtUnXxd4z9hgBQMUiht1oq_p6Iixl6dTyCU">the example</a>:</p>
+
+<ol>
+  <li>Budget - the plan for the month (includes the summary)</li>
+  <li>Transactions - the bank transactional data</li>
+  <li>Savings - long term expenses and savings funds</li>
+</ol>
+
+<h2 id="from-budget-to-time-tracker">From Budget to Time Tracker</h2>
+
+<p>The budget is in place and the <a href="http://joebuhlig.com/tracking-time-with-launch-center-pro/">time tracker</a> is tracking away. So I created a new tab in the time tracker to import the transactional data from the budget. With the data pulled over, I group the time and transactions by month, client, and activity using pivot tables. It looks like this:</p>
+
+<p><img class="center-image post-image-small" src="/assets/posts_extra/Time and Dollars/time-aggregation.jpg" /></p>
+
+<p>With the datasets each grouped in the same way, they can now be tied together into a single table. I do this with the SUMPRODUCT function as <a href="https://blogs.office.com/2012/04/26/using-multiple-criteria-in-excel-lookup-formulas/">explained here</a> which makes it a one-step process. Once the data is all in one place, I can run another pivot table to figure out where my time is most valuable.</p>
+
+<h2 id="by-client">By Client</h2>
+
+<p>Is my time better spent on my own projects or working for my clients? And the follow-up question: which clients give me the best return on my time? If I have a client that requires a lot of support and effort but there isn’t much for income to compensate, I either need to raise my rates or consider letting them go. It’s difficult to know about these situations without data. Once I have the information, I can make my decision with confidence.</p>
+
+<h2 id="by-activity">By Activity</h2>
+
+<p>The other segmentation I need to understand is the activity breakdown. What type of work has the highest monetary value? I ask this because I’m not sure if my return is higher when I write for myself or when I consult a client. By switching the pivot table to group by activity, I can see which types of work give me the highest returns and which ones I should consider scaling back.</p>
+
+<h2 id="results">Results</h2>
+
+<p>Setting this up can be labor-intensive, but I hope you see the value here. Working for yourself can bring a lot of opportunities your way, and knowing which ones to take on and which to pass by can be tricky. This process gives you real numbers to work with and makes it less of a guessing game.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[21: Issues with Evernote]]></title>
@@ -1118,150 +1276,6 @@ $("table").tablesorter();
 <p>A big benefit of this process is the version history. I can look back on every commit I have made and roll back to that point in time. It keeps each revision and allows me to come back to them as needed. This is a huge load off of my brain. I don’t have to worry about making a change - I know I can always undo it or look back on what I did and see the progression.</p>
 
 <p>I plan to use this method for any books I write in the future. I use GitHub quite a bit, so I’m comfortable with it and it makes the editing process painless. Well, at least logistically.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Trust & Let Loose]]></title>
-    <link>http://joebuhlig.com/trust-let-loose/</link>
-    <pubDate>Fri, 25 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[trust]]></category>
-
-    <category><![CDATA[systems]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/trust-let-loose/</guid>
-    <description>
-        <![CDATA[It takes time to develop consistency in a task management system. I forget. I climb back on the horse, but fall off again. It looks easy - and it is at times - but other times it feels like one more item on my to-do list.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Trust-and-Let-Loose.jpg" /><p>It takes time to develop consistency in a task management system. I forget. I climb back on the horse, but fall off again. It looks easy - and it is at times - but other times it feels like one more item on my to-do list.
-<!--more--></p>
-
-<p>All of the apps and systems are nice, but I go through seasons with them. People see my systems and might think I have it all together. I don’t. I forget things all the time. It’s why I gravitate to the structure: it gives me a place to put things so I can come back to them.</p>
-
-<p>There are times when I fail to stick to them. It’s at those times that I drop the ball and miss a deadline, or disappoint my family. It sometimes takes a painful reminder to push me back into the lists. I know I can trust them, but I don’t always.</p>
-
-<p>But the time I spend away from them is continually growing shorter. I climb back into the cockpit more quickly each time. If I continue to collect my thoughts and do something about them, I know they’re taken care of. I know that I can go play with my girls without being concerned about work.</p>
-
-<p>Here is one of the deterrents to GTD: You put a system together, but a big urgent project comes up and you put the structure aside. A month goes by before you notice that thoughts about work are invading your family time and that when you’re at work all you want to do is go home. You come back to the system and start to find clarity again.</p>
-
-<p>It takes time to trust the system in all seasons. I would say it takes years of developing your personal system before you can trust it in every circumstance. This ongoing cycle of leaving and returning builds the trust you need to mentally let go.</p>
-
-<p>Develop a system you can trust and let loose.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[17: Time Off for the Holidays]]></title>
-    <link>http://joebuhlig.com/17/</link>
-    <pubDate>Wed, 23 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[breaks]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/17/</guid>
-    <description>
-        <![CDATA[Take time off this holiday season. And try not to spend too much time doing support for family. Also, don’t miss out on the discount for Working with OmniFocus.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Time-Off-for-the-Holidays.jpg" /><p>Take time off this holiday season. And try not to spend too much time doing support for family. Also, don’t miss out on the discount for <em>Working with OmniFocus</em>.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working with OmniFocus - Use ‘Christmas15’</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Bad Bar Charts]]></title>
-    <link>http://joebuhlig.com/bad-bar-charts/</link>
-    <pubDate>Mon, 21 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[charts]]></category>
-
-    <category><![CDATA[data]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/bad-bar-charts/</guid>
-    <description>
-        <![CDATA[In previous roles I worked on data analysis and visualization. When you boil it down, that just means I was well versed in Excel and building charts.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Bad-Bar-Charts.jpg" /><p>In previous roles I worked on data analysis and visualization. When you boil it down, that just means I was well versed in Excel and building charts.
-<!--more--></p>
-
-<p>I love the challenge of working on a chart until it displays the data honestly. That also means I notice bad designs in charts. There are many ways to skew results with chart design and they all make me see red. If you see a chart with one of these aspects, either ignore it or rebuild it.</p>
-
-<h2 id="non-zero-based-scale">Non-Zero Based Scale</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/nonzero_baseline.jpg" /></p>
-
-<p>This is one of the biggest culprits in bad charts. It’s easy to change the baseline of a chart and make it look like there’s a big difference between two segments. In the chart above, it looks like “Unsure” is drastically overpowering the “Unlikely” category. But if we change the chart to a zero-based axis, we can see that the difference is fairly small.</p>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/zero_baseline.jpg" /></p>
-
-<p>Now it’s a lot harder to see the difference between the categories, but it provides a more accurate picture of what’s going on because the visual matches the real data.</p>
-
-<h2 id="varying-width-bars">Varying Width Bars</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/bar_width.jpg" /></p>
-
-<p>This is more subtle but it can make a big impact on how the outcome is perceived. If you make the already taller bars wider than the others, you increase the visual effect on the viewer and leave them with an exaggerated perception of the data.</p>
-
-<h2 id="unnecessary-lines">Unnecessary Lines</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/extra_lines.jpg" /></p>
-
-<p>In the same way that a non-zero based scale alters the view of the data, a scale that goes too high can also mislead you to thinking there is no difference between two data points. You want the scale to go from zero to the lowest possible number while still allowing room for the entirety of  the bars.</p>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/removed_extra_lines.jpg" /></p>
-
-<p>We can now see that Minnesota has a decent lead on the others. But we couldn’t draw that conclusion until the scale was set appropriately.</p>
-
-<h2 id="inconsistent-scale">Inconsistent scale</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/inconsistent_scale.jpg" /></p>
-
-<p>If you don’t have all the data points (or don’t like them), you either need to forego the chart entirely or be honest. I have seen a similar chart used to show exponential growth of membership when in reality the membership growth rate was fairly consistent. Don’t lie with the data.</p>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/consistent_scale.jpg" /></p>
-
-<p>When you include all of the data points, you can see a big difference. Your perception of the first is that the pace is picking up fast. The second chart shows that the rate of increase is normalized.</p>
-
-<h2 id="d">3D</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/3d.jpg" /></p>
-
-<p>This is just bad design. It’s hard to get a feel for the difference in the bars because our eyes are trying to follow the perceived lines on the chart. And it looks bad. Don’t do it.</p>
-
-<p>Overall, these are really simple fixes. But they can have a major impact on the viewer and how they perceive the data. Don’t lie with a visual. If the data doesn’t show what you want, then you have bigger decisions to make. Get to work and change your methods to get to your desired outcome. Don’t fabricate positive results.</p>
 ]]>
     </content:encoded>
 </item>

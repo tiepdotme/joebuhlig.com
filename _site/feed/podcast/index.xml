@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Thu, 28 Jan 2016 14:13:20 -0600</lastBuildDate>
+<lastBuildDate>Tue, 02 Feb 2016 14:44:12 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,85 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>22: Addiction to Numbers</title>
+    <link>http://joebuhlig.com/22/</link>
+    <comments>http://joebuhlig.com/22/#comments</comments>
+    <pubDate>Tue, 02 Feb 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[addiction]]></category>
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/22/</guid>
+    <description>
+        <![CDATA[Since I started my business I’ve developed an addiction to checking numbers. But I watched a webinar last week that really changed the game for me and has me hand writing my schedule for the day.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Since I started my business I’ve developed an addiction to checking numbers. But I watched a webinar last week that really changed the game for me and has me hand writing my schedule for the day.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://learnomnifocus.com/tutorials/2016-01-28-omnifocus-workflows-with-shawn-blanc/?ref=11">OmniFocus Workflows with Shawn Blanc</a></p>
+
+<p><a href="https://learnomnifocus.com/">Learn OmniFocus</a></p>
+
+<p><a href="http://www.timstringer.com/">Tim Stringer</a></p>
+
+<p><a href="http://shawnblanc.net/">Shawn Blanc</a></p>
+
+<p><a href="https://www.instagram.com/p/BBFkAYIORl0/">Shawn’s paper plan for the day</a></p>
+
+<p><a href="https://farmerhank.com/">Farmer Hank</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ022.mp3" length="18585461" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Since I started my business I’ve developed an addiction to checking numbers. But I watched a webinar last week that really changed the game for me and has me hand writing my schedule for the day.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Since I started my business I’ve developed an addiction to checking numbers. But I watched a webinar last week that really changed the game for me and has me hand writing my schedule for the day.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://learnomnifocus.com/tutorials/2016-01-28-omnifocus-workflows-with-shawn-blanc/?ref=11">OmniFocus Workflows with Shawn Blanc</a></p>
+
+<p><a href="https://learnomnifocus.com/">Learn OmniFocus</a></p>
+
+<p><a href="http://www.timstringer.com/">Tim Stringer</a></p>
+
+<p><a href="http://shawnblanc.net/">Shawn Blanc</a></p>
+
+<p><a href="https://www.instagram.com/p/BBFkAYIORl0/">Shawn’s paper plan for the day</a></p>
+
+<p><a href="https://farmerhank.com/">Farmer Hank</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>19:10</itunes:duration>
+  </item>
 
   <item>
     <title>21: Issues with Evernote</title>
