@@ -24,7 +24,7 @@ If you go through a job change, you’ll need to change your GTD contexts. I wal
 
 [Making Time for Contexts](http://joebuhlig.com/making-time-contexts/)
 
-[Using Omnifocus for Someday/Maybe Lists](http://joebuhlig.com/making-time-contexts/)
+[Using Omnifocus for Someday/Maybe Lists](http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/)
 
 [MacBook Pro vs MacBook Air](http://joebuhlig.com/macbook-pro-vs-macbook-air/)
 

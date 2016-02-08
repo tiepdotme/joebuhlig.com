@@ -12,7 +12,9 @@
 <link rel="stylesheet" href="/assets/css/main.css">
 <!-- Feeds -->
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}" />
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed" | prepend: site.url }}" />
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Articles Only" href="{{ "/feed/articles" | prepend: site.url }}" />
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Podcast Only" href="{{ "/feed/podcast" | prepend: site.url }}" />
 <!-- Fonts -->
 <link href="http://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet" type="text/css">
 <!-- Favicons and icons -->
