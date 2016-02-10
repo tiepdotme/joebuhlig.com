@@ -14,11 +14,61 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 08 Feb 2016 07:07:05 -0600</lastBuildDate>
+<lastBuildDate>Wed, 10 Feb 2016 07:05:31 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[23: White Space]]></title>
+    <link>http://joebuhlig.com/23/</link>
+    <pubDate>Wed, 10 Feb 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[apple]]></category>
+
+    <category><![CDATA[margin]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/23/</guid>
+    <description>
+        <![CDATA[Leaving space around the edges of your day can have a major impact on your productivity and happiness throughout the day. Also, I’m glad I don’t have an Apple Watch.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/White-Space.jpg" /><p>Leaving space around the edges of your day can have a major impact on your productivity and happiness throughout the day. Also, I’m glad I don’t have an Apple Watch.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://discussion.joebuhlig.com/">The Joe Buhlig Discussions</a></p>
+
+<p><a href="http://discussion.joebuhlig.com/t/22-addiction-to-numbers/177?u=joebuhlig">Discussion about paper schedule</a></p>
+
+<p><a href="http://discussion.joebuhlig.com/t/omnifocus-workflows-with-shawn-blanc/167?u=joebuhlig">OmniFocus Workflows with Shawn Blanc</a></p>
+
+<p><a href="http://shawnblanc.net/2016/01/margin-month/">Margin Month — Shawn Blanc</a></p>
+
+<p><a href="http://joebuhlig.com/lost-in-transition/">Lost in Transition</a></p>
+
+<p><a href="https://marco.org/2016/02/05/watch">The Apple Watch got me hooked on mechanical watches – Marco.org</a></p>
+
+<p><a href="http://joebuhlig.com/22/">22: Addiction to Numbers</a></p>
+
+<p><a href="https://www.keyboardmaestro.com/main/">Keyboard Maestro 7.0.3: Work Faster with Macros for Mac OS X</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[How to Create Energizing Rituals]]></title>
@@ -1137,56 +1187,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 $("table").tablesorter();
 </script>
 
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[18: Cold Turkey on QWERTY]]></title>
-    <link>http://joebuhlig.com/18/</link>
-    <pubDate>Wed, 06 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[dvorak]]></category>
-
-    <category><![CDATA[hardware]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/18/</guid>
-    <description>
-        <![CDATA[After an awesome break for Christmas and the New Year, I’m back with a slight change and format to talk about my switch to Dvorak, the bloated web, and resolutions.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Cold-Turkey-on-QWERTY.jpg" /><p>After an awesome break for Christmas and the New Year, I’m back with a slight change and format to talk about my switch to Dvorak, the bloated web, and resolutions.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="http://joebuhlig.com/2015-by-the-numbers/">2015 by the Numbers</a></p>
-
-<p><a href="https://twitter.com/joebuhlig/status/683406828286312448">Tweet about Dvorak - Joe Buhlig</a></p>
-
-<p><a href="https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard">Dvorak Simplified Keyboard - Wikipedia</a></p>
-
-<p><a href="https://en.wikipedia.org/wiki/QWERTY">QWERTY - Wikipedia</a></p>
-
-<p><a href="http://kbcovers.com/dvorak-keyboard-cover">Dvorak Layout Keyboard Cover for Mac Keyboards - KBCovers</a></p>
-
-<p><a href="https://fleksy.com/">Fleksy Keyboard - GIFs, Custom Extensions, and Themes</a></p>
-
-<p><a href="http://idlewords.com/talks/website_obesity.htm">The Website Obesity Crisis</a></p>
-
-<p><a href="https://twitter.com/gtdguy/status/683413489461903360">Tweet from David Allen</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]>
     </content:encoded>
 </item>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/23/</loc>
+    <lastmod>2016-02-10T00:00:00-06:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/how-to-create-energizing-rituals/</loc>
     <lastmod>2016-02-08T00:00:00-06:00</lastmod>
   </url>
@@ -766,6 +770,9 @@
   <url>
     <loc>http://joebuhlig.com/tag/visualization/</loc>
   </url>
+  <url>
+    <loc>http://joebuhlig.com/tag/margin/</loc>
+  </url>
     <url>
       <loc>http://joebuhlig.com/put-distractions-place/</loc>
     </url>
@@ -1119,5 +1126,8 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/how-to-create-energizing-rituals/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/23/</loc>
     </url>
 </urlset>

@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"23: White Space",
+			"image":"/assets/posts/White-Space.jpg",
+			"permalink":"/23/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"apple",
+				"margin"
+			],
+			"excerpt": "<p>Leaving space around the edges of your day can have a major impact on your productivity and happiness throughout the day. Also, I’m glad I don’t have an Apple Watch.</p>\n\n",
+			"content": "Leaving%20space%20around%20the%20edges%20of%20your%20day%20can%20have%20a%20major%20impact%20on%20your%20productivity%20and%20happiness%20throughout%20the%20day.%20Also,%20I%E2%80%99m%20glad%20I%20don%E2%80%99t%20have%20an%20Apple%20Watch.%0A%0A%0ABecome%20a%20Patron%0A%0AThe%20Joe%20Buhlig%20Discussions%0A%0ADiscussion%20about%20paper%20schedule%0A%0AOmniFocus%20Workflows%20with%20Shawn%20Blanc%0A%0AMargin%20Month%20%E2%80%94%20Shawn%20Blanc%0A%0ALost%20in%20Transition%0A%0AThe%20Apple%20Watch%20got%20me%20hooked%20on%20mechanical%20watches%20%E2%80%93%20Marco.org%0A%0A22:%20Addiction%20to%20Numbers%0A%0AKeyboard%20Maestro%207.0.3:%20Work%20Faster%20with%20Macros%20for%20Mac%20OS%20X%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"How to Create Energizing Rituals",
 			"image":"/assets/posts/How-to-Create-Energizing-Rituals.jpg",
 			"permalink":"/how-to-create-energizing-rituals/",

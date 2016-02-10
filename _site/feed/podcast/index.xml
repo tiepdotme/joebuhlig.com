@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Mon, 08 Feb 2016 07:07:05 -0600</lastBuildDate>
+<lastBuildDate>Wed, 10 Feb 2016 07:05:31 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,93 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>23: White Space</title>
+    <link>http://joebuhlig.com/23/</link>
+    <comments>http://joebuhlig.com/23/#comments</comments>
+    <pubDate>Wed, 10 Feb 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[apple]]></category>
+
+    <category><![CDATA[margin]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/23/</guid>
+    <description>
+        <![CDATA[Leaving space around the edges of your day can have a major impact on your productivity and happiness throughout the day. Also, I’m glad I don’t have an Apple Watch.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Leaving space around the edges of your day can have a major impact on your productivity and happiness throughout the day. Also, I’m glad I don’t have an Apple Watch.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://discussion.joebuhlig.com/">The Joe Buhlig Discussions</a></p>
+
+<p><a href="http://discussion.joebuhlig.com/t/22-addiction-to-numbers/177?u=joebuhlig">Discussion about paper schedule</a></p>
+
+<p><a href="http://discussion.joebuhlig.com/t/omnifocus-workflows-with-shawn-blanc/167?u=joebuhlig">OmniFocus Workflows with Shawn Blanc</a></p>
+
+<p><a href="http://shawnblanc.net/2016/01/margin-month/">Margin Month — Shawn Blanc</a></p>
+
+<p><a href="http://joebuhlig.com/lost-in-transition/">Lost in Transition</a></p>
+
+<p><a href="https://marco.org/2016/02/05/watch">The Apple Watch got me hooked on mechanical watches – Marco.org</a></p>
+
+<p><a href="http://joebuhlig.com/22/">22: Addiction to Numbers</a></p>
+
+<p><a href="https://www.keyboardmaestro.com/main/">Keyboard Maestro 7.0.3: Work Faster with Macros for Mac OS X</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ023.mp3" length="19444113" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Leaving space around the edges of your day can have a major impact on your productivity and happiness throughout the day. Also, I’m glad I don’t have an Apple Watch.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Leaving space around the edges of your day can have a major impact on your productivity and happiness throughout the day. Also, I’m glad I don’t have an Apple Watch.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://discussion.joebuhlig.com/">The Joe Buhlig Discussions</a></p>
+
+<p><a href="http://discussion.joebuhlig.com/t/22-addiction-to-numbers/177?u=joebuhlig">Discussion about paper schedule</a></p>
+
+<p><a href="http://discussion.joebuhlig.com/t/omnifocus-workflows-with-shawn-blanc/167?u=joebuhlig">OmniFocus Workflows with Shawn Blanc</a></p>
+
+<p><a href="http://shawnblanc.net/2016/01/margin-month/">Margin Month — Shawn Blanc</a></p>
+
+<p><a href="http://joebuhlig.com/lost-in-transition/">Lost in Transition</a></p>
+
+<p><a href="https://marco.org/2016/02/05/watch">The Apple Watch got me hooked on mechanical watches – Marco.org</a></p>
+
+<p><a href="http://joebuhlig.com/22/">22: Addiction to Numbers</a></p>
+
+<p><a href="https://www.keyboardmaestro.com/main/">Keyboard Maestro 7.0.3: Work Faster with Macros for Mac OS X</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>20:03</itunes:duration>
+  </item>
 
   <item>
     <title>22: Addiction to Numbers</title>
