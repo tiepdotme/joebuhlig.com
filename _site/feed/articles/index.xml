@@ -14,11 +14,104 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 10 Feb 2016 07:05:31 -0600</lastBuildDate>
+<lastBuildDate>Fri, 12 Feb 2016 06:42:27 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[An Alternative to Evernote]]></title>
+    <link>http://joebuhlig.com/an-alternative-to-evernote/</link>
+    <pubDate>Fri, 12 Feb 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[evernote]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/an-alternative-to-evernote/</guid>
+    <description>
+        <![CDATA[I’ve been a supporter of Evernote for a long time. I’ve written a number of articles on it and convinced a number of friends and family to start using it. But I’ve run into some issues with it and it’s come time to throw in the towel. I’m leaving Evernote....]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/An-alternative-to-Evernote.jpg" /><p>I’ve been a supporter of Evernote for a long time. I’ve written a number of articles on it and convinced a number of friends and family to start using it. But I’ve run into some issues with it and it’s come time to throw in the towel. I’m leaving Evernote.
+<!--more--></p>
+
+<h2 id="why-leave-evernote">Why leave Evernote?</h2>
+
+<p>It’s proprietary. There are a lot of ways this <a href="http://joebuhlig.com/21/">becomes an issue</a> in my daily workflows.</p>
+
+<ul>
+  <li>I capture ideas in Drafts and want to move that text to an article I’m writing. I can’t easily get it into Evernote without a copy/paste in some form.</li>
+  <li>Uploading files to Evernote creates a mess when you want to edit them. This is primarily an issue on iOS. You have to monkey around with sharing the file to and from other apps to make it work and it usually creates new problems somewhere.</li>
+  <li>I write in <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> and want to convert it to html. There is zero support for markdown in Evernote.</li>
+</ul>
+
+<p>I could go on, but I think you get the point. If you’re good with their format and like using the Evernote apps for editing everything, it’s great. But the moment you need to share the information with a non-Evernote user or edit it with something outside Evernote, the mess quickly grows.</p>
+
+<p>I understand there is a <a href="https://blog.evernote.com/blog/2015/07/20/meet-evernotes-next-ceo-chris-oneill/">new sheriff at Evernote</a>, but if I want to have the freedom to use any app I want with the information I’m storing, I need to step away. I’m sure there are good things coming with the change in leadership and I genuinely hope it works out for them. I know a lot of people that rely on and love their service.</p>
+
+<h2 id="the-new">The New</h2>
+
+<p>I looked into a number of alternatives to Evernote. <a href="http://www.devontechnologies.com/">DEVONThink</a> led the pack with its standard file database on the backend. But no matter which of these “all-in-one” solutions I looked at, they all either have a proprietary file format or they require (or highly recommend) you to use their own apps to work with your data. Neither of those requirements are something I’m willing to meet.</p>
+
+<p>I’m ultimately looking for a way to access standard files from any app I choose. In the current app world, that means the information needs to be stored in raw text, images, or PDFs. In order for these files to be used by almost any app I choose, it needs to use DropBox as a backend. With those two criteria in place, it was pretty easy to whittle this down to a simple folder structure in DropBox.</p>
+
+<p>I should note that I wanted this alternative to be something that is easy for others to use as well. I could build a new proprietary system or one that uses shell scripts and such, but that’s not easily picked up by folks who aren’t interested in scripting their Mac. I wanted this to be accessible.</p>
+
+<h2 id="the-structure">The Structure</h2>
+
+<p>The base of the system is a folder structure in DropBox. The folder that I use as an inbox becomes the center point for collection. This is identical to my methods in Evernote. It’s called <em>!nbox</em>. Unless it has a preprocessed location, information goes here for organizing later.</p>
+
+<p>After the inbox, I treat the remainder of my folder structure much like I would my tags from Evernote. Client projects have a dedicated folder under <em>Clients</em>. Each podcast episode has its own folder under <em>Podcasts</em>. This isn’t complicated.</p>
+
+<p>The one grouping that gets special treatment is <em>Writing</em>. I keep a folder for all my writing (articles, podcast scripts, book chapters, website alterations) which is linked to Editorial to make writing from my phone easier. This is also linked to a <a href="http://joebuhlig.com/writing-with-github/">local git repository</a> on my Mac which allows me to review changes from my editor.</p>
+
+<p>The base file formats I’m working with are:</p>
+
+<ul>
+  <li>Text files</li>
+  <li>Markdown files</li>
+  <li>Images</li>
+  <li>PDFs</li>
+</ul>
+
+<p>It’s pretty easy to find apps (no matter your OS) that will work with these file types, and their broad use means new apps are always being created to pair with them. Just look at <a href="http://brettterpstra.com/ios-text-editors/">Brett Terpstra’s iTextEditors</a> to see how many options you have on iOS for editing text files. There’s a bunch, and they keep coming.</p>
+
+<h2 id="capturing">Capturing</h2>
+
+<p>Storing and working with the files is the easy part. Collecting things is where Evernote shines. It can be dead simple to get stuff into it, but once you step away from features like the Web Clipper, it gets more difficult. In this new setup, installing and using the DropBox app on all my devices eliminates most of the friction.</p>
+
+<p>There are three main types of information I find myself capturing:</p>
+
+<h3 id="web-pages">1. Web Pages</h3>
+
+<p>Sometimes I want to come back to a website because it’s interesting; sometimes the design of the site intrigues me; other times I’m just gathering a bunch of research for a project. In all cases, I need to be able to save the webpage for later and I need to be able to do it from the Mac <em>and</em> iOS.</p>
+
+<p>It’s pretty simple on the Mac. There is a menu item called “Export as PDF…” under the File menu. You can <a href="http://computers.tutsplus.com/tutorials/how-to-set-up-custom-keyboard-shortcuts-on-your-mac--mac-176">map this to a keyboard shortcut</a> (look at step 5) to make it faster to access. In my testing, these PDFs are full-text searchable as well.</p>
+
+<p>From iOS, I was a bit stumped on this. I was trying to use Workflow to pull it off and kept thinking about ways to convert html to a PDF. But I couldn’t get it to work right, and it seemed jumbled. Eventually I took a step back to think (which is what I usually need to do when things start looking muddled) and deduced that I simply wanted a way to share a PDF to DropBox. Then I remembered the “Save to DropBox” button in the Share Sheet. Hold on to your hats: It turns out that <em>this will convert the web page to a searchable PDF for you.</em> I was pretty darn excited to figure that out.</p>
+
+<h3 id="images">2. Images</h3>
+
+<p>Most pictures I collect are done through my phone. I used to send pictures to my Mac using AirDrop and then move them to DropBox later. But when I discovered the “Save to DropBox” trick, those issues were gone. It saves an image directly to DropBox.</p>
+
+<p>If I do take a screenshot with my Mac, I save it to the inbox or put it where it belongs right away, depending on what I’m doing. Working with images on the Mac in this way isn’t much different than how I was using Evernote. They simply land in a new place.</p>
+
+<h3 id="text">3. Text</h3>
+
+<p>If I’m grabbing a quick note on something, it starts in nvALT (which is synced with DropBox). If it’s an article or something longer, it goes into a Sublime Text project (also synced with DropBox). In either case, I can access the text from my phone in Editorial.</p>
+
+<p>When I think of an idea or a paragraph I want to add to an article and I’m away from my Mac, I start in Drafts. I always start there, sometimes it stays there for a while. When it’s time for the text to leave, I can create new text files out of it or send it to another app. There are too many options for what you can do with it from Drafts to spell them all out now. Again, options are gold, and I can do pretty much anything I want from here.</p>
+
+<h2 id="in-the-end">In The End</h2>
+
+<p>I still have a lot of work to do pulling 14,000 notes from Evernote. I’m looking for ways to export the data and move it over, but for now I’m happy with where I’m putting all the new. It gets me away from a proprietary format and makes it a whole lot easier to use the apps I enjoy.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[How to Create Energizing Rituals]]></title>
