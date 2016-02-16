@@ -14,11 +14,45 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Sun, 14 Feb 2016 06:49:46 -0600</lastBuildDate>
+<lastBuildDate>Tue, 16 Feb 2016 14:34:10 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[The Value of Tradition]]></title>
+    <link>http://joebuhlig.com/the-value-of-tradition/</link>
+    <pubDate>Mon, 15 Feb 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[life]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/the-value-of-tradition/</guid>
+    <description>
+        <![CDATA[Having young kids has made us think consciously about the traditions we want to pass down to them. What do we want them to learn? Will our traditions help them see the importance of our view of the world? Are they fun?
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/The-Value-of-Tradition.jpg" /><p>Having young kids has made us think consciously about the traditions we want to pass down to them. What do we want them to learn? Will our traditions help them see the importance of our view of the world? Are they fun?
+<!--more--></p>
+
+<p>My wife and I have a number of yearly activities that we’ve adopted from our own parents, and we want to pass them down to our own kids. But why? Is it purely nostalgia or old-fashioned? Should we just let them go and come up with our own?</p>
+
+<p>I don’t think we pass them on because of nostalgia. There might be a bit of that, but there’s something more. Each tradition we pass on has a background and a starting point. It wasn’t something that our grandparents just made up because it sounded fun (though I wonder sometimes). They started with a desire to remember an activity or value, or they just had a great time with family doing it.</p>
+
+<p>Say you have a tradition of watching the football game on Thanksgiving with your cousins. How did that start? Likely, there was someone in the family that turned the game on one year to check the score. Someone else asked about it and the next thing you know you’re watching the game together. Since the game is on, a few others started to show an interest and the next year you plan to watch the game. The following year you’re upgrading your TV specifically for this event and so on. But it started with a mutual interest and a connection with a family member, and now it’s grown to be a thing in itself at Thanksgiving. You come together for a day and connect with family.</p>
+
+<p>This reminds me of any male’s rite of passage into manhood. It’s a search that every guy goes through at some point and many cultures acknowledge it with a traditional challenge to the boy. If he completes the challenge, he becomes a man. If he fails, he remains a boy. The tradition teaches him to overcome something difficult to show that he is ready for manhood, and that lesson of triumph over a trial will give him the confidence and strength he needs in the future. Without it, he will constantly be searching for his place in society.</p>
+
+<p>Our traditions are typically altered and perfected over time. They can become more intricate or more simple as they are enacted numerous times. That’s exactly what makes them so powerful. With years of iterations, they become rich with lessons about values and morals that make our families unique. That’s what I want for our girls. I want them to learn these lessons from our grandparents and parents and eventually teach them to our grandchildren. It’s one way for me to have a positive impact on the generations beyond me and leave a proud legacy.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[An Alternative to Evernote]]></title>
@@ -773,46 +807,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Mac Navigation]]></title>
-    <link>http://joebuhlig.com/mac-navigation/</link>
-    <pubDate>Mon, 11 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[alfred]]></category>
-
-    <category><![CDATA[mac]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/mac-navigation/</guid>
-    <description>
-        <![CDATA[Nerdy Mac users are known for customizing their machines. Between keyboard shortcuts, Spaces, and third-party apps, you can effectively set up a computer that is perfect for you and unusable by someone else.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Mac-Navigation.jpg" /><p>Nerdy Mac users are known for customizing their machines. Between keyboard shortcuts, Spaces, and third-party apps, you can effectively set up a computer that is perfect for you and unusable by someone else.
-<!--more--></p>
-
-<p>But folks don’t typically think about how they move from one application to another. Mission Control or Spaces are the standard solutions. I’ve found that Spaces doesn’t work well because it forces me to pull my hands from the keyboard to the trackpad. And I can never find the app I want in Mission Control.</p>
-
-<h2 id="hiding">Hiding</h2>
-
-<p>I’ve developed a process of showing and hiding apps, making it possible to immediately switch to the app I want by hiding the one I was just using. I use the built in shortcut Command-H to hide an application from view. It doesn’t close the application, it just moves it to the background. I can get back to it in a couple ways, by using Spotlight or by clicking on the app icon in the dock.</p>
-
-<h2 id="alfred">Alfred</h2>
-
-<p>But I prefer to use my launcher of choice, <a href="https://www.alfredapp.com/">Alfred</a>, to bring it back. I can invoke Alfred, type the name of the application I want, and keep moving. To make it even faster, I set up a few shortcuts for commonly used programs so I can go directly to the app I want. For example, I can hit Control-Option-O to pull up OmniFocus. Control-Option-F will open Finder and Control-Option-T opens Sublime Text. They all start with Control-Option to make it easier to remember.</p>
-
-<h2 id="in-practice">In Practice</h2>
-
-<p>Anytime I need a different app, I either type the Alfred shortcut or type the name of the app into Alfred. When I’m done with it, I hide it or repeat the process to open the next one. Just remember to close them when you’re done or your computer will be as slow as a slug.</p>
 ]]>
     </content:encoded>
 </item>
