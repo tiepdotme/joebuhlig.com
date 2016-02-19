@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"24: No More Project Codes",
+			"image":"/assets/posts/No-More-Project-Codes.jpg",
+			"permalink":"/24/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"dvorak",
+				"evernote"
+			],
+			"excerpt": "<p>With my recent move away from Evernote, I’ve made the decision to leave my project codes behind. And although there are serious competitors to Evernote, I’m staying away from them.</p>\n\n",
+			"content": "With%20my%20recent%20move%20away%20from%20Evernote,%20I%E2%80%99ve%20made%20the%20decision%20to%20leave%20my%20project%20codes%20behind.%20And%20although%20there%20are%20serious%20competitors%20to%20Evernote,%20I%E2%80%99m%20staying%20away%20from%20them.%0A%0A%0ABecome%20a%20Patron%0A%0ACreating%20Personal%20Project%20Codes%0A%0AAn%20Alternative%20to%20Evernote%0A%0AHeavy%20duty%20floating%20book%20shelves%0A%0ADvorak%20Transition%0A%0AQuiver%0A%0AScrivener%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"The Value of Tradition",
 			"image":"/assets/posts/The-Value-of-Tradition.jpg",
 			"permalink":"/the-value-of-tradition/",

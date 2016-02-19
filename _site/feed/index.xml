@@ -14,11 +14,57 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 16 Feb 2016 14:34:10 -0600</lastBuildDate>
+<lastBuildDate>Thu, 18 Feb 2016 19:55:51 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[24: No More Project Codes]]></title>
+    <link>http://joebuhlig.com/24/</link>
+    <pubDate>Wed, 17 Feb 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[dvorak]]></category>
+
+    <category><![CDATA[evernote]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/24/</guid>
+    <description>
+        <![CDATA[With my recent move away from Evernote, I’ve made the decision to leave my project codes behind. And although there are serious competitors to Evernote, I’m staying away from them.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/No-More-Project-Codes.jpg" /><p>With my recent move away from Evernote, I’ve made the decision to leave my project codes behind. And although there are serious competitors to Evernote, I’m staying away from them.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://joebuhlig.com/creating-personal-project-codes/">Creating Personal Project Codes</a></p>
+
+<p><a href="http://joebuhlig.com/an-alternative-to-evernote/">An Alternative to Evernote</a></p>
+
+<p><a href="http://discussion.joebuhlig.com/t/heavy-duty-floating-book-shelves/192?u=joebuhlig">Heavy duty floating book shelves</a></p>
+
+<p><a href="http://joebuhlig.com/dvorak-transition/">Dvorak Transition</a></p>
+
+<p><a href="http://happenapps.com/#quiver">Quiver</a></p>
+
+<p><a href="http://literatureandlatte.com/">Scrivener</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[The Value of Tradition]]></title>
@@ -761,52 +807,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>Since the dictation wasn’t 100% perfect, I spent quite a bit of time deciphering my original intent when editing. Not only was I trying to improve the sentences and paragraphs, but the words themselves were so far off at times that I couldn’t figure out what I was talking about and ended up rewriting the whole thing anyway.</p>
 
 <p>More practice would likely improve my dictation, but the slower pace of typing gives me time to process my thoughts more clearly and reduce editing later. It helps me gain clarity faster and spend more time refining the ideas than the process. I will continue to use dictation for smaller chunks, but in my case anything long-form is better suited to typing.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[19: Online Discussions]]></title>
-    <link>http://joebuhlig.com/19/</link>
-    <pubDate>Wed, 13 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[discussions]]></category>
-
-    <category><![CDATA[dvorak]]></category>
-
-    <category><![CDATA[masterminds]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/19/</guid>
-    <description>
-        <![CDATA[I’m looking for a good way to promote online discussions. I share my idea about it and give an update on Dvorak. And what about masterminds?
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Online-Discussions.jpg" /><p>I’m looking for a good way to promote online discussions. I share my idea about it and give an update on Dvorak. And what about masterminds?
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://www.reddit.com/r/joebuhlig/">/r/joebuhlig</a></p>
-
-<p><a href="http://joebuhlig.com/newsletter/">Newsletter</a></p>
-
-<p><a href="http://www.discourse.org/">Discourse</a></p>
-
-<p><a href="https://thefocuscourse.com/">The Focus Course</a></p>
-
-<p><a href="http://joebuhlig.com/dvorak-transition/">Dvorak Transition</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]>
     </content:encoded>
 </item>

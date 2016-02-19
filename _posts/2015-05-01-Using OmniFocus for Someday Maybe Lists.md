@@ -96,4 +96,4 @@ The best part about having someday/maybe lists in Omnifocus is the ease of activ
 
 This has been great for me. It’s removed the resistance I had to reviewing my someday/maybe lists and streamlined the process of acting on them when I decide to say “yes” to something. It also [frees my mind](http://joebuhlig.com/getting-things-done-introduction/). It’s one less app I need to look at when I’m trying to find a potential action item.
 
-**Update:** If you're interested, I have an update to the process I'm using for this that you can [find here](http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/).
+**Update:** If you're interested, I have an update to the process I'm using for this that you can [find here](http://joebuhlig.com/omnifocus-auto-parser/).
