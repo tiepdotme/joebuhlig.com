@@ -14,11 +14,66 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 18 Feb 2016 19:55:51 -0600</lastBuildDate>
+<lastBuildDate>Sat, 20 Feb 2016 06:20:19 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Using GTD As A Homeowner]]></title>
+    <link>http://joebuhlig.com/using-gtd-as-a-homeowner/</link>
+    <pubDate>Fri, 19 Feb 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[gtd]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/using-gtd-as-a-homeowner/</guid>
+    <description>
+        <![CDATA[Most of the time when I’m discussing GTD with a friend or online it’s in the context of getting more work done more efficiently. I agree that this is the easy target for the framework; our jobs and the work we do each day are the most pressing and stressing...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Using-GTD-as-a-Homeowner.jpg" /><p>Most of the time when I’m discussing GTD with a friend or online it’s in the context of getting more work done more efficiently. I agree that this is the easy target for the framework; our jobs and the work we do each day are the most pressing and stressing in our lives. We need as much help as we can get to stay on top of it.
+<!--more--></p>
+
+<p>Once you start to understand the nuances of GTD and you have a handle on your job, there are a couple paths you can take. You can coast and enjoy the peace that comes with having work off your mind. Or you can continue to find areas of your life to integrate into GTD. It’s not just for work, but life. And the area of life that most closely resembles the responsibilities of work - making this an easy transition - is homeownership or managing your household.</p>
+
+<h2 id="small-stuff">Small Stuff</h2>
+
+<p>I’ve found that you can never truly be done keeping up or improving your home. There are always light bulbs burning out and appliances wearing out over time. With the <a href="http://joebuhlig.com/seasons-tasks/">changing seasons</a> there are annual tasks that can sneak up on you when you aren’t paying attention. With the GTD mindset, these are pretty simple to handle.</p>
+
+<p>When you see something that needs attention, either do it right away or write it down. You should have a place for these household tasks so that when you have time to work on the house (you do have a context for these, right?) you pull up this list and bring the house back up to date.</p>
+
+<h2 id="the-projects">The Projects</h2>
+
+<p>If you’re talking to your spouse and the two of you have an idea pertaining to the house, capture that as well. You need to keep an eye on these potentials. I wish I had started doing this sooner. Because I keep a list of these, I can often knock out a few at a time.</p>
+
+<p>I’m currently working on some trim and finishing touches in our family room. We had an idea to add <a href="http://discussion.joebuhlig.com/t/heavy-duty-floating-book-shelves/192?u=joebuhlig">built-in bookshelves</a>, but we’ve also talked about adding a switch to our fireplace to eliminate potential issues with the remote we have for it. If the remote stops working, I want a fallback and since the remote is currently a bit finicky, I thought it best to go ahead and hard-wire it. With a list of these potential projects in place, I was able to see the work I wanted to do in the family room and bundle it together. It’s a lot easier to do the fireplace wiring now when I have a wall opened up than after I have everything painted and back in place.</p>
+
+<h2 id="irregular-tasks">Irregular Tasks</h2>
+
+<p>There are also infrequent tasks that you can’t let slide. We live in Minnesota and with that comes a cold winter. Our house has outdoor spigots that need to be turned off in the fall so they don’t freeze and burst the pipes… again. I don’t want to relive the memories of that lesson, so I keep tasks like these in an annual <em>Fall Maintenance</em> list. When it starts to get cold outside, I run through this checklist of pre-cold items to make sure we don’t have major issues later on.</p>
+
+<h2 id="the-principles">The Principles</h2>
+
+<p>At the end of the day, these are the same tenants of GTD that we’re used to. When something comes up or you have an idea about something around the house, write it down; put it into the system; trust yourself. Come back to it when your contexts allow, but make sure you have a dedicated context or a specific time for these things. They won’t magically happen just because you wrote them down. Use GTD to help you engage with the tasks around your house as well as work.</p>
+
+<div class="post-series">
+<p>This series is about using GTD outside the lines of our day jobs. Yes, it can be used in every aspect of your life.</p>
+<ol>
+<li><a href="/using-gtd-as-a-homeowner/">Using GTD As A Homeowner</a></li>
+<li>Using GTD As A Writer</li>
+<li>Using GTD As A Husband</li>
+<li>Using GTD As A Dad</li>
+<li>Using GTD As A Man</li>
+</ol>
+</div>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[24: No More Project Codes]]></title>
@@ -769,44 +824,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>One area that has suffered is coding. It’s not uncommon for me to have three browsers open, multiple instances of Sublime Text, and multiple terminal windows running all at once. The ease of seeing a bunch of those at once is extremely helpful and allows me to work much more quickly and efficiently.</p>
 
 <p>This isn’t my forever setup, but it is good for me to appreciate the advantages and acknowledge the limitations of working from “just a laptop.”</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Dictating vs Typing]]></title>
-    <link>http://joebuhlig.com/dictating-vs-typing/</link>
-    <pubDate>Fri, 15 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[dictation]]></category>
-
-    <category><![CDATA[writing]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/dictating-vs-typing/</guid>
-    <description>
-        <![CDATA[Dictation is becoming more and more commonplace, and as the software behind it continues to get better we’ll likely see it become a bigger part of our daily lives.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Dictating-vs-Typing.jpg" /><p>Dictation is becoming more and more commonplace, and as the software behind it continues to get better we’ll likely see it become a bigger part of our daily lives.
-<!--more--></p>
-
-<p>It takes some practice, but once you understand the mechanics, dictating can increase your time efficiency. From texting to getting the latest Chiefs scores, there are endless uses for the technology. I use Siri a fair amount and now that “Hey Siri” is wireless in the iPhone 6S, I’ve found my use cases increasing.</p>
-
-<p>Because of Siri’s current accuracy, I decided to dictate the first draft of <a href="https://tools.joebuhlig.com/working-with-omnifocus/"><em>Working with OmniFocus</em></a>. I knew that I could get the ideas out of my mind much faster if I were able to simply speak them.</p>
-
-<p>It was great. I plugged in my podcasting mic, turned on dictation, and went to town. I could draft an entire chapter in about 90 minutes. In 6 days I had finished the entire first draft. It felt awesome to be able to do so much in so little time.</p>
-
-<p>When I reflected on that process I realized that I spent a lot of time trying to find the specific words I wanted instead of working to get the ideas out of my head. I was able to input the words so quickly that I had a hard time coming up with the words I wanted. This by itself really isn’t a big deal, but it meant that I needed to find a way to pre-process my thoughts ahead of time.  In the end I spent an hour writing or typing my notes for each chapter before I dictated them, so there wasn’t much for time savings.</p>
-
-<p>Since the dictation wasn’t 100% perfect, I spent quite a bit of time deciphering my original intent when editing. Not only was I trying to improve the sentences and paragraphs, but the words themselves were so far off at times that I couldn’t figure out what I was talking about and ended up rewriting the whole thing anyway.</p>
-
-<p>More practice would likely improve my dictation, but the slower pace of typing gives me time to process my thoughts more clearly and reduce editing later. It helps me gain clarity faster and spend more time refining the ideas than the process. I will continue to use dictation for smaller chunks, but in my case anything long-form is better suited to typing.</p>
 ]]>
     </content:encoded>
 </item>
