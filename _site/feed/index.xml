@@ -14,11 +14,66 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Sat, 20 Feb 2016 06:20:19 -0600</lastBuildDate>
+<lastBuildDate>Mon, 22 Feb 2016 07:16:24 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Using GTD As A Writer]]></title>
+    <link>http://joebuhlig.com/using-gtd-as-a-writer/</link>
+    <pubDate>Mon, 22 Feb 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[gtd]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/using-gtd-as-a-writer/</guid>
+    <description>
+        <![CDATA[It never fails. I’ll be mowing the lawn or riding my bike and that’s when it hits me. There’s nothing I can do about it. I wish it would leave me alone until I could do something about it, but there I am; trying to figure out how I’m going...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Using-GTD-as-a-Writer.jpg" /><p>It never fails. I’ll be mowing the lawn or riding my bike and that’s when it hits me. There’s nothing I can do about it. I wish it would leave me alone until I could do something about it, but there I am; trying to figure out how I’m going to write those lines down.
+<!--more--></p>
+
+<p>This hasn’t been an easy lesson to learn. Writing things down. I have a pretty good memory for tasks, so I always have this nagging voice telling me “I’ll just remember this one. I don’t need to get it out of my head. I can handle it.”</p>
+
+<p>When I started writing I had a tendency - as many first-time writers do - to wait until the muse hit me and then get to work. When it comes, take advantage of it and write like crazy. When you’re tired or the ideas stop flowing, you stop, too. No point in continuing when the good stuff is gone.</p>
+
+<p>But there were times when this flow started to creep up on me and I couldn’t do anything about it. I was at work or I was driving. The more writing I did, the more frequently this happened and the more frustrating it was to sit helplessly and watch my inspiration fly past uncaptured.</p>
+
+<p>I’d been using GTD for a while but I was only beginning to understand the more subtle nuances and the freedom that it can create. Because it was helping me so much in other areas, I started to apply the principles and set up systems to help with my writing. I wanted to harness the creativity that couldn’t decide on a schedule.</p>
+
+<h2 id="topics-and-stories">Topics and Stories</h2>
+
+<p>If you don’t already know, I’m a big fan of <a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">Someday/Maybe lists</a> and setting up a list of potential topics was one of the best things I could have done to help my writing. I could be talking to a friend or reading an article and an idea would come to me. Originally, I would think about it for a moment or two and then move on. I couldn’t do anything with it right now and if was a really good idea I wouldn’t forget it. Well, that was a lie I told myself. I forgot a bunch of them. These days I type it into Drafts and send it away to the ideas list for me to review later when I’m gearing up for a new article.</p>
+
+<p>I also keep a list of stories. If something happens or a situation impacts me, I write a note about it. I don’t always know when I’ll use these, but if I’m writing and need a story to go with it, I can look here.</p>
+
+<h2 id="managing-creativity">Managing Creativity</h2>
+
+<p>This is hard. I never know when I’ll have a great idea for an article I’m working on, but I have a set time when I sit down to write. One side is sporadic and unpredictable. The other is structured and uniform. The key GTD principle here is <a href="http://joebuhlig.com/getting-things-done-capture/">ubiquitous capture</a>. I must have a way to grab those sentences or paragraphs when they come, and I need a way to grab them even when my hands are busy. Sometimes that means I’m <a href="http://joebuhlig.com/siri-to-omnifocus/">dictating into Siri</a> and sometimes it means I pull the car over. I know that if I take those few moments to use my system, I’ll end up with better words on the page. As a writer, I can’t pass that up.</p>
+
+<h2 id="clear-mind">Clear Mind</h2>
+
+<p>It’s taken me a long time to trust my system. I go through spells when I still want to keep everything in my mind even though I know it leads to trouble. But I always come back to it stronger and more devoted. I’ve gradually ironed out points of resistance and made it simple enough to use even when I don’t feel like it. I can appreciate the freedom my mind has when I sit down to write. When it’s time to work on articles in the morning I don’t worry about the other stuff I have to do. I don’t want that clutter jumbling my thoughts. I want <em>mind like water</em> so I can be free to let the words come.</p>
+
+<div class="post-series">
+<p>This series is about using GTD outside the lines of our day jobs. Yes, it can be used in every aspect of your life.</p>
+<ol>
+<li><a href="/using-gtd-as-a-homeowner/">Using GTD As A Homeowner</a></li>
+<li><a href="/using-gtd-as-a-writer/">Using GTD As A Writer</a></li>
+<li>Using GTD As A Husband</li>
+<li>Using GTD As A Dad</li>
+<li>Using GTD As A Man</li>
+</ol>
+</div>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Using GTD As A Homeowner]]></title>
@@ -65,7 +120,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>This series is about using GTD outside the lines of our day jobs. Yes, it can be used in every aspect of your life.</p>
 <ol>
 <li><a href="/using-gtd-as-a-homeowner/">Using GTD As A Homeowner</a></li>
-<li>Using GTD As A Writer</li>
+<li><a href="/using-gtd-as-a-writer/">Using GTD As A Writer</a></li>
 <li>Using GTD As A Husband</li>
 <li>Using GTD As A Dad</li>
 <li>Using GTD As A Man</li>
@@ -784,46 +839,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Just a Laptop]]></title>
-    <link>http://joebuhlig.com/just-a-laptop/</link>
-    <pubDate>Mon, 18 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[hardware]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/just-a-laptop/</guid>
-    <description>
-        <![CDATA[When I started my business I made the shift from three 27” monitors to just a laptop screen. That shift has taught me a few things about how I work.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Just-a-Laptop.jpg" /><p>When I started my business I made the shift from three 27” monitors to just a laptop screen. That shift has taught me a few things about how I work.
-<!--more--></p>
-
-<h2 id="different-modes">Different Modes</h2>
-
-<p>I have different mindsets and needs when I’m doing different types of work. I can listen to upbeat music and kick back on the couch when I’m cycling through email, but I need instrumental, low-key music and my desk when I’m coding. These two examples were the extremes that made me start to pay attention.</p>
-
-<p>Noticing those subtle differences has brought some pretty big gains in productivity. I used to rarely leave my desk because the monitors made it possible to see so much at once. When I only have the laptop screen it forces me to focus and choose the best (or most comfortable) environment.</p>
-
-<h2 id="focus">Focus</h2>
-
-<p>Forcing focus has paid big dividends in my writing. Because I don’t have the ability to see a whole bunch of things at once, I stick to the task in front of me. Since the time I’m most vulnerable to YouTube binges is when I sit down to write, this has paid off. I usually enjoy the process of writing but getting started is hard when there’s a Twitter feed staring at me from the corner.</p>
-
-<h2 id="development">Development</h2>
-
-<p>One area that has suffered is coding. It’s not uncommon for me to have three browsers open, multiple instances of Sublime Text, and multiple terminal windows running all at once. The ease of seeing a bunch of those at once is extremely helpful and allows me to work much more quickly and efficiently.</p>
-
-<p>This isn’t my forever setup, but it is good for me to appreciate the advantages and acknowledge the limitations of working from “just a laptop.”</p>
 ]]>
     </content:encoded>
 </item>
