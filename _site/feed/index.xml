@@ -14,11 +14,57 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 22 Feb 2016 07:16:24 -0600</lastBuildDate>
+<lastBuildDate>Wed, 24 Feb 2016 07:08:17 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[25: Creating Ideas]]></title>
+    <link>http://joebuhlig.com/25/</link>
+    <pubDate>Wed, 24 Feb 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[ideas]]></category>
+
+    <category><![CDATA[life]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/25/</guid>
+    <description>
+        <![CDATA[Coming up with ideas doesn’t have to be hard. There are four ways I create new ideas. And I had a moment of insight about being content at a birthday party for our girls.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Creating-Ideas.jpg" /><p>Coming up with ideas doesn’t have to be hard. There are four ways I create new ideas. And I had a moment of insight about being content at a birthday party for our girls.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">Using Omnifocus for Someday/Maybe Lists</a></p>
+
+<p><a href="https://getpocket.com/">Pocket</a></p>
+
+<p><a href="http://feedly.com">Feedly</a></p>
+
+<p><a href="http://joebuhlig.com/omnifocus-setup-workflow/">My Omnifocus Setup and Workflow</a></p>
+
+<p><a href="http://joebuhlig.com/the-value-of-tradition/">The Value of Tradition</a></p>
+
+<p><a href="http://joebuhlig.com/8/">8: Waiting to Upgrade</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Using GTD As A Writer]]></title>
@@ -787,58 +833,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>This is a discussion about the discussion itself as well as this blog. If you have topic ideas or suggestions for how to improve the site or discussion, I’d love to see them here.</p>
 
 <p>I am excited about building a community where we can help each other learn and grow. Come <a href="http://discussion.joebuhlig.com">check it out</a>!</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[20: Code Freeze]]></title>
-    <link>http://joebuhlig.com/20/</link>
-    <pubDate>Wed, 20 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[discussions]]></category>
-
-    <category><![CDATA[dvorak]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/20/</guid>
-    <description>
-        <![CDATA[My Dvorak typing speed is picking up and I’ll be launching a new discussion in two days. Once that’s out, I’ll be going on a code freeze.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Code-Freeze.jpg" /><p>My Dvorak typing speed is picking up and I’ll be launching a new discussion in two days. Once that’s out, I’ll be going on a code freeze.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="http://joebuhlig.com/dvorak-transition/">Dvorak Transition</a></p>
-
-<p><a href="http://joebuhlig.com/19/">19: Online Discussions</a></p>
-
-<p><a href="http://joebuhlig.com/using-drafts/">Using Drafts</a></p>
-
-<p><a href="https://disqus.com/">Disqus</a></p>
-
-<p><a href="http://www.discourse.org/">Discourse</a></p>
-
-<p><a href="https://www.phpbb.com/">phpBB</a></p>
-
-<p><a href="https://discourse.omnigroup.com/">The Omni Group Forums</a></p>
-
-<p><a href="https://talk.jekyllrb.com/">Jekyll Talk</a></p>
-
-<p><a href="https://meta.discourse.org/">Discourse Meta</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]>
     </content:encoded>
 </item>

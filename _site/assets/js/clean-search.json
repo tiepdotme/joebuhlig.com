@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"25: Creating Ideas",
+			"image":"/assets/posts/Creating-Ideas.jpg",
+			"permalink":"/25/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"ideas",
+				"life"
+			],
+			"excerpt": "<p>Coming up with ideas doesn’t have to be hard. There are four ways I create new ideas. And I had a moment of insight about being content at a birthday party for our girls.</p>\n\n",
+			"content": "Coming%20up%20with%20ideas%20doesn%E2%80%99t%20have%20to%20be%20hard.%20There%20are%20four%20ways%20I%20create%20new%20ideas.%20And%20I%20had%20a%20moment%20of%20insight%20about%20being%20content%20at%20a%20birthday%20party%20for%20our%20girls.%0A%0A%0ABecome%20a%20Patron%0A%0AUsing%20Omnifocus%20for%20Someday/Maybe%20Lists%0A%0APocket%0A%0AFeedly%0A%0AMy%20Omnifocus%20Setup%20and%20Workflow%0A%0AThe%20Value%20of%20Tradition%0A%0A8:%20Waiting%20to%20Upgrade%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Using GTD As A Writer",
 			"image":"/assets/posts/Using-GTD-as-a-Writer.jpg",
 			"permalink":"/using-gtd-as-a-writer/",

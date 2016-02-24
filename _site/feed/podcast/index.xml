@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Mon, 22 Feb 2016 07:16:24 -0600</lastBuildDate>
+<lastBuildDate>Wed, 24 Feb 2016 07:08:17 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,85 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>25: Creating Ideas</title>
+    <link>http://joebuhlig.com/25/</link>
+    <comments>http://joebuhlig.com/25/#comments</comments>
+    <pubDate>Wed, 24 Feb 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[ideas]]></category>
+
+    <category><![CDATA[life]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/25/</guid>
+    <description>
+        <![CDATA[Coming up with ideas doesn’t have to be hard. There are four ways I create new ideas. And I had a moment of insight about being content at a birthday party for our girls.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Coming up with ideas doesn’t have to be hard. There are four ways I create new ideas. And I had a moment of insight about being content at a birthday party for our girls.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">Using Omnifocus for Someday/Maybe Lists</a></p>
+
+<p><a href="https://getpocket.com/">Pocket</a></p>
+
+<p><a href="http://feedly.com">Feedly</a></p>
+
+<p><a href="http://joebuhlig.com/omnifocus-setup-workflow/">My Omnifocus Setup and Workflow</a></p>
+
+<p><a href="http://joebuhlig.com/the-value-of-tradition/">The Value of Tradition</a></p>
+
+<p><a href="http://joebuhlig.com/8/">8: Waiting to Upgrade</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ025.mp3" length="21385199" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Coming up with ideas doesn’t have to be hard. There are four ways I create new ideas. And I had a moment of insight about being content at a birthday party for our girls.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Coming up with ideas doesn’t have to be hard. There are four ways I create new ideas. And I had a moment of insight about being content at a birthday party for our girls.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">Using Omnifocus for Someday/Maybe Lists</a></p>
+
+<p><a href="https://getpocket.com/">Pocket</a></p>
+
+<p><a href="http://feedly.com">Feedly</a></p>
+
+<p><a href="http://joebuhlig.com/omnifocus-setup-workflow/">My Omnifocus Setup and Workflow</a></p>
+
+<p><a href="http://joebuhlig.com/the-value-of-tradition/">The Value of Tradition</a></p>
+
+<p><a href="http://joebuhlig.com/8/">8: Waiting to Upgrade</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>22:05</itunes:duration>
+  </item>
 
   <item>
     <title>24: No More Project Codes</title>
