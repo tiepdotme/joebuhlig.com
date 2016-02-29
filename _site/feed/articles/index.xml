@@ -14,11 +14,63 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 26 Feb 2016 07:28:57 -0600</lastBuildDate>
+<lastBuildDate>Mon, 29 Feb 2016 06:23:26 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Using GTD As A Dad]]></title>
+    <link>http://joebuhlig.com/using-gtd-as-a-dad/</link>
+    <pubDate>Mon, 29 Feb 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[gtd]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/using-gtd-as-a-dad/</guid>
+    <description>
+        <![CDATA[One of the greatest things a dad will ever hear is the sound of his kids squealing in joy while they play games together. It’s energizing and pure pleasure to see the delight and sparkle in their eyes as they ask to “do it again!” Those are the memories that...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Using-GTD-as-a-Dad.jpg" /><p>One of the greatest things a dad will ever hear is the sound of his kids squealing in joy while they play games together. It’s energizing and pure pleasure to see the delight and sparkle in their eyes as they ask to “do it again!” Those are the memories that we hope to multiply.
+<!--more--></p>
+
+<p>But there’s a boogie man that creeps up in these moments: wandering thoughts about something else. This is usually work of some kind but it can also be the worry about an upcoming conversation you need to have with a friend or the wiring in the bathroom that needs fixed. I hate it. I want these focused times with my kids to be cherished and frequent.</p>
+
+<h2 id="mental-freedom-again">Mental Freedom… again</h2>
+
+<p>I have to fight against feeling that I can get away with being distracted because they’re just kids. That’s not fair to them. They deserve my full attention just as <a href="http://joebuhlig.com/using-gtd-as-a-husband/">my wife does</a>. And they’re smarter than we give them credit for. They can tell when you’re with them or not. I think kids have an innate <a href="http://joebuhlig.com/every-body-saying-book-review/">ability to read us</a> that they eventually unlearn. So it’s even more important that I keep my head clear of worrisome tasks. Having the GTD structure gives me a way to maintain that clarity.</p>
+
+<h2 id="quantity-time">Quantity Time</h2>
+
+<p>We’ve overdone this in the past, but we’ve found a good balance lately. We want to make sure that we have time together as a family each day. That means we spend a little time together after I get off work and then again from dinner until bedtime. Yes, there are other commitments that come up and we handle those, but we can usually plan on these times as a family. That means I keep those times on the calendar and my wife and I try to plan out our afternoons ahead of time. We know that we both need time to work on fun projects or to just step away for a bit. But we always come back together at the end of the day for dinner and fun before the kids’ bedtime.</p>
+
+<h2 id="gifts-and-activities">Gifts and Activities</h2>
+
+<p>I do the same for my girls as I do with my wife. I want to keep lists of possible gifts for my girls and activities that we could do together. Coming up with activities for kids can be exhausting if you don’t have an idea bank to pull from. Most of the time I can run with whatever toys the girls want to play with, but there are instances when a list to fall back on is extremely helpful.</p>
+
+<h2 id="at-the-end-of-the-day">At The End of the Day</h2>
+
+<p>I use GTD to help me remember all the important dates in my girls’ lives and keep track of a few Someday/Maybes. With the the other areas of my life under control, I know when I can take time for them and I can do it without worrying. As long as I continue trusting the system (and quit thinking I need to check my phone when I’m around them), I can focus on my girls and enjoy making them squeal.</p>
+
+<div class="post-series">
+<p>This series is about using GTD outside the lines of our day jobs. Yes, it can be used in every aspect of your life.</p>
+<ol>
+<li><a href="/using-gtd-as-a-homeowner/">Using GTD As A Homeowner</a></li>
+<li><a href="/using-gtd-as-a-writer/">Using GTD As A Writer</a></li>
+<li><a href="/using-gtd-as-a-husband/">Using GTD As A Husband</a></li>
+<li><a href="/using-gtd-as-a-dad/">Using GTD As A Dad</a></li>
+<li>Using GTD As A Man</li>
+<li>Using GTD As A Woodworker</li>
+</ol>
+</div>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Using GTD As A Husband]]></title>
@@ -85,7 +137,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <li><a href="/using-gtd-as-a-homeowner/">Using GTD As A Homeowner</a></li>
 <li><a href="/using-gtd-as-a-writer/">Using GTD As A Writer</a></li>
 <li><a href="/using-gtd-as-a-husband/">Using GTD As A Husband</a></li>
-<li>Using GTD As A Dad</li>
+<li><a href="/using-gtd-as-a-dad/">Using GTD As A Dad</a></li>
 <li>Using GTD As A Man</li>
 <li>Using GTD As A Woodworker</li>
 </ol>
@@ -141,7 +193,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <li><a href="/using-gtd-as-a-homeowner/">Using GTD As A Homeowner</a></li>
 <li><a href="/using-gtd-as-a-writer/">Using GTD As A Writer</a></li>
 <li><a href="/using-gtd-as-a-husband/">Using GTD As A Husband</a></li>
-<li>Using GTD As A Dad</li>
+<li><a href="/using-gtd-as-a-dad/">Using GTD As A Dad</a></li>
 <li>Using GTD As A Man</li>
 <li>Using GTD As A Woodworker</li>
 </ol>
@@ -197,7 +249,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <li><a href="/using-gtd-as-a-homeowner/">Using GTD As A Homeowner</a></li>
 <li><a href="/using-gtd-as-a-writer/">Using GTD As A Writer</a></li>
 <li><a href="/using-gtd-as-a-husband/">Using GTD As A Husband</a></li>
-<li>Using GTD As A Dad</li>
+<li><a href="/using-gtd-as-a-dad/">Using GTD As A Dad</a></li>
 <li>Using GTD As A Man</li>
 <li>Using GTD As A Woodworker</li>
 </ol>
