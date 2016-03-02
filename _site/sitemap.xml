@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/26/</loc>
+    <lastmod>2016-03-02T00:00:00-06:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/using-gtd-as-a-dad/</loc>
     <lastmod>2016-02-29T00:00:00-06:00</lastmod>
   </url>
@@ -805,6 +809,9 @@
   <url>
     <loc>http://joebuhlig.com/tag/margin/</loc>
   </url>
+  <url>
+    <loc>http://joebuhlig.com/tag/lurking/</loc>
+  </url>
     <url>
       <loc>http://joebuhlig.com/put-distractions-place/</loc>
     </url>
@@ -1185,5 +1192,8 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/using-gtd-as-a-dad/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/26/</loc>
     </url>
 </urlset>

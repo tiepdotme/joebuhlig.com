@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"26: The Value of Lurking",
+			"image":"/assets/posts/The-Value-of-Lurking.jpg",
+			"permalink":"/26/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"discussions",
+				"lurking"
+			],
+			"excerpt": "<p>Let’s talk about lurkers. Well, I’ll talk about them. You can just listen. And that’s okay because there’s a lot of value in lurking.</p>\n\n",
+			"content": "Let%E2%80%99s%20talk%20about%20lurkers.%20Well,%20I%E2%80%99ll%20talk%20about%20them.%20You%20can%20just%20listen.%20And%20that%E2%80%99s%20okay%20because%20there%E2%80%99s%20a%20lot%20of%20value%20in%20lurking.%0A%0A%0ABecome%20a%20Patron%0A%0ADiscussion%20site%0A%0ADiscourse%0A%0AThe%20FeverBee%20Community%0A%0AI%20was%20called%20out%0A%0AUsing%20Drafts%0A%0ADisqus%0A%0AMacstock%20Conference%20&amp;%20Expo%0A%0A22:%20Addiction%20to%20Numbers%0A%0AAn%20Alternative%20to%20Evernote%0A%0AUsing%20GTD%20As%20A%20%E2%80%A6%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Using GTD As A Dad",
 			"image":"/assets/posts/Using-GTD-as-a-Dad.jpg",
 			"permalink":"/using-gtd-as-a-dad/",

@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Mon, 29 Feb 2016 06:23:26 -0600</lastBuildDate>
+<lastBuildDate>Wed, 02 Mar 2016 07:06:25 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,101 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>26: The Value of Lurking</title>
+    <link>http://joebuhlig.com/26/</link>
+    <comments>http://joebuhlig.com/26/#comments</comments>
+    <pubDate>Wed, 02 Mar 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[discussions]]></category>
+
+    <category><![CDATA[lurking]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/26/</guid>
+    <description>
+        <![CDATA[Let’s talk about lurkers. Well, I’ll talk about them. You can just listen. And that’s okay because there’s a lot of value in lurking.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Let’s talk about lurkers. Well, I’ll talk about them. You can just listen. And that’s okay because there’s a lot of value in lurking.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://discussion.joebuhlig.com">Discussion site</a></p>
+
+<p><a href="http://www.discourse.org/">Discourse</a></p>
+
+<p><a href="https://experts.feverbee.com/">The FeverBee Community</a></p>
+
+<p><a href="https://experts.feverbee.com/t/lurker-behaviour-and-the-engagement-challenge/2183?u=joebuhlig">I was called out</a></p>
+
+<p><a href="http://joebuhlig.com/using-drafts/">Using Drafts</a></p>
+
+<p><a href="https://disqus.com/">Disqus</a></p>
+
+<p><a href="http://macstockconferenceandexpo.com/">Macstock Conference &amp; Expo</a></p>
+
+<p><a href="http://joebuhlig.com/22/">22: Addiction to Numbers</a></p>
+
+<p><a href="http://joebuhlig.com/an-alternative-to-evernote/">An Alternative to Evernote</a></p>
+
+<p><a href="http://joebuhlig.com/using-gtd-as-a-homeowner/">Using GTD As A …</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ026.mp3" length="17502095" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Let’s talk about lurkers. Well, I’ll talk about them. You can just listen. And that’s okay because there’s a lot of value in lurking.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Let’s talk about lurkers. Well, I’ll talk about them. You can just listen. And that’s okay because there’s a lot of value in lurking.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://discussion.joebuhlig.com">Discussion site</a></p>
+
+<p><a href="http://www.discourse.org/">Discourse</a></p>
+
+<p><a href="https://experts.feverbee.com/">The FeverBee Community</a></p>
+
+<p><a href="https://experts.feverbee.com/t/lurker-behaviour-and-the-engagement-challenge/2183?u=joebuhlig">I was called out</a></p>
+
+<p><a href="http://joebuhlig.com/using-drafts/">Using Drafts</a></p>
+
+<p><a href="https://disqus.com/">Disqus</a></p>
+
+<p><a href="http://macstockconferenceandexpo.com/">Macstock Conference &amp; Expo</a></p>
+
+<p><a href="http://joebuhlig.com/22/">22: Addiction to Numbers</a></p>
+
+<p><a href="http://joebuhlig.com/an-alternative-to-evernote/">An Alternative to Evernote</a></p>
+
+<p><a href="http://joebuhlig.com/using-gtd-as-a-homeowner/">Using GTD As A …</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>18:02</itunes:duration>
+  </item>
 
   <item>
     <title>25: Creating Ideas</title>
