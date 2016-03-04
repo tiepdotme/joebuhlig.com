@@ -14,11 +14,69 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 03 Mar 2016 09:37:51 -0600</lastBuildDate>
+<lastBuildDate>Fri, 04 Mar 2016 06:34:43 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Using GTD As A Man]]></title>
+    <link>http://joebuhlig.com/using-gtd-as-a-man/</link>
+    <pubDate>Fri, 04 Mar 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[gtd]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/using-gtd-as-a-man/</guid>
+    <description>
+        <![CDATA[To be honest, I struggled with this article. I wanted to write it but wasn’t sure how to convey what I was thinking. GTD has helped me as a man more than I realized but the impact has been implicit, not obvious.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Using-GTD-as-a-Man.jpg" /><p>To be honest, I struggled with this article. I wanted to write it but wasn’t sure how to convey what I was thinking. GTD has helped me as a man more than I realized but the impact has been implicit, not obvious.
+<!--more--></p>
+
+<p>How do we quantify what a man is and nail down the tasks that make a man? What activities does a man engage in? Pinpointing those tasks is a challenge in our equality-driven society. We strive for equality between men and women, but at the end of the day we are physically and mentally different, which means we’re each suited best for different types of work. Neither is any more or less important than the other, but they are different.</p>
+
+<p>Knowing my own mind and reading what other respected men have to say on the subject, I think it’s fair to say that there are roles that fit men best. It’s these roles that I want to develop, using the GTD framework to create the freedom and focus I need to do so.</p>
+
+<h2 id="killing-inaction">Killing Inaction</h2>
+
+<p>Atrophy is a real issue. If you stop working with a skill, your ability to use it will diminish over time. I find this to be <a href="http://joebuhlig.com/working-the-focus-muscle/">especially true of focus</a> and being able to stay on task. <a href="http://www.artofmanliness.com">Brett McKay</a> even suggests that <a href="http://www.artofmanliness.com/2016/02/29/idleness-kills-manliness/">idleness kills manliness</a>. The premise here is that we need to keep moving and continue looking for ways to develop our internal motivation. We need activity to keep us on our toes -  that’s where GTD steps in. We can use the structure of creating projects and choosing tasks to create this motivation. The specific project really depends on you and what you like to do. It also depends on the manly skills you enjoy using.</p>
+
+<h2 id="manly-skills">Manly Skills</h2>
+
+<p>But what are <a href="http://www.orderofman.com/skill-sets/">manly skills</a>? The stereotypical view of this might be swinging an ax or shooting guns and there’s some validity behind that stereotype. But it goes much deeper than that. The traditional view of manly skills can be generalized into skills of physical strength and violence. And those can be great skills to have, provided they are paired with wisdom and discernment (also manly skills). Without the latter, the former becomes dangerous. We need to develop our intellect, relationships, and leadership skills along with our physical abilities. The  tasks we commit to need to include meetings with other men, books that challenge our thinking, regular times for physical activity, and opportunities to lead our families. Choose projects that take you out of that comfort zone we all love.</p>
+
+<h2 id="providing">Providing</h2>
+
+<p>I find that I have a strong desire to be the provider for my family and I know I’m not alone. There are countless men I respect that admitted to feeling inadequate when they were without a job. And I know that when things are going well with my business I have a lot of confidence in what I do. When times are thin, I start to wonder about my ability to put food on the table. But GTD gives me an outlet for storing my ideas and creates a series of potential work that I can always kick off. It also helps me make better decisions about where to spend my time. It gives me a full view of my commitments and allows me to pick between them and stay on track.</p>
+
+<h2 id="mentors">Mentors</h2>
+
+<p>If you don’t have regular time spent with other men, do something about it. The absolute best way I’ve received support and ideas for how to be a better man and lead a better life is by spending time with other guys and talking through what’s going on. Get it on the calendar and keep it there. Find some guys to do life with.</p>
+
+<p>Defining the tasks that make a man is not simple. Some are obvious and some are subtle, but they are all important. The GTD framework makes it possible for you to keep up with life and stay on top of your role and skills as a man.</p>
+
+<div class="post-series">
+<p>This series is about using GTD outside the lines of our day jobs. Yes, it can be used in every aspect of your life.</p>
+<ol>
+<li><a href="/using-gtd-as-a-homeowner/">Using GTD As A Homeowner</a></li>
+<li><a href="/using-gtd-as-a-writer/">Using GTD As A Writer</a></li>
+<li><a href="/using-gtd-as-a-husband/">Using GTD As A Husband</a></li>
+<li><a href="/using-gtd-as-a-dad/">Using GTD As A Dad</a></li>
+<li><a href="/using-gtd-as-a-man/">Using GTD As A Man</a></li>
+<li>Using GTD As A Woodworker</li>
+</ol>
+</div>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[26: The Value of Lurking]]></title>
@@ -118,7 +176,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <li><a href="/using-gtd-as-a-writer/">Using GTD As A Writer</a></li>
 <li><a href="/using-gtd-as-a-husband/">Using GTD As A Husband</a></li>
 <li><a href="/using-gtd-as-a-dad/">Using GTD As A Dad</a></li>
-<li>Using GTD As A Man</li>
+<li><a href="/using-gtd-as-a-man/">Using GTD As A Man</a></li>
 <li>Using GTD As A Woodworker</li>
 </ol>
 </div>
@@ -192,7 +250,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <li><a href="/using-gtd-as-a-writer/">Using GTD As A Writer</a></li>
 <li><a href="/using-gtd-as-a-husband/">Using GTD As A Husband</a></li>
 <li><a href="/using-gtd-as-a-dad/">Using GTD As A Dad</a></li>
-<li>Using GTD As A Man</li>
+<li><a href="/using-gtd-as-a-man/">Using GTD As A Man</a></li>
 <li>Using GTD As A Woodworker</li>
 </ol>
 </div>
@@ -294,7 +352,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <li><a href="/using-gtd-as-a-writer/">Using GTD As A Writer</a></li>
 <li><a href="/using-gtd-as-a-husband/">Using GTD As A Husband</a></li>
 <li><a href="/using-gtd-as-a-dad/">Using GTD As A Dad</a></li>
-<li>Using GTD As A Man</li>
+<li><a href="/using-gtd-as-a-man/">Using GTD As A Man</a></li>
 <li>Using GTD As A Woodworker</li>
 </ol>
 </div>
@@ -350,7 +408,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <li><a href="/using-gtd-as-a-writer/">Using GTD As A Writer</a></li>
 <li><a href="/using-gtd-as-a-husband/">Using GTD As A Husband</a></li>
 <li><a href="/using-gtd-as-a-dad/">Using GTD As A Dad</a></li>
-<li>Using GTD As A Man</li>
+<li><a href="/using-gtd-as-a-man/">Using GTD As A Man</a></li>
 <li>Using GTD As A Woodworker</li>
 </ol>
 </div>
@@ -773,74 +831,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>When you take the time to pull together this picture, you might be surprised at the patterns that start to reveal themselves. There are times when you may not realize you have patterns in your data until you put it in picture form. There are also times when the visual helps you see something that stands out. Just like the unknown patterns, you may not be aware of an outstanding data point until you graph it.</p>
 
 <p>Take the time to build a good display of data. You want it to tell an accurate story and paint a picture of what is really going on. And it may show you something you didn’t know before.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Time and Dollars]]></title>
-    <link>http://joebuhlig.com/time-and-dollars/</link>
-    <pubDate>Fri, 29 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[budget]]></category>
-
-    <category><![CDATA[time]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/time-and-dollars/</guid>
-    <description>
-        <![CDATA[When I started my business, I wasn’t in a place to say no to anything. I needed to provide an income, and every little bit helped. But recently I’ve had to start deciding which activities are most worth my time and which ones need to be put aside.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Time-and-dollars.jpg" /><p>When I started my business, I wasn’t in a place to say no to anything. I needed to provide an income, and every little bit helped. But recently I’ve had to start deciding which activities are most worth my time and which ones need to be put aside.
-<!--more--></p>
-
-<p>This isn’t a decision I can make by sitting in front of a fire drinking coffee. As much as I like coffee, it’s not <em>that</em> good. I need some numbers to reveal the biggest (and smallest) returns on my time. I started <a href="http://joebuhlig.com/tracking-time-with-launch-center-pro/">tracking my time</a>, but I need to dig deeper than that.</p>
-
-<h2 id="budget">Budget</h2>
-
-<p>Every good business has a budget. And mine, H&amp;A Tech, is no different. Without it, I don’t know if I’m making money or losing money. This simple document has a line for income and separate lines for each type of expense I incur. At the beginning of each month I plan the expenses and expected income for the month, and I do what I can to stick to it. Any deviation can create issues for my family later.</p>
-
-<p>This is pretty standard, but it deviates from the norm when I pull in transactional data. I have a second tab that accepts copy-pasted transactions from my bank. Once a month I pull in this data and then augment each line item with a client and activity. It sounds tedious, but with the help of a few filters similar transactions can be filled in simultaneously.</p>
-
-<p>Because I’m correlating the transactional data with the budget categories, I can see a clear summary of each month. How well did I stick to the plan?</p>
-
-<p>Then I have savings. With an online business comes subscriptions and those often have annual payments. I handle those with a savings tab in the spreadsheet, but that’s a topic for another day.</p>
-
-<h2 id="google-sheet">Google Sheet</h2>
-
-<p>This might be a bit hard to get your head around so I put together an example budget for you to look through. I keep my budget in a Google Sheet so I made a copy and cleared it out for you to see. Here are the tabs you’ll find in <a href="https://docs.google.com/spreadsheets/d/1kDUSdsIKvtUnXxd4z9hgBQMUiht1oq_p6Iixl6dTyCU">the example</a>:</p>
-
-<ol>
-  <li>Budget - the plan for the month (includes the summary)</li>
-  <li>Transactions - the bank transactional data</li>
-  <li>Savings - long term expenses and savings funds</li>
-</ol>
-
-<h2 id="from-budget-to-time-tracker">From Budget to Time Tracker</h2>
-
-<p>The budget is in place and the <a href="http://joebuhlig.com/tracking-time-with-launch-center-pro/">time tracker</a> is tracking away. So I created a new tab in the time tracker to import the transactional data from the budget. With the data pulled over, I group the time and transactions by month, client, and activity using pivot tables. It looks like this:</p>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/Time and Dollars/time-aggregation.jpg" /></p>
-
-<p>With the datasets each grouped in the same way, they can now be tied together into a single table. I do this with the SUMPRODUCT function as <a href="https://blogs.office.com/2012/04/26/using-multiple-criteria-in-excel-lookup-formulas/">explained here</a> which makes it a one-step process. Once the data is all in one place, I can run another pivot table to figure out where my time is most valuable.</p>
-
-<h2 id="by-client">By Client</h2>
-
-<p>Is my time better spent on my own projects or working for my clients? And the follow-up question: which clients give me the best return on my time? If I have a client that requires a lot of support and effort but there isn’t much for income to compensate, I either need to raise my rates or consider letting them go. It’s difficult to know about these situations without data. Once I have the information, I can make my decision with confidence.</p>
-
-<h2 id="by-activity">By Activity</h2>
-
-<p>The other segmentation I need to understand is the activity breakdown. What type of work has the highest monetary value? I ask this because I’m not sure if my return is higher when I write for myself or when I consult a client. By switching the pivot table to group by activity, I can see which types of work give me the highest returns and which ones I should consider scaling back.</p>
-
-<h2 id="results">Results</h2>
-
-<p>Setting this up can be labor-intensive, but I hope you see the value here. Working for yourself can bring a lot of opportunities your way, and knowing which ones to take on and which to pass by can be tricky. This process gives you real numbers to work with and makes it less of a guessing game.</p>
 ]]>
     </content:encoded>
 </item>
