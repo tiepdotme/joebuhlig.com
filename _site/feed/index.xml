@@ -14,11 +14,63 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 04 Mar 2016 06:34:43 -0600</lastBuildDate>
+<lastBuildDate>Mon, 07 Mar 2016 06:21:09 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Using GTD As A Woodworker]]></title>
+    <link>http://joebuhlig.com/using-gtd-as-a-woodworker/</link>
+    <pubDate>Mon, 07 Mar 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[gtd]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/using-gtd-as-a-woodworker/</guid>
+    <description>
+        <![CDATA[Hobbies are great candidates for GTD. With all the commitments we tend to take on, free time to spend on our hobbies can be elusive. That means it’s helpful to have a system in place that keeps track of where we were and what comes next.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Using-GTD-as-a-Woodworker.jpg" /><p>Hobbies are great candidates for GTD. With all the commitments we tend to take on, free time to spend on our hobbies can be elusive. That means it’s helpful to have a system in place that keeps track of where we were and what comes next.
+<!--more--></p>
+
+<p>I enjoy working with my hands after a day of thinking. It shifts my mind from the executive mode to the <a href="http://www.amazon.com/The-Organized-Mind-Thinking-Information/dp/0147516315">mind wandering mode</a> and helps me decompress. The primary way I like to work with my hands is through woodworking and DIY projects. Whether it’s trim in the house or a hutch for my mother-in-law doesn’t matter. I get a chance to create something from a tree - that’s what I love.</p>
+
+<h2 id="longer-projects">Longer Projects</h2>
+
+<p>Sometimes the projects I take on develop over a period of months (hopefully not years) and I need to keep these project plans and supporting materials around for some time. That’s where the reference materials and project goals come in handy. I can step away from it for a period and still come back to where I left off.</p>
+
+<h2 id="thinking-ahead">Thinking Ahead</h2>
+
+<p>For most of my furniture builds, I can lay out what the entire project will look like step-by-step. That’s good because the joinery involved often needs to be cut early on in the project even though I won’t need it for another 20 steps. Once I have a design determined, I work backwards to name every step in the build. This affords me the perspective to see where I need to make specific cuts in the process and ensure the entire project comes out according to plan. It requires me to think through it all up front, which is the point. I have a lot fewer “oops” moments when I’ve taken the time to think it through at the beginning.</p>
+
+<h2 id="research">Research</h2>
+
+<p>In most woodworking projects I try a new technique, either because it’s necessary or because I just want to try a new method. In both, I need to spend some time learning from experts in person or online. When I determine how I want to complete that portion of the build, I keep it in my digital filing structure that allows me to reference it when needed; I make sure I have the material as a link in the notes for that step in the build. The research makes each step a simple process and keeps the build moving much more efficiently than if I tried to do the learning mid-stream.</p>
+
+<p>I hope this series has been helpful. I know it’s taught me more about the GTD process by forcing me to think through how it functions in different arenas. GTD is a life framework and a proactive way to approach our information-heavy culture.</p>
+
+<div class="post-series">
+<p>This series is about using GTD outside the lines of our day jobs. Yes, it can be used in every aspect of your life.</p>
+<ol>
+<li><a href="/using-gtd-as-a-homeowner/">Using GTD As A Homeowner</a></li>
+<li><a href="/using-gtd-as-a-writer/">Using GTD As A Writer</a></li>
+<li><a href="/using-gtd-as-a-husband/">Using GTD As A Husband</a></li>
+<li><a href="/using-gtd-as-a-dad/">Using GTD As A Dad</a></li>
+<li><a href="/using-gtd-as-a-man/">Using GTD As A Man</a></li>
+<li><a href="/using-gtd-as-a-woodworker/">Using GTD As A Woodworker</a></li>
+</ol>
+</div>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Using GTD As A Man]]></title>
@@ -71,7 +123,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <li><a href="/using-gtd-as-a-husband/">Using GTD As A Husband</a></li>
 <li><a href="/using-gtd-as-a-dad/">Using GTD As A Dad</a></li>
 <li><a href="/using-gtd-as-a-man/">Using GTD As A Man</a></li>
-<li>Using GTD As A Woodworker</li>
+<li><a href="/using-gtd-as-a-woodworker/">Using GTD As A Woodworker</a></li>
 </ol>
 </div>
 ]]>
@@ -177,7 +229,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <li><a href="/using-gtd-as-a-husband/">Using GTD As A Husband</a></li>
 <li><a href="/using-gtd-as-a-dad/">Using GTD As A Dad</a></li>
 <li><a href="/using-gtd-as-a-man/">Using GTD As A Man</a></li>
-<li>Using GTD As A Woodworker</li>
+<li><a href="/using-gtd-as-a-woodworker/">Using GTD As A Woodworker</a></li>
 </ol>
 </div>
 ]]>
@@ -251,7 +303,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <li><a href="/using-gtd-as-a-husband/">Using GTD As A Husband</a></li>
 <li><a href="/using-gtd-as-a-dad/">Using GTD As A Dad</a></li>
 <li><a href="/using-gtd-as-a-man/">Using GTD As A Man</a></li>
-<li>Using GTD As A Woodworker</li>
+<li><a href="/using-gtd-as-a-woodworker/">Using GTD As A Woodworker</a></li>
 </ol>
 </div>
 ]]>
@@ -353,7 +405,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <li><a href="/using-gtd-as-a-husband/">Using GTD As A Husband</a></li>
 <li><a href="/using-gtd-as-a-dad/">Using GTD As A Dad</a></li>
 <li><a href="/using-gtd-as-a-man/">Using GTD As A Man</a></li>
-<li>Using GTD As A Woodworker</li>
+<li><a href="/using-gtd-as-a-woodworker/">Using GTD As A Woodworker</a></li>
 </ol>
 </div>
 ]]>
@@ -409,7 +461,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <li><a href="/using-gtd-as-a-husband/">Using GTD As A Husband</a></li>
 <li><a href="/using-gtd-as-a-dad/">Using GTD As A Dad</a></li>
 <li><a href="/using-gtd-as-a-man/">Using GTD As A Man</a></li>
-<li>Using GTD As A Woodworker</li>
+<li><a href="/using-gtd-as-a-woodworker/">Using GTD As A Woodworker</a></li>
 </ol>
 </div>
 ]]>
@@ -787,50 +839,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[The Importance of Data Visualizations]]></title>
-    <link>http://joebuhlig.com/the-importance-of-data-visualizations/</link>
-    <pubDate>Mon, 01 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[data]]></category>
-
-    <category><![CDATA[visualization]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/the-importance-of-data-visualizations/</guid>
-    <description>
-        <![CDATA[It’s easy to present data in a summarized table, but what about turning it into a data visualization?
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/The-Importance-of-Data-Visualization.jpg" /><p>It’s easy to present data in a summarized table, but what about turning it into a data visualization?
-<!--more--></p>
-
-<h2 id="what-is-it">What is it?</h2>
-
-<p>Data visualization is the display of data in a picture. Its purpose is to give a clear and easily understood visual of what the data is saying. Understanding the story in a data set by looking at spreadsheets and raw data isn’t something most people are accustomed to or good at, so we rely on a visualized format of the data, typically a graph or chart,  to help us.</p>
-
-<h2 id="false-perceptions">False Perceptions</h2>
-
-<p>It is critical to do this well or we risk giving the viewer an <a href="http://data.heapanalytics.com/how-to-lie-with-data-visualization/">incorrect perception</a> of the story behind the data. The display should show what is going on behind the scenes and the focus should be the data, not your interpretation of the data. Following conventional graphing methods will make it easier for your viewer to understand it. If you ignore these conventions, you risk building a <a href="http://joebuhlig.com/bad-bar-charts/">bad bar chart</a> and deceiving your audience. You can get away with this if you do it subtly, but you’re sacrificing your integrity in the process and it will eventually come around to bite you.</p>
-
-<h2 id="interpretation">Interpretation</h2>
-
-<p>When the visualization is done right, it explains what is happening. It’s impossible to look through millions of data points and know how things turned out. We can do summaries of the data to help, but oftentimes the summaries are even too complicated. People are visual by nature so a picture helps us see what is going on and interpret the results more clearly.</p>
-
-<h2 id="patterns-and-outliers">Patterns and Outliers</h2>
-
-<p>When you take the time to pull together this picture, you might be surprised at the patterns that start to reveal themselves. There are times when you may not realize you have patterns in your data until you put it in picture form. There are also times when the visual helps you see something that stands out. Just like the unknown patterns, you may not be aware of an outstanding data point until you graph it.</p>
-
-<p>Take the time to build a good display of data. You want it to tell an accurate story and paint a picture of what is really going on. And it may show you something you didn’t know before.</p>
 ]]>
     </content:encoded>
 </item>
