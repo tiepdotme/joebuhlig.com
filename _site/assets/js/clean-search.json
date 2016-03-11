@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"27: Pit of Procrastination",
+			"image":"/assets/posts/Pit-of-Procrastination.jpg",
+			"permalink":"/27/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"dvorak",
+				"procrastination"
+			],
+			"excerpt": "<p>I reflect on my tendencies to fall into a procrastination pit. And a reader emailed me about web designers posing as developers so I go off on a rant.</p>\n\n",
+			"content": "I%20reflect%20on%20my%20tendencies%20to%20fall%20into%20a%20procrastination%20pit.%20And%20a%20reader%20emailed%20me%20about%20web%20designers%20posing%20as%20developers%20so%20I%20go%20off%20on%20a%20rant.%0A%0A%0ABecome%20a%20Patron%0A%0AUsing%20GTD%20As%20A%20Woodworker%0A%0ADvorak%20Transition%0A%0AHome%20Screens:%20Joe%20Buhlig%0A%0AWorking%20with%20OmniFocus%0A%0ADictating%20vs%20Typing%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Using GTD As A Woodworker",
 			"image":"/assets/posts/Using-GTD-as-a-Woodworker.jpg",
 			"permalink":"/using-gtd-as-a-woodworker/",

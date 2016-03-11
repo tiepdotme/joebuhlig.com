@@ -14,11 +14,55 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 08 Mar 2016 12:54:59 -0600</lastBuildDate>
+<lastBuildDate>Thu, 10 Mar 2016 21:58:24 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[27: Pit of Procrastination]]></title>
+    <link>http://joebuhlig.com/27/</link>
+    <pubDate>Wed, 09 Mar 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[dvorak]]></category>
+
+    <category><![CDATA[procrastination]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/27/</guid>
+    <description>
+        <![CDATA[I reflect on my tendencies to fall into a procrastination pit. And a reader emailed me about web designers posing as developers so I go off on a rant.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Pit-of-Procrastination.jpg" /><p>I reflect on my tendencies to fall into a procrastination pit. And a reader emailed me about web designers posing as developers so I go off on a rant.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://joebuhlig.com/using-gtd-as-a-woodworker/">Using GTD As A Woodworker</a></p>
+
+<p><a href="http://joebuhlig.com/dvorak-transition/">Dvorak Transition</a></p>
+
+<p><a href="http://macsparky.com/blog/2015/7/home-screens-joe-buhlig">Home Screens: Joe Buhlig</a></p>
+
+<p><a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working with OmniFocus</a></p>
+
+<p><a href="http://joebuhlig.com/dictating-vs-typing/">Dictating vs Typing</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Using GTD As A Woodworker]]></title>
@@ -793,52 +837,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>I talked about this in the <a href="http://joebuhlig.com/time-and-dollars/">Time &amp; Dollars article</a>. There are items for my business that I know I will need to replace in the future. I want to upgrade my phone and computer regularly, so I need to put money into those designated funds in my budget. For the business budget, I’ve created a tab called Savings in the spreadsheet to handle everything for me (<a href="https://docs.google.com/spreadsheets/d/1kDUSdsIKvtUnXxd4z9hgBQMUiht1oq_p6Iixl6dTyCU">see example budget</a>). It takes the amount of savings I have for the month, allows me to allocate it to each fund, and shows each fund’s balance.</p>
 
 <p>The end goal here is to plan for these supposedly “unexpected” expenses. They aren’t truly unexpected when I know how much they will cost ahead of time and when they will be due. As long as I plan and save ahead, stress doesn’t have to enter the equation.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[22: Addiction to Numbers]]></title>
-    <link>http://joebuhlig.com/22/</link>
-    <pubDate>Tue, 02 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[addiction]]></category>
-
-    <category><![CDATA[omnifocus]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/22/</guid>
-    <description>
-        <![CDATA[Since I started my business I’ve developed an addiction to checking numbers. But I watched a webinar last week that really changed the game for me and has me hand writing my schedule for the day.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Addiction-to-Numbers.jpg" /><p>Since I started my business I’ve developed an addiction to checking numbers. But I watched a webinar last week that really changed the game for me and has me hand writing my schedule for the day.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://learnomnifocus.com/tutorials/2016-01-28-omnifocus-workflows-with-shawn-blanc/?ref=11">OmniFocus Workflows with Shawn Blanc</a></p>
-
-<p><a href="https://learnomnifocus.com/">Learn OmniFocus</a></p>
-
-<p><a href="http://www.timstringer.com/">Tim Stringer</a></p>
-
-<p><a href="http://shawnblanc.net/">Shawn Blanc</a></p>
-
-<p><a href="https://www.instagram.com/p/BBFkAYIORl0/">Shawn’s paper plan for the day</a></p>
-
-<p><a href="https://farmerhank.com/">Farmer Hank</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]>
     </content:encoded>
 </item>
