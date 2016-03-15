@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/choosing-the-right-medium/</loc>
+    <lastmod>2016-03-14T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/behind-the-scenes/</loc>
+    <lastmod>2016-03-11T00:00:00-06:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/27/</loc>
     <lastmod>2016-03-09T00:00:00-06:00</lastmod>
   </url>
@@ -1219,5 +1227,11 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/27/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/behind-the-scenes/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/choosing-the-right-medium/</loc>
     </url>
 </urlset>

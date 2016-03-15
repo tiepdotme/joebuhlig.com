@@ -12,7 +12,7 @@ You're reading them right now. And the medium that they arrive in will change th
 
 We use a lot of mediums to share words with each other. We can send written words over iMessage or paper; we can send audible words over Facetime or in person. Each method has its own connotations and perceptions. Add in differing cultures, generational differences, and regional expectations and we now have a mess on our hands. 
 
-But if boil down the options, we see many similarities.  Sending short, typed messages can be done through Twitter, Snapchat, iMessage, or email. Long form text is best sent through a blog post, email, or a handwritten letter. Email can do both, and iMessage can also do audio. Here's a breakdown of these types of words:
+But if we boil down the options, we see many similarities.  Sending short, typed messages can be done through Twitter, Snapchat, iMessage, or email. Long form text is best sent through a blog post, email, or a handwritten letter. Email can do both, and iMessage can also do audio. Here's a breakdown of these types of words:
 
 | Length | Type | Mechanism | Example |
 |-----|:-----:|:-----:|:-----:|
