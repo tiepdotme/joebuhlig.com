@@ -14,11 +14,45 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 15 Mar 2016 12:47:28 -0500</lastBuildDate>
+<lastBuildDate>Thu, 17 Mar 2016 16:51:22 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[28: Why Is Focus So Hard?]]></title>
+    <link>http://joebuhlig.com/28/</link>
+    <pubDate>Wed, 16 Mar 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[focus]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/28/</guid>
+    <description>
+        <![CDATA[I’ve slowly drifted away from the mission that gets me excited each day. And that’s due to a lack of focus and alignment with my goals.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Why-Is-Focus-So-Hard.jpg" /><p>I’ve slowly drifted away from the mission that gets me excited each day. And that’s due to a lack of focus and alignment with my goals.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://www.amazon.com/The-Organized-Mind-Thinking-Information/dp/052595418X">The Organized Mind: Thinking Straight in the Age of Information Overload</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Choosing the Right Medium]]></title>
@@ -899,56 +933,6 @@ $("table").tablesorter();
 <h2 id="in-the-end">In The End</h2>
 
 <p>I still have a lot of work to do pulling 14,000 notes from Evernote. I’m looking for ways to export the data and move it over, but for now I’m happy with where I’m putting all the new. It gets me away from a proprietary format and makes it a whole lot easier to use the apps I enjoy.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[23: White Space]]></title>
-    <link>http://joebuhlig.com/23/</link>
-    <pubDate>Wed, 10 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[apple]]></category>
-
-    <category><![CDATA[margin]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/23/</guid>
-    <description>
-        <![CDATA[Leaving space around the edges of your day can have a major impact on your productivity and happiness throughout the day. Also, I’m glad I don’t have an Apple Watch.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/White-Space.jpg" /><p>Leaving space around the edges of your day can have a major impact on your productivity and happiness throughout the day. Also, I’m glad I don’t have an Apple Watch.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="http://discussion.joebuhlig.com/">The Joe Buhlig Discussions</a></p>
-
-<p><a href="http://discussion.joebuhlig.com/t/22-addiction-to-numbers/177?u=joebuhlig">Discussion about paper schedule</a></p>
-
-<p><a href="http://discussion.joebuhlig.com/t/omnifocus-workflows-with-shawn-blanc/167?u=joebuhlig">OmniFocus Workflows with Shawn Blanc</a></p>
-
-<p><a href="http://shawnblanc.net/2016/01/margin-month/">Margin Month — Shawn Blanc</a></p>
-
-<p><a href="http://joebuhlig.com/lost-in-transition/">Lost in Transition</a></p>
-
-<p><a href="https://marco.org/2016/02/05/watch">The Apple Watch got me hooked on mechanical watches – Marco.org</a></p>
-
-<p><a href="http://joebuhlig.com/22/">22: Addiction to Numbers</a></p>
-
-<p><a href="https://www.keyboardmaestro.com/main/">Keyboard Maestro 7.0.3: Work Faster with Macros for Mac OS X</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]>
     </content:encoded>
 </item>

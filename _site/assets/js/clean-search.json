@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"28: Why Is Focus So Hard?",
+			"image":"/assets/posts/Why-Is-Focus-So-Hard.jpg",
+			"permalink":"/28/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"focus"
+			],
+			"excerpt": "<p>I’ve slowly drifted away from the mission that gets me excited each day. And that’s due to a lack of focus and alignment with my goals.</p>\n\n",
+			"content": "I%E2%80%99ve%20slowly%20drifted%20away%20from%20the%20mission%20that%20gets%20me%20excited%20each%20day.%20And%20that%E2%80%99s%20due%20to%20a%20lack%20of%20focus%20and%20alignment%20with%20my%20goals.%0A%0A%0ABecome%20a%20Patron%0A%0AThe%20Organized%20Mind:%20Thinking%20Straight%20in%20the%20Age%20of%20Information%20Overload%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Choosing the Right Medium",
 			"image":"/assets/posts/Choosing-the-Right-Medium.jpg",
 			"permalink":"/choosing-the-right-medium/",

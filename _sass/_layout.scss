@@ -210,9 +210,11 @@
  */
 
 .related-posts {
-    margin:0px auto;
+    margin: 0px auto 30px auto;
     max-width: $content-width;
     text-align: center;
+    border-top: 1px solid #DDDDDD;
+    padding: 10px 0px 0px 0px;
 }
 .related-post{
     display: inline-block;
@@ -443,10 +445,10 @@
 }
 
 .post-title {
+    margin-top: $spacing-unit;
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
-    display: none;
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -467,8 +469,9 @@
 }
 
 .page-navigation {
-    height: $site-links-height;
+    height: $spacing-unit;
     width:100%;
+    margin: $spacing-unit 0px;
 }
 
 .prev-page {

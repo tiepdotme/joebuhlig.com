@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Tue, 15 Mar 2016 12:47:28 -0500</lastBuildDate>
+<lastBuildDate>Thu, 17 Mar 2016 16:51:22 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,63 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>28: Why Is Focus So Hard?</title>
+    <link>http://joebuhlig.com/28/</link>
+    <comments>http://joebuhlig.com/28/#comments</comments>
+    <pubDate>Wed, 16 Mar 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[focus]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/28/</guid>
+    <description>
+        <![CDATA[I’ve slowly drifted away from the mission that gets me excited each day. And that’s due to a lack of focus and alignment with my goals.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I’ve slowly drifted away from the mission that gets me excited each day. And that’s due to a lack of focus and alignment with my goals.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://www.amazon.com/The-Organized-Mind-Thinking-Information/dp/052595418X">The Organized Mind: Thinking Straight in the Age of Information Overload</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ028.mp3" length="18308990" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[I’ve slowly drifted away from the mission that gets me excited each day. And that’s due to a lack of focus and alignment with my goals.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>I’ve slowly drifted away from the mission that gets me excited each day. And that’s due to a lack of focus and alignment with my goals.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://www.amazon.com/The-Organized-Mind-Thinking-Information/dp/052595418X">The Organized Mind: Thinking Straight in the Age of Information Overload</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>18:52</itunes:duration>
+  </item>
 
   <item>
     <title>27: Pit of Procrastination</title>
