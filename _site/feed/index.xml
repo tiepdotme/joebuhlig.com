@@ -14,11 +14,83 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 17 Mar 2016 16:51:22 -0500</lastBuildDate>
+<lastBuildDate>Sat, 19 Mar 2016 07:05:02 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Text File Setup and Workflow]]></title>
+    <link>http://joebuhlig.com/text-file-setup-and-workflow/</link>
+    <pubDate>Fri, 18 Mar 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[setups]]></category>
+
+    <category><![CDATA[text-files]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/text-file-setup-and-workflow/</guid>
+    <description>
+        <![CDATA[Now that I’ve moved away from Evernote, the primary way I store information is through text files. It’s taken me a while to get it nailed down but I’ve managed to simplify the number of apps I use and the flow of text across my devices.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Text-File-Setup-and-Workflow.jpg" /><p>Now that I’ve moved <a href="http://joebuhlig.com/an-alternative-to-evernote/">away from Evernote</a>, the primary way I store information is through text files. It’s taken me a while to get it nailed down but I’ve managed to simplify the number of apps I use and the flow of text across my devices.
+<!--more--></p>
+
+<h2 id="file-storage">File Storage</h2>
+
+<p>The back end storage of my text files is DropBox. It’s ubiquitous. If you want to build an app that handles raw text, you have to enable DropBox syncing to get any traction. Inside my DropBox structure is a folder, <em>Text</em> (original, I know). Within that folder are a few subfolders: <em>TaskReports</em>, <em>Weather</em>, and <em>Writing</em>.</p>
+
+<p>The main folder, <em>Text</em>, is where the bulk of my files go.  I use the same naming structure here that I use in many places across my apps and devices: <code class="highlighter-rouge">Tagx_Keywords_YYYYMMDD</code>. The tag is the type of text the file contains. It uses <a href="http://joebuhlig.com/simple-trick-naming-tags/">the “x” trick</a> I adopted from Merlin Mann. I try not to add new tags but sometimes it’s necessary. Here is the current breakout of tags I’m using:</p>
+
+<ul>
+  <li><strong>Bookx</strong> - book reviews and notes</li>
+  <li><strong>Ideax</strong> - ideas I have for a project or potential business prospect</li>
+  <li><strong>Inboxx</strong> - temporary files that need further processing</li>
+  <li><strong>Monthlyx</strong> - monthly reflections</li>
+  <li><strong>Presentationx</strong> - outlines and notes for presentations</li>
+  <li><strong>Recipex</strong> - my personal recipe box</li>
+  <li><strong>Thoughtsx</strong> - sometimes I write my thoughts about a concept or big decision</li>
+  <li><strong>Topicx</strong> - potential topics for online forums</li>
+  <li><strong>URLx</strong> - groups of urls I want to keep</li>
+  <li><strong>Weeklyx</strong> - weekly reflections</li>
+  <li><strong>Yearlyx</strong> - yearly reflections</li>
+</ul>
+
+<p>After the tag are keywords I use to describe the file itself. If I have an idea file for a client website, the title would look like this: <code class="highlighter-rouge">Ideax_clientwebsite.com_20160314</code>. Or if the ideas are for a potential business opportunity: <code class="highlighter-rouge">Ideax_Best solar panel ever_20160314</code>. Having these keywords makes it possible to search the tag and one of the keywords so I can find an exact file. But more often than not, I don’t need to search for the tag itself because typing in the keyword gets me close enough to look through the list of results and see the one I want. The tag helps me make that decision within the filtered list.</p>
+
+<p>The keywords are followed with a date so I know when it was started. I almost never use this, but if I’m trying to put the file in the context of time, it’s invaluable. And because I create <a href="http://joebuhlig.com/textexpander-snippet-nomenclature/">date strings with TextExpander</a> it’s easy to append them to each file.</p>
+
+<h2 id="accessing-files">Accessing Files</h2>
+
+<p>Let’s talk apps. On iOS, I’m using <a href="http://omz-software.com/editorial/">Editorial</a> (<a href="https://itunes.apple.com/app/editorial/id673907758?mt=8&amp;at=1l3vnyQ">iTunes</a>). It has a lot of power behind it and gives me access to my subfolders. There are a lot of great apps for working with text as Brett Terpstra has <a href="http://brettterpstra.com/ios-text-editors/">helped us see</a>, but I find that the ease of searching for text in Editorial paired with its integration with TextExpander makes it the perfect choice for me. Knowing that I can build workflows for text files is a huge plus as well. It feeds my need to be flexible with my data.</p>
+
+<p>On the Mac, I use <a href="http://brettterpstra.com/2013/06/08/nvalt2.2b106/">nvALT</a> and <a href="http://www.sublimetext.com/">Sublime Text</a>. If it’s a quick note that doesn’t belong in a subfolder, I use nvALT. The speed of this app is just incredible. And once you learn some of the keyboard shortcuts, you can pick up a lot of speed in navigating your text files.</p>
+
+<p>Any coding or writing that’s article length or longer is opened with Sublime Text, my heavy duty text editor. I always have a Sublime window open to my <em>Writing</em> subfolder of text files. Within that folder are breakouts for the different types of writing I do: Articles, Books, Podcasts, etc. Because these are all in one folder, I always know where to go when it’s time to write. And with the power that comes with Sublime, I have a lot of tools to make text easier to work with.</p>
+
+<h2 id="collecting">Collecting</h2>
+
+<p>Any time I need to write down text on iOS, it starts in <a href="http://agiletortoise.com/drafts/">Drafts</a> (<a href="https://itunes.apple.com/us/app/drafts-4/id905337691?mt=8&amp;at=1l3vnyQ">iTunes</a>). There’s great flexibility in creating custom actions to send that text almost anywhere. The last thing I want to worry about when writing it down is where it should go. I need to get the idea out of my head, not waste time determining where that text should land before it’s written down. If I have to do the latter, there’s a good chance I’ll lose a portion (or all) of the idea.</p>
+
+<p>The vast majority of the time I don’t collect ideas on the Mac. Even when I’m typing away on an article and an idea comes to me, I grab my phone and enter it into Drafts. But if I do collect it on the Mac, I use nvALT. It’s super fast, but to make sure I don’t lose the text in my sea of files, I use TextExpander to name the file with the <em>Inboxx</em> tag so I can find it later.</p>
+
+<h2 id="processing">Processing</h2>
+
+<p>Once the text has been captured I need to get it to the right place with the right name. It’s pretty easy to do that with Drafts. I have a handful of actions to create new next files in DropBox. Choosing the right action dictates the subfolder and name of the file itself. This is the main reason I prefer to type things into my phone over the Mac. It’s a bit weird to say, but sometimes iOS trumps OS X.</p>
+
+<p>Processing on the Mac isn’t anything out of the ordinary. I search nvALT for the <em>Inboxx</em> tag and do the cut/paste/rename routine you would expect. I use TextExpander to make that a bit easier, but I still prefer my phone.</p>
+
+<p>In the end, this system allows me to be extremely flexible with the type of information I write down and gives me a lot of power when editing it later. I’m not locked into any one app or service, and the apps I’m using to interact with the text all have power user features available to create my own custom environment. I guess you could say I’m a control freak with my files, but this system gives me the level of micromanagement I’m looking for.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[28: Why Is Focus So Hard?]]></title>
@@ -840,99 +912,6 @@ $("table").tablesorter();
 <p>This reminds me of any male’s rite of passage into manhood. It’s a search that every guy goes through at some point and many cultures acknowledge it with a traditional challenge to the boy. If he completes the challenge, he becomes a man. If he fails, he remains a boy. The tradition teaches him to overcome something difficult to show that he is ready for manhood, and that lesson of triumph over a trial will give him the confidence and strength he needs in the future. Without it, he will constantly be searching for his place in society.</p>
 
 <p>Our traditions are typically altered and perfected over time. They can become more intricate or more simple as they are enacted numerous times. That’s exactly what makes them so powerful. With years of iterations, they become rich with lessons about values and morals that make our families unique. That’s what I want for our girls. I want them to learn these lessons from our grandparents and parents and eventually teach them to our grandchildren. It’s one way for me to have a positive impact on the generations beyond me and leave a proud legacy.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[An Alternative to Evernote]]></title>
-    <link>http://joebuhlig.com/an-alternative-to-evernote/</link>
-    <pubDate>Fri, 12 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[evernote]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/an-alternative-to-evernote/</guid>
-    <description>
-        <![CDATA[I’ve been a supporter of Evernote for a long time. I’ve written a number of articles on it and convinced a number of friends and family to start using it. But I’ve run into some issues with it and it’s come time to throw in the towel. I’m leaving Evernote....]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/An-alternative-to-Evernote.jpg" /><p>I’ve been a supporter of Evernote for a long time. I’ve written a number of articles on it and convinced a number of friends and family to start using it. But I’ve run into some issues with it and it’s come time to throw in the towel. I’m leaving Evernote.
-<!--more--></p>
-
-<h2 id="why-leave-evernote">Why leave Evernote?</h2>
-
-<p>It’s proprietary. There are a lot of ways this <a href="http://joebuhlig.com/21/">becomes an issue</a> in my daily workflows.</p>
-
-<ul>
-  <li>I capture ideas in Drafts and want to move that text to an article I’m writing. I can’t easily get it into Evernote without a copy/paste in some form.</li>
-  <li>Uploading files to Evernote creates a mess when you want to edit them. This is primarily an issue on iOS. You have to monkey around with sharing the file to and from other apps to make it work and it usually creates new problems somewhere.</li>
-  <li>I write in <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> and want to convert it to html. There is zero support for markdown in Evernote.</li>
-</ul>
-
-<p>I could go on, but I think you get the point. If you’re good with their format and like using the Evernote apps for editing everything, it’s great. But the moment you need to share the information with a non-Evernote user or edit it with something outside Evernote, the mess quickly grows.</p>
-
-<p>I understand there is a <a href="https://blog.evernote.com/blog/2015/07/20/meet-evernotes-next-ceo-chris-oneill/">new sheriff at Evernote</a>, but if I want to have the freedom to use any app I want with the information I’m storing, I need to step away. I’m sure there are good things coming with the change in leadership and I genuinely hope it works out for them. I know a lot of people that rely on and love their service.</p>
-
-<h2 id="the-new">The New</h2>
-
-<p>I looked into a number of alternatives to Evernote. <a href="http://www.devontechnologies.com/">DEVONThink</a> led the pack with its standard file database on the backend. But no matter which of these “all-in-one” solutions I looked at, they all either have a proprietary file format or they require (or highly recommend) you to use their own apps to work with your data. Neither of those requirements are something I’m willing to meet.</p>
-
-<p>I’m ultimately looking for a way to access standard files from any app I choose. In the current app world, that means the information needs to be stored in raw text, images, or PDFs. In order for these files to be used by almost any app I choose, it needs to use DropBox as a backend. With those two criteria in place, it was pretty easy to whittle this down to a simple folder structure in DropBox.</p>
-
-<p>I should note that I wanted this alternative to be something that is easy for others to use as well. I could build a new proprietary system or one that uses shell scripts and such, but that’s not easily picked up by folks who aren’t interested in scripting their Mac. I wanted this to be accessible.</p>
-
-<h2 id="the-structure">The Structure</h2>
-
-<p>The base of the system is a folder structure in DropBox. The folder that I use as an inbox becomes the center point for collection. This is identical to my methods in Evernote. It’s called <em>!nbox</em>. Unless it has a preprocessed location, information goes here for organizing later.</p>
-
-<p>After the inbox, I treat the remainder of my folder structure much like I would my tags from Evernote. Client projects have a dedicated folder under <em>Clients</em>. Each podcast episode has its own folder under <em>Podcasts</em>. This isn’t complicated.</p>
-
-<p>The one grouping that gets special treatment is <em>Writing</em>. I keep a folder for all my writing (articles, podcast scripts, book chapters, website alterations) which is linked to Editorial to make writing from my phone easier. This is also linked to a <a href="http://joebuhlig.com/writing-with-github/">local git repository</a> on my Mac which allows me to review changes from my editor.</p>
-
-<p>The base file formats I’m working with are:</p>
-
-<ul>
-  <li>Text files</li>
-  <li>Markdown files</li>
-  <li>Images</li>
-  <li>PDFs</li>
-</ul>
-
-<p>It’s pretty easy to find apps (no matter your OS) that will work with these file types, and their broad use means new apps are always being created to pair with them. Just look at <a href="http://brettterpstra.com/ios-text-editors/">Brett Terpstra’s iTextEditors</a> to see how many options you have on iOS for editing text files. There’s a bunch, and they keep coming.</p>
-
-<h2 id="capturing">Capturing</h2>
-
-<p>Storing and working with the files is the easy part. Collecting things is where Evernote shines. It can be dead simple to get stuff into it, but once you step away from features like the Web Clipper, it gets more difficult. In this new setup, installing and using the DropBox app on all my devices eliminates most of the friction.</p>
-
-<p>There are three main types of information I find myself capturing:</p>
-
-<h3 id="web-pages">1. Web Pages</h3>
-
-<p>Sometimes I want to come back to a website because it’s interesting; sometimes the design of the site intrigues me; other times I’m just gathering a bunch of research for a project. In all cases, I need to be able to save the webpage for later and I need to be able to do it from the Mac <em>and</em> iOS.</p>
-
-<p>It’s pretty simple on the Mac. There is a menu item called “Export as PDF…” under the File menu. You can <a href="http://computers.tutsplus.com/tutorials/how-to-set-up-custom-keyboard-shortcuts-on-your-mac--mac-176">map this to a keyboard shortcut</a> (look at step 5) to make it faster to access. In my testing, these PDFs are full-text searchable as well.</p>
-
-<p>From iOS, I was a bit stumped on this. I was trying to use Workflow to pull it off and kept thinking about ways to convert html to a PDF. But I couldn’t get it to work right, and it seemed jumbled. Eventually I took a step back to think (which is what I usually need to do when things start looking muddled) and deduced that I simply wanted a way to share a PDF to DropBox. Then I remembered the “Save to DropBox” button in the Share Sheet. Hold on to your hats: It turns out that <em>this will convert the web page to a searchable PDF for you.</em> I was pretty darn excited to figure that out.</p>
-
-<h3 id="images">2. Images</h3>
-
-<p>Most pictures I collect are done through my phone. I used to send pictures to my Mac using AirDrop and then move them to DropBox later. But when I discovered the “Save to DropBox” trick, those issues were gone. It saves an image directly to DropBox.</p>
-
-<p>If I do take a screenshot with my Mac, I save it to the inbox or put it where it belongs right away, depending on what I’m doing. Working with images on the Mac in this way isn’t much different than how I was using Evernote. They simply land in a new place.</p>
-
-<h3 id="text">3. Text</h3>
-
-<p>If I’m grabbing a quick note on something, it starts in nvALT (which is synced with DropBox). If it’s an article or something longer, it goes into a Sublime Text project (also synced with DropBox). In either case, I can access the text from my phone in Editorial.</p>
-
-<p>When I think of an idea or a paragraph I want to add to an article and I’m away from my Mac, I start in Drafts. I always start there, sometimes it stays there for a while. When it’s time for the text to leave, I can create new text files out of it or send it to another app. There are too many options for what you can do with it from Drafts to spell them all out now. Again, options are gold, and I can do pretty much anything I want from here.</p>
-
-<h2 id="in-the-end">In The End</h2>
-
-<p>I still have a lot of work to do pulling 14,000 notes from Evernote. I’m looking for ways to export the data and move it over, but for now I’m happy with where I’m putting all the new. It gets me away from a proprietary format and makes it a whole lot easier to use the apps I enjoy.</p>
 ]]>
     </content:encoded>
 </item>
