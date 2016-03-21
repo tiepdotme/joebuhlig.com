@@ -14,11 +14,85 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Sat, 19 Mar 2016 07:05:02 -0500</lastBuildDate>
+<lastBuildDate>Mon, 21 Mar 2016 06:22:34 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Favorite Alfred Tricks]]></title>
+    <link>http://joebuhlig.com/favorite-alfred-tricks/</link>
+    <pubDate>Mon, 21 Mar 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[alfred]]></category>
+
+    <category><![CDATA[apps]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/favorite-alfred-tricks/</guid>
+    <description>
+        <![CDATA[My Mac is useless without Alfred. That’s no joke. I try to use my wife’s profile once in a while. It’s painful for me and hilarious for her to watch. I keep hitting the Alfred shortcuts and staring at it like it’s broken.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Favorite-Alfred-Tricks.jpg" /><p>My Mac is useless without <a href="https://www.alfredapp.com/">Alfred</a>. That’s no joke. I try to use my wife’s profile once in a while. It’s painful for me and hilarious for her to watch. I keep hitting the Alfred shortcuts and staring at it like it’s broken.
+<!--more--></p>
+
+<p>I didn’t get this dependent overnight. I started using Alfred a few years ago and have slowly built up the number of use cases I have for it. So if you’re just starting out, don’t feel like you need to adopt a whole bunch of things at once. Find one or two that you know you’ll use and build from there. Here are some of the ways I use Alfred.</p>
+
+<h2 id="launching-apps">Launching Apps</h2>
+
+<p>I mentioned this in a <a href="http://joebuhlig.com/mac-navigation/">previous article</a>, but it bears repeating because it’s so important. I rarely use <a href="https://en.wikipedia.org/wiki/Mission_Control_%28OS_X%29">Mission Control</a> on the Mac. I’d rather jump straight to an app without hunting down the window that looks like the one I want. I set up workflows (Powerpack feature) that allow me to hit a keyboard shortcut and show/hide the app I want. This pulls up the app I want without a misfire.</p>
+
+<p><img src="/assets/posts_extra/favorite_alfred_tricks/alfred-show-app-shortcut.jpg" alt="Alfred App Launch" /></p>
+
+<h2 id="clipboard-history">Clipboard History</h2>
+
+<p>I copy text and links all the time, and sometimes I need to copy/paste multiple portions of text at once. Take my weekly <a href="http://joebuhlig.com/newsletter">newsletter</a> for example. It has the title, excerpt, and link for each post that was published that week. I could flip back and forth nine times and get everything copied over, but that’s ridiculous. Instead I pull up each post, copy all the pieces I need, and use the clipboard history in Alfred to paste each piece without flipping between apps.</p>
+
+<p><img src="/assets/posts_extra/favorite_alfred_tricks/alfred-clipboard-history.jpg" alt="Alfred Clipboard History" /></p>
+
+<h2 id="email">Email</h2>
+
+<p>I use Google Apps for my email and haven’t found a need for a local client because the web client works so well. This means checking my email requires entering the url for Gmail, and because I run a few different accounts I need to be able to pinpoint the exact email address. Using TextExpander, I set up a snippet that expands to the url for the account I want and presses Enter. Invoking Alfred and entering my snippet abbreviation sends me directly to my email. Though sometimes I wonder if I’ve made this too easy.</p>
+
+<ul>
+  <li><code class="highlighter-rouge">xemp</code> = <code class="highlighter-rouge">https://mail.google.com/mail/u/0/#inbox%key:enter%</code></li>
+  <li><code class="highlighter-rouge">xemjb</code> = <code class="highlighter-rouge">https://mail.google.com/mail/u/1/#inbox%key:enter%</code></li>
+  <li><code class="highlighter-rouge">xemfh</code> = <code class="highlighter-rouge">https://mail.google.com/mail/u/2/#inbox%key:enter%</code></li>
+</ul>
+
+<h2 id="searching-files">Searching Files</h2>
+
+<p>This is a pretty standard way to use a launcher like Alfred. And if you’re just getting started with one, it’s a good place to start. If I need to open a file, I rarely go to Finder. I almost always start typing into Alfred.</p>
+
+<p><img src="/assets/posts_extra/favorite_alfred_tricks/alfred-file-search.jpg" alt="Alfred File Search" /></p>
+
+<h2 id="font-awesome">Font Awesome</h2>
+
+<p>Because I develop for the web, I use the <a href="https://fortawesome.github.io/Font-Awesome/">Font Awesome</a> library of icons a lot. It’s a part of nearly every website I’ve worked with. So when I ran across a <a href="https://github.com/ruedap/alfred2-font-awesome-workflow">workflow</a> for searching and pasting in the classes for every icon, I installed it immediately.</p>
+
+<p><img src="/assets/posts_extra/favorite_alfred_tricks/alfred-font-awesome.jpg" alt="Alfred Font Awesome" /></p>
+
+<h2 id="dictionarythesaurus">Dictionary/Thesaurus</h2>
+
+<p>I find myself looking for synonyms and definitions quite a bit, and Alfred makes it really easy on me. It has a built-in mechanism for searching the dictionary for a word and offering synonyms. I did change the keyword needed to search the dictionary from <em>define</em> to <em>def</em>,  just to make it a bit quicker.</p>
+
+<p><img src="/assets/posts_extra/favorite_alfred_tricks/alfred-define.jpg" alt="Alfred Define" /></p>
+
+<h2 id="somedaymaybe-lists">Someday/Maybe Lists</h2>
+
+<p>Because I keep so many idea lists, I wanted a quick way to pull them up. So I created a workflow in Alfred that uses the keyword <em>ofsm</em>. It opens a link (copied from OmniFocus) to my folder of Someday/Maybe lists.</p>
+
+<p><img src="/assets/posts_extra/favorite_alfred_tricks/alfred-someday-maybe.jpg" alt="Alfred Someday Maybe" /></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Text File Setup and Workflow]]></title>
@@ -878,40 +952,6 @@ $("table").tablesorter();
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[The Value of Tradition]]></title>
-    <link>http://joebuhlig.com/the-value-of-tradition/</link>
-    <pubDate>Mon, 15 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[life]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/the-value-of-tradition/</guid>
-    <description>
-        <![CDATA[Having young kids has made us think consciously about the traditions we want to pass down to them. What do we want them to learn? Will our traditions help them see the importance of our view of the world? Are they fun?
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/The-Value-of-Tradition.jpg" /><p>Having young kids has made us think consciously about the traditions we want to pass down to them. What do we want them to learn? Will our traditions help them see the importance of our view of the world? Are they fun?
-<!--more--></p>
-
-<p>My wife and I have a number of yearly activities that we’ve adopted from our own parents, and we want to pass them down to our own kids. But why? Is it purely nostalgia or old-fashioned? Should we just let them go and come up with our own?</p>
-
-<p>I don’t think we pass them on because of nostalgia. There might be a bit of that, but there’s something more. Each tradition we pass on has a background and a starting point. It wasn’t something that our grandparents just made up because it sounded fun (though I wonder sometimes). They started with a desire to remember an activity or value, or they just had a great time with family doing it.</p>
-
-<p>Say you have a tradition of watching the football game on Thanksgiving with your cousins. How did that start? Likely, there was someone in the family that turned the game on one year to check the score. Someone else asked about it and the next thing you know you’re watching the game together. Since the game is on, a few others started to show an interest and the next year you plan to watch the game. The following year you’re upgrading your TV specifically for this event and so on. But it started with a mutual interest and a connection with a family member, and now it’s grown to be a thing in itself at Thanksgiving. You come together for a day and connect with family.</p>
-
-<p>This reminds me of any male’s rite of passage into manhood. It’s a search that every guy goes through at some point and many cultures acknowledge it with a traditional challenge to the boy. If he completes the challenge, he becomes a man. If he fails, he remains a boy. The tradition teaches him to overcome something difficult to show that he is ready for manhood, and that lesson of triumph over a trial will give him the confidence and strength he needs in the future. Without it, he will constantly be searching for his place in society.</p>
-
-<p>Our traditions are typically altered and perfected over time. They can become more intricate or more simple as they are enacted numerous times. That’s exactly what makes them so powerful. With years of iterations, they become rich with lessons about values and morals that make our families unique. That’s what I want for our girls. I want them to learn these lessons from our grandparents and parents and eventually teach them to our grandchildren. It’s one way for me to have a positive impact on the generations beyond me and leave a proud legacy.</p>
 ]]>
     </content:encoded>
 </item>
