@@ -14,11 +14,37 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 21 Mar 2016 06:22:34 -0500</lastBuildDate>
+<lastBuildDate>Wed, 23 Mar 2016 06:44:29 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[A Minimal Alfred Theme]]></title>
+    <link>http://joebuhlig.com/alfred-theme/</link>
+    <pubDate>Tue, 22 Mar 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[alfred]]></category>
+
+    <category><![CDATA[apps]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/alfred-theme/</guid>
+    <description>
+        <![CDATA[I’ve got a bonus for you this week: my Alfred theme. I’ve tweaked the look of Alfred quite a bit over the few years I’ve been using it. I wanted something simple and unobtrusive, but I also wanted it to be compact and cram a lot of data into a...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/A-Minimal-Alfred-Theme.jpg" /><p>I’ve got a bonus for you this week: my Alfred theme. I’ve tweaked the look of Alfred quite a bit over the few years I’ve been using it. I wanted something simple and unobtrusive, but I also wanted it to be compact and cram a lot of data into a small space. If that sounds appealing, give it a try.
+<!--more--></p>
+
+<p><strong>You can <a href="/assets/files/mnml.alfredappearance">get the theme here</a>.</strong></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Favorite Alfred Tricks]]></title>

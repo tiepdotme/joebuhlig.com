@@ -14,11 +14,79 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 21 Mar 2016 06:22:34 -0500</lastBuildDate>
+<lastBuildDate>Wed, 23 Mar 2016 06:44:29 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[29: Get Started and Iterate]]></title>
+    <link>http://joebuhlig.com/29/</link>
+    <pubDate>Wed, 23 Mar 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[development]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/29/</guid>
+    <description>
+        <![CDATA[In this episode, I go through the ideas behind agile development and applying them to get a minimum viable product out the door. This is exactly how OmniGroup has now gotten to the point of bringing themes back to OmniFocus. Oh, and I completely missed daylight savings.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Get-Started-and-Iterate.jpg" /><p>In this episode, I go through the ideas behind agile development and applying them to get a minimum viable product out the door. This is exactly how OmniGroup has now gotten to the point of bringing themes back to OmniFocus. Oh, and I completely missed daylight savings.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Agile_software_development">Agile software development - Wikipedia</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Waterfall_model">Waterfall model - Wikipedia</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Minimum_viable_product">Minimum viable product - Wikipedia</a></p>
+
+<p><a href="http://people.omnigroup.com/kc/">Ken Case — The Omni Group</a></p>
+
+<p><a href="https://twitter.com/kcase/status/709491281328603136">Kens tweet about styling</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[A Minimal Alfred Theme]]></title>
+    <link>http://joebuhlig.com/alfred-theme/</link>
+    <pubDate>Tue, 22 Mar 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[alfred]]></category>
+
+    <category><![CDATA[apps]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/alfred-theme/</guid>
+    <description>
+        <![CDATA[I’ve got a bonus for you this week: my Alfred theme. I’ve tweaked the look of Alfred quite a bit over the few years I’ve been using it. I wanted something simple and unobtrusive, but I also wanted it to be compact and cram a lot of data into a...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/A-Minimal-Alfred-Theme.jpg" /><p>I’ve got a bonus for you this week: my Alfred theme. I’ve tweaked the look of Alfred quite a bit over the few years I’ve been using it. I wanted something simple and unobtrusive, but I also wanted it to be compact and cram a lot of data into a small space. If that sounds appealing, give it a try.
+<!--more--></p>
+
+<p><strong>You can <a href="/assets/files/mnml.alfredappearance">get the theme here</a>.</strong></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Favorite Alfred Tricks]]></title>
@@ -850,108 +918,6 @@ $("table").tablesorter();
 <li><a href="/using-gtd-as-a-woodworker/">Using GTD As A Woodworker</a></li>
 </ol>
 </div>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Using GTD As A Homeowner]]></title>
-    <link>http://joebuhlig.com/using-gtd-as-a-homeowner/</link>
-    <pubDate>Fri, 19 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[gtd]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/using-gtd-as-a-homeowner/</guid>
-    <description>
-        <![CDATA[Most of the time when I’m discussing GTD with a friend or online it’s in the context of getting more work done more efficiently. I agree that this is the easy target for the framework; our jobs and the work we do each day are the most pressing and stressing...]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Using-GTD-as-a-Homeowner.jpg" /><p>Most of the time when I’m discussing GTD with a friend or online it’s in the context of getting more work done more efficiently. I agree that this is the easy target for the framework; our jobs and the work we do each day are the most pressing and stressing in our lives. We need as much help as we can get to stay on top of it.
-<!--more--></p>
-
-<p>Once you start to understand the nuances of GTD and you have a handle on your job, there are a couple paths you can take. You can coast and enjoy the peace that comes with having work off your mind. Or you can continue to find areas of your life to integrate into GTD. It’s not just for work, but life. And the area of life that most closely resembles the responsibilities of work - making this an easy transition - is homeownership or managing your household.</p>
-
-<h2 id="small-stuff">Small Stuff</h2>
-
-<p>I’ve found that you can never truly be done keeping up or improving your home. There are always light bulbs burning out and appliances wearing out over time. With the <a href="http://joebuhlig.com/seasons-tasks/">changing seasons</a> there are annual tasks that can sneak up on you when you aren’t paying attention. With the GTD mindset, these are pretty simple to handle.</p>
-
-<p>When you see something that needs attention, either do it right away or write it down. You should have a place for these household tasks so that when you have time to work on the house (you do have a context for these, right?) you pull up this list and bring the house back up to date.</p>
-
-<h2 id="the-projects">The Projects</h2>
-
-<p>If you’re talking to your spouse and the two of you have an idea pertaining to the house, capture that as well. You need to keep an eye on these potentials. I wish I had started doing this sooner. Because I keep a list of these, I can often knock out a few at a time.</p>
-
-<p>I’m currently working on some trim and finishing touches in our family room. We had an idea to add <a href="http://discussion.joebuhlig.com/t/heavy-duty-floating-book-shelves/192?u=joebuhlig">built-in bookshelves</a>, but we’ve also talked about adding a switch to our fireplace to eliminate potential issues with the remote we have for it. If the remote stops working, I want a fallback and since the remote is currently a bit finicky, I thought it best to go ahead and hard-wire it. With a list of these potential projects in place, I was able to see the work I wanted to do in the family room and bundle it together. It’s a lot easier to do the fireplace wiring now when I have a wall opened up than after I have everything painted and back in place.</p>
-
-<h2 id="irregular-tasks">Irregular Tasks</h2>
-
-<p>There are also infrequent tasks that you can’t let slide. We live in Minnesota and with that comes a cold winter. Our house has outdoor spigots that need to be turned off in the fall so they don’t freeze and burst the pipes… again. I don’t want to relive the memories of that lesson, so I keep tasks like these in an annual <em>Fall Maintenance</em> list. When it starts to get cold outside, I run through this checklist of pre-cold items to make sure we don’t have major issues later on.</p>
-
-<h2 id="the-principles">The Principles</h2>
-
-<p>At the end of the day, these are the same tenants of GTD that we’re used to. When something comes up or you have an idea about something around the house, write it down; put it into the system; trust yourself. Come back to it when your contexts allow, but make sure you have a dedicated context or a specific time for these things. They won’t magically happen just because you wrote them down. Use GTD to help you engage with the tasks around your house as well as work.</p>
-
-<div class="post-series">
-<p>This series is about using GTD outside the lines of our day jobs. Yes, it can be used in every aspect of your life.</p>
-<ol>
-<li><a href="/using-gtd-as-a-homeowner/">Using GTD As A Homeowner</a></li>
-<li><a href="/using-gtd-as-a-writer/">Using GTD As A Writer</a></li>
-<li><a href="/using-gtd-as-a-husband/">Using GTD As A Husband</a></li>
-<li><a href="/using-gtd-as-a-dad/">Using GTD As A Dad</a></li>
-<li><a href="/using-gtd-as-a-man/">Using GTD As A Man</a></li>
-<li><a href="/using-gtd-as-a-woodworker/">Using GTD As A Woodworker</a></li>
-</ol>
-</div>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[24: No More Project Codes]]></title>
-    <link>http://joebuhlig.com/24/</link>
-    <pubDate>Wed, 17 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[dvorak]]></category>
-
-    <category><![CDATA[evernote]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/24/</guid>
-    <description>
-        <![CDATA[With my recent move away from Evernote, I’ve made the decision to leave my project codes behind. And although there are serious competitors to Evernote, I’m staying away from them.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/No-More-Project-Codes.jpg" /><p>With my recent move away from Evernote, I’ve made the decision to leave my project codes behind. And although there are serious competitors to Evernote, I’m staying away from them.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="http://joebuhlig.com/creating-personal-project-codes/">Creating Personal Project Codes</a></p>
-
-<p><a href="http://joebuhlig.com/an-alternative-to-evernote/">An Alternative to Evernote</a></p>
-
-<p><a href="http://discussion.joebuhlig.com/t/heavy-duty-floating-book-shelves/192?u=joebuhlig">Heavy duty floating book shelves</a></p>
-
-<p><a href="http://joebuhlig.com/dvorak-transition/">Dvorak Transition</a></p>
-
-<p><a href="http://happenapps.com/#quiver">Quiver</a></p>
-
-<p><a href="http://literatureandlatte.com/">Scrivener</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]>
     </content:encoded>
 </item>
