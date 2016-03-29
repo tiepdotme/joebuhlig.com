@@ -215,21 +215,16 @@
     border-top: 1px solid #DDDDDD;
     padding: 10px 0px 0px 0px;
 }
-.related-post{
-    display: inline-block;
-    max-width: calc(33.33% - 13px);
-    padding: 5px;
-
-    @include media-query(700px) {
-            max-width: calc(50% - 13px);
-        }
-
-    @include media-query(425px) {
-        max-width: calc(100% - 13px);
-        }
+.related-img{
+    float: left;
+    max-width: 20%;
+    padding-bottom: 5px;
 }
-.related-post img{
-    max-height: 286px;
+.related-text{
+    float: left;
+    max-width: calc(80% - 20px);
+    text-align: left;
+    margin: 0px 0px 0px 15px;
 }
 .newsletter-signup{
     text-align: center;
