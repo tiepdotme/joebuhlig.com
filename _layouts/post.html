@@ -62,6 +62,11 @@ layout: default
 				{% endif %}
 			{% endif %}
 		</div>
+		<div class="callout newsletter-signup">
+			<h2>Want more?</h2>
+			<p>If you'd like to get more tips on productivity and life with technology, you can join my free email newsletter.</p>
+			{% include newsletter_form.html %}
+		</div>
 		<div class="related-posts">
 			<h2>Related Articles</h2>{% assign count = 1 %}{% for post in site.posts %}{% if count <= 6 %}{% if post.url != page.url %}{% for tag in page.tags %}{% if post.tags contains tag %}
           		<div class="related-post"><a href="{{ post.url }}"><img src="{{ post.image }}"></a></div>{% assign count = count | plus:'1' %}{% break %}{% endif %}{% endfor %}{% endif %}{% else %}{% break %}{% endif %}{% endfor %}

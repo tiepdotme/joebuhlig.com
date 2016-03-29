@@ -208,7 +208,6 @@
 /**
  * Site footer
  */
-
 .related-posts {
     margin: 0px auto 30px auto;
     max-width: $content-width;
@@ -231,6 +230,45 @@
 }
 .related-post img{
     max-height: 286px;
+}
+.newsletter-signup{
+    text-align: center;
+    max-width: 425px !important;
+    padding-bottom: 0px !important;
+}
+#mc_embed_signup{
+    clear:left;
+    font:14px Helvetica,Arial,sans-serif;
+    max-width:450px;
+    margin: 0px auto;
+}
+#mc_embed_signup input {
+    border: 1px solid #ccc !important;
+    font:14px Helvetica,Arial,sans-serif;
+    font-weight: lighter !important;
+}
+#mc_embed_signup .button {
+    display: inherit !important;
+    margin: 0px auto !important;
+    font-weight: lighter !important;
+    border-radius: 0px !important;
+    border: 0px !important;
+}
+#mc_embed_signup .mc-field-group {
+    padding-bottom: 0px !important;
+}
+#mc_embed_signup div.mce_inline_error{
+    font-weight: lighter !important;
+}
+.email-clarify{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 12px;
+    font-weight: lighter;
+
+    p {
+        margin: 0px;
+    }
 }
 .site-footer {
     border-top: 1px solid $grey-color-light;
