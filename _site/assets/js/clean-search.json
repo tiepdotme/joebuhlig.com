@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"30: Decision Analysis Paralysis",
+			"image":"/assets/posts/Decision-Analysis-Paralysis.jpg",
+			"permalink":"/30/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"contexts",
+				"task-management"
+			],
+			"excerpt": "<p>When you have a large amount of data available, it’s easy to be paralyzed in making a decision about how to analyze it. The same is true when you have a lot of tasks and little clarity.</p>\n\n",
+			"content": "When%20you%20have%20a%20large%20amount%20of%20data%20available,%20it%E2%80%99s%20easy%20to%20be%20paralyzed%20in%20making%20a%20decision%20about%20how%20to%20analyze%20it.%20The%20same%20is%20true%20when%20you%20have%20a%20lot%20of%20tasks%20and%20little%20clarity.%0A%0A%0ABecome%20a%20Patron%0A%0AAnalysis%20paralysis%20-%20Wikipedia%0A%0AThe%20Truth%20About%20Frogs%0A%0AArticles%20about%20Reviews%0A%0AThe%20battle%20between%20your%20present%20and%20future%20self%20-%20TED%20Talk%0A%0AMaking%20Time%20for%20Contexts%0A%0AA%20Time%20For%20Things%20-%20Patrick%20Rhone%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Choosing OmniFocus Settings",
 			"image":"/assets/posts/Choosing-OmniFocus-Settings.jpg",
 			"permalink":"/choosing-omnifocus-settings/",

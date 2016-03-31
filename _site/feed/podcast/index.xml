@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Tue, 29 Mar 2016 12:58:35 -0500</lastBuildDate>
+<lastBuildDate>Thu, 31 Mar 2016 18:41:57 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,85 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>30: Decision Analysis Paralysis</title>
+    <link>http://joebuhlig.com/30/</link>
+    <comments>http://joebuhlig.com/30/#comments</comments>
+    <pubDate>Wed, 30 Mar 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[contexts]]></category>
+
+    <category><![CDATA[task-management]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/30/</guid>
+    <description>
+        <![CDATA[When you have a large amount of data available, it’s easy to be paralyzed in making a decision about how to analyze it. The same is true when you have a lot of tasks and little clarity.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>When you have a large amount of data available, it’s easy to be paralyzed in making a decision about how to analyze it. The same is true when you have a lot of tasks and little clarity.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Analysis_paralysis">Analysis paralysis - Wikipedia</a></p>
+
+<p><a href="http://www.briantracy.com/blog/time-management/the-truth-about-frogs/">The Truth About Frogs</a></p>
+
+<p><a href="http://joebuhlig.com/tag/reviews/">Articles about Reviews</a></p>
+
+<p><a href="https://www.ted.com/talks/daniel_goldstein_the_battle_between_your_present_and_future_self">The battle between your present and future self - TED Talk</a></p>
+
+<p><a href="http://joebuhlig.com/making-time-contexts/">Making Time for Contexts</a></p>
+
+<p><a href="http://patrickrhone.com/2014/11/11/a-time-for-things/">A Time For Things - Patrick Rhone</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ030.mp3" length="22347157" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[When you have a large amount of data available, it’s easy to be paralyzed in making a decision about how to analyze it. The same is true when you have a lot of tasks and little clarity.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>When you have a large amount of data available, it’s easy to be paralyzed in making a decision about how to analyze it. The same is true when you have a lot of tasks and little clarity.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Analysis_paralysis">Analysis paralysis - Wikipedia</a></p>
+
+<p><a href="http://www.briantracy.com/blog/time-management/the-truth-about-frogs/">The Truth About Frogs</a></p>
+
+<p><a href="http://joebuhlig.com/tag/reviews/">Articles about Reviews</a></p>
+
+<p><a href="https://www.ted.com/talks/daniel_goldstein_the_battle_between_your_present_and_future_self">The battle between your present and future self - TED Talk</a></p>
+
+<p><a href="http://joebuhlig.com/making-time-contexts/">Making Time for Contexts</a></p>
+
+<p><a href="http://patrickrhone.com/2014/11/11/a-time-for-things/">A Time For Things - Patrick Rhone</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>23:05</itunes:duration>
+  </item>
 
   <item>
     <title>29: Get Started and Iterate</title>
