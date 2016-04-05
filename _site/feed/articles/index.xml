@@ -14,11 +14,229 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 31 Mar 2016 18:41:57 -0500</lastBuildDate>
+<lastBuildDate>Tue, 05 Apr 2016 14:57:21 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Timing Tasks]]></title>
+    <link>http://joebuhlig.com/timing-tasks/</link>
+    <pubDate>Mon, 04 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[productivity]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/timing-tasks/</guid>
+    <description>
+        <![CDATA[In a previous role I spent some time researching project management software and evaluating it for company use. One of the turn-offs that my end users brought up was an extreme distaste for running a stopwatch on the tasks being tracked. I get it. No one wants to be stuck...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Timing-Tasks.jpg" /><p>In a previous role I spent some time researching project management software and evaluating it for company use. One of the turn-offs that my end users brought up was an extreme distaste for running a stopwatch on the tasks being tracked. I get it. No one wants to be stuck to a clock, especially when those reviewing the numbers are your managers.
+<!--more--></p>
+
+<p>I didn’t want to go that route either. I’ve always had a resistance to due dates, but some of it was fear that the data would be used against me. It would be hard not to compare my times to that of my coworkers. It wouldn’t matter if I came out better or not, quality of work would no longer be the main consideration if speed took over as the primary indicator.</p>
+
+<p>When I started working for myself, I finally came around to the idea of starting a stopwatch at the beginning of every new task. The data was staying in my own hands. It could help me maximize my time without the potential for negative consequences. So I set up <a href="http://joebuhlig.com/tracking-time-with-launch-center-pro/">a process with Launch Center Pro</a> to help track my time.</p>
+
+<p>My intent was to understand where I spent the most time and look for places to cut back. I was seeking maximum impact for the least amount of time spent since every action I take can directly influence my income. But after timing my work for a while, I found there were more benefits to starting that stopwatch than I expected.</p>
+
+<h2 id="history">History</h2>
+
+<p>The first of these was my original (and only) intent: a record of how much time I spend on tasks. Keeping track of how much time I spend on tasks helps me see if I’m allocating too much of my day to one activity. I can’t say that I had any big <em>aha</em> moments as I’ve looked through the data, but it’s at least interesting to see how much time goes into writing an article or designing and building a website.</p>
+
+<h2 id="estimations">Estimations</h2>
+
+<p>Once I know how long something usually takes, I can estimate how much time to allocate to a task prior to starting. The past is the most accurate indicator of the future. This is why it’s so dangerous (and manipulative) to make even slight changes to history books and data records. If you want to honestly understand where you currently stand and how something will pan out in the future, you can study the past and see how things work out. History is an indicator for our actions in the present. The same is true for the time it takes to complete a task. The more we know about our completed tasks, the better we are at predicting the outcomes of our current and future tasks.</p>
+
+<h2 id="self-competition">Self-Competition</h2>
+
+<p>If we know how much time something usually takes us and we are about to begin a similar task, we have a benchmark to compare against. We have a time to beat. I think this holds the most value if you are the sole owner of the data and want to get better at the task. You can choose to let the time go longer if you’re working to improve the quality or you can work on speed if you’re trying to gain efficiency. In both cases, though, you know and understand your goal.</p>
+
+<h2 id="focus">Focus</h2>
+
+<p>I was caught off-guard by this one. When I start that timer, I know that I’ll be recording the number when I’m done. The time will go into storage and into the broader history of the data I’ve  stored. The last thing I want to do is have that number include tasks outside of what I recorded. It will muddy the waters with false data, and I cannot <em>stand</em> false data. If I spend 10 minutes checking Twitter in the middle of designing a logo and I record it as time spent designing, the record is incorrect. So I take advantage of my loathing for bad data sets and use it to stay focused on the task.</p>
+
+<h2 id="everything">Everything?</h2>
+
+<p>Absolutely not. Don’t be crazy. You should not have a stopwatch running when you’re having coffee with your spouse. Only time the tasks that need a record or that tend to get away from you. Leisure and play should be allowed to roam. Tasks for work or your side projects are likely the primary commitments worth timing. Those are typically the only areas where we strive for efficiency and focus. It doesn’t work to be laser-focused while at the beach on vacation.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[A Text File Weather Forecast]]></title>
+    <link>http://joebuhlig.com/a-text-file-weather-forecast/</link>
+    <pubDate>Fri, 01 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[text-files]]></category>
+
+    <category><![CDATA[weather]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/a-text-file-weather-forecast/</guid>
+    <description>
+        <![CDATA[It never fails. I sit at our kitchen table over breakfast and mention to my wife that it’s going to snow that day. The first question she asks? “How much?” I don’t know! All I know is that my alert says it’s supposed to happen!
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/A-Text-File-Weather-Forececast.jpg" /><p>It never fails. I sit at our kitchen table over breakfast and mention to my wife that it’s going to snow that day. The first question she asks? <em>“How much?”</em> I don’t know! All I know is that my alert says it’s supposed to happen!
+<!--more--></p>
+
+<p>After going through this exchange so many times that my wife realized she was driving me crazy <em>then continued to ask because she enjoys taunting me</em>, I gave up and created my own weather forecast. I wanted to know temperatures and precipitation amounts and keep a daily record of each forecast. I figured if I was going to go through the trouble of creating it, I might as well make it possible to search a date and get the forecast from that day. I turned to text files and Google Scripts.</p>
+
+<h2 id="today">Today</h2>
+
+<p><img class="center-image post-image-small" style="width:40%;" src="/assets/posts_extra/a_text_file_weather_forecast/weather-today.jpg" /></p>
+
+<p>To set this up, you’ll need access to Google Drive and a <a href="http://www.wunderground.com/weather/api?apiref=6977fd0285651b13">developer account with Weather Underground</a>.</p>
+
+<ol>
+  <li>Create a new Google Apps Script in Google Drive.</li>
+  <li>Paste the code below into the script.</li>
+  <li>Replace the _X_s in the script with your Weather Underground API key and change the city/state to your location.</li>
+  <li>Set up a trigger to run the function automatically (Resources &gt; Current project’s triggers).</li>
+</ol>
+
+<p><img class="center-image post-image-medium" src="/assets/posts_extra/a_text_file_weather_forecast/app-trigger.jpg" /></p>
+
+<p>Here’s the script you’ll need:</p>
+
+<noscript><pre>function weatherLogger() {
+  var url = &quot;http://api.wunderground.com/api/XXXXXXXXXXX/forecast/q/STATE/CITY.json&quot;
+  var response = UrlFetchApp.fetch(url);
+  var weather = JSON.parse(response);
+  var summary = weather.forecast.simpleforecast.forecastday[0];
+  var newFileData = summary[&quot;date&quot;][&quot;pretty&quot;] + &quot;\n&quot;;
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;High temp: &quot; + summary[&quot;high&quot;][&quot;fahrenheit&quot;] + &quot;°F/&quot; + summary[&quot;high&quot;][&quot;celsius&quot;] + &quot;°C&quot;;
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Low temp: &quot; + summary[&quot;low&quot;][&quot;fahrenheit&quot;] + &quot;°F/&quot; + summary[&quot;low&quot;][&quot;celsius&quot;] + &quot;°C&quot;;
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Conditions: &quot; + summary[&quot;conditions&quot;];
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Precipitation: &quot; + summary[&quot;qpf_allday&quot;][&quot;in&quot;];
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Snow: &quot; + summary[&quot;snow_allday&quot;][&quot;in&quot;];
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Max Wind Speed: &quot; + summary[&quot;maxwind&quot;][&quot;mph&quot;] + &quot;mph &quot; + summary[&quot;maxwind&quot;][&quot;dir&quot;];
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Avg Wind Speed: &quot; + summary[&quot;avewind&quot;][&quot;mph&quot;] + &quot;mph &quot; + summary[&quot;avewind&quot;][&quot;dir&quot;];
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Humidity: &quot; + summary[&quot;avehumidity&quot;];
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Raw Data:&quot;;
+  
+  for (var key in summary) {
+    var dataToLog = key + &quot;: &quot; + JSON.stringify(summary[key]);
+    if (newFileData == &quot;&quot;) {
+      newFileData = dataToLog;
+    }
+    else {
+      newFileData += &quot;\n&quot;;
+      newFileData += dataToLog;
+    };
+  };
+  var today = new Date();
+  var d = new Date(today);
+  var y = d.getFullYear();
+  var m = d.getMonth();
+  m = m + 1
+  m = &quot;00&quot; + m
+  m = m.substr(m.length - 2);
+  var day = d.getDate();
+  day = &quot;00&quot; + day;
+  day = day.substr(day.length - 2);
+  var dateString = y + m + day;
+  DriveApp.createFile(&quot;Weatherx_Todayx_&quot; + dateString + &quot;.txt&quot;, newFileData);
+}</pre></noscript>
+<script src="https://gist.github.com/joebuhlig/488a95d9072b6c8a1500.js"> </script>
+
+<p>When run, the script will create a text file at the top-level of your Google Drive. From there you can use Hazel to move and rename these files however you like. For example, I use Hazel to rename the files to just the date and move them to DropBox within <a href="http://joebuhlig.com/text-file-setup-and-workflow/">my text file setup</a>.</p>
+
+<p><img class="center-image post-image-medium" src="/assets/posts_extra/a_text_file_weather_forecast/hazel-rule.jpg" /></p>
+
+<h2 id="yesterday">Yesterday</h2>
+
+<p><img class="center-image post-image-small" style="width:40%;" src="/assets/posts_extra/a_text_file_weather_forecast/weather-yesterday.jpg" /></p>
+
+<p>Once I had today’s forecast working properly, I took the next step: keeping a history of what actually happened the day before. This was primarily so I could determine how much rain we had yesterday. I grew up on a crop farm. The most common question in a farming community is, “How much rain did you get last night?” That almost instinctual curiosity has never left me, but instead of setting up a rain gauge like most good farmers, I just altered my forecast script to give the data from the day before in the same format.</p>
+
+<p>Everything for this historical record works the same as the forecast. The only difference is the location of the API call and the parsing of the data.</p>
+
+<noscript><pre>function weatherLogger() {
+  var url = &quot;http://api.wunderground.com/api/XXXXXXXXXXX/yesterday/q/STATE/CITY.json&quot;
+  var response = UrlFetchApp.fetch(url);
+  var data = JSON.parse(response);
+  var summary = data.history.dailysummary[0];
+  var slength = summary.length;
+  var newFileData = summary[&quot;date&quot;][&quot;pretty&quot;] + &quot;\n&quot;;
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;High temp: &quot; + summary[&quot;maxtempi&quot;];
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Low temp: &quot; + summary[&quot;mintempi&quot;];
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Avg temp: &quot; + summary[&quot;meantempi&quot;];
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Rain: &quot; + summary[&quot;rain&quot;];
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Snow: &quot; + summary[&quot;snow&quot;] + &quot; &quot; + summary[&quot;snowfalli&quot;] + &quot; &quot; + summary[&quot;snowdepthi&quot;];
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Precipitation: &quot; + summary[&quot;precipi&quot;];
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Growing Degree Days: &quot; + summary[&quot;gdegreedays&quot;];
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Max Wind Speed: &quot; + summary[&quot;maxwspdi&quot;] + &quot;mph&quot;;
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Avg Wind Speed: &quot; + summary[&quot;meanwindspdi&quot;] + &quot;mph &quot; + summary[&quot;meanwdire&quot;];
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Humidity: &quot; + summary[&quot;humidity&quot;];
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;\n&quot;;
+  newFileData += &quot;Raw Data:&quot;;
+  
+  for (var key in summary) {
+    var dataToLog = key + &quot;: &quot; + JSON.stringify(summary[key]);
+    if (newFileData == &quot;&quot;) {
+      newFileData = dataToLog;
+    }
+    else {
+      newFileData += &quot;\n&quot;;
+      newFileData += dataToLog;
+    };
+  };
+  var today = new Date();
+  var d = new Date(today);
+  d.setDate(today.getDate() - 1);
+  var y = d.getFullYear();
+  var m = d.getMonth();
+  m = m + 1
+  m = &quot;00&quot; + m
+  m = m.substr(m.length - 2);
+  var day = d.getDate();
+  day - 1;
+  day = &quot;00&quot; + day;
+  day = day.substr(day.length - 2);
+  var dateString = y + m + day;
+  DriveApp.createFile(&quot;Weatherx_Yesterdayx_&quot; + dateString + &quot;.txt&quot;, newFileData);
+}
+
+</pre></noscript>
+<script src="https://gist.github.com/joebuhlig/d652e20182ed3c380e15.js"> </script>
+
+<p>The benefit of having both of these in place is the ability to compare the forecast to what actually happened. The only issue with doing this is the result: it shows just how bad forecasts really are at predicting weather. But hey, at least breakfast with my wife is less maddening.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Choosing OmniFocus Settings]]></title>
