@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Tue, 05 Apr 2016 14:57:21 -0500</lastBuildDate>
+<lastBuildDate>Wed, 06 Apr 2016 06:45:22 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,85 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>31: Apps, Websites, and TextExpander Pricing</title>
+    <link>http://joebuhlig.com/31/</link>
+    <comments>http://joebuhlig.com/31/#comments</comments>
+    <pubDate>Wed, 06 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[development]]></category>
+
+    <category><![CDATA[textexpander]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/31/</guid>
+    <description>
+        <![CDATA[I go on a rant about building websites instead of apps. That leads me to a subsidiary rant about the polarizing changes to TextExpander.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I go on a rant about building websites instead of apps. That leads me to a subsidiary rant about the polarizing changes to TextExpander.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://www.discourse.org/">Discourse</a></p>
+
+<p><a href="https://meta.discourse.org/t/discourse-do-need-an-app-here-is-why/41611?u=joebuhlig">Discourse does need an App, here is why</a></p>
+
+<p><a href="https://smilesoftware.com/software-releases/entry/the-new-textexpander">The New TextExpander - Smile</a></p>
+
+<p><a href="https://smilesoftware.com/press/entry/smile-launches-textexpander-com-with-apps-for-mac-iphone-and-windows-beta">Smile Press Release</a></p>
+
+<p><a href="https://blog.agilebits.com/2016/02/16/introducing-1password-for-families/">Introducing 1Password for Families</a></p>
+
+<p><a href="http://mikeschmitz.me/thoughts-on-textexpander-6/">Thoughts on TextExpander 6 - mikeschmitz.me</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ031.mp3" length="19347676" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[I go on a rant about building websites instead of apps. That leads me to a subsidiary rant about the polarizing changes to TextExpander.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>I go on a rant about building websites instead of apps. That leads me to a subsidiary rant about the polarizing changes to TextExpander.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://www.discourse.org/">Discourse</a></p>
+
+<p><a href="https://meta.discourse.org/t/discourse-do-need-an-app-here-is-why/41611?u=joebuhlig">Discourse does need an App, here is why</a></p>
+
+<p><a href="https://smilesoftware.com/software-releases/entry/the-new-textexpander">The New TextExpander - Smile</a></p>
+
+<p><a href="https://smilesoftware.com/press/entry/smile-launches-textexpander-com-with-apps-for-mac-iphone-and-windows-beta">Smile Press Release</a></p>
+
+<p><a href="https://blog.agilebits.com/2016/02/16/introducing-1password-for-families/">Introducing 1Password for Families</a></p>
+
+<p><a href="http://mikeschmitz.me/thoughts-on-textexpander-6/">Thoughts on TextExpander 6 - mikeschmitz.me</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>19:57</itunes:duration>
+  </item>
 
   <item>
     <title>30: Decision Analysis Paralysis</title>

@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"31: Apps, Websites, and TextExpander Pricing",
+			"image":"/assets/posts/Apps-Websites-and-TextExpander-Pricing.jpg",
+			"permalink":"/31/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"development",
+				"textexpander"
+			],
+			"excerpt": "<p>I go on a rant about building websites instead of apps. That leads me to a subsidiary rant about the polarizing changes to TextExpander.</p>\n\n",
+			"content": "I%20go%20on%20a%20rant%20about%20building%20websites%20instead%20of%20apps.%20That%20leads%20me%20to%20a%20subsidiary%20rant%20about%20the%20polarizing%20changes%20to%20TextExpander.%0A%0A%0ABecome%20a%20Patron%0A%0ADiscourse%0A%0ADiscourse%20does%20need%20an%20App,%20here%20is%20why%0A%0AThe%20New%20TextExpander%20-%20Smile%0A%0ASmile%20Press%20Release%0A%0AIntroducing%201Password%20for%20Families%0A%0AThoughts%20on%20TextExpander%206%20-%20mikeschmitz.me%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Timing Tasks",
 			"image":"/assets/posts/Timing-Tasks.jpg",
 			"permalink":"/timing-tasks/",
