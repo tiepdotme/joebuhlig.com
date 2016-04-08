@@ -13,6 +13,12 @@ $(document).ready(function(){
 		event.preventDefault();
 		$('.trigger').toggleClass('active');
 	});
+	$('.page-content').click(function(event){
+		$('.trigger').removeClass('active');
+	})
+	$('.post-content img').click(function(event){
+		window.location.href = $(this).attr("src");
+	})
 
 	$(window).scroll(function() {
 	    var topOfWindow = $(window).scrollTop() + $('.site-nav-outer').height();

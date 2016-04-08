@@ -4,8 +4,6 @@ date:   2015-11-11
 categories: blog
 tags:
 - omnifocus
-- reviews
-- scripting
 - webinar
 permalink: /reviews-and-scripting-learn-omnifocus-webinar/
 image: /assets/posts/Reviews-and-Scripting-Learn-OmniFocus-Webinar.jpg

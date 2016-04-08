@@ -50,14 +50,11 @@
 }
 
 .site-nav {
-    background-color: #FFFFFF;
-    float: left;
     line-height: $site-links-height;
-    text-align: left;
-
-    .menu-icon {
-        display: none;
-    }
+    text-align: right;
+    position: absolute;
+    right: 20px;
+    width: auto;
 
     .page-link {
         color: $brand-color;
@@ -75,53 +72,57 @@
         }
     }
 
-    @include media-query($content-width) {
-        position: absolute;
-        top: 7px;
-        left: 15px;
+    .page-link {
+        &:not(:first-child) {
+            margin-left: 0px;
+        }
+    }
+
+    .menu-icon {
+        width: 36px;
+        height: 42px;
+        line-height: $site-links-height;
+        text-align: center;
+        margin-left: 10px;
+
+        > svg {
+            width: 22px;
+            height: 22px;
+            vertical-align: middle;
+        }
+    }
+
+    #search-icon:hover{
+        text-decoration: none;
+    }
+
+    .trigger {
+        clear: both;
+        display: none;
         text-align: left;
-        width: auto;
+        padding: 5px;
+        background: #FFFFFF;
+        box-shadow: 0 0px 10px 0px rgba(0,0,0,0.25);
+        margin: 10px 0px 0px 0px;
+    }
 
-        .page-link {
-            &:not(:first-child) {
-                margin-left: 0px;
-            }
-        }
+    .trigger.active {
+        display: block;
+    }
 
-        .menu-icon {
-            display: block;
-            float: left;
-            width: 36px;
-            height: 42px;
-            line-height: $site-links-height;
-            text-align: center;
-
-            > svg {
-                width: 22px;
-                height: 22px;
-            }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        .trigger.active {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-        }
+    .page-link {
+        display: block;
+        padding: 5px 10px;
+    }
+    .divider{
+        height: 1px;
+        border-top: 1px solid #DDDDDD;
     }
 }
 
 .social-media-list {
-    float:right;
     line-height: $site-links-height;
+    padding: 0px 10px;
 }
 
 .social-media-list a {
@@ -132,75 +133,11 @@
     text-decoration: none;
 }
 
-.trigger {
-    float:left;
-}
-
-.header-bar{
-    height: $header-bar-height;
-    top: $site-links-height;
-    position: fixed;
-    width: 100%;
-
-    .header-tree{
-        height: 150px;
-        position: fixed;
-        text-align: center;
-        width: 100%;
-        z-index: 10;
-    }
-
-    .header-title{
-        height: 45px;
-        position: fixed;
-        text-align: center;
-        top: ($site-links-height + $header-bar-height) - ($header-bar-height/2) - 22.5px;
-        width: 100%;
-        z-index: 20;
-    }
-
-    .header-desc{
-        height: 20px;
-        position: fixed;
-        text-align: center;
-        width: 100%;
-        z-index: 20;
-
-        @include media-query($on-palm) {
-            display: none;
-        }
-    }
-
-    .header-desc-inner{
-        margin: 80px auto 0px auto;
-        text-align: left;
-        width: $content-width;
-    }
-
-    .header-line{
-        background-color: #929394;
-        height: 1px;
-        position: fixed;
-        top: ($site-links-height + $header-bar-height) - ($header-bar-height/2) - 0.5px;
-        width: 100%;
-        z-index: 1;
-    }
-
-    .header-spacer{
-        height: 10px;
-        position: fixed;
-        text-align: center;
-        top: ($site-links-height + $header-bar-height) - ($header-bar-height/2) - 5.5px;
-        width: 100%;
-        z-index: 5;
-    }
-
-    .header-spacer-inner{
-        background-color: #FFFFFF;
-        height: 10px;
-        margin: 0 auto;
-        width: 275px;
-    }
+#header-image{
+    left: 20px;
+    position: absolute;
+    height: calc(100% - 10px);
+    top: 5px;
 }
 
 
@@ -218,7 +155,7 @@
 .related-img{
     float: left;
     max-width: 20%;
-    padding-bottom: 5px;
+    padding-bottom: 15px;
 }
 .related-text{
     float: left;
@@ -336,7 +273,7 @@
 .page-content {
     -webkit-transform: translate3d(0,0,0);
     background-color: #FFFFFF;
-    margin-top: $header-bar-height + $site-links-height + 10px;
+    margin-top: $site-links-height + 10px;
     padding: 0px;
     position: relative;
     z-index: 100;
@@ -425,30 +362,32 @@
 
 .feed-item {
     display: inline-block;
-    margin:0px;
-    padding: 0px 5px;
+    margin: 8px;
+    padding: 0px;
     text-align: left;
     vertical-align: top;
     max-width:  400px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0px 10px 0px rgba(0,0,0,0.25)
 }
 
 .feed-excerpt {
     display: block;
     display: -webkit-box;
     max-width: 100%;
-    height: 74px;
+    height: 65px;
     font-size: 16px;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
-    margin: 0px 0px 25px 0px;
+    margin: 0px 0px 10px 0px;
+    padding: 5px 10px 10px 10px;
 }
 
 .feed-pic {
     display: table;
     margin: 0px auto;
-    min-height: 266px;
     text-align: center;
 }
 .feed-pic a {
@@ -456,13 +395,21 @@
     vertical-align: middle;
 }
 .feed-pic img {
-    max-height: 266px;
+    max-height: 267px;
+}
+.feed-title{
+    text-align: center;
+    padding: 5px;
+    h3 {
+        margin: 0px;
+    }
 }
 .feed-meta{
     font-size: $small-font-size;
     color: $grey-color;
-    margin: 5px 0px 0px 0px;
+    margin: 0px;
     text-align: center;
+    padding: 0px 10px 0px 10px;
 }
 /**
  * Posts
@@ -495,10 +442,16 @@
 .post-content {
     margin-bottom: $spacing-unit;
     text-align: left;
+
+    img {
+        cursor: pointer;
+        box-shadow: 0 0px 10px 2px rgba(0,0,0,0.25);
+    }
 }
 
 .featured-image {
     max-height: 600px;
+    box-shadow: 0 0px 10px 0px rgba(0,0,0,0.25)
 }
 
 .page-navigation {
