@@ -10,6 +10,7 @@
       </div>
     </div>
     {% include clean_search.html %}
+    {% if jekyll.environment == "production" %}
     <!-- Piwik -->
     <script type="text/javascript">
         var _paq = _paq || [];
@@ -24,6 +25,7 @@
         })();
         </script>
     <noscript><p><img src="//joebuhlig.piwikpro.com/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
-<!-- End Piwik Code -->
+    <!-- End Piwik Code -->
+    {% endif %}
   </body>
 </html>

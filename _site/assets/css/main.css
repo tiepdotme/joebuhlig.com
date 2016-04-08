@@ -185,7 +185,7 @@ table {
  * Site header
  */
 .site-header {
-  min-height: 56px;
+  min-height: 47px;
   position: relative;
   z-index: 50; }
 
@@ -200,7 +200,7 @@ table {
 
 .site-nav-outer {
   background-color: #FFFFFF;
-  height: 56px;
+  height: 47px;
   max-width: 100%;
   padding: 0px;
   position: fixed;
@@ -214,7 +214,7 @@ table {
   box-shadow: 0 0px 3px rgba(0, 0, 0, 0.25); }
 
 .site-nav-inner {
-  height: 56px;
+  height: 47px;
   margin: 0 auto;
   max-width: 900px; }
   @media screen and (max-width: 900px) {
@@ -222,12 +222,11 @@ table {
       padding: 0px 10px; } }
 
 .site-nav {
-  background-color: #FFFFFF;
-  float: left;
-  line-height: 56px;
-  text-align: left; }
-  .site-nav .menu-icon {
-    display: none; }
+  line-height: 47px;
+  text-align: right;
+  position: absolute;
+  right: 20px;
+  width: auto; }
   .site-nav .page-link {
     color: #7cba01;
     font-size: 18px;
@@ -237,38 +236,40 @@ table {
       margin-left: 10px; }
     .site-nav .page-link:hover {
       text-decoration: none; }
-  @media screen and (max-width: 900px) {
-    .site-nav {
-      position: absolute;
-      top: 7px;
-      left: 15px;
-      text-align: left;
-      width: auto; }
-      .site-nav .page-link:not(:first-child) {
-        margin-left: 0px; }
-      .site-nav .menu-icon {
-        display: block;
-        float: left;
-        width: 36px;
-        height: 42px;
-        line-height: 56px;
-        text-align: center; }
-        .site-nav .menu-icon > svg {
-          width: 22px;
-          height: 22px; }
-      .site-nav .trigger {
-        clear: both;
-        display: none; }
-      .site-nav .trigger.active {
-        display: block;
-        padding-bottom: 5px; }
-      .site-nav .page-link {
-        display: block;
-        padding: 5px 10px; } }
+  .site-nav .page-link:not(:first-child) {
+    margin-left: 0px; }
+  .site-nav .menu-icon {
+    width: 36px;
+    height: 42px;
+    line-height: 47px;
+    text-align: center;
+    margin-left: 10px; }
+    .site-nav .menu-icon > svg {
+      width: 22px;
+      height: 22px;
+      vertical-align: middle; }
+  .site-nav #search-icon:hover {
+    text-decoration: none; }
+  .site-nav .trigger {
+    clear: both;
+    display: none;
+    text-align: left;
+    padding: 5px;
+    background: #FFFFFF;
+    box-shadow: 0 0px 10px 0px rgba(0, 0, 0, 0.25);
+    margin: 10px 0px 0px 0px; }
+  .site-nav .trigger.active {
+    display: block; }
+  .site-nav .page-link {
+    display: block;
+    padding: 5px 10px; }
+  .site-nav .divider {
+    height: 1px;
+    border-top: 1px solid #DDDDDD; }
 
 .social-media-list {
-  float: right;
-  line-height: 56px; }
+  line-height: 47px;
+  padding: 0px 10px; }
 
 .social-media-list a {
   margin-left: 5px; }
@@ -276,59 +277,11 @@ table {
 .social-media-list a:hover {
   text-decoration: none; }
 
-.trigger {
-  float: left; }
-
-.header-bar {
-  height: 150px;
-  top: 56px;
-  position: fixed;
-  width: 100%; }
-  .header-bar .header-tree {
-    height: 150px;
-    position: fixed;
-    text-align: center;
-    width: 100%;
-    z-index: 10; }
-  .header-bar .header-title {
-    height: 45px;
-    position: fixed;
-    text-align: center;
-    top: 108.5px;
-    width: 100%;
-    z-index: 20; }
-  .header-bar .header-desc {
-    height: 20px;
-    position: fixed;
-    text-align: center;
-    width: 100%;
-    z-index: 20; }
-    @media screen and (max-width: 800px) {
-      .header-bar .header-desc {
-        display: none; } }
-  .header-bar .header-desc-inner {
-    margin: 80px auto 0px auto;
-    text-align: left;
-    width: 900px; }
-  .header-bar .header-line {
-    background-color: #929394;
-    height: 1px;
-    position: fixed;
-    top: 130.5px;
-    width: 100%;
-    z-index: 1; }
-  .header-bar .header-spacer {
-    height: 10px;
-    position: fixed;
-    text-align: center;
-    top: 125.5px;
-    width: 100%;
-    z-index: 5; }
-  .header-bar .header-spacer-inner {
-    background-color: #FFFFFF;
-    height: 10px;
-    margin: 0 auto;
-    width: 275px; }
+#header-image {
+  left: 20px;
+  position: absolute;
+  height: calc(100% - 10px);
+  top: 5px; }
 
 /**
  * Site footer
@@ -343,7 +296,7 @@ table {
 .related-img {
   float: left;
   max-width: 20%;
-  padding-bottom: 5px; }
+  padding-bottom: 15px; }
 
 .related-text {
   float: left;
@@ -442,7 +395,7 @@ table {
 .page-content {
   -webkit-transform: translate3d(0, 0, 0);
   background-color: #FFFFFF;
-  margin-top: 216px;
+  margin-top: 57px;
   padding: 0px;
   position: relative;
   z-index: 100; }
@@ -510,28 +463,30 @@ table {
 
 .feed-item {
   display: inline-block;
-  margin: 0px;
-  padding: 0px 5px;
+  margin: 8px;
+  padding: 0px;
   text-align: left;
   vertical-align: top;
-  max-width: 400px; }
+  max-width: 400px;
+  border: 1px solid #ddd;
+  box-shadow: 0 0px 10px 0px rgba(0, 0, 0, 0.25); }
 
 .feed-excerpt {
   display: block;
   display: -webkit-box;
   max-width: 100%;
-  height: 74px;
+  height: 65px;
   font-size: 16px;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
-  margin: 0px 0px 25px 0px; }
+  margin: 0px 0px 10px 0px;
+  padding: 5px 10px 10px 10px; }
 
 .feed-pic {
   display: table;
   margin: 0px auto;
-  min-height: 266px;
   text-align: center; }
 
 .feed-pic a {
@@ -539,13 +494,20 @@ table {
   vertical-align: middle; }
 
 .feed-pic img {
-  max-height: 266px; }
+  max-height: 267px; }
+
+.feed-title {
+  text-align: center;
+  padding: 5px; }
+  .feed-title h3 {
+    margin: 0px; }
 
 .feed-meta {
   font-size: 14px;
   color: #828282;
-  margin: 5px 0px 0px 0px;
-  text-align: center; }
+  margin: 0px;
+  text-align: center;
+  padding: 0px 10px 0px 10px; }
 
 /**
  * Posts
@@ -572,9 +534,13 @@ table {
 .post-content {
   margin-bottom: 30px;
   text-align: left; }
+  .post-content img {
+    cursor: pointer;
+    box-shadow: 0 0px 10px 2px rgba(0, 0, 0, 0.25); }
 
 .featured-image {
-  max-height: 600px; }
+  max-height: 600px;
+  box-shadow: 0 0px 10px 0px rgba(0, 0, 0, 0.25); }
 
 .page-navigation {
   height: 30px;
@@ -659,7 +625,7 @@ table {
 
 #search-bar-input {
   border: 0;
-  font-size: 56px;
+  font-size: 47px;
   border-left: none;
   border-right: none;
   color: #999;
@@ -676,7 +642,7 @@ table {
   list-style: none;
   padding: 0;
   overflow-x: hidden;
-  height: calc(100% - 56px);
+  height: calc(100% - 47px);
   transition: 0.2s ease; }
 
 #search-results.is-hidden {
