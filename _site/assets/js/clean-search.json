@@ -1,5 +1,31 @@
 {
 	"clean_search" : [
+		{	"title":"The Important (Not Urgent) Projects",
+			"image":"/assets/posts/The-important-not-urgent-projects.jpg",
+			"permalink":"/the-important-not-urgent-projects/",
+			"categories": [
+				"blog"
+			],
+			"tags": [
+				"projects"
+			],
+			"excerpt": "<p>We all have those projects that we <em>know</em> we should be working on, but without a deadline or someone relying on you it’s hard to keep it going. Things come up and the easy tasks to put off are the ones without urgency pushing them on.</p>\n\n",
+			"content": "We%20all%20have%20those%20projects%20that%20we%20know%20we%20should%20be%20working%20on,%20but%20without%20a%20deadline%20or%20someone%20relying%20on%20you%20it%E2%80%99s%20hard%20to%20keep%20it%20going.%20Things%20come%20up%20and%20the%20easy%20tasks%20to%20put%20off%20are%20the%20ones%20without%20urgency%20pushing%20them%20on.%0A%0A%0AI%20have%20a%20tendency%20to%20pick%20up%20a%20shiny%20new%20project%20and%20set%20aside%20the%20projects%20that%20move%20me%20toward%20my%20longer%20term%20goals.%20It%E2%80%99s%20easy%20to%20do%20because%20those%20long%20distance%20projects%20have%20no%20(noticeable)%20ramifications%20when%20they%E2%80%99re%20delayed.%20I%20can%20always%20make%20up%20the%20difference%20later%20or%20move%20the%20potential%20launch%20date%20back%20a%20bit%20without%20anyone%20noticing.%0A%0ABut%20that%20undermines%20my%20own%20mission.%20If%20I%20want%20to%20help%20others%20get%20better%20at%20their%20systems%20and%20develop%20a%20more%20meaningful%20life,%20I%20need%20to%20stay%20the%20course%20and%20keep%20working%20on%20the%20projects%20without%20a%20deadline%20and%20that%20have%20a%20bigger%20long-term%20impact.%0A%0AI%20recently%20spent%20some%20time%20reflecting%20on%20these%20projects,%20trying%20to%20find%20time%20for%20them%20%20each%20week.%20I%20wanted%20to%20put%20my%20hands%20to%20work%20instead%20of%20just%20thinking%20or%20talking,%20because%20%E2%80%9CIt%E2%80%99s%20the%20thought%20that%20counts%E2%80%9D%20isn%E2%80%99t%20much%20of%20a%20business%20model.%20I%20thought%20about%20dedicating%20one%20or%20two%20days%20a%20week%20to%20them,%20but%20that%20would%20lead%20to%20slower%20progress%20in%20the%20end.%20What%20I%20really%20need%20to%20do%20is%20check%20something%20off%20for%20these%20projects%20every%20single%20day.%20They%20need%20to%20move%20forward%20every%20day%20no%20matter%20how%20small%20the%20progress%20is.%20Those%20incremental%20gains%20can%20make%20a%20big%20impact%20over%20time.%0A%0AIf%20I%E2%80%99m%20going%20to%20step%20up%20and%20work%20on%20these%20every%20day,%20it%20makes%20sense%20to%20create%20a%20checklist%20of%20the%20projects%20and%20tasks%20I%20need%20to%20complete%20each%20day.%20It%20also%20feeds%20my%20love%20of%20lists.%0A%0A%0A%0AThis%20shows%20up%20on%20my%20OmniFocus%20Dashboard%20every%20day%20and%20I%20go%20through%20it%20top%20to%20bottom%20along%20with%20everything%20else%20I%20do%20in%20the%20day.%20This%20means%20I%20set%20aside%20more%20of%20the%20%E2%80%9Cprocrastiworking%E2%80%9D%20tasks%20I%20tend%20to%20work%20on%20instead%20of%20my%20key%20projects,%20which%20is%20a%20good%20thing.%20There%20are%20some%20short-term%20sacrifices%20I%20make%20to%20do%20this%20but%20I%20don%E2%80%99t%20think%20anyone%20would%20say%20it%E2%80%99s%20not%20worth%20it.%0A%0ATo%20get%20a%20little%20more%20technical%20on%20the%20how,%20here%20are%20the%20settings%20I%20use%20for%20the%20project%20itself%20in%20OmniFocus:%0A%0A%0A%0AThe%20idea%20is%20to%20flag%20the%20project%20to%20add%20it%20to%20my%20Dashboard%20(Due%20and%20Flagged),%20have%20it%20repeat%20every%20day,%20and%20mark%20the%20project%20complete%20after%20all%20tasks%20are%20completed.%0A%0ANow%20I%20have%20a%20daily%20reminder%20and%20checklist%20that%20ensures%20I%20make%20progress%20on%20these%20important%20projects.%20I%20don%E2%80%99t%20care%20how%20small%20it%20is,%20but%20I%20will%20move%20them%20forward.%20It%E2%80%99s%20that%20small%20contribution%20each%20day%20that%20really%20adds%20up.%0A"
+		},
+	
+		{	"title":"And Now...",
+			"image":"/assets/posts/And-Now.jpg",
+			"permalink":"/and-now/",
+			"categories": [
+				"blog"
+			],
+			"tags": [
+				"meta"
+			],
+			"excerpt": "<p>I ran across this idea when reading an article by <a href=\"https://sivers.org/\">Derek Sivers</a>. The premise is simple: creating a frequently updated page to show what the person is currently doing. The concept really resonated with me, and I expanded on it a bit.</p>\n\n",
+			"content": "I%20ran%20across%20this%20idea%20when%20reading%20an%20article%20by%20Derek%20Sivers.%20The%20premise%20is%20simple:%20creating%20a%20frequently%20updated%20page%20to%20show%20what%20the%20person%20is%20currently%20doing.%20The%20concept%20really%20resonated%20with%20me,%20and%20I%20expanded%20on%20it%20a%20bit.%0A%0A%0ASivers%20calls%20it%20a%20Now%20page%20and%20even%20created%20an%20index%20of%20these%20pages.%20I%20started%20looking%20through%20these%20pages%20and%20loved%20a%20lot%20of%20the%20ideas%20I%20found.%20It%20was%20a%20classic%20case%20of%20being%20unable%20to%20make%20up%20my%20mind.%20So%20instead%20of%20picking%20one%20area%20or%20one%20page%20to%20keep%20updated,%20I%20built%20a%20site%20that%20showcases%20where%20my%20time%20goes,%20what%20I%E2%80%99m%20reading,%20what%20I%E2%80%99m%20currently%20developing,%20and%20a%20growing%20portfolio%20of%20my%20work.%0A%0AIn%20the%20future,%20I%E2%80%99d%20like%20to%20add%20an%20Apps%20page%20that%20keeps%20a%20list%20of%20the%20tools%20I%E2%80%99m%20using%20on%20my%20devices,%20but%20that%E2%80%99s%20an%20extensive%20addition,%20so%20it%20needs%20to%20come%20at%20a%20later%20time.%0A%0ASo%20if%20you%E2%80%99re%20curious%20about%20what%20I%E2%80%99m%20up%20to,%20go%20check%20out%20now.joebuhlig.com.%0A"
+		},
+	
 		{	"title":"31: Apps, Websites, and TextExpander Pricing",
 			"image":"/assets/posts/Apps-Websites-and-TextExpander-Pricing.jpg",
 			"permalink":"/31/",
