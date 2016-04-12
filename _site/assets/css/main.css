@@ -396,12 +396,9 @@ table {
   -webkit-transform: translate3d(0, 0, 0);
   background-color: #FFFFFF;
   margin-top: 57px;
-  padding: 0px;
+  padding: 0px 10px;
   position: relative;
   z-index: 100; }
-  @media screen and (max-width: 950px) {
-    .page-content {
-      padding: 0px 10px; } }
 
 .page-heading {
   font-size: 20px; }
@@ -512,9 +509,16 @@ table {
 /**
  * Posts
  */
+.post-wrapper {
+  text-align: center;
+  width: 100%; }
+
 .post {
-  margin: 0px auto;
+  float: left;
   max-width: 900px; }
+
+.sidebar {
+  float: left; }
 
 .post-header {
   margin-bottom: 30px; }

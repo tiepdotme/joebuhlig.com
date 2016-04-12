@@ -274,13 +274,9 @@
     -webkit-transform: translate3d(0,0,0);
     background-color: #FFFFFF;
     margin-top: $site-links-height + 10px;
-    padding: 0px;
+    padding: 0px 10px;
     position: relative;
     z-index: 100;
-
-    @include media-query($content-width + 50px) {
-        padding: 0px 10px;
-    }
 }
 
 .page-heading {
@@ -415,11 +411,17 @@
  * Posts
  */
 
- .post {
-    margin: 0px auto;
+ .post-wrapper {
+    text-align: center;
+    width:100%;
+ }
+ .post{
+    float: left;
     max-width: $content-width;
  }
-
+.sidebar{
+    float: left;
+}
 .post-header {
     margin-bottom: $spacing-unit;
 }

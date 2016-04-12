@@ -14,11 +14,55 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 12 Apr 2016 13:24:18 -0500</lastBuildDate>
+<lastBuildDate>Tue, 12 Apr 2016 15:59:10 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[32: Doing the Task Shuffle]]></title>
+    <link>http://joebuhlig.com/32/</link>
+    <pubDate>Wed, 13 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[ideas]]></category>
+
+    <category><![CDATA[task-management]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/32/</guid>
+    <description>
+        <![CDATA[Here’s an update on the new TextExpander pricing and a deep dive into why I wrote a script that shuffles my tasks. That’s right. There’s a big benefit to randomizing a task list.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Doing-the-Task-Shuffle.jpg" /><p>Here’s an update on the new TextExpander pricing and a deep dive into why I wrote a script that shuffles my tasks. That’s right. There’s a big benefit to randomizing a task list.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://smilesoftware.com/textexpander/entry/textexpander-adjustments">TextExpander Adjustments - Smile</a></p>
+
+<p><a href="https://sivers.org/now">What I’m doing now - Derek Sivers</a></p>
+
+<p><a href="http://now.joebuhlig.com">Now - Joe Buhlig</a></p>
+
+<p><a href="https://www.relay.fm/mpu/314">Mac Power Users #314: Trials and Tribulations of Katie’s iPad - Relay FM</a></p>
+
+<p><a href="https://github.com/joebuhlig/OFScripts/tree/master/Task%20Shuffle">OFScripts - Task Shuffle AppleScript</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[The Important (Not Urgent) Projects]]></title>
@@ -997,86 +1041,6 @@ end hazelProcessFile</pre></noscript>
 $("table").tablesorter();
 </script>
 
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Behind The Scenes]]></title>
-    <link>http://joebuhlig.com/behind-the-scenes/</link>
-    <pubDate>Fri, 11 Mar 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[setups]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/behind-the-scenes/</guid>
-    <description>
-        <![CDATA[Almost daily, I get an email from someone interested in how I have this site set up. “It’s not WordPress and Disqus. What are you using?” We can talk about that, but why not take it a few steps further? Let’s go from domain registrar to the reader.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Behind-the-Scenes.jpg" /><p>Almost daily, I get an email from someone interested in how I have this site set up. “It’s not WordPress and Disqus. What are you using?” We can talk about that, but why not take it a few steps further? Let’s go from domain registrar to the reader.
-<!--more--></p>
-
-<h2 id="domain-name">Domain Name</h2>
-
-<p>It all starts with the domain name and I use <a href="https://hover.com/w1JR5qkh">Hover</a> any time I’m buying a new domain. They handle the registration and make it easy to create any DNS records I need. I want a single place to manage my growing list of domains and since they have a valet transfer service and free WHOIS privacy, it’s a logical choice.</p>
-
-<h2 id="hosting">Hosting</h2>
-
-<p>All of my website hosting is done through <a href="https://m.do.co/c/b0f9f06b6067">Digital Ocean</a>. With their one-click installations, cheap prices, and ease of use, it’s hard to go with anyone else. I use them for clients when I can and have had a lot of great experiences. I used their one-click install for Discourse when I set up the <a href="http://discussion.joebuhlig.com">discussion site</a> and had it running in about 15 minutes. I would never have been able to do that without their services.</p>
-
-<p>Outside of the website hosting, I also need to host the files used for <a href="http://joebuhlig.com/whaddyaknowjoe/"><em>Whaddya Know Joe</em></a>. For that I use <a href="https://www.libsyn.com/">Libsyn</a>. When I started, I knew nothing about the inner workings of podcasting. I did a lot of research and picked up a lot from the guys at <a href="http://5by5.tv/">5by5</a> and <a href="https://www.relay.fm/">Relay</a>. With their guidance, I landed on Libsyn. I upload the file to them, they give me a link to it, and I get a bunch of stats. But the important part is that they keep me from eating up my storage capacity at Digital Ocean.</p>
-
-<h2 id="email">Email</h2>
-
-<p>You don’t last long in this world without email. There’s no surprise here: I’m using Google Apps for my email and calendar. To be honest, I’m not sure what other legitimate options there are. Google works with everything and makes it all really easy.</p>
-
-<p>But for my <a href="http://joebuhlig.com/newsletter/">newsletter</a>, I’m using <a href="http://eepurl.com/bSDEhv">Mailchimp</a>. I created an account with them when I started this site and I’ve always been impressed with their ease of use and integrations. It was a simple plugin when I was on WordPress and now it’s a custom form with other connections via API. It doesn’t seem to matter what route I go or how much I progress, they grow with me.</p>
-
-<h2 id="analytics">Analytics</h2>
-
-<p>I’ve been developing a sensitivity to privacy and the handling of reader information. As a reader, I want my information to be kept in a silo, not spread around for others to use. If I feel that way, I know there are some of you that feel the same. So I moved from the standard of Google Analytics to <a href="http://piwik.org/">Piwik</a>. They allow me to keep all the data collected in a database that is accessible only to myself. It goes nowhere.</p>
-
-<h2 id="home">Home</h2>
-
-<p>The domain is registered, hosting is in place, and I have email working. Let’s move on to the meat of the whole thing: the blog. It’s a static site generated with <a href="http://jekyllrb.com/">Jekyll</a>. I write my articles in Markdown and run them through the generator to get a static html webpage that is pushed to the Digital Ocean server. That webpage is what you see when you visit. It’s not creating the page on the fly and then displaying it. That’s why it loads so fast.</p>
-
-<p>The theme I’m using is a custom build that I’m continually tweaking. The web continues to become more and more picture-heavy which is a challenge for developers. Text has always rendered faster and more efficiently than images so I use lazy-loading on the images to keep the speed up. That’s just one one example of altering and adjusting Jekyll to fit my design.</p>
-
-<p>Jekyll users will likely notice that I’m running two separate blogs: one for articles and another for the podcast. I use categories and built a home page that is specific to each one. That makes it possible to then generate an <a href="http://discussion.joebuhlig.com/t/variety-of-rss-feeds/183?u=joebuhlig">RSS feed for each</a>, but also pull them back together into one feed.</p>
-
-<p>The most common way to deploy a Jekyll site is with FTP. You do a manual copy-paste of the files generated by Jekyll and you’re good to go. That works, but it’s not very clean and I don’t like the idea of opening another application. It also doesn’t allow me to easily schedule posts. So for deployments, I set up <a href="http://capistranorb.com/">Capistrano</a>. I use it on other websites and have always had great success with it. Once set up, I can simply run <code class="highlighter-rouge">cap production deploy</code> and in about 10 seconds my site has been deployed.</p>
-
-<p>I really wanted a way to schedule posts. This is one of the more complicated tasks in Jekyll since most users publish the post immediately. I tend to post on a schedule and want posts to come out at the same time every week. I also want the flexibility that scheduling provides. So I set up a cron job on the server that generates the site at five o’clock every morning. All I need to do is set the date of the post for the day I want it to go live. Jekyll won’t build the webpage for that post until that day, which means I can deploy it with a future date and it will remain unpublished until then.</p>
-
-<h2 id="tools">Tools</h2>
-
-<p>I run the <a href="https://tools.joebuhlig.com">Tools site</a> as a subdomain and it consists of a custom Rails/Postgres app that I maintain. I couldn’t find a system I liked for selling my book so I built it. Again, I use Capistrano for deployments to a Digital Ocean server to keep everything working in the same manner.</p>
-
-<p>For the payment gateway, I use <a href="https://www.braintreepayments.com">Braintree</a>. They offer the first $50,000 in transactions free of any fees. And with an extensive number of Rails examples on GitHub, I felt fairly confident in my abilities to build on top of it.</p>
-
-<p>Another step in ecommerce is email. It’s a big part that can’t be shortchanged, so I went with <a href="http://mandrill.com">Mandrill</a>. Mandrill is run by Mailchimp and they have a great reputation, so it made sense to connect the two. Any email that comes from the Tools site is run through them.</p>
-
-<p>Because the Tools site is already wired for commerce and emails, I built a custom referral program that allows affiliates to get paid for any purchases that come from a custom link.</p>
-
-<p>Finally, there is a section of the Tools site that is hidden from the general public. I have an admin section that allows me to create invoices for my clients. I had one in particular that wanted to pay me via credit card so I built this solution to enable it. I can create a payment with a designated url to share with my client. They pay their invoice from that link and it closes the loop (emails included) with both of us.</p>
-
-<h2 id="discussion">Discussion</h2>
-
-<p>This is the most recent addition to the site. At the bottom of each post is a section for comments. It’s an embedded topic from the <a href="http://discussion.joebuhlig.com">Discussion site</a>. This subdomain is an instance of Discourse that sits behind the comment piece. It does a lot more than that, but for the sake of this post we’ll stop there.</p>
-
-<p>To embed the comments on each post requires the addition of code at the bottom of each webpage. I do a lot of testing on my local machine before I deploy, but I don’t want to add the code unless it is being pushed to production. To avoid the randomly creating topic threads or errors whenever I test, I created a block at the bottom of my post layout that only adds the embed code if I add <code class="highlighter-rouge">JEKYLL_ENV=production</code> when running <code class="highlighter-rouge">jekyll build</code>.</p>
-
-<h2 id="summary">Summary</h2>
-
-<p>I know there’s a lot going on here and if you don’t have a technical background there’s much of this that probably doesn’t make sense. Don’t worry. You don’t need to have this level of complexity in a website to have it functioning well. This is the path I use because I like the extra control and flexibility.</p>
-
-<p>If you do have a technical background, you might notice one or more services here that might change in the near future (I’m looking at you, Mandrill). There are always changes to pricing and features that lead to potential switches, but for now I’m really happy with where things are.</p>
 ]]>
     </content:encoded>
 </item>
