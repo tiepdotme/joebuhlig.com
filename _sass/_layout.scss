@@ -274,7 +274,7 @@
     -webkit-transform: translate3d(0,0,0);
     background-color: #FFFFFF;
     margin-top: $site-links-height + 10px;
-    padding: 0px 10px;
+    padding: 0px;
     position: relative;
     z-index: 100;
 }
@@ -411,16 +411,47 @@
  * Posts
  */
 
- .post-wrapper {
-    text-align: center;
+.post-wrapper {
     width:100%;
- }
- .post{
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.post{
     float: left;
-    max-width: $content-width;
- }
+    max-width: 840px;
+    width: 70%;
+}
+.article{
+    padding: 0px 10px;
+}
 .sidebar{
-    float: left;
+    float: right;
+    max-width: 360px;
+    width: 30%;
+    h2{
+        font-size: 14px;
+        color: #ffffff;
+        margin-bottom: 10px;
+        background-color: $brand-color;
+        padding: 3px 0px;
+    }
+    p{
+        font-size: 12px;
+    }
+}
+.sidebar-segment{
+    padding: 0px 10px;
+}
+@media only screen and (max-width: 767px){
+    .post{
+        float: none;
+        width: 100%;
+    }
+    .sidebar{
+        float: none;
+        width: 100%;
+        max-width: 100%;
+    }
 }
 .post-header {
     margin-bottom: $spacing-unit;
@@ -431,7 +462,7 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
-
+    text-align: center;
     @include media-query($on-laptop) {
         font-size: 36px;
     }
@@ -444,6 +475,7 @@
 .post-content {
     margin-bottom: $spacing-unit;
     text-align: left;
+    padding: 0px 10px;
 
     img {
         cursor: pointer;

@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Tue, 12 Apr 2016 15:59:10 -0500</lastBuildDate>
+<lastBuildDate>Wed, 13 Apr 2016 15:57:12 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -44,7 +44,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/32/</link>
     <comments>http://joebuhlig.com/32/#comments</comments>
     <pubDate>Wed, 13 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -119,7 +119,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/31/</link>
     <comments>http://joebuhlig.com/31/#comments</comments>
     <pubDate>Wed, 06 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -198,7 +198,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/30/</link>
     <comments>http://joebuhlig.com/30/#comments</comments>
     <pubDate>Wed, 30 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -277,7 +277,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/29/</link>
     <comments>http://joebuhlig.com/29/#comments</comments>
     <pubDate>Wed, 23 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -350,7 +350,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/28/</link>
     <comments>http://joebuhlig.com/28/#comments</comments>
     <pubDate>Wed, 16 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -407,7 +407,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/27/</link>
     <comments>http://joebuhlig.com/27/#comments</comments>
     <pubDate>Wed, 09 Mar 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -482,7 +482,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/26/</link>
     <comments>http://joebuhlig.com/26/#comments</comments>
     <pubDate>Wed, 02 Mar 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -577,7 +577,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/25/</link>
     <comments>http://joebuhlig.com/25/#comments</comments>
     <pubDate>Wed, 24 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -656,7 +656,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/24/</link>
     <comments>http://joebuhlig.com/24/#comments</comments>
     <pubDate>Wed, 17 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -735,7 +735,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/23/</link>
     <comments>http://joebuhlig.com/23/#comments</comments>
     <pubDate>Wed, 10 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -822,7 +822,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/22/</link>
     <comments>http://joebuhlig.com/22/#comments</comments>
     <pubDate>Tue, 02 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -901,7 +901,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/21/</link>
     <comments>http://joebuhlig.com/21/#comments</comments>
     <pubDate>Wed, 27 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -1024,7 +1024,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/20/</link>
     <comments>http://joebuhlig.com/20/#comments</comments>
     <pubDate>Wed, 20 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -1115,7 +1115,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/19/</link>
     <comments>http://joebuhlig.com/19/#comments</comments>
     <pubDate>Wed, 13 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -1192,7 +1192,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/18/</link>
     <comments>http://joebuhlig.com/18/#comments</comments>
     <pubDate>Wed, 06 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -1279,7 +1279,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/17/</link>
     <comments>http://joebuhlig.com/17/#comments</comments>
     <pubDate>Wed, 23 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -1336,7 +1336,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/16/</link>
     <comments>http://joebuhlig.com/16/#comments</comments>
     <pubDate>Wed, 16 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -1425,7 +1425,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/15/</link>
     <comments>http://joebuhlig.com/15/#comments</comments>
     <pubDate>Wed, 09 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -1490,7 +1490,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/14/</link>
     <comments>http://joebuhlig.com/14/#comments</comments>
     <pubDate>Wed, 02 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -1553,7 +1553,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/13/</link>
     <comments>http://joebuhlig.com/13/#comments</comments>
     <pubDate>Wed, 18 Nov 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -1622,7 +1622,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/12/</link>
     <comments>http://joebuhlig.com/12/#comments</comments>
     <pubDate>Tue, 10 Nov 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -1693,7 +1693,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/11/</link>
     <comments>http://joebuhlig.com/11/#comments</comments>
     <pubDate>Tue, 27 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -1776,7 +1776,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/10/</link>
     <comments>http://joebuhlig.com/10/#comments</comments>
     <pubDate>Tue, 20 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -1833,7 +1833,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <link>http://joebuhlig.com/9/</link>
     <comments>http://joebuhlig.com/9/#comments</comments>
     <pubDate>Tue, 13 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -1896,7 +1896,7 @@ Use the hashtag #question to ask a question.</p>
     <link>http://joebuhlig.com/8/</link>
     <comments>http://joebuhlig.com/8/#comments</comments>
     <pubDate>Tue, 06 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -1971,7 +1971,7 @@ Use the hashtag #question to ask a question.</p>
     <link>http://joebuhlig.com/7/</link>
     <comments>http://joebuhlig.com/7/#comments</comments>
     <pubDate>Tue, 29 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -2070,7 +2070,7 @@ Use the hashtag #question to ask a question.</p>
     <link>http://joebuhlig.com/6/</link>
     <comments>http://joebuhlig.com/6/#comments</comments>
     <pubDate>Tue, 22 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -2155,7 +2155,7 @@ Use the hashtag #question to ask a question.</p>
     <link>http://joebuhlig.com/5/</link>
     <comments>http://joebuhlig.com/5/#comments</comments>
     <pubDate>Tue, 15 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -2212,7 +2212,7 @@ Use the hashtag #question to ask a question.</p>
     <link>http://joebuhlig.com/4/</link>
     <comments>http://joebuhlig.com/4/#comments</comments>
     <pubDate>Tue, 08 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -2285,7 +2285,7 @@ Use the hashtag #question to ask a question.</p>
     <link>http://joebuhlig.com/3/</link>
     <comments>http://joebuhlig.com/3/#comments</comments>
     <pubDate>Tue, 01 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -2344,7 +2344,7 @@ Use the hashtag #question to ask a question.</p>
     <link>http://joebuhlig.com/2/</link>
     <comments>http://joebuhlig.com/2/#comments</comments>
     <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -2409,7 +2409,7 @@ Use the hashtag #question to ask a question.</p>
     <link>http://joebuhlig.com/1/</link>
     <comments>http://joebuhlig.com/1/#comments</comments>
     <pubDate>Sun, 30 Aug 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 

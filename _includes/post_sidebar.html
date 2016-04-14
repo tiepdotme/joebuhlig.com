@@ -1,7 +1,17 @@
+{% assign author = site.data.authors[page.author] %}
 <div class="sidebar">
-	<div class="callout newsletter-signup">
-		<h2>Want more?</h2>
+	<div class="sidebar-segment newsletter-signup">
+		<h2>Newsletter</h2>
 		<p>If you'd like to get more tips on productivity and life with technology, you can join my free email newsletter.</p>
 		{% include newsletter_form.html %}
 	</div>
+	{% if author %}
+	<div class="sidebar-segment newsletter-signup">
+		<h2>Author</h2>
+		<p>{{ author.name }}</p>
+		<p>{{ author.web }}</p>
+		<p>{{ author.twitter }}</p>
+		<p>{{ author.description }}</p>
+	</div>
+	{% endif %}
 </div>
