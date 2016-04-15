@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"32: Doing the Task Shuffle",
+			"image":"/assets/posts/Doing-the-Task-Shuffle.jpg",
+			"permalink":"/32/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"ideas",
+				"task-management"
+			],
+			"excerpt": "<p>Here’s an update on the new TextExpander pricing and a deep dive into why I wrote a script that shuffles my tasks. That’s right. There’s a big benefit to randomizing a task list.</p>\n\n",
+			"content": "Here%E2%80%99s%20an%20update%20on%20the%20new%20TextExpander%20pricing%20and%20a%20deep%20dive%20into%20why%20I%20wrote%20a%20script%20that%20shuffles%20my%20tasks.%20That%E2%80%99s%20right.%20There%E2%80%99s%20a%20big%20benefit%20to%20randomizing%20a%20task%20list.%0A%0A%0ABecome%20a%20Patron%0A%0ATextExpander%20Adjustments%20-%20Smile%0A%0AWhat%20I%E2%80%99m%20doing%20now%20-%20Derek%20Sivers%0A%0ANow%20-%20Joe%20Buhlig%0A%0AMac%20Power%20Users%20%23314:%20Trials%20and%20Tribulations%20of%20Katie%E2%80%99s%20iPad%20-%20Relay%20FM%0A%0AOFScripts%20-%20Task%20Shuffle%20AppleScript%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"The Important (Not Urgent) Projects",
 			"image":"/assets/posts/The-important-not-urgent-projects.jpg",
 			"permalink":"/the-important-not-urgent-projects/",
