@@ -14,11 +14,119 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
+<<<<<<< HEAD
 <lastBuildDate>Wed, 13 Apr 2016 15:57:12 -0500</lastBuildDate>
+=======
+<lastBuildDate>Wed, 20 Apr 2016 11:42:40 -0500</lastBuildDate>
+>>>>>>> master
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[The Flawed Foundation of Diets]]></title>
+    <link>http://joebuhlig.com/the-flawed-foundation-of-diets/</link>
+    <pubDate>Mon, 18 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[food]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/the-flawed-foundation-of-diets/</guid>
+    <description>
+        <![CDATA[After working on multiple sides of agriculture and seeing how the back-end of the food industry operates, I’ve come to the realization that there is some really bad information out there about agriculture and how we decide what to eat.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/the-flawed-foundation-of-diets.jpg" /><p>After working on multiple sides of agriculture and seeing how the back-end of the food industry operates, I’ve come to the realization that there is some really bad information out there about agriculture and how we decide what to eat.
+<!--more--></p>
+
+<p>Most of our decisions about what to eat are adopted from a huge list of diets. There are a lot of cultural diets, but anymore most Western diets are put together with a purpose in mind. Some of them help us put on muscle and some help lower cholesterol levels. There’s even a <a href="http://www.tofugu.com/japan/japan-long-breath-diet/">breathing diet</a> to help you lose weight. No matter the goal, diets face an underlying flaw in their design.</p>
+
+<p>When you break it down, a diet is simply a recommendation on how to achieve health through the food that you consume. It’s a way of eating that provides you with a long, energetic life. But the problem we face today is the plethora of diets out there all claiming to be the best way to eat. A lot of these diets contradict each other and leave us wondering which ones are worthwhile. What’s worse is the regular discovery of new scientific evidence revealing the fact that some diets actually make us <em>less</em> healthy than we were originally.</p>
+
+<p>Why is that? Let’s go back to the premise of what a diet is: a recommendation on how to eat. In order to make an honest and accurate recommendation we need information and experience with the thing we are recommending. Generally speaking, you wouldn’t ask a web developer to work on your car. Most developers don’t have the deep knowledge about cars that they would need to find the issue with your motor. The food industry is much the same.</p>
+
+<p>The vast majority of diets are based on research done by scientists. We run across diets created by individuals once in a while but those typically have a base derived from the research done by scientists. We learn that antioxidants can help fight or prevent cancer, so we put together a recommendation on how to get more of them into our daily food intake. We even go to the extreme of adding them into products where they don’t naturally exist so that we can consume even more of them. But that mindset can give us <a href="http://www.scientificamerican.com/article/antioxidants-may-make-cancer-worse/">alarming results</a>.</p>
+
+<p>Any time we develop new research that shows a way to prevent or fight a disease or that shows the health benefits of a specific nutrient, we blow it out of proportion. You would think that with all the research being done and the experience we have with eating that we would know how to eat healthfully. Why can’t we get this right?</p>
+
+<p>In order to make a perfect recommendation, you have to know <em>everything</em> about the thing you’re recommending. If you don’t know everything about it, there will inevitably be flaws in the rationale behind the recommendation. Sometimes those flaws are no big deal but sometimes they have unexpected results.</p>
+
+<p>Say I recommend a wireless router to a friend. It’s one I’ve used for years and have a great experience with. My friend trusts me so he buys the router. He sets it up and has nothing but issues with it. I come over and give it a try with no luck. After digging into it, I find out that this router doesn’t play nice with his specific modem. I made what I thought was a great recommendation but it turned out to be a nightmare for my friend. If had known about the pairing issues of that combination, I wouldn’t have recommended it. I didn’t know <em>everything</em> about the router even though I thought it was excellent.</p>
+
+<p>We have a lot of data about the human body. We understand things about it that our great-grandparents could only speculate about. And that means we have a ton of information at our disposal that we can use to build the perfect recommendation on how to eat. But remember what I said earlier:</p>
+
+<blockquote>
+  <p>In order to make a perfect recommendation, you have to know <em>everything</em> about the thing you’re recommending.</p>
+</blockquote>
+
+<p>In order to make the perfect diet, we have to know <em>everything</em> about the human body. We have to know about every nutrient that exists, how they work in combinations, and what our digestive system does with each one. We also have to understand how we break those nutrients down and how they help brain function. We need to know how our nutritional needs change as we age and develop. But it turns out there’s a lot we don’t know about ourselves:</p>
+
+<p><a href="http://www.businessinsider.com/what-we-know-about-the-brain-2015-5">What we know about the brain</a></p>
+
+<p><a href="https://www.newscientist.com/round-up/ten-mysteries-of-you">Ten things we don’t understand about humans</a></p>
+
+<p><a href="http://mentalfloss.com/article/65435/scientists-discover-new-part-human-body">Scientists Discover a New Part of the Human Body</a></p>
+
+<p><a href="https://www.sciencenews.org/article/body%E2%80%99s-bacteria-don%E2%80%99t-outnumber-human-cells-so-much-after-all">Body’s bacteria don’t outnumber human cells so much after all</a></p>
+
+<p>The other side of this is that we don’t even understand the food itself well enough to know how it fits into our own nutrition. Take the tomato for example. It’s consumed all over the world and yet we know very little about <a href="http://www.nytimes.com/2012/05/31/science/the-tomato-ripe-juicy-and-bursting-with-genes.html">why it has more genes</a> than we do. If we can’t explain everything about our own bodies and the food that we eat, how can we expect anyone to develop a diet that completely meets our nutritional needs?</p>
+
+<p>It simply isn’t possible to develop a diet that is completely accurate and 100% reliable. We don’t know enough to do that. Yes, we can put together good guesses and see great results, but we often don’t see the long-term effects for many years and by that time we may have learned that it was actually a really bad idea all along.</p>
+
+<p>Scientists are doing an excellent job of learning about us and the food we eat. We’ve been able to create diets for people struggling with diseases and help patients extend their lives and have a higher quality of life at the same time. There’s a lot of value in these continued attempts to make the best recommendations we can. And the more we learn about ourselves, the better these recommendations get. But we will very likely never have the ability to build the perfect diet and we will never be able to manufacture the perfect food.</p>
+
+<p>At the end of the day, we simply need to keep in mind that the diets we choose to follow are never ideal. Scientists are great at giving us information to follow, but we need to remember the basics when we decide what to eat.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Evernote vs. Raw Files]]></title>
+    <link>http://joebuhlig.com/evernote-vs-raw-files/</link>
+    <pubDate>Fri, 15 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[evernote]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/evernote-vs-raw-files/</guid>
+    <description>
+        <![CDATA[Ever since I published an article about leaving Evernote I’ve received numerous recommendations for alternatives. It seems there is an endless supply of catchall buckets that you can drop information into.  I appreciate all the ideas, but it isn’t the point.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Evernote-vs-Raw-Files.jpg" /><p>Ever since I published an <a href="http://joebuhlig.com/an-alternative-to-evernote/">article about leaving Evernote</a> I’ve received numerous recommendations for alternatives. It seems there is an endless supply of catchall buckets that you can drop information into.  I appreciate all the ideas, but it isn’t the point.
+<!--more--></p>
+
+<p>The majority of my complaints with Evernote revolve around portability and a proprietary format. It’s not an easy task to work with the notes in other applications and it’s not trivial to take the text out of the note, work on it, and bring it back in on iOS. But there are a lot of the details that have me avoiding Evernote and its alternatives.</p>
+
+<h2 id="formatting-text">Formatting Text</h2>
+
+<p>I just don’t do it. 95% of all my writing is in markdown. I’m even starting to do this when I take handwritten notes. The only time I don’t use markdown is when I’m creating a Pages document for a client, which is rare anymore. So I never have a need to create rich text in any way. That mostly stems from my <a href="http://joebuhlig.com/choosing-the-right-medium/">medium of sharing words</a>: the web. Everything eventually ends up in HTML and the words I type that <em>don’t</em> end up on the web are short-form or for personal reference. In either case, I don’t have the need or the time to make something bold or change a font size. To me, it has just as much impact in its natural state as it does formatted.</p>
+
+<h2 id="checklists">Checklists</h2>
+
+<p>I used to keep all my checklists in Evernote. I even found a way to do <a href="http://joebuhlig.com/recurring-checklists-in-evernote/">recurring checklists in Evernote</a>. But that was before I moved <em>every</em> task item into OmniFocus. My Evernote lists worked great at the time, but I prefer the consolidation of every action item in one place and all reference material in a separate place.</p>
+
+<h2 id="pictures-and-files">Pictures and Files</h2>
+
+<p>One major benefit to using Evernote is the ability to keep pictures and files right alongside of the text that you’re storing. It’s an awesome feature, but it comes with a lot of downsides. What if I need to edit the picture or file? It’s rare that I don’t make changes to them in some way. It might be annotations or adding lines to a spreadsheet but if I want to do anything with them I need to make sure I’m on my Mac. It works pretty well there, but the moment you try this on iOS it gets really messy, really fast. The extra work and time involved in pulling it off is not for me. Keeping everything in a single folder in DropBox is much more compatible with the tools I prefer to use.</p>
+
+<h2 id="storage-style">Storage Style</h2>
+
+<p>I’m grateful for all the suggestions on alternatives to Evernote. I now know there are a lot of great ones out there. But I think I’ve developed a new (old?) information storage preference. I enjoy the flexibility of working with standard file types themselves. They’re easy to use and predict, and my use of them is not dependent on the features of a single company or application. If I want to make edits to my information, I don’t have to use a specific app to do it. And I can move from one system to another with little to no overhead and migration steps. I’m free from a single ecosystem; that’s what I like about it.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[The Important (Not Urgent) Projects]]></title>

@@ -14,7 +14,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
+<<<<<<< HEAD
 <lastBuildDate>Wed, 13 Apr 2016 15:57:12 -0500</lastBuildDate>
+=======
+<lastBuildDate>Wed, 20 Apr 2016 11:42:40 -0500</lastBuildDate>
+>>>>>>> master
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -40,11 +44,161 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </itunes:category>
 
   <item>
+<<<<<<< HEAD
+=======
+    <title>33: Analog vs. Digital with Mike Schmitz</title>
+    <link>http://joebuhlig.com/33/</link>
+    <comments>http://joebuhlig.com/33/#comments</comments>
+    <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[analog]]></category>
+
+    <category><![CDATA[digital]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/33/</guid>
+    <description>
+        <![CDATA[Mike Schmitz joins me this week to talk through the use of analog tools and how that can help us understand when and where to use the appropriate digital tool.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Mike Schmitz joins me this week to talk through the use of analog tools and how that can help us understand when and where to use the appropriate digital tool.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://www.asianefficiency.com/author/mikeschmitz/">Mike Schmitz - Asian Efficiency</a></p>
+
+<p><a href="http://www.asianefficiency.com/podcast/">The Productivity Show</a></p>
+
+<p><a href="http://thesweetsetup.com/">The Sweet Setup</a></p>
+
+<p><a href="http://mikeschmitz.me/">mikeschmitz.me</a></p>
+
+<p><a href="http://www.amazon.com/Thou-Shalt-Hustle-Pushing-Average-ebook/dp/B00SZDI876?tag=joebuhlig-20">Thou Shalt Hustle</a></p>
+
+<p><a href="http://joebuhlig.com/the-important-not-urgent-projects/">The Important (Not Urgent) Projects</a></p>
+
+<p><a href="http://www.asianefficiency.com/podcast/057-joe-buhlig/">TPS57: Advanced OmniFocus Setup + Workflow w/ Joe Buhlig</a></p>
+
+<p><a href="http://www.asianefficiency.com/podcast/011-buhlig/">TPS11: Joe Buhlig</a></p>
+
+<p><a href="https://learnomnifocus.com/tutorials/2016-01-28-omnifocus-workflows-with-shawn-blanc/">OmniFocus Workflows: Shawn Blanc - Learn OmniFocus</a></p>
+
+<p><a href="http://discussion.joebuhlig.com/t/22-addiction-to-numbers/177/2?u=joebuhlig">Discussion about daily planning</a></p>
+
+<p><a href="http://patrickrhone.com/dashplus/">The Dash/Plus System</a></p>
+
+<p><a href="http://pss.sagepub.com/content/early/2014/04/22/0956797614524581.abstract">The Pen Is Mightier Than the Keyboard</a></p>
+
+<p><a href="http://www.amazon.com/Moleskine-Evernote-Notebook-Pocket-Notebooks/dp/886613760X?tag=joebuhlig-20">Moleskine Evernote Smart Notebook</a></p>
+
+<p><a href="http://rohdesign.com/sketchnotes/">Sketchnotes</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/013383171X/therohdesignwebs?tag=joebuhlig-20">The Sketchnote Workbook</a></p>
+
+<p><a href="http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253?tag=joebuhlig-20">Steal Like an Artist - Austin Kleon</a></p>
+
+<p><a href="http://www.amazon.com/Show-Your-Work-Creativity-Discovered/dp/076117897X?tag=joebuhlig-20">Show Your Work! - Austin Kleon</a></p>
+
+<p><a href="https://www.youtube.com/watch">Choosing Tools for GTD® - YouTube</a></p>
+
+<p><a href="http://www.asianefficiency.com/systems/think-like-a-geek/">How to Think Like a Geek</a></p>
+
+<p><a href="https://www.relay.fm/cortex/26">Cortex #26: Pick your Poison</a></p>
+
+<p><a href="https://discourse.omnigroup.com/t/automation-in-omnifocus-2-14-now-in-testflight/23985">Automation in OmniFocus 2.14 (now in TestFlight)</a></p>
+
+<p><a href="https://twitter.com/bobbleheadjoe">@bobbleheadjoe</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ033.mp3" length="37021804" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Mike Schmitz joins me this week to talk through the use of analog tools and how that can help us understand when and where to use the appropriate digital tool.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Mike Schmitz joins me this week to talk through the use of analog tools and how that can help us understand when and where to use the appropriate digital tool.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://www.asianefficiency.com/author/mikeschmitz/">Mike Schmitz - Asian Efficiency</a></p>
+
+<p><a href="http://www.asianefficiency.com/podcast/">The Productivity Show</a></p>
+
+<p><a href="http://thesweetsetup.com/">The Sweet Setup</a></p>
+
+<p><a href="http://mikeschmitz.me/">mikeschmitz.me</a></p>
+
+<p><a href="http://www.amazon.com/Thou-Shalt-Hustle-Pushing-Average-ebook/dp/B00SZDI876?tag=joebuhlig-20">Thou Shalt Hustle</a></p>
+
+<p><a href="http://joebuhlig.com/the-important-not-urgent-projects/">The Important (Not Urgent) Projects</a></p>
+
+<p><a href="http://www.asianefficiency.com/podcast/057-joe-buhlig/">TPS57: Advanced OmniFocus Setup + Workflow w/ Joe Buhlig</a></p>
+
+<p><a href="http://www.asianefficiency.com/podcast/011-buhlig/">TPS11: Joe Buhlig</a></p>
+
+<p><a href="https://learnomnifocus.com/tutorials/2016-01-28-omnifocus-workflows-with-shawn-blanc/">OmniFocus Workflows: Shawn Blanc - Learn OmniFocus</a></p>
+
+<p><a href="http://discussion.joebuhlig.com/t/22-addiction-to-numbers/177/2?u=joebuhlig">Discussion about daily planning</a></p>
+
+<p><a href="http://patrickrhone.com/dashplus/">The Dash/Plus System</a></p>
+
+<p><a href="http://pss.sagepub.com/content/early/2014/04/22/0956797614524581.abstract">The Pen Is Mightier Than the Keyboard</a></p>
+
+<p><a href="http://www.amazon.com/Moleskine-Evernote-Notebook-Pocket-Notebooks/dp/886613760X?tag=joebuhlig-20">Moleskine Evernote Smart Notebook</a></p>
+
+<p><a href="http://rohdesign.com/sketchnotes/">Sketchnotes</a></p>
+
+<p><a href="http://www.amazon.com/gp/product/013383171X/therohdesignwebs?tag=joebuhlig-20">The Sketchnote Workbook</a></p>
+
+<p><a href="http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253?tag=joebuhlig-20">Steal Like an Artist - Austin Kleon</a></p>
+
+<p><a href="http://www.amazon.com/Show-Your-Work-Creativity-Discovered/dp/076117897X?tag=joebuhlig-20">Show Your Work! - Austin Kleon</a></p>
+
+<p><a href="https://www.youtube.com/watch">Choosing Tools for GTD® - YouTube</a></p>
+
+<p><a href="http://www.asianefficiency.com/systems/think-like-a-geek/">How to Think Like a Geek</a></p>
+
+<p><a href="https://www.relay.fm/cortex/26">Cortex #26: Pick your Poison</a></p>
+
+<p><a href="https://discourse.omnigroup.com/t/automation-in-omnifocus-2-14-now-in-testflight/23985">Automation in OmniFocus 2.14 (now in TestFlight)</a></p>
+
+<p><a href="https://twitter.com/bobbleheadjoe">@bobbleheadjoe</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>38:22</itunes:duration>
+  </item>
+
+  <item>
+>>>>>>> master
     <title>32: Doing the Task Shuffle</title>
     <link>http://joebuhlig.com/32/</link>
     <comments>http://joebuhlig.com/32/#comments</comments>
     <pubDate>Wed, 13 Apr 2016 00:00:00 -0500</pubDate>
+<<<<<<< HEAD
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+=======
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+>>>>>>> master
 
     <category><![CDATA[podcast]]></category>
 
