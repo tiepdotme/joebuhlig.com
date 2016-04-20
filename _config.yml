@@ -5,7 +5,7 @@ name: Joe Buhlig
 email: joe@joebuhlig.com
 description: > # this means to ignore newlines until "baseurl:"
   leverage the digital and welcome real life
-author: Joe Buhlig
+author: joe_buhlig
 copyright: Copyright © Joe Buhlig 2016 • All Rights Reserved
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://joebuhlig.com" # the base hostname & protocol for your site
@@ -57,7 +57,7 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-      author: "Joe Buhlig"
+      author: joe_buhlig
 
 # ------------------------------------------------------------------------
 # RSS Settings

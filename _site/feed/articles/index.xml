@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 20 Apr 2016 11:42:40 -0500</lastBuildDate>
+<lastBuildDate>Wed, 20 Apr 2016 16:25:58 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -24,7 +24,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <title><![CDATA[The Flawed Foundation of Diets]]></title>
     <link>http://joebuhlig.com/the-flawed-foundation-of-diets/</link>
     <pubDate>Mon, 18 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -86,7 +86,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <title><![CDATA[Evernote vs. Raw Files]]></title>
     <link>http://joebuhlig.com/evernote-vs-raw-files/</link>
     <pubDate>Fri, 15 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -128,7 +128,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <title><![CDATA[The Important (Not Urgent) Projects]]></title>
     <link>http://joebuhlig.com/the-important-not-urgent-projects/</link>
     <pubDate>Mon, 11 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -172,7 +172,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <title><![CDATA[And Now...]]></title>
     <link>http://joebuhlig.com/and-now/</link>
     <pubDate>Fri, 08 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -202,7 +202,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <title><![CDATA[Timing Tasks]]></title>
     <link>http://joebuhlig.com/timing-tasks/</link>
     <pubDate>Mon, 04 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -250,7 +250,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <title><![CDATA[A Text File Weather Forecast]]></title>
     <link>http://joebuhlig.com/a-text-file-weather-forecast/</link>
     <pubDate>Fri, 01 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -420,7 +420,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <title><![CDATA[Choosing OmniFocus Settings]]></title>
     <link>http://joebuhlig.com/choosing-omnifocus-settings/</link>
     <pubDate>Mon, 28 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -518,7 +518,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <title><![CDATA[A Record of Completed Tasks]]></title>
     <link>http://joebuhlig.com/a-record-of-completed-tasks/</link>
     <pubDate>Fri, 25 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -631,7 +631,7 @@ end hazelProcessFile</pre></noscript>
     <title><![CDATA[A Minimal Alfred Theme]]></title>
     <link>http://joebuhlig.com/alfred-theme/</link>
     <pubDate>Tue, 22 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -657,7 +657,7 @@ end hazelProcessFile</pre></noscript>
     <title><![CDATA[Favorite Alfred Tricks]]></title>
     <link>http://joebuhlig.com/favorite-alfred-tricks/</link>
     <pubDate>Mon, 21 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -731,7 +731,7 @@ end hazelProcessFile</pre></noscript>
     <title><![CDATA[Text File Setup and Workflow]]></title>
     <link>http://joebuhlig.com/text-file-setup-and-workflow/</link>
     <pubDate>Fri, 18 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -803,7 +803,7 @@ end hazelProcessFile</pre></noscript>
     <title><![CDATA[Choosing the Right Medium]]></title>
     <link>http://joebuhlig.com/choosing-the-right-medium/</link>
     <pubDate>Mon, 14 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -941,7 +941,7 @@ $("table").tablesorter();
     <title><![CDATA[Behind The Scenes]]></title>
     <link>http://joebuhlig.com/behind-the-scenes/</link>
     <pubDate>Fri, 11 Mar 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1021,7 +1021,7 @@ $("table").tablesorter();
     <title><![CDATA[Using GTD As A Woodworker]]></title>
     <link>http://joebuhlig.com/using-gtd-as-a-woodworker/</link>
     <pubDate>Mon, 07 Mar 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1073,7 +1073,7 @@ $("table").tablesorter();
     <title><![CDATA[Using GTD As A Man]]></title>
     <link>http://joebuhlig.com/using-gtd-as-a-man/</link>
     <pubDate>Fri, 04 Mar 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1131,7 +1131,7 @@ $("table").tablesorter();
     <title><![CDATA[Using GTD As A Dad]]></title>
     <link>http://joebuhlig.com/using-gtd-as-a-dad/</link>
     <pubDate>Mon, 29 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1183,7 +1183,7 @@ $("table").tablesorter();
     <title><![CDATA[Using GTD As A Husband]]></title>
     <link>http://joebuhlig.com/using-gtd-as-a-husband/</link>
     <pubDate>Fri, 26 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1257,7 +1257,7 @@ $("table").tablesorter();
     <title><![CDATA[Using GTD As A Writer]]></title>
     <link>http://joebuhlig.com/using-gtd-as-a-writer/</link>
     <pubDate>Mon, 22 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1313,7 +1313,7 @@ $("table").tablesorter();
     <title><![CDATA[Using GTD As A Homeowner]]></title>
     <link>http://joebuhlig.com/using-gtd-as-a-homeowner/</link>
     <pubDate>Fri, 19 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1369,7 +1369,7 @@ $("table").tablesorter();
     <title><![CDATA[The Value of Tradition]]></title>
     <link>http://joebuhlig.com/the-value-of-tradition/</link>
     <pubDate>Mon, 15 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1403,7 +1403,7 @@ $("table").tablesorter();
     <title><![CDATA[An Alternative to Evernote]]></title>
     <link>http://joebuhlig.com/an-alternative-to-evernote/</link>
     <pubDate>Fri, 12 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1496,7 +1496,7 @@ $("table").tablesorter();
     <title><![CDATA[How to Create Energizing Rituals]]></title>
     <link>http://joebuhlig.com/how-to-create-energizing-rituals/</link>
     <pubDate>Mon, 08 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1562,7 +1562,7 @@ $("table").tablesorter();
     <title><![CDATA[Budgeting and Irregular Expenses]]></title>
     <link>http://joebuhlig.com/budgeting-and-irregular-expenses/</link>
     <pubDate>Fri, 05 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1602,7 +1602,7 @@ $("table").tablesorter();
     <title><![CDATA[The Importance of Data Visualizations]]></title>
     <link>http://joebuhlig.com/the-importance-of-data-visualizations/</link>
     <pubDate>Mon, 01 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1646,7 +1646,7 @@ $("table").tablesorter();
     <title><![CDATA[Time and Dollars]]></title>
     <link>http://joebuhlig.com/time-and-dollars/</link>
     <pubDate>Fri, 29 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1714,7 +1714,7 @@ $("table").tablesorter();
     <title><![CDATA[Tracking Time with Launch Center Pro]]></title>
     <link>http://joebuhlig.com/tracking-time-with-launch-center-pro/</link>
     <pubDate>Mon, 25 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1776,7 +1776,7 @@ $("table").tablesorter();
     <title><![CDATA[A New Discussion]]></title>
     <link>http://joebuhlig.com/a-new-discussion/</link>
     <pubDate>Fri, 22 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1820,7 +1820,7 @@ $("table").tablesorter();
     <title><![CDATA[Just a Laptop]]></title>
     <link>http://joebuhlig.com/just-a-laptop/</link>
     <pubDate>Mon, 18 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1860,7 +1860,7 @@ $("table").tablesorter();
     <title><![CDATA[Dictating vs Typing]]></title>
     <link>http://joebuhlig.com/dictating-vs-typing/</link>
     <pubDate>Fri, 15 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1898,7 +1898,7 @@ $("table").tablesorter();
     <title><![CDATA[Mac Navigation]]></title>
     <link>http://joebuhlig.com/mac-navigation/</link>
     <pubDate>Mon, 11 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1938,7 +1938,7 @@ $("table").tablesorter();
     <title><![CDATA[Dvorak Transition]]></title>
     <link>http://joebuhlig.com/dvorak-transition/</link>
     <pubDate>Fri, 08 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2405,7 +2405,7 @@ $("table").tablesorter();
     <title><![CDATA[2015 by the Numbers]]></title>
     <link>http://joebuhlig.com/2015-by-the-numbers/</link>
     <pubDate>Tue, 05 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2546,7 +2546,7 @@ $("table").tablesorter();
     <title><![CDATA[Writing a Book with GitHub]]></title>
     <link>http://joebuhlig.com/writing-a-book-with-github/</link>
     <pubDate>Mon, 28 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2600,7 +2600,7 @@ $("table").tablesorter();
     <title><![CDATA[Trust & Let Loose]]></title>
     <link>http://joebuhlig.com/trust-let-loose/</link>
     <pubDate>Fri, 25 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2638,7 +2638,7 @@ $("table").tablesorter();
     <title><![CDATA[Bad Bar Charts]]></title>
     <link>http://joebuhlig.com/bad-bar-charts/</link>
     <pubDate>Mon, 21 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2710,7 +2710,7 @@ $("table").tablesorter();
     <title><![CDATA[Merry Christmas]]></title>
     <link>http://joebuhlig.com/christmas-2015/</link>
     <pubDate>Fri, 18 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2742,7 +2742,7 @@ $("table").tablesorter();
     <title><![CDATA[Monthly Planning]]></title>
     <link>http://joebuhlig.com/monthly-planning/</link>
     <pubDate>Mon, 14 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2803,7 +2803,7 @@ $("table").tablesorter();
     <title><![CDATA[TextExpander Snippet Nomenclature]]></title>
     <link>http://joebuhlig.com/textexpander-snippet-nomenclature/</link>
     <pubDate>Fri, 11 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2971,7 +2971,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Keeping Up with Ideas]]></title>
     <link>http://joebuhlig.com/keeping-up-with-ideas/</link>
     <pubDate>Mon, 07 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3026,7 +3026,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Generating Creative Energy]]></title>
     <link>http://joebuhlig.com/generating-creative-energy/</link>
     <pubDate>Fri, 04 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3089,7 +3089,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Breaking the Cycle]]></title>
     <link>http://joebuhlig.com/breaking-the-cycle/</link>
     <pubDate>Fri, 13 Nov 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3149,7 +3149,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Reviews and Scripting - Learn OmniFocus Webinar]]></title>
     <link>http://joebuhlig.com/reviews-and-scripting-learn-omnifocus-webinar/</link>
     <pubDate>Wed, 11 Nov 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3185,7 +3185,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Take a Break]]></title>
     <link>http://joebuhlig.com/take-a-break/</link>
     <pubDate>Fri, 06 Nov 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3220,7 +3220,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Working with OmniFocus]]></title>
     <link>http://joebuhlig.com/working-with-omnifocus/</link>
     <pubDate>Wed, 04 Nov 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3260,7 +3260,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Favorite Workflows]]></title>
     <link>http://joebuhlig.com/favorite-workflows/</link>
     <pubDate>Fri, 30 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3345,7 +3345,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Stop Being Productive]]></title>
     <link>http://joebuhlig.com/stop-being-productive/</link>
     <pubDate>Fri, 23 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3394,7 +3394,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[From WordPress and Google to Jekyll and Piwik]]></title>
     <link>http://joebuhlig.com/from-wordpress-google-to-jekyll-piwik/</link>
     <pubDate>Fri, 16 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3458,7 +3458,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Using Drafts]]></title>
     <link>http://joebuhlig.com/using-drafts/</link>
     <pubDate>Sat, 10 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3538,7 +3538,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[How I Started with Technology]]></title>
     <link>http://joebuhlig.com/how-i-started-with-technology/</link>
     <pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3607,7 +3607,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Sharing a Computer]]></title>
     <link>http://joebuhlig.com/sharing-a-computer/</link>
     <pubDate>Fri, 25 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3654,7 +3654,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Scheduled Reviews in OmniFocus]]></title>
     <link>http://joebuhlig.com/scheduled-reviews-in-omnifocus/</link>
     <pubDate>Fri, 18 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3715,7 +3715,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Writing with GitHub]]></title>
     <link>http://joebuhlig.com/writing-with-github/</link>
     <pubDate>Fri, 11 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3811,7 +3811,7 @@ fi</pre></noscript>
     <title><![CDATA[OmniFocus Auto-Parser]]></title>
     <link>http://joebuhlig.com/omnifocus-auto-parser/</link>
     <pubDate>Fri, 04 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3880,7 +3880,7 @@ fi</pre></noscript>
     <title><![CDATA[Workflow to Share Articles with Twitter Handle]]></title>
     <link>http://joebuhlig.com/workflow-to-share-articles-with-twitter-handle/</link>
     <pubDate>Fri, 28 Aug 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3949,7 +3949,7 @@ fi</pre></noscript>
     <title><![CDATA[How I Use the M.O.U.S. 9]]></title>
     <link>http://joebuhlig.com/how-i-use-the-m-o-u-s-9/</link>
     <pubDate>Fri, 21 Aug 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4024,7 +4024,7 @@ fi</pre></noscript>
     <title><![CDATA[First Apps on a New Mac]]></title>
     <link>http://joebuhlig.com/first-apps-on-a-new-mac/</link>
     <pubDate>Fri, 14 Aug 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4083,7 +4083,7 @@ fi</pre></noscript>
     <title><![CDATA[MacBook Pro vs. MacBook Air]]></title>
     <link>http://joebuhlig.com/macbook-pro-vs-macbook-air/</link>
     <pubDate>Fri, 07 Aug 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4174,7 +4174,7 @@ fi</pre></noscript>
     <title><![CDATA[Why I Use OmniFocus]]></title>
     <link>http://joebuhlig.com/why-i-use-omnifocus/</link>
     <pubDate>Fri, 31 Jul 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4251,7 +4251,7 @@ fi</pre></noscript>
     <title><![CDATA[My Mobile Office]]></title>
     <link>http://joebuhlig.com/my-mobile-office/</link>
     <pubDate>Fri, 24 Jul 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4331,7 +4331,7 @@ fi</pre></noscript>
     <title><![CDATA[An Alternative to Annual Goals]]></title>
     <link>http://joebuhlig.com/an-alternative-to-annual-goals/</link>
     <pubDate>Fri, 17 Jul 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4398,7 +4398,7 @@ fi</pre></noscript>
     <title><![CDATA[Routine vs. Ritual]]></title>
     <link>http://joebuhlig.com/routine-vs-ritual/</link>
     <pubDate>Fri, 10 Jul 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4457,7 +4457,7 @@ fi</pre></noscript>
     <title><![CDATA[Using TheBrain]]></title>
     <link>http://joebuhlig.com/using-thebrain/</link>
     <pubDate>Fri, 03 Jul 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4548,7 +4548,7 @@ fi</pre></noscript>
     <title><![CDATA[Different Uses for Evernote]]></title>
     <link>http://joebuhlig.com/different-uses-for-evernote/</link>
     <pubDate>Fri, 26 Jun 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4611,7 +4611,7 @@ fi</pre></noscript>
     <title><![CDATA[My Writing Setup]]></title>
     <link>http://joebuhlig.com/my-writing-setup/</link>
     <pubDate>Fri, 19 Jun 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4676,7 +4676,7 @@ fi</pre></noscript>
     <title><![CDATA[From Goals to Guides]]></title>
     <link>http://joebuhlig.com/from-goals-to-guides/</link>
     <pubDate>Fri, 12 Jun 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4776,7 +4776,7 @@ fi</pre></noscript>
     <title><![CDATA[My OmniFocus Home Screen]]></title>
     <link>http://joebuhlig.com/my-omnifocus-home-screen/</link>
     <pubDate>Fri, 05 Jun 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4855,7 +4855,7 @@ fi</pre></noscript>
     <title><![CDATA[A Chaotic Week with GTD]]></title>
     <link>http://joebuhlig.com/a-chaotic-week-with-gtd/</link>
     <pubDate>Fri, 29 May 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5007,7 +5007,7 @@ fi</pre></noscript>
     <title><![CDATA[Lost in Transition]]></title>
     <link>http://joebuhlig.com/lost-in-transition/</link>
     <pubDate>Fri, 22 May 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5078,7 +5078,7 @@ fi</pre></noscript>
     <title><![CDATA[Working the Focus Muscle]]></title>
     <link>http://joebuhlig.com/working-the-focus-muscle/</link>
     <pubDate>Fri, 15 May 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5159,7 +5159,7 @@ fi</pre></noscript>
     <title><![CDATA[Why I Changed My Newsletter Sign-up Process]]></title>
     <link>http://joebuhlig.com/why-i-changed-my-newsletter-sign-up-process/</link>
     <pubDate>Fri, 08 May 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5218,7 +5218,7 @@ fi</pre></noscript>
     <title><![CDATA[Using Omnifocus for Someday/Maybe Lists]]></title>
     <link>http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/</link>
     <pubDate>Fri, 01 May 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5384,7 +5384,7 @@ end idle</pre></noscript>
     <title><![CDATA[My Evening Routine]]></title>
     <link>http://joebuhlig.com/my-evening-routine/</link>
     <pubDate>Fri, 24 Apr 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5465,7 +5465,7 @@ end idle</pre></noscript>
     <title><![CDATA[My Morning Routine]]></title>
     <link>http://joebuhlig.com/my-morning-routine/</link>
     <pubDate>Fri, 17 Apr 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5547,7 +5547,7 @@ end idle</pre></noscript>
     <title><![CDATA[GTD Contexts: Proactive vs. Reactive]]></title>
     <link>http://joebuhlig.com/gtd-contexts-proactive-vs-reactive/</link>
     <pubDate>Fri, 10 Apr 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5618,7 +5618,7 @@ end idle</pre></noscript>
     <title><![CDATA[OmniFocus Hotspot]]></title>
     <link>http://joebuhlig.com/omnifocus-hotspot/</link>
     <pubDate>Fri, 03 Apr 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5713,7 +5713,7 @@ end tell</pre></noscript>
     <title><![CDATA[Don’t Ignore Push Notifications]]></title>
     <link>http://joebuhlig.com/dont-ignore-push-notifications/</link>
     <pubDate>Fri, 27 Mar 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5767,7 +5767,7 @@ end tell</pre></noscript>
     <title><![CDATA[Siri to Omnifocus]]></title>
     <link>http://joebuhlig.com/siri-to-omnifocus/</link>
     <pubDate>Fri, 20 Mar 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5863,7 +5863,7 @@ end tell</pre></noscript>
     <title><![CDATA[The Internet Separation Layer]]></title>
     <link>http://joebuhlig.com/the-internet-separation-layer/</link>
     <pubDate>Fri, 13 Mar 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5947,7 +5947,7 @@ end tell</pre></noscript>
     <title><![CDATA[Saving Full Articles in Evernote from RSS]]></title>
     <link>http://joebuhlig.com/saving-full-articles-in-evernote-from-rss/</link>
     <pubDate>Fri, 06 Mar 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6024,7 +6024,7 @@ end tell</pre></noscript>
     <title><![CDATA[Sloppy Productivity]]></title>
     <link>http://joebuhlig.com/sloppy-productivity/</link>
     <pubDate>Fri, 27 Feb 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6067,7 +6067,7 @@ end tell</pre></noscript>
     <title><![CDATA[Recurring Checklists in Evernote]]></title>
     <link>http://joebuhlig.com/recurring-checklists-in-evernote/</link>
     <pubDate>Fri, 20 Feb 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6133,7 +6133,7 @@ end tell</pre></noscript>
     <title><![CDATA[Instant Gratification vs. Instant Perspective]]></title>
     <link>http://joebuhlig.com/instant-gratification-vs-instant-perspective/</link>
     <pubDate>Fri, 13 Feb 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6180,7 +6180,7 @@ end tell</pre></noscript>
     <title><![CDATA[What Every BODY Is Saying [Book Review]]]></title>
     <link>http://joebuhlig.com/every-body-saying-book-review/</link>
     <pubDate>Fri, 06 Feb 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6237,7 +6237,7 @@ end tell</pre></noscript>
     <title><![CDATA[My Evernote Setup and Workflow]]></title>
     <link>http://joebuhlig.com/evernote-setup-workflow/</link>
     <pubDate>Fri, 23 Jan 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6404,7 +6404,7 @@ end tell</pre></noscript>
     <title><![CDATA[The Danger of Infinity Apps]]></title>
     <link>http://joebuhlig.com/danger-infinity-apps/</link>
     <pubDate>Fri, 16 Jan 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6447,7 +6447,7 @@ end tell</pre></noscript>
     <title><![CDATA[Keeping Up With Your Goals]]></title>
     <link>http://joebuhlig.com/keeping-goals/</link>
     <pubDate>Fri, 02 Jan 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6510,7 +6510,7 @@ end tell</pre></noscript>
     <title><![CDATA[What is an Inbox?]]></title>
     <link>http://joebuhlig.com/inbox/</link>
     <pubDate>Fri, 26 Dec 2014 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6591,7 +6591,7 @@ end tell</pre></noscript>
     <title><![CDATA[Making Time for Contexts]]></title>
     <link>http://joebuhlig.com/making-time-contexts/</link>
     <pubDate>Fri, 19 Dec 2014 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6703,7 +6703,7 @@ end tell</pre></noscript>
     <title><![CDATA[Productivity vs. Presence]]></title>
     <link>http://joebuhlig.com/productivity-vs-presence/</link>
     <pubDate>Fri, 12 Dec 2014 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6752,7 +6752,7 @@ end tell</pre></noscript>
     <title><![CDATA[Getting Things Done: A Day in the Life]]></title>
     <link>http://joebuhlig.com/getting-things-done-day-life/</link>
     <pubDate>Fri, 05 Dec 2014 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6844,7 +6844,7 @@ end tell</pre></noscript>
     <title><![CDATA[Getting Things Done: Engage]]></title>
     <link>http://joebuhlig.com/getting-things-done-engage/</link>
     <pubDate>Fri, 28 Nov 2014 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6910,7 +6910,7 @@ end tell</pre></noscript>
     <title><![CDATA[Getting Things Done: Reflect]]></title>
     <link>http://joebuhlig.com/getting-things-done-reflect/</link>
     <pubDate>Fri, 21 Nov 2014 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6986,7 +6986,7 @@ end tell</pre></noscript>
     <title><![CDATA[Getting Things Done: Organize]]></title>
     <link>http://joebuhlig.com/getting-things-done-organize/</link>
     <pubDate>Fri, 14 Nov 2014 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7072,7 +7072,7 @@ end tell</pre></noscript>
     <title><![CDATA[Getting Things Done: Clarify]]></title>
     <link>http://joebuhlig.com/getting-things-done-clarify/</link>
     <pubDate>Fri, 07 Nov 2014 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7207,7 +7207,7 @@ end tell</pre></noscript>
     <title><![CDATA[Getting Things Done: Capture]]></title>
     <link>http://joebuhlig.com/getting-things-done-capture/</link>
     <pubDate>Fri, 31 Oct 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7293,7 +7293,7 @@ end tell</pre></noscript>
     <title><![CDATA[Getting Things Done: Introduction]]></title>
     <link>http://joebuhlig.com/getting-things-done-introduction/</link>
     <pubDate>Fri, 24 Oct 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7353,7 +7353,7 @@ end tell</pre></noscript>
     <title><![CDATA[The “Why” of Getting Up Early]]></title>
     <link>http://joebuhlig.com/why-getting-up-early/</link>
     <pubDate>Fri, 17 Oct 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7421,7 +7421,7 @@ end tell</pre></noscript>
     <title><![CDATA[Seasons of Tasks]]></title>
     <link>http://joebuhlig.com/seasons-tasks/</link>
     <pubDate>Fri, 10 Oct 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7470,7 +7470,7 @@ end tell</pre></noscript>
     <title><![CDATA[The Power of Full Engagement [Book Review]]]></title>
     <link>http://joebuhlig.com/power-full-engagement-book-review/</link>
     <pubDate>Fri, 03 Oct 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7595,7 +7595,7 @@ end tell</pre></noscript>
     <title><![CDATA[Creating Personal Project Codes]]></title>
     <link>http://joebuhlig.com/creating-personal-project-codes/</link>
     <pubDate>Fri, 26 Sep 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7747,7 +7747,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Managing Project Information]]></title>
     <link>http://joebuhlig.com/managing-project-information/</link>
     <pubDate>Fri, 19 Sep 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7810,7 +7810,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Pros and Cons of Apple Watch]]></title>
     <link>http://joebuhlig.com/pros-cons-apple-watch/</link>
     <pubDate>Fri, 12 Sep 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7887,7 +7887,7 @@ return newcode</pre></noscript>
     <title><![CDATA[File Naming and (Dis)Organization]]></title>
     <link>http://joebuhlig.com/file-naming-disorganization/</link>
     <pubDate>Fri, 05 Sep 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7984,7 +7984,7 @@ return newcode</pre></noscript>
     <title><![CDATA[A Simple Trick for Naming Tags]]></title>
     <link>http://joebuhlig.com/simple-trick-naming-tags/</link>
     <pubDate>Fri, 29 Aug 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8035,7 +8035,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Developing a Personal Communication Cycle]]></title>
     <link>http://joebuhlig.com/developing-personal-communication-cycle/</link>
     <pubDate>Fri, 22 Aug 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8090,7 +8090,7 @@ return newcode</pre></noscript>
     <title><![CDATA[If It Ain’t Broke, Don’t Fix It. Why Not?]]></title>
     <link>http://joebuhlig.com/aint-broke-dont-fix/</link>
     <pubDate>Fri, 15 Aug 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8139,7 +8139,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Choosing the 3 Most Important Tasks for the Day]]></title>
     <link>http://joebuhlig.com/choosing-3-important-tasks-day/</link>
     <pubDate>Fri, 08 Aug 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8190,7 +8190,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Getting Started with Task Management]]></title>
     <link>http://joebuhlig.com/getting-started-task-management/</link>
     <pubDate>Fri, 01 Aug 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8265,7 +8265,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Gaining Perspective with a Daily Review]]></title>
     <link>http://joebuhlig.com/gaining-perspective-daily-review/</link>
     <pubDate>Fri, 25 Jul 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8332,7 +8332,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Adding Contacts from Business Cards with Evernote]]></title>
     <link>http://joebuhlig.com/adding-contacts-business-cards-evernote/</link>
     <pubDate>Fri, 18 Jul 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8390,7 +8390,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Using a Text Expander]]></title>
     <link>http://joebuhlig.com/using-text-expander/</link>
     <pubDate>Fri, 11 Jul 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8469,7 +8469,7 @@ return newcode</pre></noscript>
     <title><![CDATA[My Omnifocus Setup and Workflow]]></title>
     <link>http://joebuhlig.com/omnifocus-setup-workflow/</link>
     <pubDate>Fri, 04 Jul 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8643,7 +8643,7 @@ return newcode</pre></noscript>
     <title><![CDATA[What Is An hPDA and How Do I Use It?]]></title>
     <link>http://joebuhlig.com/what-is-an-hpda-and-how-do-i-use-it/</link>
     <pubDate>Fri, 27 Jun 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8713,7 +8713,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Leaving Your Phone]]></title>
     <link>http://joebuhlig.com/leaving-phone/</link>
     <pubDate>Fri, 20 Jun 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8776,7 +8776,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Escaping the Corporate Email Habit]]></title>
     <link>http://joebuhlig.com/escaping-corporate-email-habit/</link>
     <pubDate>Tue, 10 Jun 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8833,7 +8833,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Desktop Tower Move]]></title>
     <link>http://joebuhlig.com/desktop-tower-move/</link>
     <pubDate>Mon, 09 Jun 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8880,7 +8880,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Put Distractions in Their Place]]></title>
     <link>http://joebuhlig.com/put-distractions-place/</link>
     <pubDate>Sun, 08 Jun 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
