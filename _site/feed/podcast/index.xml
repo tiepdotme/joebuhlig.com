@@ -14,11 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<<<<<<< HEAD
-<lastBuildDate>Wed, 13 Apr 2016 15:57:12 -0500</lastBuildDate>
-=======
-<lastBuildDate>Wed, 20 Apr 2016 11:42:40 -0500</lastBuildDate>
->>>>>>> master
+<lastBuildDate>Wed, 20 Apr 2016 16:25:58 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -44,13 +40,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </itunes:category>
 
   <item>
-<<<<<<< HEAD
-=======
     <title>33: Analog vs. Digital with Mike Schmitz</title>
     <link>http://joebuhlig.com/33/</link>
     <comments>http://joebuhlig.com/33/#comments</comments>
     <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[podcast]]></category>
 
@@ -189,16 +183,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
   </item>
 
   <item>
->>>>>>> master
     <title>32: Doing the Task Shuffle</title>
     <link>http://joebuhlig.com/32/</link>
     <comments>http://joebuhlig.com/32/#comments</comments>
     <pubDate>Wed, 13 Apr 2016 00:00:00 -0500</pubDate>
-<<<<<<< HEAD
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-=======
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
->>>>>>> master
 
     <category><![CDATA[podcast]]></category>
 

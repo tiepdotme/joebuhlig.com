@@ -66,25 +66,6 @@ layout: default
 				{% endif %}
 			</div>
 		</article>
-		<div class="related-posts">
-			<h2>Related Articles</h2>{% assign count = 1 %}{% for post in site.posts %}{% if count <= 6 %}{% if post.url != page.url %}{% for tag in page.tags %}{% if post.tags contains tag %}
-	      		<div class="related-post clear">
-	      			<div class="related-img">
-	      				<a href="{{ post.url }}"><img src="{{ post.image }}"></a>
-	      			</div>
-	      			<div class="related-text">
-	          			<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-	          			<p>{{ post.excerpt }}</p>
-	          		</div>
-	      		</div>{% assign count = count | plus:'1' %}{% break %}{% endif %}{% endfor %}{% endif %}{% else %}{% break %}{% endif %}{% endfor %}
-			{% if count == 1 %}
-				<style>
-					.related-posts{
-						display: none;
-					}
-				</style>
-			{% endif %}
-		</div>
 
 		{% if jekyll.environment == "production" %}
 		<div id='discourse-comments'></div>

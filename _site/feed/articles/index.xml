@@ -14,11 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<<<<<<< HEAD
-<lastBuildDate>Wed, 13 Apr 2016 15:57:12 -0500</lastBuildDate>
-=======
-<lastBuildDate>Wed, 20 Apr 2016 11:42:40 -0500</lastBuildDate>
->>>>>>> master
+<lastBuildDate>Wed, 20 Apr 2016 16:25:58 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -28,7 +24,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <title><![CDATA[The Flawed Foundation of Diets]]></title>
     <link>http://joebuhlig.com/the-flawed-foundation-of-diets/</link>
     <pubDate>Mon, 18 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -90,7 +86,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <title><![CDATA[Evernote vs. Raw Files]]></title>
     <link>http://joebuhlig.com/evernote-vs-raw-files/</link>
     <pubDate>Fri, 15 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
