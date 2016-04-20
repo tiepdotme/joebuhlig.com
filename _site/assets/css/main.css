@@ -581,7 +581,8 @@ table {
 
 .featured-image {
   max-height: 600px;
-  box-shadow: 0 0px 10px 0px rgba(0, 0, 0, 0.25); }
+  box-shadow: 0 0px 10px 0px rgba(0, 0, 0, 0.25);
+  cursor: initial !important; }
 
 .page-navigation {
   height: 30px;
