@@ -199,7 +199,6 @@ table {
     color: #424242; }
 
 .site-nav-outer {
-  background-color: #FFFFFF;
   height: 47px;
   max-width: 100%;
   padding: 0px;
@@ -207,11 +206,21 @@ table {
   text-align: center;
   top: 0px;
   width: 100%;
-  z-index: 1000; }
+  z-index: 1000;
+  background-color: initial;
+  border-bottom: initial;
+  box-shadow: initial;
+  transition: background-color .25s, border-bottom .25s, box-shadow .25s;
+  -moz-transition: background-color .25s, border-bottom .25s, box-shadow .25s;
+  -webkit-transition: background-color .25s, border-bottom .25s, box-shadow .25s; }
 
 .site-nav-outer.scrolled {
+  background-color: #FFFFFF;
   border-bottom: 1px solid #CCCCCC;
-  box-shadow: 0 0px 3px rgba(0, 0, 0, 0.25); }
+  box-shadow: 0 0px 3px rgba(0, 0, 0, 0.25);
+  transition: background-color .25s, border-bottom .25s, box-shadow .25s;
+  -moz-transition: background-color .25s, border-bottom .25s, box-shadow .25s;
+  -webkit-transition: background-color .25s, border-bottom .25s, box-shadow .25s; }
 
 .site-nav-inner {
   height: 47px;
@@ -267,6 +276,12 @@ table {
     height: 1px;
     border-top: 1px solid #DDDDDD; }
 
+.dark .site-nav svg path {
+  fill: #FFFFFF; }
+
+.scrolled .site-nav svg path {
+  fill: #828282; }
+
 .social-media-list {
   line-height: 47px;
   padding: 0px 10px; }
@@ -287,6 +302,14 @@ table {
     vertical-align: initial; }
   #header-image svg {
     height: 100%; }
+    #header-image svg path {
+      fill: #743517; }
+
+.dark #header-image svg path {
+  fill: #FFFFFF; }
+
+.scrolled #header-image svg path {
+  fill: #743517; }
 
 #header-image:hover {
   text-decoration: none; }
@@ -500,6 +523,9 @@ table {
 /**
  * Posts
  */
+.posts {
+  margin-top: 57px; }
+
 .post-wrapper {
   width: 100%;
   max-width: 1200px;
@@ -516,11 +542,13 @@ table {
     cursor: pointer;
     box-shadow: 0 0px 10px 2px rgba(0, 0, 0, 0.25); }
 
-.single-page {
+.page-content {
   max-width: 840px;
   text-align: left;
-  margin: 0px auto;
+  margin: 57px auto 0px auto;
   padding: 10px; }
+  .page-content h1 {
+    text-align: center; }
 
 .article {
   padding: 0px 10px; }
@@ -562,10 +590,21 @@ table {
     width: 100%;
     max-width: 100%; } }
 .post-header {
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  background-color: #222;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 36rem; }
+
+.header-overlay {
+  background-color: rgba(0, 0, 0, 0.4);
+  height: 36rem;
+  width: 100%;
+  position: absolute;
+  top: 0px; }
 
 .post-title {
-  margin-top: 30px;
   font-size: 42px;
   letter-spacing: -1px;
   line-height: 1;

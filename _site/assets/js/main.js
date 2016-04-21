@@ -6,14 +6,14 @@ var searchJSONFile = '/assets/js/clean-search.json',
 		jsonLoaded = false;
 
 $(document).ready(function(){
-	var topOfContent = $(".page-content").offset().top;
+	var topOfContent = $(".content").offset().top;
 	var windowHeight = $(window).height();
 	displayImages(windowHeight);
 	$('.menu-icon').click(function(event){
 		event.preventDefault();
 		$('.trigger').toggleClass('active');
 	});
-	$('.page-content').click(function(event){
+	$('.content').click(function(event){
 		$('.trigger').removeClass('active');
 	})
 	$('.post img').not('.featured-image').click(function(event){
@@ -21,16 +21,17 @@ $(document).ready(function(){
 	})
 
 	$(window).scroll(function() {
-	    var topOfWindow = $(window).scrollTop() + $('.site-nav-outer').height();
-	    if (topOfContent < topOfWindow) {
-	        $(".site-nav-outer").addClass("scrolled");          
+	    var topOfWindow = $(window).scrollTop();
+	    if (topOfWindow !== 0) {
+	        $(".site-nav-outer").addClass("scrolled");
+	        $("#header-image-tree").attr("src", $("#header-image-tree").attr("light-src")).fadeIn(600);
 	    }
 	    else {
 	        $(".site-nav-outer").removeClass("scrolled");
+	        $("#header-image-tree").attr("src", $("#header-image-tree").attr("orig-src")).fadeIn(600);
 	    }
 
-        var windowScrollPosition = $(window).scrollTop();
-        var imageTrigger = windowHeight + windowScrollPosition;
+        var imageTrigger = windowHeight + topOfWindow;
     	displayImages(imageTrigger);
 	});
 

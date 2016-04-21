@@ -3,11 +3,9 @@
   {% include head.html %}
   <body>
     {% include header.html %}
-    <div class="page-content">
-      <div class="wrapper content-wrapper">
+    <div class="content">
         {{ content }}
         <div class="copyright">{{ site.copyright }}</div>
-      </div>
     </div>
     {% include clean_search.html %}
     {% if jekyll.environment == "production" %}
