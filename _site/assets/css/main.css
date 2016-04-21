@@ -507,8 +507,14 @@ table {
 
 .post {
   float: left;
-  max-width: 840px;
-  width: 70%; }
+  max-width: 820px;
+  width: calc(70% - 20px);
+  margin-bottom: 30px;
+  text-align: left;
+  padding: 0px 10px; }
+  .post img {
+    cursor: pointer;
+    box-shadow: 0 0px 10px 2px rgba(0, 0, 0, 0.25); }
 
 .single-page {
   max-width: 840px;
@@ -549,7 +555,7 @@ table {
 @media only screen and (max-width: 767px) {
   .post {
     float: none;
-    width: 100%; }
+    width: calc(100% - 20px); }
 
   .sidebar {
     float: none;
@@ -570,14 +576,6 @@ table {
 
 .podcast-details {
   text-align: center; }
-
-.post-content {
-  margin-bottom: 30px;
-  text-align: left;
-  padding: 0px 10px; }
-  .post-content img {
-    cursor: pointer;
-    box-shadow: 0 0px 10px 2px rgba(0, 0, 0, 0.25); }
 
 .featured-image {
   max-height: 600px;
@@ -762,7 +760,14 @@ table {
 
 #discourse-comments {
   text-align: left;
-  min-height: 100px; }
+  min-height: 100px;
+  max-width: 820px;
+  width: calc(70% - 20px);
+  margin-bottom: 30px;
+  padding: 0px 20px; }
+  @media only screen and (max-width: 767px) {
+    #discourse-comments {
+      width: calc(100% - 40px); } }
 
 /**
  * Syntax highlighting styles
