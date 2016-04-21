@@ -425,6 +425,9 @@ table {
 .post-image-tiny {
   width: 25%; }
 
+.post-image-mini {
+  width: 33%; }
+
 .post-image-small {
   width: 50%; }
 
@@ -436,6 +439,9 @@ table {
 
 @media screen and (max-width: 800px) {
   .post-image-tiny {
+    width: 100%; }
+
+  .post-image-mini {
     width: 100%; }
 
   .post-image-small {

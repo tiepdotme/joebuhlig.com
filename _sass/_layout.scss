@@ -315,6 +315,9 @@
 .post-image-tiny {
     width: 25%;
 }
+.post-image-mini {
+    width: 33%;
+}
 
 .post-image-small {
     width: 50%;
@@ -329,6 +332,9 @@
 }
 @include media-query($on-palm) {
     .post-image-tiny {
+        width: 100%;
+    }
+    .post-image-mini {
         width: 100%;
     }
 
