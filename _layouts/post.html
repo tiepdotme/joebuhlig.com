@@ -2,13 +2,20 @@
 layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
-<div class="post-content">
+{% if page.style == "dark" %}
+  {% assign style = "dark" %}
+{% else %}
+  {% assign style = "light" %}
+{% endif %}
+<div class="post-content {{style }}">
 	<header class="post-header" style="background-image: url('{{ page.image }}');">
 		<div class="header-overlay"></div>
-		<h1 class="post-title">{{ page.title }}</h1>
-		<p class="post-meta">
-			{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ author.name }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} • {{ page.content | reading_time }}{% if page.tags %} • {% for tag in page.tags %}<a href="/tag/{{ tag }}">{{ tag }}</a>{% if forloop.index > 0 and page.tags.size != (forloop.index + 1)%}, {% endif %} {% endfor %}{% endif %}
-		</p>
+		<div class="meta">
+			<h1 class="post-title">{{ page.title }}</h1>
+			<p class="post-meta">
+				{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ author.name }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} • {{ page.content | reading_time }}{% if page.tags %} • {% for tag in page.tags %}<a href="/tag/{{ tag }}">{{ tag }}</a>{% if forloop.index > 0 and page.tags.size != (forloop.index + 1)%}, {% endif %} {% endfor %}{% endif %}
+			</p>
+		</div>
 	</header>
 	<div class="post-wrapper">
 		<article class="post">

@@ -426,8 +426,10 @@ table {
 .post-meta {
   font-size: 14px;
   color: #828282;
-  margin-top: 10px;
-  text-align: center; }
+  margin-top: 10px; }
+
+.dark .post-meta {
+  color: #FFFFFF; }
 
 .post-link {
   display: block;
@@ -604,14 +606,29 @@ table {
   position: absolute;
   top: 0px; }
 
+.light .header-overlay {
+  display: none; }
+
+.meta {
+  position: absolute;
+  width: calc(100% - 20px);
+  left: calc(100% - 1200px);
+  top: 20em;
+  max-width: 1200px; }
+  @media screen and (max-width: 1200px) {
+    .meta {
+      left: 20px; } }
+
 .post-title {
   font-size: 42px;
   letter-spacing: -1px;
-  line-height: 1;
-  text-align: center; }
+  line-height: 1; }
   @media screen and (max-width: 1000px) {
     .post-title {
       font-size: 36px; } }
+
+.dark .post-title {
+  color: #FFFFFF; }
 
 .podcast-details {
   text-align: center; }
