@@ -10,10 +10,7 @@ image: /assets/posts/Why-I-use-OmniFocus.jpg
 ---
 
 Task managers. There are so many options available and it’s painful making a decision, especially when it takes real dollars to get into them.
-
 <!--more-->
-
-{% include omnifocus_callout.html %}
 
 There’s a lot of hype around to-do list apps, but I’m not known for jumping into an app just because people are excited about it. And with task managers, I knew I was picky. I did the normal thing and ran Google searches to find out what the broader internet prefers. It was a mixed bag and that was three years ago. It’s worse now.
 

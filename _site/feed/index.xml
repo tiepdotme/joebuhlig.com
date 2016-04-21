@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 21 Apr 2016 07:02:37 -0500</lastBuildDate>
+<lastBuildDate>Thu, 21 Apr 2016 14:39:34 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -650,16 +650,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <content:encoded>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Choosing-OmniFocus-Settings.jpg" /><p>No application setup is complete without tweaking the settings to your liking. This is the power (and struggle) of OmniFocus. Some of the available options make drastic changes while others lead to subtleties you may not notice.
 <!--more--></p>
-
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
 
 <p>I use the Mac version of OmniFocus as the “home base” of my setup. I make most of my changes there and let them sync to iOS. There are a few settings specific to mobile, but the majority of the following options will be dedicated to OmniFocus 2 for Mac.</p>
 

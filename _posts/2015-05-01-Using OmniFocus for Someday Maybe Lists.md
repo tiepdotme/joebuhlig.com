@@ -13,8 +13,6 @@ For a long time, I kept my active Next Actions in Omnifocus and my potential (so
 
 <!--more-->
 
-{% include omnifocus_callout.html %}
-
 ## Why keep someday/maybe lists in Omnifocus?
 
 The main reason I wanted someday/maybe lists in Omnifocus was the ease of activating them. It’s pretty common for me to pull items from these lists each week and spell out tasks for them. If they’re already in Omnifocus, it’s easy to change the project/context of the task or turn it into a project.

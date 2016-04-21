@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 21 Apr 2016 07:02:37 -0500</lastBuildDate>
+<lastBuildDate>Thu, 21 Apr 2016 14:39:34 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -436,16 +436,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <content:encoded>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Choosing-OmniFocus-Settings.jpg" /><p>No application setup is complete without tweaking the settings to your liking. This is the power (and struggle) of OmniFocus. Some of the available options make drastic changes while others lead to subtleties you may not notice.
 <!--more--></p>
-
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
 
 <p>I use the Mac version of OmniFocus as the “home base” of my setup. I make most of my changes there and let them sync to iOS. There are a few settings specific to mobile, but the majority of the following options will be dedicated to OmniFocus 2 for Mac.</p>
 
@@ -3674,16 +3664,6 @@ xof = OmniFocus</code></pre></figure>
 
 <!--more-->
 
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
-
 <p>OmniFocus has a great feature for reviewing projects at specific intervals. You can choose to review a project daily or every 50 years if you want. And when that date comes, the project is available in the Review perspective.</p>
 
 <p>It’s a great feature. You can set the date of your Weekly Review as the next review date for a project and tell it to cycle every week. Then the project can be reviewed every week on that day.</p>
@@ -3828,16 +3808,6 @@ fi</pre></noscript>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/OmniFocus-Auto-Parser.jpg" /><p>I love it when my systems do things automatically. In this case, I can capture an idea for a someday/maybe list and it ends up in the right place in OmniFocus.</p>
 
 <!--more-->
-
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
 
 <p>I wrote about my original process for this <a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">here</a>, but I’ve since refined it. I didn’t like having an extra app icon sitting in my dock. I knew there had to be a better way to do it… and I found it.</p>
 
@@ -4190,19 +4160,8 @@ fi</pre></noscript>
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Why-I-use-OmniFocus.jpg" /><p>Task managers. There are so many options available and it’s painful making a decision, especially when it takes real dollars to get into them.</p>
-
-<!--more-->
-
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Why-I-use-OmniFocus.jpg" /><p>Task managers. There are so many options available and it’s painful making a decision, especially when it takes real dollars to get into them.
+<!--more--></p>
 
 <p>There’s a lot of hype around to-do list apps, but I’m not known for jumping into an app just because people are excited about it. And with task managers, I knew I was picky. I did the normal thing and ran Google searches to find out what the broader internet prefers. It was a mixed bag and that was three years ago. It’s worse now.</p>
 
@@ -4796,16 +4755,6 @@ fi</pre></noscript>
 
 <!--more-->
 
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
-
 <h2 id="spanspaninboxinbox"><a href="#inbox"><span></span></a>Inbox</h2>
 
 <p>I keep my Inbox available as I often want to empty it. If I’m getting ready to focus on a project for a couple hours or just got off a call, I need to process things immediately so my pinball brain can go in a straight line for a while. Easy access to my inbox makes <a href="http://joebuhlig.com/getting-things-done-clarify/">clarification</a> easier.</p>
@@ -5238,16 +5187,6 @@ fi</pre></noscript>
 
 <!--more-->
 
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
-
 <h2 id="why-keep-somedaymaybe-lists-in-omnifocus">Why keep someday/maybe lists in Omnifocus?</h2>
 
 <p>The main reason I wanted someday/maybe lists in Omnifocus was the ease of activating them. It’s pretty common for me to pull items from these lists each week and spell out tasks for them. If they’re already in Omnifocus, it’s easy to change the project/context of the task or turn it into a project.</p>
@@ -5638,16 +5577,6 @@ end idle</pre></noscript>
 
 <!--more-->
 
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
-
 <p>I could invoke the quick entry dialog and drag the file into the notes field, but there are times when I have 10 files or more to do at once. That gets to be a lot of repetitive steps.</p>
 
 <p>I started searching for a solution and came across <a href="http://www.asianefficiency.com/task-management/omnifocus-hotspot/">this post</a> by the guys at Asian Efficiency. It’s a simple process using <a href="http://www.noodlesoft.com/hazel.php">Hazel</a> to turn a folder into a hotspot. This folder will <em>sense</em> that files are in it and add those files to Omnifocus automatically.</p>
@@ -5788,16 +5717,6 @@ end tell</pre></noscript>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Siri-to-Omnifocus.jpg" /><p>I don’t have a daily commute but I still find myself in the car having ideas from time to time. I don’t want to lose those ideas, but I shouldn’t be typing into my phone or writing things while I’m driving.</p>
 
 <!--more-->
-
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
 
 <p>I use <a href="http://joebuhlig.com/omnifocus-setup-workflow/">Omnifocus</a> as my list manager for <a href="http://joebuhlig.com/getting-things-done-introduction/">Getting Things Done</a>. Naturally, I want to collect things into the Omnifocus inbox as easily as possible. But when I’m in a situation where I can’t use my hands to write or type, I need to do it with my voice.</p>
 
@@ -8490,16 +8409,6 @@ return newcode</pre></noscript>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/My-Omnifocus-Setup-and-Workflow.jpg" /><p><a href="https://itunes.apple.com/us/app/omnifocus-2/id867299399?mt=12&amp;uo=4&amp;at=1l3vnyQ">OmniFocus</a> is a powerful tool designed to follow David Allen’s <a href="http://gettingthingsdone.com/">Getting Things Done</a>. I go into the <a href="http://joebuhlig.com/getting-things-done-introduction/">details of GTD here</a> but the simple version is that it’s a method of getting things out of your mind and into a trusted organizational system. The main purpose is to free up your mind to have ideas, not hold them.</p>
 
 <!--more-->
-
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
 
 <p>This article focuses on Omnifocus 2 for Mac. I use the iPhone and iPad versions as well, but here I want to walk you through the setup of my central hub.</p>
 

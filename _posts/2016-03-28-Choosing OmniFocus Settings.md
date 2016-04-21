@@ -10,8 +10,6 @@ image: /assets/posts/Choosing-OmniFocus-Settings.jpg
 No application setup is complete without tweaking the settings to your liking. This is the power (and struggle) of OmniFocus. Some of the available options make drastic changes while others lead to subtleties you may not notice.
 <!--more-->
 
-{% include omnifocus_callout.html %}
-
 I use the Mac version of OmniFocus as the "home base" of my setup. I make most of my changes there and let them sync to iOS. There are a few settings specific to mobile, but the majority of the following options will be dedicated to OmniFocus 2 for Mac.
 
 ## General
