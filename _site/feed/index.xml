@@ -14,11 +14,73 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 26 Apr 2016 13:52:34 -0500</lastBuildDate>
+<lastBuildDate>Thu, 28 Apr 2016 10:47:02 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[34: A Web Developer Using Markdown]]></title>
+    <link>http://joebuhlig.com/34/</link>
+    <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[writing]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/34/</guid>
+    <description>
+        <![CDATA[Markdown has become a major part of how I do all of my writing despite being a web developer. It has a lot of benefits even if you know how to write the HTML itself.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/A-Web-Developer-Using-Markdown.jpg" /><p>Markdown has become a major part of how I do all of my writing despite being a web developer. It has a lot of benefits even if you know how to write the HTML itself.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://daringfireball.net/">Daring Fireball</a></p>
+
+<p><a href="http://daringfireball.net/projects/markdown/basics">Daring Fireball: Markdown Basics</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig/status/718819253277753344">Twitter conversation about markdown on paper</a></p>
+
+<p><a href="http://kramdown.gettalong.org/">kramdown</a></p>
+
+<p><a href="http://fletcher.github.io/MultiMarkdown-4/tables.html">Markdown Tables</a></p>
+
+<p><a href="http://jekyllrb.com/">Jekyll • Simple, blog-aware, static sites</a></p>
+
+<p><a href="http://www.discourse.org/">Discourse</a></p>
+
+<p><a href="https://github.com/joebuhlig/discourse-feature-voting">joebuhlig/discourse-feature-voting</a></p>
+
+<p><a href="http://www.sublimetext.com/">Sublime Text: The text editor you’ll fall in love with</a></p>
+
+<p><a href="https://github.com/revolunet/sublimetext-markdown-preview">revolunet/sublimetext-markdown-preview: markdown preview and build plugin</a></p>
+
+<p><a href="https://en.support.wordpress.com/markdown/">Markdown Support — WordPress</a></p>
+
+<p><a href="http://joebuhlig.com/dvorak-transition/">Dvorak Transition</a></p>
+
+<p><a href="http://joebuhlig.com/9/">9: Really? Journaling?</a></p>
+
+<p><a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working with OmniFocus</a></p>
+
+<p><a href="http://joebuhlig.com/newsletter">Email Newsletter</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Using the Analog to Grasp the Digital]]></title>
@@ -921,48 +983,6 @@ end hazelProcessFile</pre></noscript>
 <h2 id="ios">iOS</h2>
 
 <p>You’ll notice in the script that I’m saving the text files to my DropBox. The most common place for me to search these task reports is from my phone. With them syncing and being stored with the rest of my <a href="http://joebuhlig.com/text-file-setup-and-workflow/">text file setup</a>, I can easily search for a task or project in Editorial and determine when I completed it.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[29: Get Started and Iterate]]></title>
-    <link>http://joebuhlig.com/29/</link>
-    <pubDate>Wed, 23 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[development]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/29/</guid>
-    <description>
-        <![CDATA[In this episode, I go through the ideas behind agile development and applying them to get a minimum viable product out the door. This is exactly how OmniGroup has now gotten to the point of bringing themes back to OmniFocus. Oh, and I completely missed daylight savings.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Get-Started-and-Iterate.jpg" /><p>In this episode, I go through the ideas behind agile development and applying them to get a minimum viable product out the door. This is exactly how OmniGroup has now gotten to the point of bringing themes back to OmniFocus. Oh, and I completely missed daylight savings.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://en.wikipedia.org/wiki/Agile_software_development">Agile software development - Wikipedia</a></p>
-
-<p><a href="https://en.wikipedia.org/wiki/Waterfall_model">Waterfall model - Wikipedia</a></p>
-
-<p><a href="https://en.wikipedia.org/wiki/Minimum_viable_product">Minimum viable product - Wikipedia</a></p>
-
-<p><a href="http://people.omnigroup.com/kc/">Ken Case — The Omni Group</a></p>
-
-<p><a href="https://twitter.com/kcase/status/709491281328603136">Kens tweet about styling</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]>
     </content:encoded>
 </item>

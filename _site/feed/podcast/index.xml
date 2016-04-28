@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Tue, 26 Apr 2016 13:52:34 -0500</lastBuildDate>
+<lastBuildDate>Thu, 28 Apr 2016 10:47:02 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,119 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>34: A Web Developer Using Markdown</title>
+    <link>http://joebuhlig.com/34/</link>
+    <comments>http://joebuhlig.com/34/#comments</comments>
+    <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[writing]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/34/</guid>
+    <description>
+        <![CDATA[Markdown has become a major part of how I do all of my writing despite being a web developer. It has a lot of benefits even if you know how to write the HTML itself.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Markdown has become a major part of how I do all of my writing despite being a web developer. It has a lot of benefits even if you know how to write the HTML itself.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://daringfireball.net/">Daring Fireball</a></p>
+
+<p><a href="http://daringfireball.net/projects/markdown/basics">Daring Fireball: Markdown Basics</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig/status/718819253277753344">Twitter conversation about markdown on paper</a></p>
+
+<p><a href="http://kramdown.gettalong.org/">kramdown</a></p>
+
+<p><a href="http://fletcher.github.io/MultiMarkdown-4/tables.html">Markdown Tables</a></p>
+
+<p><a href="http://jekyllrb.com/">Jekyll • Simple, blog-aware, static sites</a></p>
+
+<p><a href="http://www.discourse.org/">Discourse</a></p>
+
+<p><a href="https://github.com/joebuhlig/discourse-feature-voting">joebuhlig/discourse-feature-voting</a></p>
+
+<p><a href="http://www.sublimetext.com/">Sublime Text: The text editor you’ll fall in love with</a></p>
+
+<p><a href="https://github.com/revolunet/sublimetext-markdown-preview">revolunet/sublimetext-markdown-preview: markdown preview and build plugin</a></p>
+
+<p><a href="https://en.support.wordpress.com/markdown/">Markdown Support — WordPress</a></p>
+
+<p><a href="http://joebuhlig.com/dvorak-transition/">Dvorak Transition</a></p>
+
+<p><a href="http://joebuhlig.com/9/">9: Really? Journaling?</a></p>
+
+<p><a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working with OmniFocus</a></p>
+
+<p><a href="http://joebuhlig.com/newsletter">Email Newsletter</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ034.mp3" length="20992324" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Markdown has become a major part of how I do all of my writing despite being a web developer. It has a lot of benefits even if you know how to write the HTML itself.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Markdown has become a major part of how I do all of my writing despite being a web developer. It has a lot of benefits even if you know how to write the HTML itself.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://daringfireball.net/">Daring Fireball</a></p>
+
+<p><a href="http://daringfireball.net/projects/markdown/basics">Daring Fireball: Markdown Basics</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig/status/718819253277753344">Twitter conversation about markdown on paper</a></p>
+
+<p><a href="http://kramdown.gettalong.org/">kramdown</a></p>
+
+<p><a href="http://fletcher.github.io/MultiMarkdown-4/tables.html">Markdown Tables</a></p>
+
+<p><a href="http://jekyllrb.com/">Jekyll • Simple, blog-aware, static sites</a></p>
+
+<p><a href="http://www.discourse.org/">Discourse</a></p>
+
+<p><a href="https://github.com/joebuhlig/discourse-feature-voting">joebuhlig/discourse-feature-voting</a></p>
+
+<p><a href="http://www.sublimetext.com/">Sublime Text: The text editor you’ll fall in love with</a></p>
+
+<p><a href="https://github.com/revolunet/sublimetext-markdown-preview">revolunet/sublimetext-markdown-preview: markdown preview and build plugin</a></p>
+
+<p><a href="https://en.support.wordpress.com/markdown/">Markdown Support — WordPress</a></p>
+
+<p><a href="http://joebuhlig.com/dvorak-transition/">Dvorak Transition</a></p>
+
+<p><a href="http://joebuhlig.com/9/">9: Really? Journaling?</a></p>
+
+<p><a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working with OmniFocus</a></p>
+
+<p><a href="http://joebuhlig.com/newsletter">Email Newsletter</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>21:40</itunes:duration>
+  </item>
 
   <item>
     <title>33: Analog vs. Digital with Mike Schmitz</title>

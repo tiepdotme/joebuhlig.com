@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"34: A Web Developer Using Markdown",
+			"image":"/assets/posts/A-Web-Developer-Using-Markdown.jpg",
+			"permalink":"/34/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"writing"
+			],
+			"excerpt": "<p>Markdown has become a major part of how I do all of my writing despite being a web developer. It has a lot of benefits even if you know how to write the HTML itself.</p>\n\n",
+			"content": "Markdown%20has%20become%20a%20major%20part%20of%20how%20I%20do%20all%20of%20my%20writing%20despite%20being%20a%20web%20developer.%20It%20has%20a%20lot%20of%20benefits%20even%20if%20you%20know%20how%20to%20write%20the%20HTML%20itself.%0A%0A%0ABecome%20a%20Patron%0A%0ADaring%20Fireball%0A%0ADaring%20Fireball:%20Markdown%20Basics%0A%0ATwitter%20conversation%20about%20markdown%20on%20paper%0A%0Akramdown%0A%0AMarkdown%20Tables%0A%0AJekyll%20%E2%80%A2%20Simple,%20blog-aware,%20static%20sites%0A%0ADiscourse%0A%0Ajoebuhlig/discourse-feature-voting%0A%0ASublime%20Text:%20The%20text%20editor%20you%E2%80%99ll%20fall%20in%20love%20with%0A%0Arevolunet/sublimetext-markdown-preview:%20markdown%20preview%20and%20build%20plugin%0A%0AMarkdown%20Support%20%E2%80%94%20WordPress%0A%0ADvorak%20Transition%0A%0A9:%20Really?%20Journaling?%0A%0AWorking%20with%20OmniFocus%0A%0AEmail%20Newsletter%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Using the Analog to Grasp the Digital",
 			"image":"/assets/posts/Using-the-Analog-to-Grasp-the-Digital.jpeg",
 			"permalink":"/using-the-analog-to-grasp-the-digital/",
