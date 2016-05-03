@@ -14,11 +14,99 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 28 Apr 2016 10:47:02 -0500</lastBuildDate>
+<lastBuildDate>Tue, 03 May 2016 11:14:07 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Creating a Personal Book Index]]></title>
+    <link>http://joebuhlig.com/creating-a-personal-book-index/</link>
+    <pubDate>Mon, 02 May 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[reading]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/creating-a-personal-book-index/</guid>
+    <description>
+        <![CDATA[I used to just pick up a book, start at the beginning, and read it to the end. I tried not to bend any pages and always used a bookmark to make sure the book still looked brand new when I was finished. I had an unwarranted fear of ruining...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Creating-a-Personal-Book-Index.jpeg" /><p>I used to just pick up a book, start at the beginning, and read it to the end. I tried not to bend any pages and always used a bookmark to make sure the book still looked brand new when I was finished. I had an unwarranted fear of ruining my books because I held them in such high regard.
+<!--more--></p>
+
+<p>I think that does the author an injustice. Yes, we’re reading the book. But are we doing anything with what we’re reading? Are we thoroughly comprehending it and engaging with the content? For me, the answer to those was “No”. Sure, I would learn a few things, but most of the time I found myself skimming the whole thing trying to find a section with the solution I was looking for or an <em>aha moment</em> to teach me something new.</p>
+
+<p>After reading this way for a long time I eventually started underlining or highlighting passages I found interesting or inspiring. That was a big step for me. But those words, despite having an impact on me, would eventually be lost. I might remember reading something in a specific book and then go back and look for it but this rarely happened.</p>
+
+<p>While reading <a href="http://now.joebuhlig.com/reading">my latest books</a> I started creating my own index of these highlights at the prompting of <a href="http://fourhourworkweek.com/2014/10/21/brain-pickings/">Tim Ferris and Maria Popova</a>. I wasn’t sure if it would be worth it or not, but I can now say that being able to glance at the back of a book to see the location of these important passages makes it a much better experience and well worth the extra seconds it takes to create it.</p>
+
+<p>What I’m doing is simple. When I underline or highlight some text, I go to the back of the book where there are always a couple blank pages, create a topic heading or find one that already exists, and I add the page number of the text I just underlined. Done.</p>
+
+<p><img class="center-image post-image-small" src="/assets/posts_extra/creating-a-personal-book-index/book-index.jpg" /></p>
+
+<p>When I’m finished reading the book, I do my best to write a quick overview for myself in a text file. As part of that process, I transcribe this book index into a digital format at the bottom of the review. This makes it possible to search for topics and see the books I’ve read that pertained to that topic. It also allows me to see what pages in the book pertain to that topic.</p>
+
+<p>The searching piece is just icing on the cake, though. To me the real joy is having that personalized index at the back of the book to thumb through. I know that if there’s something that struck me in the book, I can always get back to it quickly and easily.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Is Dvorak Worth It?]]></title>
+    <link>http://joebuhlig.com/is-dvorak-worth-it/</link>
+    <pubDate>Fri, 29 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[dvorak]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/is-dvorak-worth-it/</guid>
+    <description>
+        <![CDATA[After almost three months of typing with a Dvorak keyboard, I’ve reached some conclusions about this QWERTY alternative. Like most comparisons of this nature there are some significant pros and cons between the two. But I don’t think it’s fair to draw any conclusions until you’ve experienced both sides.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Is-Dvorak-Worth-It.jpg" /><p>After almost three months of typing with a <a href="http://joebuhlig.com/dvorak-transition/">Dvorak keyboard</a>, I’ve reached some conclusions about this QWERTY alternative. Like most comparisons of this nature there are some significant pros and cons between the two. But I don’t think it’s fair to draw any conclusions until you’ve experienced both sides.
+<!--more--></p>
+
+<p>My conclusion: <strong>I’m sticking with Dvorak</strong>.</p>
+
+<h2 id="speed">Speed</h2>
+
+<p>One of the main reasons given for using Dvorak is typing speed. Because the layout is designed to limit finger travel, the theory is that you can hit the keys much more quickly and create words faster. There are a lot of studies refuting this rationale and I don’t know what the real answer is when you look at the best of the best in each group. But I do know my own results are quite conclusive. When I started this journey I was typing 72 WPM on QWERTY. Today I’m averaging 84 WPM on Dvorak. Again, this is after only three months. And since the majority of my work is done by typing, this leads to potential gains for me even if they are small.</p>
+
+<h2 id="keyboards">Keyboards</h2>
+
+<p>One drawback of going with Dvorak is access to the physical keyboards needed to make it work. Yes, you can learn it and use a QWERTY keyboard to type Dvorak. But I find that having <a href="http://www.amazon.com/KB-Covers-DV-M-CB-2-Dvorak-keyboard/dp/B00NCD1UZ6/ref=as_li_ss_tl?ie=UTF8&amp;qid=1461856193&amp;sr=8-1&amp;linkCode=ll1&amp;tag=joebuhlig-20&amp;linkId=ada498e9c149e95d19118e594db94578">a cover</a> on top makes it a lot easier. There are a times when most typists glance even slightly at the keys for reference. Having the actual key displayed can have a big impact. I use a cover that fits both my MacBook Pro and the Apple Wireless Keyboard since those are the two I use. That is an added expense to consider here.</p>
+
+<h2 id="multiple-users">Multiple Users</h2>
+
+<p>My wife uses my primary machine from time to time and that means she needs QWERTY to remain available. What I’ve found is that it’s really a non-issue. You can set the layout on each profile and once logged in it will always goes back to that layout. Even when switching users on the lock screen it changes the layout. I sometimes need to use QWERTY from the lock screen but that’s the only time it’s an issue. My wife never has to deal with it.</p>
+
+<h2 id="rsi">RSI</h2>
+
+<p>I wouldn’t say that I have RSI but I do know when I’ve had a heavy typing day. For me that usually means typing 4,000 words in a day or more. I’ve had a few days when I hit 7,000 and my hands really need a break afterwards. I don’t have any data behind it but I know that since the switch I’ve had a couple 5,000+ days and I didn’t realize it until I saw the numbers later. I normally would have felt it at that level. To me, that’s a good indicator of positive long-term results.</p>
+
+<h2 id="ios">iOS</h2>
+
+<p>On iOS I find my biggest complaint. There is no built-in Dvorak keyboard so I end up using a third-party keyboard. But there are still times when those keyboards aren’t allowed or won’t show up reliably. Searching in Spotlight or typing in passwords are the biggest culprits I’ve found. So there are still times when I’m using QWERTY on iOS but I don’t always know when I’ll be required to do so. I would love for Apple to add this to their built-in options.</p>
+
+<h2 id="retaining-qwerty">Retaining QWERTY</h2>
+
+<p>There are still times when I’ve found myself using another computer or device. The tech and sound booth at our church is the most common one. But I also use my wife’s profile once in a while. So I still find myself typing on a QWERTY keyboard from time to time. I did a quick test out of curiosity and found that I’m still at 45 WPM on QWERTY. It’s nowhere near my original speed but that’s to be expected. I’m alright with where I am, but I’m not actively trying to keep it around.</p>
+
+<p>In the end, I’m quite happy with the transition and benefits I’m seeing with Dvorak. And since I’ve only been at it a short time, I can only hope that the positives continue to surface, my speed continues increasing, and the strain on my hands remains limited.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[34: A Web Developer Using Markdown]]></title>
@@ -782,207 +870,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Choosing OmniFocus Settings]]></title>
-    <link>http://joebuhlig.com/choosing-omnifocus-settings/</link>
-    <pubDate>Mon, 28 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[omnifocus]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/choosing-omnifocus-settings/</guid>
-    <description>
-        <![CDATA[No application setup is complete without tweaking the settings to your liking. This is the power (and struggle) of OmniFocus. Some of the available options make drastic changes while others lead to subtleties you may not notice.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Choosing-OmniFocus-Settings.jpg" /><p>No application setup is complete without tweaking the settings to your liking. This is the power (and struggle) of OmniFocus. Some of the available options make drastic changes while others lead to subtleties you may not notice.
-<!--more--></p>
-
-<p>I use the Mac version of OmniFocus as the “home base” of my setup. I make most of my changes there and let them sync to iOS. There are a few settings specific to mobile, but the majority of the following options will be dedicated to OmniFocus 2 for Mac.</p>
-
-<h2 id="general">General</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/choosing_omnifocus_settings/General_Preferences.jpg" /></p>
-
-<p>One of the most powerful advantages of high resolution screens is the ability to condense information and see the full context of the current task. The more you can see at once the easier it is to understand what’s going on. That’s one thing I love about being able to adjust the text size in OmniFocus. Try to make it as small as possible while still being able to read it. If you can see every task assigned to a project when you’re reviewing it, you can make a clearer decision about it.</p>
-
-<p>It can be painful when vital keyboard shortcuts change on you. Muscle memory is not overcome without a number of frustrating mistakes. There were a number of simple keystrokes in OmniFocus 1 ingrained in my fingers that were changed in OmniFocus 2. You can revert to the old way by using the <em>Classic Mode</em> for outlining, but when applications make changes on this scale, it’s typically for a good reason and I try to bite the bullet and change with them. It’s always possible that the old way will be dropped entirely in the future. To save myself trouble later on, I use the <em>Modern Mode</em> for outlining. And to be honest, after switching it does make a lot of sense.</p>
-
-<p>The <em>Quick Entry Shortcut</em> and the <em>Clippings Shortcut</em> are both settings you should tweak to your liking. I use a combination of the Spacebar and other modifier keys to invoke most blank capture and search mechanisms. So in my case I use Control + Option + Space to pull up the <em>Quick Entry Dialog</em>. If I’m capturing selected text or existing data, I use Command + Shift and a letter to indicate the program I want the data to land in. In this case, I use Command + Shift + O for the <em>Clippings Shortcut</em>.</p>
-
-<h2 id="organization">Organization</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/choosing_omnifocus_settings/Organization_Preferences.jpg" /></p>
-
-<p>I highly recommend cleaning up items only when they have both a Project and a Context. This means new tasks only leave your inbox when they have both of these assigned; any other scenario leaves the task at risk of not being clearly defined. Even if there needs to be a placeholder context or project, it’s still better than making a partial decision about the task. Let this setting push you to be as clear as you can.</p>
-
-<p>You have an option for doing this cleanup process automatically (as soon as the criteria is met) or when you change views or perspectives. I’ve found that it really depends on how you like to work with tasks. If you like to see completed tasks sitting there with a checkmark, set this to <em>When changing views</em>. But if you’re like me and you want your list to shrink as you check things off, set it to <em>Immediately</em>.</p>
-
-<p>Do you have a tendency to create new projects already thought out with a series of tasks that must be completed in a set order? Or do you tend to add tasks as you think of them and most of your projects don’t follow a set pattern? In the case of the former, you will likely want all your new projects to start off as sequential. I fall into the latter category and prefer them to start as parallel. That allows me to keep adding tasks to the project and have them show up on my context lists immediately.</p>
-
-<p>The last option here is for showing the projects and groups in your context lists. This is mostly preference. If you have a task group assigned to @Computer, that group will show up in your Computer context list. Personally, I feel that this adds clutter to my list, so I leave this unchecked.</p>
-
-<h2 id="layout">Layout</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/choosing_omnifocus_settings/Layout_Preferences.jpg" /></p>
-
-<p>Remember what I said about data density? I think there’s a lot of value in condensed formats. Seeing as much information as I can at one time helps me understand the situation better. So I prefer to use the <em>Custom Columns</em>  or <em>Fluid</em> layouts. You can see the exact columns I’m using in the screenshot. Those specific columns help me make the best decision on the next task to work on.</p>
-
-<h2 id="dates--times">Dates &amp; Times</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/choosing_omnifocus_settings/Date_Time_Preferences.jpg" /></p>
-
-<p>When do you want tasks to be marked as “Due Soon?” When you mark a task with a due date, when does that task show a yellow indicator? This really depends on how quickly your tasks come and go and how long it takes to complete them. In my case those combined criteria lead me to a five day lead time. I want an indicator when something is due in five days or less.</p>
-
-<p>The next three settings are about default times. You’ll want to set these in a way that makes sense based on your daily schedule. When I defer a task I want it to show up the morning of the date I set, so I use midnight as the default defer time. I typically go to bed around 9pm, so I make sure tasks are completed by then if they are due. Finally, I want to make sure every project is reviewed weekly. In rare cases, I’ll adjust a project to go further out but the vast majority of my projects need a weekly look.</p>
-
-<h2 id="notifications">Notifications</h2>
-
-<p>In 99% of cases, I turn off notifications from apps on my devices. There are very few alerts important enough to warrant a change in direction, but OmniFocus is an exception. If OmniFocus notifies me, I need to know about it. It is an indicator that I missed something and it needs to be dealt with immediately. I can’t afford to let those slide.</p>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/choosing_omnifocus_settings/Notification_Preferences.jpg" /></p>
-
-<p>To help with getting my attention, OmniFocus has the ability to use “soft” alerts. These are the dock icon badge and perspective highlights. I use both to indicate when I have tasks that are due soon or flagged. I rely on my phone for these because I prefer a single place for alerts and since my phone is always with me, it makes sense as the central hub.</p>
-
-<p>When I do get alerts, I want them to be important. I avoid due dates on my tasks as much as I can so when I see a badge icon or get a notification, it has some weight behind it. To maintain that importance, I limit alerts to tasks that are due in some way.</p>
-
-<p>I don’t use it on my Mac nearly as much as my phone, but I really like having my Dashboard (flagged and due tasks) in my Today view. It’s nice to see this list with a single swipe.</p>
-
-<p>I’ve never been a big fan of putting my tasks on the calendar. That may work for you, but I’ve never found a way to do that without creating my nemesis: clutter.</p>
-
-<h2 id="synchronization">Synchronization</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/choosing_omnifocus_settings/Synchronization_Preferences.jpg" /></p>
-
-<p>You can get fancy with how you sync your data but I prefer to trust the Omni Group. They know their data better than I do, so I stick with their service to move the data around.</p>
-
-<h2 id="update">Update</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/choosing_omnifocus_settings/Update_Preferences.jpg" /></p>
-
-<p>It’s good to get new features and bug fixes, so I enable checking for daily updates. I know that some folks prefer not to send information back to companies, and in some cases I might do the same. But the Omni Group has gained my trust and I want to help them continue to build a quality product. So in this case, I opt to send them anonymous data.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[A Record of Completed Tasks]]></title>
-    <link>http://joebuhlig.com/a-record-of-completed-tasks/</link>
-    <pubDate>Fri, 25 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[applescripts]]></category>
-
-    <category><![CDATA[hazel]]></category>
-
-    <category><![CDATA[text-files]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/a-record-of-completed-tasks/</guid>
-    <description>
-        <![CDATA[There are times when I want to look back and see what I did on a specific day. This is extremely helpful when I need a record for a client, but no matter the reason, I find myself referring to my task history frequently.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/A-Record-of-Completed-Tasks.jpg" /><p>There are times when I want to look back and see what I did on a specific day. This is extremely helpful when I need a record for a client, but no matter the reason, I find myself referring to my task history frequently.
-<!--more--></p>
-
-<p>There are two ways I access these completed tasks: in an OmniFocus perspective and in daily text files.</p>
-
-<h2 id="daily-review">Daily Review</h2>
-
-<p>The OmniFocus  perspective that I use to view my completed tasks is one of the stock perspectives, and doesn’t require a Pro account. Here are the specific settings I’m using:</p>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/a_record_of_completed_tasks/completed-perspective.jpg" /></p>
-
-<p>Some days it can be a challenge to pick up where I left off the day before. I can look at the upcoming tasks on my Dashboard but that doesn’t give me the context of what I  just finished doing for those projects. So at the end of my <a href="http://joebuhlig.com/gaining-perspective-daily-review/">Daily Review</a> I look over this Completed perspective. It’s a quick view of what I’ve been working on and helps me pick up where I left off.</p>
-
-<h2 id="text-files">Text Files</h2>
-
-<p>For longer term storage of completed tasks, I create text files detailing the progress of  tasks and projects that day. Under each project is a list of the completed tasks and their completion date.</p>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/a_record_of_completed_tasks/task-report.jpg" /></p>
-
-<p>The idea here is to create a historical record of what I did each day. It allows me to go back in time to any day I want and see exactly which projects I was working on and the progress I made.</p>
-
-<h2 id="applescript-and-hazel">AppleScript and Hazel</h2>
-
-<p>These text files are created automatically, because there’s no way I’m going to copy/paste the data into place every day. I wrote an AppleScript that creates them and the script is run by Hazel, so my Mac needs to be turned on to run it; I can’t see the text file for yesterday until my Mac has had a chance to run the script today. I should note that this script is designed to be an external script, not embedded. Here’s what the Hazel rule looks like:</p>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/a_record_of_completed_tasks/hazel-rule.jpg" /></p>
-
-<p>And here’s the external AppleScript used in the rule:</p>
-
-<noscript><pre>on hazelProcessFile(theFile)
-	set filePath to &quot;/Users/JoeBuhlig/Dropbox/Text/TaskReports/&quot; -- Where to save the resulting text file (Be sure to add the trailing &quot;/&quot;)
-	
-	-- Create the new filename as YYYYMMDD.txt
-	set todayDate to current date
-	set yestDate to todayDate - 1 * days
-	set {year:y, month:m, day:d} to yestDate
-	set fileName to y * 10000
-	set fileName to fileName + (m * 100)
-	set fileName to fileName + d
-	
-	-- Set the starting date of the report
-	set startDate to todayDate - 1 * days
-	set startDate&#39;s hours to 0
-	set startDate&#39;s minutes to 0
-	set startDate&#39;s seconds to 0
-	
-	-- Set the ending date of the report
-	set endDate to todayDate - 1 * days
-	set endDate&#39;s hours to 23
-	set endDate&#39;s minutes to 59
-	set endDate&#39;s seconds to 59
-	
-	-- Create the blank report to build from
-	set reportText to &quot;&quot;
-	
-	tell application &quot;OmniFocus&quot;
-		tell front document
-			set theProjects to every flattened project where its modification date is greater than startDate and modification date is less than endDate
-			repeat with a from 1 to length of theProjects
-				set currentProj to item a of theProjects
-				set theTasks to (every flattened task of currentProj where its completed = true and completion date is greater than startDate and completion date is less than endDate)
-				if theTasks is not equal to {} then
-					set reportText to reportText &amp; return &amp; return &amp; &quot;------------------------------&quot; &amp; return &amp; name of currentProj &amp; return
-					repeat with b from 1 to length of theTasks
-						set currentTask to item b of theTasks
-						set completedDate to completion date of currentTask
-						set completedTime to time string of completedDate
-						set reportText to reportText &amp; return &amp; name of currentTask &amp; &quot; ----- &quot; &amp; completedTime
-					end repeat
-				end if
-			end repeat
-			if reportText is equal to &quot;&quot; then
-				reportText = &quot;Nothing completed for this day.&quot;
-			end if
-			set runTime to date string of (todayDate - 1 * days)
-			set reportText to runTime &amp; return &amp; return &amp; reportText
-			set newFile to open for access filePath &amp; fileName &amp; &quot;.txt&quot; with write permission
-			write reportText to newFile
-			close access newFile
-		end tell -- end tell front document
-	end tell -- end tell application &quot;OmniFocus&quot;
-end hazelProcessFile</pre></noscript>
-<script src="https://gist.github.com/joebuhlig/7e3a15b1d75cc1d745e5.js"> </script>
-
-<h2 id="ios">iOS</h2>
-
-<p>You’ll notice in the script that I’m saving the text files to my DropBox. The most common place for me to search these task reports is from my phone. With them syncing and being stored with the rest of my <a href="http://joebuhlig.com/text-file-setup-and-workflow/">text file setup</a>, I can easily search for a task or project in Editorial and determine when I completed it.</p>
 ]]>
     </content:encoded>
 </item>

@@ -14,11 +14,99 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 28 Apr 2016 10:47:02 -0500</lastBuildDate>
+<lastBuildDate>Tue, 03 May 2016 11:14:07 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Creating a Personal Book Index]]></title>
+    <link>http://joebuhlig.com/creating-a-personal-book-index/</link>
+    <pubDate>Mon, 02 May 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[reading]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/creating-a-personal-book-index/</guid>
+    <description>
+        <![CDATA[I used to just pick up a book, start at the beginning, and read it to the end. I tried not to bend any pages and always used a bookmark to make sure the book still looked brand new when I was finished. I had an unwarranted fear of ruining...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Creating-a-Personal-Book-Index.jpeg" /><p>I used to just pick up a book, start at the beginning, and read it to the end. I tried not to bend any pages and always used a bookmark to make sure the book still looked brand new when I was finished. I had an unwarranted fear of ruining my books because I held them in such high regard.
+<!--more--></p>
+
+<p>I think that does the author an injustice. Yes, we’re reading the book. But are we doing anything with what we’re reading? Are we thoroughly comprehending it and engaging with the content? For me, the answer to those was “No”. Sure, I would learn a few things, but most of the time I found myself skimming the whole thing trying to find a section with the solution I was looking for or an <em>aha moment</em> to teach me something new.</p>
+
+<p>After reading this way for a long time I eventually started underlining or highlighting passages I found interesting or inspiring. That was a big step for me. But those words, despite having an impact on me, would eventually be lost. I might remember reading something in a specific book and then go back and look for it but this rarely happened.</p>
+
+<p>While reading <a href="http://now.joebuhlig.com/reading">my latest books</a> I started creating my own index of these highlights at the prompting of <a href="http://fourhourworkweek.com/2014/10/21/brain-pickings/">Tim Ferris and Maria Popova</a>. I wasn’t sure if it would be worth it or not, but I can now say that being able to glance at the back of a book to see the location of these important passages makes it a much better experience and well worth the extra seconds it takes to create it.</p>
+
+<p>What I’m doing is simple. When I underline or highlight some text, I go to the back of the book where there are always a couple blank pages, create a topic heading or find one that already exists, and I add the page number of the text I just underlined. Done.</p>
+
+<p><img class="center-image post-image-small" src="/assets/posts_extra/creating-a-personal-book-index/book-index.jpg" /></p>
+
+<p>When I’m finished reading the book, I do my best to write a quick overview for myself in a text file. As part of that process, I transcribe this book index into a digital format at the bottom of the review. This makes it possible to search for topics and see the books I’ve read that pertained to that topic. It also allows me to see what pages in the book pertain to that topic.</p>
+
+<p>The searching piece is just icing on the cake, though. To me the real joy is having that personalized index at the back of the book to thumb through. I know that if there’s something that struck me in the book, I can always get back to it quickly and easily.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Is Dvorak Worth It?]]></title>
+    <link>http://joebuhlig.com/is-dvorak-worth-it/</link>
+    <pubDate>Fri, 29 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[dvorak]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/is-dvorak-worth-it/</guid>
+    <description>
+        <![CDATA[After almost three months of typing with a Dvorak keyboard, I’ve reached some conclusions about this QWERTY alternative. Like most comparisons of this nature there are some significant pros and cons between the two. But I don’t think it’s fair to draw any conclusions until you’ve experienced both sides.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Is-Dvorak-Worth-It.jpg" /><p>After almost three months of typing with a <a href="http://joebuhlig.com/dvorak-transition/">Dvorak keyboard</a>, I’ve reached some conclusions about this QWERTY alternative. Like most comparisons of this nature there are some significant pros and cons between the two. But I don’t think it’s fair to draw any conclusions until you’ve experienced both sides.
+<!--more--></p>
+
+<p>My conclusion: <strong>I’m sticking with Dvorak</strong>.</p>
+
+<h2 id="speed">Speed</h2>
+
+<p>One of the main reasons given for using Dvorak is typing speed. Because the layout is designed to limit finger travel, the theory is that you can hit the keys much more quickly and create words faster. There are a lot of studies refuting this rationale and I don’t know what the real answer is when you look at the best of the best in each group. But I do know my own results are quite conclusive. When I started this journey I was typing 72 WPM on QWERTY. Today I’m averaging 84 WPM on Dvorak. Again, this is after only three months. And since the majority of my work is done by typing, this leads to potential gains for me even if they are small.</p>
+
+<h2 id="keyboards">Keyboards</h2>
+
+<p>One drawback of going with Dvorak is access to the physical keyboards needed to make it work. Yes, you can learn it and use a QWERTY keyboard to type Dvorak. But I find that having <a href="http://www.amazon.com/KB-Covers-DV-M-CB-2-Dvorak-keyboard/dp/B00NCD1UZ6/ref=as_li_ss_tl?ie=UTF8&amp;qid=1461856193&amp;sr=8-1&amp;linkCode=ll1&amp;tag=joebuhlig-20&amp;linkId=ada498e9c149e95d19118e594db94578">a cover</a> on top makes it a lot easier. There are a times when most typists glance even slightly at the keys for reference. Having the actual key displayed can have a big impact. I use a cover that fits both my MacBook Pro and the Apple Wireless Keyboard since those are the two I use. That is an added expense to consider here.</p>
+
+<h2 id="multiple-users">Multiple Users</h2>
+
+<p>My wife uses my primary machine from time to time and that means she needs QWERTY to remain available. What I’ve found is that it’s really a non-issue. You can set the layout on each profile and once logged in it will always goes back to that layout. Even when switching users on the lock screen it changes the layout. I sometimes need to use QWERTY from the lock screen but that’s the only time it’s an issue. My wife never has to deal with it.</p>
+
+<h2 id="rsi">RSI</h2>
+
+<p>I wouldn’t say that I have RSI but I do know when I’ve had a heavy typing day. For me that usually means typing 4,000 words in a day or more. I’ve had a few days when I hit 7,000 and my hands really need a break afterwards. I don’t have any data behind it but I know that since the switch I’ve had a couple 5,000+ days and I didn’t realize it until I saw the numbers later. I normally would have felt it at that level. To me, that’s a good indicator of positive long-term results.</p>
+
+<h2 id="ios">iOS</h2>
+
+<p>On iOS I find my biggest complaint. There is no built-in Dvorak keyboard so I end up using a third-party keyboard. But there are still times when those keyboards aren’t allowed or won’t show up reliably. Searching in Spotlight or typing in passwords are the biggest culprits I’ve found. So there are still times when I’m using QWERTY on iOS but I don’t always know when I’ll be required to do so. I would love for Apple to add this to their built-in options.</p>
+
+<h2 id="retaining-qwerty">Retaining QWERTY</h2>
+
+<p>There are still times when I’ve found myself using another computer or device. The tech and sound booth at our church is the most common one. But I also use my wife’s profile once in a while. So I still find myself typing on a QWERTY keyboard from time to time. I did a quick test out of curiosity and found that I’m still at 45 WPM on QWERTY. It’s nowhere near my original speed but that’s to be expected. I’m alright with where I am, but I’m not actively trying to keep it around.</p>
+
+<p>In the end, I’m quite happy with the transition and benefits I’m seeing with Dvorak. And since I’ve only been at it a short time, I can only hope that the positives continue to surface, my speed continues increasing, and the strain on my hands remains limited.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Using the Analog to Grasp the Digital]]></title>
