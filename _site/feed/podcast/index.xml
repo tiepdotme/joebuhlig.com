@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Tue, 03 May 2016 11:14:07 -0500</lastBuildDate>
+<lastBuildDate>Thu, 05 May 2016 14:45:07 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,67 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>35: Why I'm Into Productivity</title>
+    <link>http://joebuhlig.com/35/</link>
+    <comments>http://joebuhlig.com/35/#comments</comments>
+    <pubDate>Wed, 04 May 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[productivity]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/35/</guid>
+    <description>
+        <![CDATA[I’ve been actively exploring why I am big into productivity for the past two months. In part, that led me to seeing a counselor and discovering a missing piece to my mental puzzle, even though it’s likely obvious to most.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I’ve been actively exploring why I am big into productivity for the past two months. In part, that led me to seeing a counselor and discovering a missing piece to my mental puzzle, even though it’s likely obvious to most.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://store.asianefficiency.com/dojo/">Asian Efficiency Dojo</a></p>
+
+<p><a href="http://joebuhlig.com/the-omnifocus-dashboard/">The OmniFocus Dashboard</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ035.mp3" length="17662162" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[I’ve been actively exploring why I am big into productivity for the past two months. In part, that led me to seeing a counselor and discovering a missing piece to my mental puzzle, even though it’s likely obvious to most.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>I’ve been actively exploring why I am big into productivity for the past two months. In part, that led me to seeing a counselor and discovering a missing piece to my mental puzzle, even though it’s likely obvious to most.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://store.asianefficiency.com/dojo/">Asian Efficiency Dojo</a></p>
+
+<p><a href="http://joebuhlig.com/the-omnifocus-dashboard/">The OmniFocus Dashboard</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>18:12</itunes:duration>
+  </item>
 
   <item>
     <title>34: A Web Developer Using Markdown</title>

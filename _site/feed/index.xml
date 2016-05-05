@@ -14,11 +14,47 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 03 May 2016 11:14:07 -0500</lastBuildDate>
+<lastBuildDate>Thu, 05 May 2016 14:45:07 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[35: Why I'm Into Productivity]]></title>
+    <link>http://joebuhlig.com/35/</link>
+    <pubDate>Wed, 04 May 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[productivity]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/35/</guid>
+    <description>
+        <![CDATA[I’ve been actively exploring why I am big into productivity for the past two months. In part, that led me to seeing a counselor and discovering a missing piece to my mental puzzle, even though it’s likely obvious to most.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Why-I'm-Into-Productivity.jpg" /><p>I’ve been actively exploring why I am big into productivity for the past two months. In part, that led me to seeing a counselor and discovering a missing piece to my mental puzzle, even though it’s likely obvious to most.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://store.asianefficiency.com/dojo/">Asian Efficiency Dojo</a></p>
+
+<p><a href="http://joebuhlig.com/the-omnifocus-dashboard/">The OmniFocus Dashboard</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Creating a Personal Book Index]]></title>
@@ -824,52 +860,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <script src="https://gist.github.com/joebuhlig/d652e20182ed3c380e15.js"> </script>
 
 <p>The benefit of having both of these in place is the ability to compare the forecast to what actually happened. The only issue with doing this is the result: it shows just how bad forecasts really are at predicting weather. But hey, at least breakfast with my wife is less maddening.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[30: Decision Analysis Paralysis]]></title>
-    <link>http://joebuhlig.com/30/</link>
-    <pubDate>Wed, 30 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[contexts]]></category>
-
-    <category><![CDATA[task-management]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/30/</guid>
-    <description>
-        <![CDATA[When you have a large amount of data available, it’s easy to be paralyzed in making a decision about how to analyze it. The same is true when you have a lot of tasks and little clarity.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Decision-Analysis-Paralysis.jpg" /><p>When you have a large amount of data available, it’s easy to be paralyzed in making a decision about how to analyze it. The same is true when you have a lot of tasks and little clarity.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://en.wikipedia.org/wiki/Analysis_paralysis">Analysis paralysis - Wikipedia</a></p>
-
-<p><a href="http://www.briantracy.com/blog/time-management/the-truth-about-frogs/">The Truth About Frogs</a></p>
-
-<p><a href="http://joebuhlig.com/tag/reviews/">Articles about Reviews</a></p>
-
-<p><a href="https://www.ted.com/talks/daniel_goldstein_the_battle_between_your_present_and_future_self">The battle between your present and future self - TED Talk</a></p>
-
-<p><a href="http://joebuhlig.com/making-time-contexts/">Making Time for Contexts</a></p>
-
-<p><a href="http://patrickrhone.com/2014/11/11/a-time-for-things/">A Time For Things - Patrick Rhone</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]>
     </content:encoded>
 </item>

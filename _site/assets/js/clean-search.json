@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"35: Why I'm Into Productivity",
+			"image":"/assets/posts/Why-I'm-Into-Productivity.jpg",
+			"permalink":"/35/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"productivity"
+			],
+			"excerpt": "<p>I’ve been actively exploring why I am big into productivity for the past two months. In part, that led me to seeing a counselor and discovering a missing piece to my mental puzzle, even though it’s likely obvious to most.</p>\n\n",
+			"content": "I%E2%80%99ve%20been%20actively%20exploring%20why%20I%20am%20big%20into%20productivity%20for%20the%20past%20two%20months.%20In%20part,%20that%20led%20me%20to%20seeing%20a%20counselor%20and%20discovering%20a%20missing%20piece%20to%20my%20mental%20puzzle,%20even%20though%20it%E2%80%99s%20likely%20obvious%20to%20most.%0A%0A%0ABecome%20a%20Patron%0A%0AAsian%20Efficiency%20Dojo%0A%0AThe%20OmniFocus%20Dashboard%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Creating a Personal Book Index",
 			"image":"/assets/posts/Creating-a-Personal-Book-Index.jpeg",
 			"permalink":"/creating-a-personal-book-index/",
