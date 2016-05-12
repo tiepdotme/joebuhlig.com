@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"36: My Current GTD Structure",
+			"image":"/assets/posts/My-Current-GTD-Structure.jpg",
+			"permalink":"/36/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"gtd"
+			],
+			"excerpt": "<p>It’s been a while since I’ve shared my entire GTD structure. And now that I’m rereading the book, I figured it would be a good idea to share what I’m currently doing before it changes.</p>\n\n",
+			"content": "It%E2%80%99s%20been%20a%20while%20since%20I%E2%80%99ve%20shared%20my%20entire%20GTD%20structure.%20And%20now%20that%20I%E2%80%99m%20rereading%20the%20book,%20I%20figured%20it%20would%20be%20a%20good%20idea%20to%20share%20what%20I%E2%80%99m%20currently%20doing%20before%20it%20changes.%0A%0A%0ABecome%20a%20Patron%0A%0AGetting%20Things%20Done%20-%202015%20edition%0A%0AWhat%20Is%20An%20hPDA%20and%20How%20Do%20I%20Use%20It?%0A%0ADrafts%20(iTunes)%0A%0AInbox%20Zero%20Origin%0A%0AOmniFocus%0A%0AUsing%20Omnifocus%20for%20Someday/Maybe%20Lists%0A%0AAn%20Alternative%20to%20Evernote%0A%0AiOS%20Automation%20in%20OmniFocus%0A%0AUsing%20the%20Analog%20to%20Grasp%20the%20Digital%0A%0AWriting%20Articles%20By%20Hand%0A%0A12:%20The%20Higher%20Horizons%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Hazel Keeping OmniFocus Updated",
 			"image":"/assets/posts/hazel-keeping-omnifocus-updated.jpg",
 			"permalink":"/hazel-keeping-omnifocus-updated/",
