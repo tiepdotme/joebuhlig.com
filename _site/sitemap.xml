@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/what-to-review/</loc>
+    <lastmod>2016-05-13T00:00:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/36/</loc>
     <lastmod>2016-05-11T00:00:00-05:00</lastmod>
   </url>
@@ -652,13 +656,19 @@
     <loc>http://joebuhlig.com/500.html</loc>
   </url>
   <url>
-    <loc>http://joebuhlig.com/newsletter/thank-you/</loc>
+    <loc>http://joebuhlig.com/guest/thanks/</loc>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/guest/</loc>
   </url>
   <url>
     <loc>http://joebuhlig.com/newsletter/confirm/</loc>
   </url>
   <url>
     <loc>http://joebuhlig.com/</loc>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/newsletter/</loc>
   </url>
   <url>
     <loc>http://joebuhlig.com/patron/</loc>
@@ -670,7 +680,7 @@
     <loc>http://joebuhlig.com/about/</loc>
   </url>
   <url>
-    <loc>http://joebuhlig.com/newsletter/</loc>
+    <loc>http://joebuhlig.com/newsletter/thank-you/</loc>
   </url>
   <url>
     <loc>http://joebuhlig.com/tag/distractions/</loc>
@@ -1442,5 +1452,8 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/36/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/what-to-review/</loc>
     </url>
 </urlset>
