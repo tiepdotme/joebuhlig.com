@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Tue, 12 Apr 2016 13:24:18 -0500</lastBuildDate>
+<lastBuildDate>Fri, 13 May 2016 12:00:33 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,81 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>32: Doing the Task Shuffle</title>
+    <link>http://joebuhlig.com/32/</link>
+    <comments>http://joebuhlig.com/32/#comments</comments>
+    <pubDate>Wed, 13 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[ideas]]></category>
+
+    <category><![CDATA[task-management]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/32/</guid>
+    <description>
+        <![CDATA[Here’s an update on the new TextExpander pricing and a deep dive into why I wrote a script that shuffles my tasks. That’s right. There’s a big benefit to randomizing a task list.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Here’s an update on the new TextExpander pricing and a deep dive into why I wrote a script that shuffles my tasks. That’s right. There’s a big benefit to randomizing a task list.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://smilesoftware.com/textexpander/entry/textexpander-adjustments">TextExpander Adjustments - Smile</a></p>
+
+<p><a href="https://sivers.org/now">What I’m doing now - Derek Sivers</a></p>
+
+<p><a href="http://now.joebuhlig.com">Now - Joe Buhlig</a></p>
+
+<p><a href="https://www.relay.fm/mpu/314">Mac Power Users #314: Trials and Tribulations of Katie’s iPad - Relay FM</a></p>
+
+<p><a href="https://github.com/joebuhlig/OFScripts/tree/master/Task%20Shuffle">OFScripts - Task Shuffle AppleScript</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ032.mp3" length="20737537" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Here’s an update on the new TextExpander pricing and a deep dive into why I wrote a script that shuffles my tasks. That’s right. There’s a big benefit to randomizing a task list.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Here’s an update on the new TextExpander pricing and a deep dive into why I wrote a script that shuffles my tasks. That’s right. There’s a big benefit to randomizing a task list.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://smilesoftware.com/textexpander/entry/textexpander-adjustments">TextExpander Adjustments - Smile</a></p>
+
+<p><a href="https://sivers.org/now">What I’m doing now - Derek Sivers</a></p>
+
+<p><a href="http://now.joebuhlig.com">Now - Joe Buhlig</a></p>
+
+<p><a href="https://www.relay.fm/mpu/314">Mac Power Users #314: Trials and Tribulations of Katie’s iPad - Relay FM</a></p>
+
+<p><a href="https://github.com/joebuhlig/OFScripts/tree/master/Task%20Shuffle">OFScripts - Task Shuffle AppleScript</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>21:24</itunes:duration>
+  </item>
 
   <item>
     <title>31: Apps, Websites, and TextExpander Pricing</title>
