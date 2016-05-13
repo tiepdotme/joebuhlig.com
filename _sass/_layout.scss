@@ -712,7 +712,14 @@
 #discourse-comments{
     text-align: left;
     min-height: 100px;
-<<<<<<< HEAD
+    max-width: 820px;
+    width: calc(70% - 20px);
+    margin-bottom: 30px;
+    padding: 0px 20px;
+
+    @media only screen and (max-width: 767px){
+        width: calc(100% - 40px);
+    }
 }
 
 /**
@@ -746,14 +753,5 @@
         font: 14px Helvetica,Arial,sans-serif;
         font-weight: lighter !important;
         padding: 5px;
-=======
-    max-width: 820px;
-    width: calc(70% - 20px);
-    margin-bottom: 30px;
-    padding: 0px 20px;
-
-    @media only screen and (max-width: 767px){
-        width: calc(100% - 40px);
->>>>>>> master
     }
 }
