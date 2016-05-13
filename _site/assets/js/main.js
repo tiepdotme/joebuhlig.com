@@ -16,7 +16,7 @@ $(document).ready(function(){
 	$('.page-content').click(function(event){
 		$('.trigger').removeClass('active');
 	})
-	$('.post-content img').click(function(event){
+	$('.post img').not('.featured-image').click(function(event){
 		window.location.href = $(this).attr("src");
 	})
 

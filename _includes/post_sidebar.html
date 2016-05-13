@@ -1,0 +1,41 @@
+{% assign author = site.data.authors[page.author] %}
+<div class="sidebar">
+	<div class="sidebar-segment newsletter-signup">
+		<h2>Newsletter</h2>
+		<p>If you'd like to get more tips on productivity and life with technology, you can join my free email newsletter.</p>
+		{% include newsletter_form.html %}
+	</div>
+	<div class="sidebar-segment related-posts">
+		<h2>Related Articles</h2>{% assign count = 1 %}{% for post in site.posts %}{% if count <= 3 %}{% if post.url != page.url %}{% for tag in page.tags %}{% if post.tags contains tag %}
+      		<div class="related-post clear">
+      			<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+      			<p>{{ post.excerpt }}</p>
+      		</div>{% assign count = count | plus:'1' %}{% break %}{% endif %}{% endfor %}{% endif %}{% else %}{% break %}{% endif %}{% endfor %}
+			{% if count == 1 %}
+			<style>
+				.related-posts{
+					display: none;
+				}
+			</style>
+			{% endif %}
+	</div>
+	{% unless page.author == "joe_buhlig" %}
+	<div class="sidebar-segment author-details">
+		<h2>Author</h2>
+		<p>{{ author.name }}</p>
+		<p>{{ author.web }}</p>
+		<p>{{ author.twitter }}</p>
+		<p>{{ author.description }}</p>
+	</div>
+	{% endunless %}
+	<div class="sidebar-segment omnifocus-book">
+		<h2>Working with OmniFocus</h2>
+		<div class="callout-book-cover">
+			<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
+				<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
+			</a>
+		</div>
+		<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
+		<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
+	</div>
+</div>

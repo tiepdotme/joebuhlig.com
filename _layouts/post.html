@@ -1,16 +1,18 @@
 ---
 layout: default
 ---
-<div class="post">
-	<img class="featured-image" src="{{ page.image }}" />
-	<h1 class="post-title">{{ page.title }}</h1>
-	<header class="post-header">
-		<p class="post-meta">
-			{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} • {{ page.content | reading_time }}{% if page.tags %} • {% for tag in page.tags %}<a href="/tag/{{ tag }}">{{ tag }}</a>{% if forloop.index > 0 and page.tags.size != (forloop.index + 1)%}, {% endif %} {% endfor %}{% endif %}
-		</p>
-	</header>
-	<article class="post-content">
-		{{ content }}
+<div class="post-wrapper">
+	<article class="post">
+		<img class="featured-image" src="{{ page.image }}" />
+		<header class="post-header">
+			<h1 class="post-title">{{ page.title }}</h1>
+			<p class="post-meta">
+				{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} • {{ page.content | reading_time }}{% if page.tags %} • {% for tag in page.tags %}<a href="/tag/{{ tag }}">{{ tag }}</a>{% if forloop.index > 0 and page.tags.size != (forloop.index + 1)%}, {% endif %} {% endfor %}{% endif %}
+			</p>
+		</header>
+		<div class="article">
+			{{ content }}
+		</div>
 		{% if page.podcast_link %}
 			<audio controls>
 				<source src="{{ page.podcast_link }}" type="audio/mpeg">
@@ -62,33 +64,12 @@ layout: default
 				{% endif %}
 			{% endif %}
 		</div>
-		<div class="callout newsletter-signup">
-			<h2>Want more?</h2>
-			<p>If you'd like to get more tips on productivity and life with technology, you can join my free email newsletter.</p>
-			{% include newsletter_form.html %}
-		</div>
-		<div class="related-posts">
-			<h2>Related Articles</h2>{% assign count = 1 %}{% for post in site.posts %}{% if count <= 6 %}{% if post.url != page.url %}{% for tag in page.tags %}{% if post.tags contains tag %}
-          		<div class="related-post clear">
-          			<div class="related-img">
-          				<a href="{{ post.url }}"><img src="{{ post.image }}"></a>
-          			</div>
-          			<div class="related-text">
-	          			<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-	          			<p>{{ post.excerpt }}</p>
-	          		</div>
-          		</div>{% assign count = count | plus:'1' %}{% break %}{% endif %}{% endfor %}{% endif %}{% else %}{% break %}{% endif %}{% endfor %}
-			{% if count == 1 %}
-				<style>
-					.related-posts{
-						display: none;
-					}
-				</style>
-			{% endif %}
-		</div>
-		<div class="clear"></div>
 	</article>
-	
+
+	{% include post_sidebar.html %}
+
+	<div class="clear"></div>
+
 	{% if jekyll.environment == "production" %}
 	<div id='discourse-comments'></div>
 	<script type="text/javascript">
@@ -102,4 +83,5 @@ layout: default
 	  })();
 	</script>
 	{% endif %}
+	
 </div>

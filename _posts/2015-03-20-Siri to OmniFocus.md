@@ -14,8 +14,6 @@ I don’t have a daily commute but I still find myself in the car having ideas f
 
 <!--more-->
 
-{% include omnifocus_callout.html %}
-
 I use [Omnifocus](http://joebuhlig.com/omnifocus-setup-workflow/) as my list manager for [Getting Things Done](http://joebuhlig.com/getting-things-done-introduction/). Naturally, I want to collect things into the Omnifocus inbox as easily as possible. But when I’m in a situation where I can’t use my hands to write or type, I need to do it with my voice.
 
 ## The Setup

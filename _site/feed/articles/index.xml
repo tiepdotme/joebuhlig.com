@@ -14,17 +14,401 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
+<<<<<<< HEAD
 <lastBuildDate>Fri, 13 May 2016 12:37:51 -0500</lastBuildDate>
+=======
+<lastBuildDate>Thu, 12 May 2016 15:01:55 -0500</lastBuildDate>
+>>>>>>> master
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
 
 <item>
+    <title><![CDATA[Hazel Keeping OmniFocus Updated]]></title>
+    <link>http://joebuhlig.com/hazel-keeping-omnifocus-updated/</link>
+    <pubDate>Mon, 09 May 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[hazel]]></category>
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/hazel-keeping-omnifocus-updated/</guid>
+    <description>
+        <![CDATA[There are times when you need a feature in software that doesn’t currently exist. Sometimes that leads to exploring alternatives or even creating your own, which is how inventors and entrepreneurs get a lot of their ideas.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/hazel-keeping-omnifocus-updated.jpg" /><p>There are times when you need a feature in software that doesn’t currently exist. Sometimes that leads to exploring alternatives or even creating your own, which is how inventors and entrepreneurs get a lot of their ideas.
+<!--more--></p>
+
+<p>In our current app culture, there is a growing push for extensibility and the ability to interact with the core data of a service from other apps. This ability has become necessary in my core applications. I’ve reached a point where there are no apps out there that have <em>all</em> the features I’m looking for.</p>
+
+<p>I don’t see this as a bad thing. It simply means my view of software and my willingness to augment the existing functionality reaches beyond the current options. This does not mean an app is the wrong choice. Basically, I’m asking for things that either don’t exist in any current app, such as <a href="http://joebuhlig.com/32/">shuffling tasks</a>, or it means that the developer has yet to implement them.</p>
+
+<p>With something as personal as a task manager, we’re certain to find shortcomings in every option available. Some people decide to work within the system they’ve chosen while others search for and create structures to fill in the gaps with new, bolt-on features. Again, this doesn’t mean you’ve chosen the wrong tool. It means you understand yourself and the app well enough to develop a system that is specific to you.</p>
+
+<p>I’ve done this feature augmentation with OmniFocus. The Omni Group is excellent at making their apps scriptable and they have zero intentions of changing that. This is only <a href="http://joebuhlig.com/why-i-use-omnifocus/">one of the reasons</a> I’ve made OmniFocus my life manager of choice. They understand the impossibility of creating a tool that fits everyone, so they make it possible for us to customize our experience.</p>
+
+<p>The experience I’ve created on my Mac has a hands-off mentality. I’ve written a handful of AppleScripts to create features I rely on. I could run these daily or every time I want to my database to update, but here’s a better solution: <a href="https://www.noodlesoft.com/kb/">Hazel</a>.</p>
+
+<p>Hazel has the ability to run a script when a certain criteria has been met. That criteria is extremely flexible and has allowed me to fine-tune this new functionality. The following is an overview of these augmented features that Hazel has allowed me to add to OmniFocus without any manual interventions.</p>
+
+<h2 id="auto-parser">Auto-Parser</h2>
+
+<p>There has been <a href="https://discourse.omnigroup.com/t/implementation-details-for-omnifocus-2-14-automation/24179?u=joebuhlig">great progress</a> on this in recent weeks but I often have a desire to capture an idea and send it to a specific project and context from my phone. I could use the new URL scheme but it’s not as quick and smooth as using the <a href="https://github.com/joebuhlig/OFScripts/tree/master/Auto-Parser">Auto-Parser</a>. I’ve written about this <a href="http://joebuhlig.com/omnifocus-auto-parser/">in the past</a>, but the short of it is that it allows me to email a task into OmniFocus and let my Mac put it into the correct home within my database. I let Hazel run this script in the background every time OmniFocus syncs.</p>
+
+<h2 id="scheduled-reviews">Scheduled Reviews</h2>
+
+<p>Some people love the ability to do daily “mini-reviews” in order to keep their projects updated. I prefer to do them all at once and on scheduled days. Since OmniFocus doesn’t currently support this, I wrote <a href="https://github.com/joebuhlig/OFScripts/tree/master/Update%20Reviews">this script</a> which resets the “Next Review Date” to my scheduled date depending on the review cycle I have set for that project. I used to run this manually whenever I saw the perspective highlight but now I let Hazel run it (without the confirmation) on a daily basis.</p>
+
+<h2 id="weather-activation">Weather Activation</h2>
+
+<p>Sometimes I add features that I feel should be a part of the core software, like scheduled reviews. This is far from that. I wanted to turn projects on or off depending on weather conditions, namely temperature. <a href="https://github.com/joebuhlig/OFScripts/tree/master/Weather%20Activation">This script</a> does exactly that. Again, I let Hazel run it daily and it searches for projects with notes that meet a certain criteria. Based on the results, it decides if the project should be made active or not. This is really handy for spring and fall maintenance projects.</p>
+
+<h2 id="text-file-report">Text File Report</h2>
+
+<p>I generate a daily report that shows all the tasks I’ve completed that day. It gives me a historical record that I can use for clients, but mostly I just like to be able to look back on a certain day and see what I did. It’s not necessary but I like the satisfaction in seeing it. <a href="https://github.com/joebuhlig/OFScripts/tree/master/Daily%20Task%20Report">This script</a> takes the tasks completed yesterday and puts them into a text file. Hazel runs it daily to give me a single file for each day.</p>
+
+<p>Although I would love to see these features built-in, I understand they are too specific to my preferences and a broader implementation would add too much to an already intimidating and powerful tool.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Writing Articles By Hand]]></title>
+    <link>http://joebuhlig.com/writing-articles-by-hand/</link>
+    <pubDate>Fri, 06 May 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[writing]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/writing-articles-by-hand/</guid>
+    <description>
+        <![CDATA[After reflecting on the process of writing a daily schedule by hand and discussing the benefits of the analog over the digital, I’ve decided to try writing articles with pen and paper.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/writing-articles-by-hand.jpeg" /><p>After reflecting on the process of <a href="http://joebuhlig.com/22/">writing a daily schedule by hand</a> and discussing <a href="http://joebuhlig.com/33/">the benefits of the analog over the digital</a>, I’ve decided to try writing articles with pen and paper.
+<!--more--></p>
+
+<p>I’ve accrued a variety of theories for why I should to this, but ultimately, I’m curious to know if there are any benefits of analog writing tools for someone who writes for the web. Even contemplating this makes me think it’s a crazy idea. Why use pen and paper when typing is so much faster? And wasn’t typing speed part of the rationale behind my <a href="http://joebuhlig.com/dvorak-transition/">Dvorak transition</a>? On both counts, yes.</p>
+
+<p>And to be honest, I hope to return to typing them. But my curiosity won’t leave me alone. I cannot help but wonder if the physical process of putting ink on a page has benefits I’m unaware of. I can speculate what those may be, but until I give it a real and genuine attempt, I’ll never be able to let the idea go.</p>
+
+<p>It is all the unknowns surrounding the process that has me writing this away from all screens with fountain pen in hand. Will the slower pace lead me to clearer thoughts and better phrasing of my ideas? Is there a deeper satisfaction in the writing process? Does a pen help me focus more than a keyboard? My presumed answer to all of these questions is yes. If the quality of my articles goes up as a result and the extra time is available, then it is certainly worth the extra effort. And if that’s the case, why can’t this mode of thinking and way of writing be duplicated through a keyboard?</p>
+
+<p>My normal writing environment is in <em>Distraction Free Mode</em> inside Sublime Text. It’s nothing more than full screen mode with all display panels hidden. The theory should hold that I’m writing in the same environment as analog: with no outside distraction or tendencies to deviate from the task at hand. But one major difference remains with the availability of distractions. There are easily more opportunities to jump in and out of alternatives on the Mac. So in theory, the analog process should yield greater focus.</p>
+
+<p>My hope is that the slower pace allows me to process and develop my thoughts more completely. Too often I reread an article I released a few days prior and see a gaping hole in my rationale. Or I’ll see a point that I touched on but could have spelled out in more detail. My brevity isn’t wrong, per se, but I would prefer to put it all out there in most cases. My shortness is due to a lack of decision more than a set intention. I don’t want to hold back without realizing I’ve done so. I know the slower pace of hand writing my articles will have an impact, but is it a noticeable and valuable difference?</p>
+
+<p>I am also tempted to think that the overall process of writing an article will be faster. As much as I like to think that typing can be done distraction-free and focused, I have to confess to “checking in” when I have a pause in words. By stepping away from the screen entirely, those “just checks” and the time they take should disappear and allow me to develop a better phrase instead of defaulting to my original and often predictable way of stating the idea.</p>
+
+<p>I’ve committed to writing five articles by hand - this being the first - so I have four to go. It doesn’t sound like a lot but I’m fairly certain it won’t take long to draw a conclusion. I will give it my best try and explore the results because, as usual, my curiosity has gotten the better of me.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Creating a Personal Book Index]]></title>
+    <link>http://joebuhlig.com/creating-a-personal-book-index/</link>
+    <pubDate>Mon, 02 May 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[reading]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/creating-a-personal-book-index/</guid>
+    <description>
+        <![CDATA[I used to just pick up a book, start at the beginning, and read it to the end. I tried not to bend any pages and always used a bookmark to make sure the book still looked brand new when I was finished. I had an unwarranted fear of ruining...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Creating-a-Personal-Book-Index.jpeg" /><p>I used to just pick up a book, start at the beginning, and read it to the end. I tried not to bend any pages and always used a bookmark to make sure the book still looked brand new when I was finished. I had an unwarranted fear of ruining my books because I held them in such high regard.
+<!--more--></p>
+
+<p>I think that does the author an injustice. Yes, we’re reading the book. But are we doing anything with what we’re reading? Are we thoroughly comprehending it and engaging with the content? For me, the answer to those was “No”. Sure, I would learn a few things, but most of the time I found myself skimming the whole thing trying to find a section with the solution I was looking for or an <em>aha moment</em> to teach me something new.</p>
+
+<p>After reading this way for a long time I eventually started underlining or highlighting passages I found interesting or inspiring. That was a big step for me. But those words, despite having an impact on me, would eventually be lost. I might remember reading something in a specific book and then go back and look for it but this rarely happened.</p>
+
+<p>While reading <a href="http://now.joebuhlig.com/reading">my latest books</a> I started creating my own index of these highlights at the prompting of <a href="http://fourhourworkweek.com/2014/10/21/brain-pickings/">Tim Ferris and Maria Popova</a>. I wasn’t sure if it would be worth it or not, but I can now say that being able to glance at the back of a book to see the location of these important passages makes it a much better experience and well worth the extra seconds it takes to create it.</p>
+
+<p>What I’m doing is simple. When I underline or highlight some text, I go to the back of the book where there are always a couple blank pages, create a topic heading or find one that already exists, and I add the page number of the text I just underlined. Done.</p>
+
+<p><img class="center-image post-image-small" src="/assets/posts_extra/creating-a-personal-book-index/book-index.jpg" /></p>
+
+<p>When I’m finished reading the book, I do my best to write a quick overview for myself in a text file. As part of that process, I transcribe this book index into a digital format at the bottom of the review. This makes it possible to search for topics and see the books I’ve read that pertained to that topic. It also allows me to see what pages in the book pertain to that topic.</p>
+
+<p>The searching piece is just icing on the cake, though. To me the real joy is having that personalized index at the back of the book to thumb through. I know that if there’s something that struck me in the book, I can always get back to it quickly and easily.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Is Dvorak Worth It?]]></title>
+    <link>http://joebuhlig.com/is-dvorak-worth-it/</link>
+    <pubDate>Fri, 29 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[dvorak]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/is-dvorak-worth-it/</guid>
+    <description>
+        <![CDATA[After almost three months of typing with a Dvorak keyboard, I’ve reached some conclusions about this QWERTY alternative. Like most comparisons of this nature there are some significant pros and cons between the two. But I don’t think it’s fair to draw any conclusions until you’ve experienced both sides.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Is-Dvorak-Worth-It.jpg" /><p>After almost three months of typing with a <a href="http://joebuhlig.com/dvorak-transition/">Dvorak keyboard</a>, I’ve reached some conclusions about this QWERTY alternative. Like most comparisons of this nature there are some significant pros and cons between the two. But I don’t think it’s fair to draw any conclusions until you’ve experienced both sides.
+<!--more--></p>
+
+<p>My conclusion: <strong>I’m sticking with Dvorak</strong>.</p>
+
+<h2 id="speed">Speed</h2>
+
+<p>One of the main reasons given for using Dvorak is typing speed. Because the layout is designed to limit finger travel, the theory is that you can hit the keys much more quickly and create words faster. There are a lot of studies refuting this rationale and I don’t know what the real answer is when you look at the best of the best in each group. But I do know my own results are quite conclusive. When I started this journey I was typing 72 WPM on QWERTY. Today I’m averaging 84 WPM on Dvorak. Again, this is after only three months. And since the majority of my work is done by typing, this leads to potential gains for me even if they are small.</p>
+
+<h2 id="keyboards">Keyboards</h2>
+
+<p>One drawback of going with Dvorak is access to the physical keyboards needed to make it work. Yes, you can learn it and use a QWERTY keyboard to type Dvorak. But I find that having <a href="http://www.amazon.com/KB-Covers-DV-M-CB-2-Dvorak-keyboard/dp/B00NCD1UZ6/ref=as_li_ss_tl?ie=UTF8&amp;qid=1461856193&amp;sr=8-1&amp;linkCode=ll1&amp;tag=joebuhlig-20&amp;linkId=ada498e9c149e95d19118e594db94578">a cover</a> on top makes it a lot easier. There are a times when most typists glance even slightly at the keys for reference. Having the actual key displayed can have a big impact. I use a cover that fits both my MacBook Pro and the Apple Wireless Keyboard since those are the two I use. That is an added expense to consider here.</p>
+
+<h2 id="multiple-users">Multiple Users</h2>
+
+<p>My wife uses my primary machine from time to time and that means she needs QWERTY to remain available. What I’ve found is that it’s really a non-issue. You can set the layout on each profile and once logged in it will always goes back to that layout. Even when switching users on the lock screen it changes the layout. I sometimes need to use QWERTY from the lock screen but that’s the only time it’s an issue. My wife never has to deal with it.</p>
+
+<h2 id="rsi">RSI</h2>
+
+<p>I wouldn’t say that I have RSI but I do know when I’ve had a heavy typing day. For me that usually means typing 4,000 words in a day or more. I’ve had a few days when I hit 7,000 and my hands really need a break afterwards. I don’t have any data behind it but I know that since the switch I’ve had a couple 5,000+ days and I didn’t realize it until I saw the numbers later. I normally would have felt it at that level. To me, that’s a good indicator of positive long-term results.</p>
+
+<h2 id="ios">iOS</h2>
+
+<p>On iOS I find my biggest complaint. There is no built-in Dvorak keyboard so I end up using a third-party keyboard. But there are still times when those keyboards aren’t allowed or won’t show up reliably. Searching in Spotlight or typing in passwords are the biggest culprits I’ve found. So there are still times when I’m using QWERTY on iOS but I don’t always know when I’ll be required to do so. I would love for Apple to add this to their built-in options.</p>
+
+<h2 id="retaining-qwerty">Retaining QWERTY</h2>
+
+<p>There are still times when I’ve found myself using another computer or device. The tech and sound booth at our church is the most common one. But I also use my wife’s profile once in a while. So I still find myself typing on a QWERTY keyboard from time to time. I did a quick test out of curiosity and found that I’m still at 45 WPM on QWERTY. It’s nowhere near my original speed but that’s to be expected. I’m alright with where I am, but I’m not actively trying to keep it around.</p>
+
+<p>In the end, I’m quite happy with the transition and benefits I’m seeing with Dvorak. And since I’ve only been at it a short time, I can only hope that the positives continue to surface, my speed continues increasing, and the strain on my hands remains limited.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Using the Analog to Grasp the Digital]]></title>
+    <link>http://joebuhlig.com/using-the-analog-to-grasp-the-digital/</link>
+    <pubDate>Mon, 25 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[analog]]></category>
+
+    <category><![CDATA[digital]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/using-the-analog-to-grasp-the-digital/</guid>
+    <description>
+        <![CDATA[I’m guilty of looking for ways to accomplish tasks on the computer long before it crosses my mind to try paper or the whiteboard. It’s almost embarrassing sometimes. The idea of going to a notepad as a first instinct is hard for me to grasp.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Using-the-Analog-to-Grasp-the-Digital.jpeg" /><p>I’m guilty of looking for ways to accomplish tasks on the computer long before it crosses my mind to try paper or the whiteboard. It’s almost embarrassing sometimes. The idea of going to a notepad as a first instinct is hard for me to grasp.
+<!--more--></p>
+
+<p>I’m slowly growing fond of pen and paper. I’ve written meeting notes on paper for a long time but it’s only been the last few months that I’ve really embraced the value of writing daily schedules and brainstorming sessions on a notepad. And for someone so devoted to digital tools I must confess that the results have baffled me.</p>
+
+<p>Mike Schmitz and I <a href="http://joebuhlig.com/33/">talked about this</a> on the podcast recently. Because physically writing something down engages more of your body and requires you to use more of your self to get the idea out of your mind, you have more memory indicators created in your brain. In turn, it leaves you with more connections made and more ability to recall the thing you wrote down. In other words, writing it on paper helps you remember more than typing it into a computer.</p>
+
+<p>When I started writing out a daily plan on paper I found that I didn’t need to reference the paper nearly as often as I used to reference my digital calendar. I was able to move from one task to the next with little or no transition cost. I knew what the next step of my day was without needing to look at the paper.</p>
+
+<p>After doing this for the better side of a month I went back to using my digital calendar with no loss of results over the paper version. The experience of writing it down with pen and paper solidified the rationale and nuances of the process. It showed me the importance of deciding where the minutes of my day will go and the repetitiveness of my real schedule began to come through. It was only after I developed the memory through handwriting the daily schedule that I was able to best utilize the digital calendar and understand the cycles I naturally fall into.</p>
+
+<p>And that proved to have great value. Developing an awareness of how you work is the best way to create truly productive systems. But it turns out that once I went back to the digital calendar, the side effects of relying on calendar alerts and the use of repeating events aren’t worth the move back to digital. I can now understand how to set up my digital calendar in more detail. But doing so and using it leaves me with symptoms I’d rather not have. So I’m back on the paper for my daily schedule.</p>
+
+<p>The time it takes to write it out by hand and think it through in detail every day develops a memory that I can use throughout the day and relieves me of the robotic nature of recurring events that aren’t regularly kept in check.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[The OmniFocus Dashboard]]></title>
+    <link>http://joebuhlig.com/the-omnifocus-dashboard/</link>
+    <pubDate>Fri, 22 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/the-omnifocus-dashboard/</guid>
+    <description>
+        <![CDATA[I write and talk about my OmniFocus Dashboard a lot. And that’s for good reason: it’s the central hub of my day-to-day work and the place where my decisions about the day surface.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/The-OmniFocus-Dashboard.png" /><p>I write and talk about my OmniFocus Dashboard a lot. And that’s for good reason: it’s the central hub of my day-to-day work and the place where my decisions about the day surface.
+<!--more--></p>
+
+<p>The intent behind the Dashboard is to show me a list of tasks to be completed today. I want those tasks to be shown in order, meaning I start at the top and work to the bottom. There’s no need to choose the next task because I’ve already decided ahead of time.</p>
+
+<p>Before I get too far into this, let’s go through the setup. All the Dashboard contains are tasks that are <em>Due or Flagged</em>. The task needs to have a due date within the next five days or I must manually flag it before it shows up here. As for the display settings, I want it to group tasks by context but sort by project.</p>
+
+<p><img class="center-image post-image-mini" src="/assets/posts_extra/the-omnifocus-dashboard/settings.png" /></p>
+
+<p><img class="right-image post-image-tiny" style="max-width: 100px;" src="/assets/posts_extra/the-omnifocus-dashboard/contexts.png" /></p>
+
+<p>I keep my contexts in order of importance from top to bottom. And I give my @Admin tasks the highest priority. If the task impacts the state of my system and accuracy of the projects in it, I want that task to be completed first. I want to trust that I have all the appropriate information collected and in place before I move on. With the perspective grouped by context, it first sorts the tasks by context; and with the @Admin context at the top of my list, it shows up first on the Dashboard.</p>
+
+<p><img class="left-image post-image-tiny" style="max-width: 125px;" src="/assets/posts_extra/the-omnifocus-dashboard/projects.png" /></p>
+
+<p>I also sort my projects in order of importance. See a theme here? At the top of my project list is a folder called <em>Guidance</em>. It holds my higher horizons, reviews, and meta projects. Again, I want these at the top of the list because these projects keep my daily activities in alignment with my long-term goals. With the Dashboard sorted by project, the tasks within the context groupings maintain the priority I give my projects. I should also note that all projects in this Guidance folder are flagged and their tasks are given the @Admin context. The flag is what pulls them into the Dashboard and the context ensures they will always be at the top.</p>
+
+<h2 id="reviews">Reviews</h2>
+
+<p>The projects at the very top are my reviews: daily, weekly, monthly, and annual in that order. I need to complete my daily review before I go on to the weekly review. The same goes for the monthly and annual reviews. I can’t make decisions about which projects to take on or drop if there are still unprocessed tasks in my inbox. The system must be up-to-date beforehand. Again, these projects are flagged and all their tasks are given the @Admin context, so these tasks show up in the first grouping of the Dashboard.</p>
+
+<h2 id="meta">Meta</h2>
+
+<p>Underneath my reviews are a couple meta projects I’ve put in place to help me accomplish my weekly commitments and the projects that are important to me. The first is called <a href="http://joebuhlig.com/the-important-not-urgent-projects/"><em>Important Projects</em></a> and it’s set to repeat daily.  It’s a simple list that helps me put valued projects first and it’s the first thing I do once my reviews are completed. These aren’t tasks themselves but they prompt me to go elsewhere in OmniFocus to complete a task that pertains to the original item.</p>
+
+<p>The second meta project is called <em>Weekly Creation</em> and it repeats weekly. I do my best to write two articles for this site and record one podcast episode each week. This project holds a few tasks that come after the <em>Important Projects</em> tasks. I need to have this week’s content created before I move on to other work for the week. Again, these two projects are flagged to add them to the Dashboard.</p>
+
+<h2 id="due-or-flagged">Due or Flagged</h2>
+
+<p>Once all reviews and important tasks are completed, I move on to the tasks that will be due soon or that I’ve decided to work that today. The due soon tasks show up automatically based on how close I am to the due date. For me, that means five days out from the assigned date. I want a little lead time on these. But I fill the remainder of my day’s work with tasks that I’ve flagged. Sometimes these apply to the projects on my <em>Important Projects</em> list, but often times they are simple one-off tasks that are bugging me and I want done.</p>
+
+<h2 id="reality">Reality</h2>
+
+<p>The nice thing about this Dashboard is that it is mostly robotic. It happens on its own. Each day these tasks show up without me needing to do anything. But there’s risk involved with that. You can become numb to seeing them every day; if you skip one day, it becomes easy to skip them the next; or you start looking through the list, get overwhelmed by it, and do nothing. For me, the problem can arise when I start re-thinking my previous decisions that led to the list in the first place. I’m not always the best at sticking to it, but I know if I trust my previous self that I have a greater tendency to create flow and accomplish more by the end of the day.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[The Flawed Foundation of Diets]]></title>
+    <link>http://joebuhlig.com/the-flawed-foundation-of-diets/</link>
+    <pubDate>Mon, 18 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[food]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/the-flawed-foundation-of-diets/</guid>
+    <description>
+        <![CDATA[After working on multiple sides of agriculture and seeing how the back-end of the food industry operates, I’ve come to the realization that there is some really bad information out there about agriculture and how we decide what to eat.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/the-flawed-foundation-of-diets.jpg" /><p>After working on multiple sides of agriculture and seeing how the back-end of the food industry operates, I’ve come to the realization that there is some really bad information out there about agriculture and how we decide what to eat.
+<!--more--></p>
+
+<p>Most of our decisions about what to eat are adopted from a huge list of diets. There are a lot of cultural diets, but anymore most Western diets are put together with a purpose in mind. Some of them help us put on muscle and some help lower cholesterol levels. There’s even a <a href="http://www.tofugu.com/japan/japan-long-breath-diet/">breathing diet</a> to help you lose weight. No matter the goal, diets face an underlying flaw in their design.</p>
+
+<p>When you break it down, a diet is simply a recommendation on how to achieve health through the food that you consume. It’s a way of eating that provides you with a long, energetic life. But the problem we face today is the plethora of diets out there all claiming to be the best way to eat. A lot of these diets contradict each other and leave us wondering which ones are worthwhile. What’s worse is the regular discovery of new scientific evidence revealing the fact that some diets actually make us <em>less</em> healthy than we were originally.</p>
+
+<p>Why is that? Let’s go back to the premise of what a diet is: a recommendation on how to eat. In order to make an honest and accurate recommendation we need information and experience with the thing we are recommending. Generally speaking, you wouldn’t ask a web developer to work on your car. Most developers don’t have the deep knowledge about cars that they would need to find the issue with your motor. The food industry is much the same.</p>
+
+<p>The vast majority of diets are based on research done by scientists. We run across diets created by individuals once in a while but those typically have a base derived from the research done by scientists. We learn that antioxidants can help fight or prevent cancer, so we put together a recommendation on how to get more of them into our daily food intake. We even go to the extreme of adding them into products where they don’t naturally exist so that we can consume even more of them. But that mindset can give us <a href="http://www.scientificamerican.com/article/antioxidants-may-make-cancer-worse/">alarming results</a>.</p>
+
+<p>Any time we develop new research that shows a way to prevent or fight a disease or that shows the health benefits of a specific nutrient, we blow it out of proportion. You would think that with all the research being done and the experience we have with eating that we would know how to eat healthfully. Why can’t we get this right?</p>
+
+<p>In order to make a perfect recommendation, you have to know <em>everything</em> about the thing you’re recommending. If you don’t know everything about it, there will inevitably be flaws in the rationale behind the recommendation. Sometimes those flaws are no big deal but sometimes they have unexpected results.</p>
+
+<p>Say I recommend a wireless router to a friend. It’s one I’ve used for years and have a great experience with. My friend trusts me so he buys the router. He sets it up and has nothing but issues with it. I come over and give it a try with no luck. After digging into it, I find out that this router doesn’t play nice with his specific modem. I made what I thought was a great recommendation but it turned out to be a nightmare for my friend. If had known about the pairing issues of that combination, I wouldn’t have recommended it. I didn’t know <em>everything</em> about the router even though I thought it was excellent.</p>
+
+<p>We have a lot of data about the human body. We understand things about it that our great-grandparents could only speculate about. And that means we have a ton of information at our disposal that we can use to build the perfect recommendation on how to eat. But remember what I said earlier:</p>
+
+<blockquote>
+  <p>In order to make a perfect recommendation, you have to know <em>everything</em> about the thing you’re recommending.</p>
+</blockquote>
+
+<p>In order to make the perfect diet, we have to know <em>everything</em> about the human body. We have to know about every nutrient that exists, how they work in combinations, and what our digestive system does with each one. We also have to understand how we break those nutrients down and how they help brain function. We need to know how our nutritional needs change as we age and develop. But it turns out there’s a lot we don’t know about ourselves:</p>
+
+<p><a href="http://www.businessinsider.com/what-we-know-about-the-brain-2015-5">What we know about the brain</a></p>
+
+<p><a href="https://www.newscientist.com/round-up/ten-mysteries-of-you">Ten things we don’t understand about humans</a></p>
+
+<p><a href="http://mentalfloss.com/article/65435/scientists-discover-new-part-human-body">Scientists Discover a New Part of the Human Body</a></p>
+
+<p><a href="https://www.sciencenews.org/article/body%E2%80%99s-bacteria-don%E2%80%99t-outnumber-human-cells-so-much-after-all">Body’s bacteria don’t outnumber human cells so much after all</a></p>
+
+<p>The other side of this is that we don’t even understand the food itself well enough to know how it fits into our own nutrition. Take the tomato for example. It’s consumed all over the world and yet we know very little about <a href="http://www.nytimes.com/2012/05/31/science/the-tomato-ripe-juicy-and-bursting-with-genes.html">why it has more genes</a> than we do. If we can’t explain everything about our own bodies and the food that we eat, how can we expect anyone to develop a diet that completely meets our nutritional needs?</p>
+
+<p>It simply isn’t possible to develop a diet that is completely accurate and 100% reliable. We don’t know enough to do that. Yes, we can put together good guesses and see great results, but we often don’t see the long-term effects for many years and by that time we may have learned that it was actually a really bad idea all along.</p>
+
+<p>Scientists are doing an excellent job of learning about us and the food we eat. We’ve been able to create diets for people struggling with diseases and help patients extend their lives and have a higher quality of life at the same time. There’s a lot of value in these continued attempts to make the best recommendations we can. And the more we learn about ourselves, the better these recommendations get. But we will very likely never have the ability to build the perfect diet and we will never be able to manufacture the perfect food.</p>
+
+<p>At the end of the day, we simply need to keep in mind that the diets we choose to follow are never ideal. Scientists are great at giving us information to follow, but we need to remember the basics when we decide what to eat.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Evernote vs. Raw Files]]></title>
+    <link>http://joebuhlig.com/evernote-vs-raw-files/</link>
+    <pubDate>Fri, 15 Apr 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[evernote]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/evernote-vs-raw-files/</guid>
+    <description>
+        <![CDATA[Ever since I published an article about leaving Evernote I’ve received numerous recommendations for alternatives. It seems there is an endless supply of catchall buckets that you can drop information into.  I appreciate all the ideas, but it isn’t the point.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Evernote-vs-Raw-Files.jpg" /><p>Ever since I published an <a href="http://joebuhlig.com/an-alternative-to-evernote/">article about leaving Evernote</a> I’ve received numerous recommendations for alternatives. It seems there is an endless supply of catchall buckets that you can drop information into.  I appreciate all the ideas, but it isn’t the point.
+<!--more--></p>
+
+<p>The majority of my complaints with Evernote revolve around portability and a proprietary format. It’s not an easy task to work with the notes in other applications and it’s not trivial to take the text out of the note, work on it, and bring it back in on iOS. But there are a lot of the details that have me avoiding Evernote and its alternatives.</p>
+
+<h2 id="formatting-text">Formatting Text</h2>
+
+<p>I just don’t do it. 95% of all my writing is in markdown. I’m even starting to do this when I take handwritten notes. The only time I don’t use markdown is when I’m creating a Pages document for a client, which is rare anymore. So I never have a need to create rich text in any way. That mostly stems from my <a href="http://joebuhlig.com/choosing-the-right-medium/">medium of sharing words</a>: the web. Everything eventually ends up in HTML and the words I type that <em>don’t</em> end up on the web are short-form or for personal reference. In either case, I don’t have the need or the time to make something bold or change a font size. To me, it has just as much impact in its natural state as it does formatted.</p>
+
+<h2 id="checklists">Checklists</h2>
+
+<p>I used to keep all my checklists in Evernote. I even found a way to do <a href="http://joebuhlig.com/recurring-checklists-in-evernote/">recurring checklists in Evernote</a>. But that was before I moved <em>every</em> task item into OmniFocus. My Evernote lists worked great at the time, but I prefer the consolidation of every action item in one place and all reference material in a separate place.</p>
+
+<h2 id="pictures-and-files">Pictures and Files</h2>
+
+<p>One major benefit to using Evernote is the ability to keep pictures and files right alongside of the text that you’re storing. It’s an awesome feature, but it comes with a lot of downsides. What if I need to edit the picture or file? It’s rare that I don’t make changes to them in some way. It might be annotations or adding lines to a spreadsheet but if I want to do anything with them I need to make sure I’m on my Mac. It works pretty well there, but the moment you try this on iOS it gets really messy, really fast. The extra work and time involved in pulling it off is not for me. Keeping everything in a single folder in DropBox is much more compatible with the tools I prefer to use.</p>
+
+<h2 id="storage-style">Storage Style</h2>
+
+<p>I’m grateful for all the suggestions on alternatives to Evernote. I now know there are a lot of great ones out there. But I think I’ve developed a new (old?) information storage preference. I enjoy the flexibility of working with standard file types themselves. They’re easy to use and predict, and my use of them is not dependent on the features of a single company or application. If I want to make edits to my information, I don’t have to use a specific app to do it. And I can move from one system to another with little to no overhead and migration steps. I’m free from a single ecosystem; that’s what I like about it.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
     <title><![CDATA[The Important (Not Urgent) Projects]]></title>
     <link>http://joebuhlig.com/the-important-not-urgent-projects/</link>
     <pubDate>Mon, 11 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -68,7 +452,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <title><![CDATA[And Now...]]></title>
     <link>http://joebuhlig.com/and-now/</link>
     <pubDate>Fri, 08 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -98,7 +482,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <title><![CDATA[Timing Tasks]]></title>
     <link>http://joebuhlig.com/timing-tasks/</link>
     <pubDate>Mon, 04 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -146,7 +530,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <title><![CDATA[A Text File Weather Forecast]]></title>
     <link>http://joebuhlig.com/a-text-file-weather-forecast/</link>
     <pubDate>Fri, 01 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -316,7 +700,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <title><![CDATA[Choosing OmniFocus Settings]]></title>
     <link>http://joebuhlig.com/choosing-omnifocus-settings/</link>
     <pubDate>Mon, 28 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -332,16 +716,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <content:encoded>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Choosing-OmniFocus-Settings.jpg" /><p>No application setup is complete without tweaking the settings to your liking. This is the power (and struggle) of OmniFocus. Some of the available options make drastic changes while others lead to subtleties you may not notice.
 <!--more--></p>
-
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
 
 <p>I use the Mac version of OmniFocus as the “home base” of my setup. I make most of my changes there and let them sync to iOS. There are a few settings specific to mobile, but the majority of the following options will be dedicated to OmniFocus 2 for Mac.</p>
 
@@ -414,7 +788,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <title><![CDATA[A Record of Completed Tasks]]></title>
     <link>http://joebuhlig.com/a-record-of-completed-tasks/</link>
     <pubDate>Fri, 25 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -527,7 +901,7 @@ end hazelProcessFile</pre></noscript>
     <title><![CDATA[A Minimal Alfred Theme]]></title>
     <link>http://joebuhlig.com/alfred-theme/</link>
     <pubDate>Tue, 22 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -553,7 +927,7 @@ end hazelProcessFile</pre></noscript>
     <title><![CDATA[Favorite Alfred Tricks]]></title>
     <link>http://joebuhlig.com/favorite-alfred-tricks/</link>
     <pubDate>Mon, 21 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -627,7 +1001,7 @@ end hazelProcessFile</pre></noscript>
     <title><![CDATA[Text File Setup and Workflow]]></title>
     <link>http://joebuhlig.com/text-file-setup-and-workflow/</link>
     <pubDate>Fri, 18 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -699,7 +1073,7 @@ end hazelProcessFile</pre></noscript>
     <title><![CDATA[Choosing the Right Medium]]></title>
     <link>http://joebuhlig.com/choosing-the-right-medium/</link>
     <pubDate>Mon, 14 Mar 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -837,7 +1211,7 @@ $("table").tablesorter();
     <title><![CDATA[Behind The Scenes]]></title>
     <link>http://joebuhlig.com/behind-the-scenes/</link>
     <pubDate>Fri, 11 Mar 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -917,7 +1291,7 @@ $("table").tablesorter();
     <title><![CDATA[Using GTD As A Woodworker]]></title>
     <link>http://joebuhlig.com/using-gtd-as-a-woodworker/</link>
     <pubDate>Mon, 07 Mar 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -969,7 +1343,7 @@ $("table").tablesorter();
     <title><![CDATA[Using GTD As A Man]]></title>
     <link>http://joebuhlig.com/using-gtd-as-a-man/</link>
     <pubDate>Fri, 04 Mar 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1027,7 +1401,7 @@ $("table").tablesorter();
     <title><![CDATA[Using GTD As A Dad]]></title>
     <link>http://joebuhlig.com/using-gtd-as-a-dad/</link>
     <pubDate>Mon, 29 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1079,7 +1453,7 @@ $("table").tablesorter();
     <title><![CDATA[Using GTD As A Husband]]></title>
     <link>http://joebuhlig.com/using-gtd-as-a-husband/</link>
     <pubDate>Fri, 26 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1153,7 +1527,7 @@ $("table").tablesorter();
     <title><![CDATA[Using GTD As A Writer]]></title>
     <link>http://joebuhlig.com/using-gtd-as-a-writer/</link>
     <pubDate>Mon, 22 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1209,7 +1583,7 @@ $("table").tablesorter();
     <title><![CDATA[Using GTD As A Homeowner]]></title>
     <link>http://joebuhlig.com/using-gtd-as-a-homeowner/</link>
     <pubDate>Fri, 19 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1265,7 +1639,7 @@ $("table").tablesorter();
     <title><![CDATA[The Value of Tradition]]></title>
     <link>http://joebuhlig.com/the-value-of-tradition/</link>
     <pubDate>Mon, 15 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1299,7 +1673,7 @@ $("table").tablesorter();
     <title><![CDATA[An Alternative to Evernote]]></title>
     <link>http://joebuhlig.com/an-alternative-to-evernote/</link>
     <pubDate>Fri, 12 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1392,7 +1766,7 @@ $("table").tablesorter();
     <title><![CDATA[How to Create Energizing Rituals]]></title>
     <link>http://joebuhlig.com/how-to-create-energizing-rituals/</link>
     <pubDate>Mon, 08 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1458,7 +1832,7 @@ $("table").tablesorter();
     <title><![CDATA[Budgeting and Irregular Expenses]]></title>
     <link>http://joebuhlig.com/budgeting-and-irregular-expenses/</link>
     <pubDate>Fri, 05 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1498,7 +1872,7 @@ $("table").tablesorter();
     <title><![CDATA[The Importance of Data Visualizations]]></title>
     <link>http://joebuhlig.com/the-importance-of-data-visualizations/</link>
     <pubDate>Mon, 01 Feb 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1542,7 +1916,7 @@ $("table").tablesorter();
     <title><![CDATA[Time and Dollars]]></title>
     <link>http://joebuhlig.com/time-and-dollars/</link>
     <pubDate>Fri, 29 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1610,7 +1984,7 @@ $("table").tablesorter();
     <title><![CDATA[Tracking Time with Launch Center Pro]]></title>
     <link>http://joebuhlig.com/tracking-time-with-launch-center-pro/</link>
     <pubDate>Mon, 25 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1672,7 +2046,7 @@ $("table").tablesorter();
     <title><![CDATA[A New Discussion]]></title>
     <link>http://joebuhlig.com/a-new-discussion/</link>
     <pubDate>Fri, 22 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1716,7 +2090,7 @@ $("table").tablesorter();
     <title><![CDATA[Just a Laptop]]></title>
     <link>http://joebuhlig.com/just-a-laptop/</link>
     <pubDate>Mon, 18 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1756,7 +2130,7 @@ $("table").tablesorter();
     <title><![CDATA[Dictating vs Typing]]></title>
     <link>http://joebuhlig.com/dictating-vs-typing/</link>
     <pubDate>Fri, 15 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1794,7 +2168,7 @@ $("table").tablesorter();
     <title><![CDATA[Mac Navigation]]></title>
     <link>http://joebuhlig.com/mac-navigation/</link>
     <pubDate>Mon, 11 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -1834,7 +2208,7 @@ $("table").tablesorter();
     <title><![CDATA[Dvorak Transition]]></title>
     <link>http://joebuhlig.com/dvorak-transition/</link>
     <pubDate>Fri, 08 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2301,7 +2675,7 @@ $("table").tablesorter();
     <title><![CDATA[2015 by the Numbers]]></title>
     <link>http://joebuhlig.com/2015-by-the-numbers/</link>
     <pubDate>Tue, 05 Jan 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2442,7 +2816,7 @@ $("table").tablesorter();
     <title><![CDATA[Writing a Book with GitHub]]></title>
     <link>http://joebuhlig.com/writing-a-book-with-github/</link>
     <pubDate>Mon, 28 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2496,7 +2870,7 @@ $("table").tablesorter();
     <title><![CDATA[Trust & Let Loose]]></title>
     <link>http://joebuhlig.com/trust-let-loose/</link>
     <pubDate>Fri, 25 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2534,7 +2908,7 @@ $("table").tablesorter();
     <title><![CDATA[Bad Bar Charts]]></title>
     <link>http://joebuhlig.com/bad-bar-charts/</link>
     <pubDate>Mon, 21 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2606,7 +2980,7 @@ $("table").tablesorter();
     <title><![CDATA[Merry Christmas]]></title>
     <link>http://joebuhlig.com/christmas-2015/</link>
     <pubDate>Fri, 18 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2638,7 +3012,7 @@ $("table").tablesorter();
     <title><![CDATA[Monthly Planning]]></title>
     <link>http://joebuhlig.com/monthly-planning/</link>
     <pubDate>Mon, 14 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2699,7 +3073,7 @@ $("table").tablesorter();
     <title><![CDATA[TextExpander Snippet Nomenclature]]></title>
     <link>http://joebuhlig.com/textexpander-snippet-nomenclature/</link>
     <pubDate>Fri, 11 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2867,7 +3241,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Keeping Up with Ideas]]></title>
     <link>http://joebuhlig.com/keeping-up-with-ideas/</link>
     <pubDate>Mon, 07 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2922,7 +3296,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Generating Creative Energy]]></title>
     <link>http://joebuhlig.com/generating-creative-energy/</link>
     <pubDate>Fri, 04 Dec 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -2985,7 +3359,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Breaking the Cycle]]></title>
     <link>http://joebuhlig.com/breaking-the-cycle/</link>
     <pubDate>Fri, 13 Nov 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3045,7 +3419,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Reviews and Scripting - Learn OmniFocus Webinar]]></title>
     <link>http://joebuhlig.com/reviews-and-scripting-learn-omnifocus-webinar/</link>
     <pubDate>Wed, 11 Nov 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3081,7 +3455,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Take a Break]]></title>
     <link>http://joebuhlig.com/take-a-break/</link>
     <pubDate>Fri, 06 Nov 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3116,7 +3490,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Working with OmniFocus]]></title>
     <link>http://joebuhlig.com/working-with-omnifocus/</link>
     <pubDate>Wed, 04 Nov 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3156,7 +3530,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Favorite Workflows]]></title>
     <link>http://joebuhlig.com/favorite-workflows/</link>
     <pubDate>Fri, 30 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3241,7 +3615,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Stop Being Productive]]></title>
     <link>http://joebuhlig.com/stop-being-productive/</link>
     <pubDate>Fri, 23 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3290,7 +3664,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[From WordPress and Google to Jekyll and Piwik]]></title>
     <link>http://joebuhlig.com/from-wordpress-google-to-jekyll-piwik/</link>
     <pubDate>Fri, 16 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3354,7 +3728,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Using Drafts]]></title>
     <link>http://joebuhlig.com/using-drafts/</link>
     <pubDate>Sat, 10 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3434,7 +3808,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[How I Started with Technology]]></title>
     <link>http://joebuhlig.com/how-i-started-with-technology/</link>
     <pubDate>Fri, 02 Oct 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3503,7 +3877,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Sharing a Computer]]></title>
     <link>http://joebuhlig.com/sharing-a-computer/</link>
     <pubDate>Fri, 25 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3550,7 +3924,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Scheduled Reviews in OmniFocus]]></title>
     <link>http://joebuhlig.com/scheduled-reviews-in-omnifocus/</link>
     <pubDate>Fri, 18 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3569,16 +3943,6 @@ xof = OmniFocus</code></pre></figure>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Scheduled-Reviews-in-OmniFocus.jpg" /><p>Every Friday morning I do my <a href="http://joebuhlig.com/getting-things-done-reflect/">Weekly Review</a>. I do my Monthly Review on the first of the month and my Annual Review on the first of the year. How do I get OmniFocus to play nicely with this?</p>
 
 <!--more-->
-
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
 
 <p>OmniFocus has a great feature for reviewing projects at specific intervals. You can choose to review a project daily or every 50 years if you want. And when that date comes, the project is available in the Review perspective.</p>
 
@@ -3611,7 +3975,7 @@ xof = OmniFocus</code></pre></figure>
     <title><![CDATA[Writing with GitHub]]></title>
     <link>http://joebuhlig.com/writing-with-github/</link>
     <pubDate>Fri, 11 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3707,7 +4071,7 @@ fi</pre></noscript>
     <title><![CDATA[OmniFocus Auto-Parser]]></title>
     <link>http://joebuhlig.com/omnifocus-auto-parser/</link>
     <pubDate>Fri, 04 Sep 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3724,16 +4088,6 @@ fi</pre></noscript>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/OmniFocus-Auto-Parser.jpg" /><p>I love it when my systems do things automatically. In this case, I can capture an idea for a someday/maybe list and it ends up in the right place in OmniFocus.</p>
 
 <!--more-->
-
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
 
 <p>I wrote about my original process for this <a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">here</a>, but I’ve since refined it. I didn’t like having an extra app icon sitting in my dock. I knew there had to be a better way to do it… and I found it.</p>
 
@@ -3776,7 +4130,7 @@ fi</pre></noscript>
     <title><![CDATA[Workflow to Share Articles with Twitter Handle]]></title>
     <link>http://joebuhlig.com/workflow-to-share-articles-with-twitter-handle/</link>
     <pubDate>Fri, 28 Aug 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3845,7 +4199,7 @@ fi</pre></noscript>
     <title><![CDATA[How I Use the M.O.U.S. 9]]></title>
     <link>http://joebuhlig.com/how-i-use-the-m-o-u-s-9/</link>
     <pubDate>Fri, 21 Aug 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3920,7 +4274,7 @@ fi</pre></noscript>
     <title><![CDATA[First Apps on a New Mac]]></title>
     <link>http://joebuhlig.com/first-apps-on-a-new-mac/</link>
     <pubDate>Fri, 14 Aug 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -3979,7 +4333,7 @@ fi</pre></noscript>
     <title><![CDATA[MacBook Pro vs. MacBook Air]]></title>
     <link>http://joebuhlig.com/macbook-pro-vs-macbook-air/</link>
     <pubDate>Fri, 07 Aug 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4070,7 +4424,7 @@ fi</pre></noscript>
     <title><![CDATA[Why I Use OmniFocus]]></title>
     <link>http://joebuhlig.com/why-i-use-omnifocus/</link>
     <pubDate>Fri, 31 Jul 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4086,19 +4440,8 @@ fi</pre></noscript>
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Why-I-use-OmniFocus.jpg" /><p>Task managers. There are so many options available and it’s painful making a decision, especially when it takes real dollars to get into them.</p>
-
-<!--more-->
-
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Why-I-use-OmniFocus.jpg" /><p>Task managers. There are so many options available and it’s painful making a decision, especially when it takes real dollars to get into them.
+<!--more--></p>
 
 <p>There’s a lot of hype around to-do list apps, but I’m not known for jumping into an app just because people are excited about it. And with task managers, I knew I was picky. I did the normal thing and ran Google searches to find out what the broader internet prefers. It was a mixed bag and that was three years ago. It’s worse now.</p>
 
@@ -4147,7 +4490,7 @@ fi</pre></noscript>
     <title><![CDATA[My Mobile Office]]></title>
     <link>http://joebuhlig.com/my-mobile-office/</link>
     <pubDate>Fri, 24 Jul 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4227,7 +4570,7 @@ fi</pre></noscript>
     <title><![CDATA[An Alternative to Annual Goals]]></title>
     <link>http://joebuhlig.com/an-alternative-to-annual-goals/</link>
     <pubDate>Fri, 17 Jul 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4294,7 +4637,7 @@ fi</pre></noscript>
     <title><![CDATA[Routine vs. Ritual]]></title>
     <link>http://joebuhlig.com/routine-vs-ritual/</link>
     <pubDate>Fri, 10 Jul 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4353,7 +4696,7 @@ fi</pre></noscript>
     <title><![CDATA[Using TheBrain]]></title>
     <link>http://joebuhlig.com/using-thebrain/</link>
     <pubDate>Fri, 03 Jul 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4444,7 +4787,7 @@ fi</pre></noscript>
     <title><![CDATA[Different Uses for Evernote]]></title>
     <link>http://joebuhlig.com/different-uses-for-evernote/</link>
     <pubDate>Fri, 26 Jun 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4507,7 +4850,7 @@ fi</pre></noscript>
     <title><![CDATA[My Writing Setup]]></title>
     <link>http://joebuhlig.com/my-writing-setup/</link>
     <pubDate>Fri, 19 Jun 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4572,7 +4915,7 @@ fi</pre></noscript>
     <title><![CDATA[From Goals to Guides]]></title>
     <link>http://joebuhlig.com/from-goals-to-guides/</link>
     <pubDate>Fri, 12 Jun 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4672,7 +5015,7 @@ fi</pre></noscript>
     <title><![CDATA[My OmniFocus Home Screen]]></title>
     <link>http://joebuhlig.com/my-omnifocus-home-screen/</link>
     <pubDate>Fri, 05 Jun 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4691,16 +5034,6 @@ fi</pre></noscript>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/My-OmniFocus-Home-Screen.jpg" /><p>With one of the recent releases of <a href="https://itunes.apple.com/us/app/omnifocus-2/id904071710?mt=8">OmniFocus for iOS</a>, we were given the ability to rearrange perspectives on the OmniFocus home screen. Of course, I geeked out on this and created a custom view. Here’s what it looks like.</p>
 
 <!--more-->
-
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
 
 <h2 id="spanspaninboxinbox"><a href="#inbox"><span></span></a>Inbox</h2>
 
@@ -4751,7 +5084,7 @@ fi</pre></noscript>
     <title><![CDATA[A Chaotic Week with GTD]]></title>
     <link>http://joebuhlig.com/a-chaotic-week-with-gtd/</link>
     <pubDate>Fri, 29 May 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4903,7 +5236,7 @@ fi</pre></noscript>
     <title><![CDATA[Lost in Transition]]></title>
     <link>http://joebuhlig.com/lost-in-transition/</link>
     <pubDate>Fri, 22 May 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -4974,7 +5307,7 @@ fi</pre></noscript>
     <title><![CDATA[Working the Focus Muscle]]></title>
     <link>http://joebuhlig.com/working-the-focus-muscle/</link>
     <pubDate>Fri, 15 May 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5055,7 +5388,7 @@ fi</pre></noscript>
     <title><![CDATA[Why I Changed My Newsletter Sign-up Process]]></title>
     <link>http://joebuhlig.com/why-i-changed-my-newsletter-sign-up-process/</link>
     <pubDate>Fri, 08 May 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5114,7 +5447,7 @@ fi</pre></noscript>
     <title><![CDATA[Using Omnifocus for Someday/Maybe Lists]]></title>
     <link>http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/</link>
     <pubDate>Fri, 01 May 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5133,16 +5466,6 @@ fi</pre></noscript>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Using-Omnifocus-for-Someday-Maybe-Lists.jpg" /><p>For a long time, I kept my active Next Actions in Omnifocus and my potential (someday/maybe) actions in Evernote. It worked, but it felt a bit cluttered so I moved it all into Omnifocus.</p>
 
 <!--more-->
-
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
 
 <h2 id="why-keep-somedaymaybe-lists-in-omnifocus">Why keep someday/maybe lists in Omnifocus?</h2>
 
@@ -5280,7 +5603,7 @@ end idle</pre></noscript>
     <title><![CDATA[My Evening Routine]]></title>
     <link>http://joebuhlig.com/my-evening-routine/</link>
     <pubDate>Fri, 24 Apr 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5361,7 +5684,7 @@ end idle</pre></noscript>
     <title><![CDATA[My Morning Routine]]></title>
     <link>http://joebuhlig.com/my-morning-routine/</link>
     <pubDate>Fri, 17 Apr 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5443,7 +5766,7 @@ end idle</pre></noscript>
     <title><![CDATA[GTD Contexts: Proactive vs. Reactive]]></title>
     <link>http://joebuhlig.com/gtd-contexts-proactive-vs-reactive/</link>
     <pubDate>Fri, 10 Apr 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5514,7 +5837,7 @@ end idle</pre></noscript>
     <title><![CDATA[OmniFocus Hotspot]]></title>
     <link>http://joebuhlig.com/omnifocus-hotspot/</link>
     <pubDate>Fri, 03 Apr 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5533,16 +5856,6 @@ end idle</pre></noscript>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Omnifocus-Hotspot.jpg" /><p>In our digital age, we tend to receive a large number of files via email. And we need to review these files or make changes to them. As an <a href="http://joebuhlig.com/omnifocus-setup-workflow/">Omnifocus user</a>, that means I need to create tasks out of these files.</p>
 
 <!--more-->
-
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
 
 <p>I could invoke the quick entry dialog and drag the file into the notes field, but there are times when I have 10 files or more to do at once. That gets to be a lot of repetitive steps.</p>
 
@@ -5609,7 +5922,7 @@ end tell</pre></noscript>
     <title><![CDATA[Don’t Ignore Push Notifications]]></title>
     <link>http://joebuhlig.com/dont-ignore-push-notifications/</link>
     <pubDate>Fri, 27 Mar 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5663,7 +5976,7 @@ end tell</pre></noscript>
     <title><![CDATA[Siri to Omnifocus]]></title>
     <link>http://joebuhlig.com/siri-to-omnifocus/</link>
     <pubDate>Fri, 20 Mar 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5684,16 +5997,6 @@ end tell</pre></noscript>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Siri-to-Omnifocus.jpg" /><p>I don’t have a daily commute but I still find myself in the car having ideas from time to time. I don’t want to lose those ideas, but I shouldn’t be typing into my phone or writing things while I’m driving.</p>
 
 <!--more-->
-
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
 
 <p>I use <a href="http://joebuhlig.com/omnifocus-setup-workflow/">Omnifocus</a> as my list manager for <a href="http://joebuhlig.com/getting-things-done-introduction/">Getting Things Done</a>. Naturally, I want to collect things into the Omnifocus inbox as easily as possible. But when I’m in a situation where I can’t use my hands to write or type, I need to do it with my voice.</p>
 
@@ -5759,7 +6062,7 @@ end tell</pre></noscript>
     <title><![CDATA[The Internet Separation Layer]]></title>
     <link>http://joebuhlig.com/the-internet-separation-layer/</link>
     <pubDate>Fri, 13 Mar 2015 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5843,7 +6146,7 @@ end tell</pre></noscript>
     <title><![CDATA[Saving Full Articles in Evernote from RSS]]></title>
     <link>http://joebuhlig.com/saving-full-articles-in-evernote-from-rss/</link>
     <pubDate>Fri, 06 Mar 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5920,7 +6223,7 @@ end tell</pre></noscript>
     <title><![CDATA[Sloppy Productivity]]></title>
     <link>http://joebuhlig.com/sloppy-productivity/</link>
     <pubDate>Fri, 27 Feb 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -5963,7 +6266,7 @@ end tell</pre></noscript>
     <title><![CDATA[Recurring Checklists in Evernote]]></title>
     <link>http://joebuhlig.com/recurring-checklists-in-evernote/</link>
     <pubDate>Fri, 20 Feb 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6029,7 +6332,7 @@ end tell</pre></noscript>
     <title><![CDATA[Instant Gratification vs. Instant Perspective]]></title>
     <link>http://joebuhlig.com/instant-gratification-vs-instant-perspective/</link>
     <pubDate>Fri, 13 Feb 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6076,7 +6379,7 @@ end tell</pre></noscript>
     <title><![CDATA[What Every BODY Is Saying [Book Review]]]></title>
     <link>http://joebuhlig.com/every-body-saying-book-review/</link>
     <pubDate>Fri, 06 Feb 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6133,7 +6436,7 @@ end tell</pre></noscript>
     <title><![CDATA[My Evernote Setup and Workflow]]></title>
     <link>http://joebuhlig.com/evernote-setup-workflow/</link>
     <pubDate>Fri, 23 Jan 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6300,7 +6603,7 @@ end tell</pre></noscript>
     <title><![CDATA[The Danger of Infinity Apps]]></title>
     <link>http://joebuhlig.com/danger-infinity-apps/</link>
     <pubDate>Fri, 16 Jan 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6343,7 +6646,7 @@ end tell</pre></noscript>
     <title><![CDATA[Keeping Up With Your Goals]]></title>
     <link>http://joebuhlig.com/keeping-goals/</link>
     <pubDate>Fri, 02 Jan 2015 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6406,7 +6709,7 @@ end tell</pre></noscript>
     <title><![CDATA[What is an Inbox?]]></title>
     <link>http://joebuhlig.com/inbox/</link>
     <pubDate>Fri, 26 Dec 2014 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6487,7 +6790,7 @@ end tell</pre></noscript>
     <title><![CDATA[Making Time for Contexts]]></title>
     <link>http://joebuhlig.com/making-time-contexts/</link>
     <pubDate>Fri, 19 Dec 2014 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6599,7 +6902,7 @@ end tell</pre></noscript>
     <title><![CDATA[Productivity vs. Presence]]></title>
     <link>http://joebuhlig.com/productivity-vs-presence/</link>
     <pubDate>Fri, 12 Dec 2014 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6648,7 +6951,7 @@ end tell</pre></noscript>
     <title><![CDATA[Getting Things Done: A Day in the Life]]></title>
     <link>http://joebuhlig.com/getting-things-done-day-life/</link>
     <pubDate>Fri, 05 Dec 2014 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6740,7 +7043,7 @@ end tell</pre></noscript>
     <title><![CDATA[Getting Things Done: Engage]]></title>
     <link>http://joebuhlig.com/getting-things-done-engage/</link>
     <pubDate>Fri, 28 Nov 2014 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6806,7 +7109,7 @@ end tell</pre></noscript>
     <title><![CDATA[Getting Things Done: Reflect]]></title>
     <link>http://joebuhlig.com/getting-things-done-reflect/</link>
     <pubDate>Fri, 21 Nov 2014 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6882,7 +7185,7 @@ end tell</pre></noscript>
     <title><![CDATA[Getting Things Done: Organize]]></title>
     <link>http://joebuhlig.com/getting-things-done-organize/</link>
     <pubDate>Fri, 14 Nov 2014 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -6968,7 +7271,7 @@ end tell</pre></noscript>
     <title><![CDATA[Getting Things Done: Clarify]]></title>
     <link>http://joebuhlig.com/getting-things-done-clarify/</link>
     <pubDate>Fri, 07 Nov 2014 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7103,7 +7406,7 @@ end tell</pre></noscript>
     <title><![CDATA[Getting Things Done: Capture]]></title>
     <link>http://joebuhlig.com/getting-things-done-capture/</link>
     <pubDate>Fri, 31 Oct 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7189,7 +7492,7 @@ end tell</pre></noscript>
     <title><![CDATA[Getting Things Done: Introduction]]></title>
     <link>http://joebuhlig.com/getting-things-done-introduction/</link>
     <pubDate>Fri, 24 Oct 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7249,7 +7552,7 @@ end tell</pre></noscript>
     <title><![CDATA[The “Why” of Getting Up Early]]></title>
     <link>http://joebuhlig.com/why-getting-up-early/</link>
     <pubDate>Fri, 17 Oct 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7317,7 +7620,7 @@ end tell</pre></noscript>
     <title><![CDATA[Seasons of Tasks]]></title>
     <link>http://joebuhlig.com/seasons-tasks/</link>
     <pubDate>Fri, 10 Oct 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7366,7 +7669,7 @@ end tell</pre></noscript>
     <title><![CDATA[The Power of Full Engagement [Book Review]]]></title>
     <link>http://joebuhlig.com/power-full-engagement-book-review/</link>
     <pubDate>Fri, 03 Oct 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7491,7 +7794,7 @@ end tell</pre></noscript>
     <title><![CDATA[Creating Personal Project Codes]]></title>
     <link>http://joebuhlig.com/creating-personal-project-codes/</link>
     <pubDate>Fri, 26 Sep 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7643,7 +7946,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Managing Project Information]]></title>
     <link>http://joebuhlig.com/managing-project-information/</link>
     <pubDate>Fri, 19 Sep 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7706,7 +8009,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Pros and Cons of Apple Watch]]></title>
     <link>http://joebuhlig.com/pros-cons-apple-watch/</link>
     <pubDate>Fri, 12 Sep 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7783,7 +8086,7 @@ return newcode</pre></noscript>
     <title><![CDATA[File Naming and (Dis)Organization]]></title>
     <link>http://joebuhlig.com/file-naming-disorganization/</link>
     <pubDate>Fri, 05 Sep 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7880,7 +8183,7 @@ return newcode</pre></noscript>
     <title><![CDATA[A Simple Trick for Naming Tags]]></title>
     <link>http://joebuhlig.com/simple-trick-naming-tags/</link>
     <pubDate>Fri, 29 Aug 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7931,7 +8234,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Developing a Personal Communication Cycle]]></title>
     <link>http://joebuhlig.com/developing-personal-communication-cycle/</link>
     <pubDate>Fri, 22 Aug 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -7986,7 +8289,7 @@ return newcode</pre></noscript>
     <title><![CDATA[If It Ain’t Broke, Don’t Fix It. Why Not?]]></title>
     <link>http://joebuhlig.com/aint-broke-dont-fix/</link>
     <pubDate>Fri, 15 Aug 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8035,7 +8338,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Choosing the 3 Most Important Tasks for the Day]]></title>
     <link>http://joebuhlig.com/choosing-3-important-tasks-day/</link>
     <pubDate>Fri, 08 Aug 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8086,7 +8389,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Getting Started with Task Management]]></title>
     <link>http://joebuhlig.com/getting-started-task-management/</link>
     <pubDate>Fri, 01 Aug 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8161,7 +8464,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Gaining Perspective with a Daily Review]]></title>
     <link>http://joebuhlig.com/gaining-perspective-daily-review/</link>
     <pubDate>Fri, 25 Jul 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8228,7 +8531,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Adding Contacts from Business Cards with Evernote]]></title>
     <link>http://joebuhlig.com/adding-contacts-business-cards-evernote/</link>
     <pubDate>Fri, 18 Jul 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8286,7 +8589,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Using a Text Expander]]></title>
     <link>http://joebuhlig.com/using-text-expander/</link>
     <pubDate>Fri, 11 Jul 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8365,7 +8668,7 @@ return newcode</pre></noscript>
     <title><![CDATA[My Omnifocus Setup and Workflow]]></title>
     <link>http://joebuhlig.com/omnifocus-setup-workflow/</link>
     <pubDate>Fri, 04 Jul 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8386,16 +8689,6 @@ return newcode</pre></noscript>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/My-Omnifocus-Setup-and-Workflow.jpg" /><p><a href="https://itunes.apple.com/us/app/omnifocus-2/id867299399?mt=12&amp;uo=4&amp;at=1l3vnyQ">OmniFocus</a> is a powerful tool designed to follow David Allen’s <a href="http://gettingthingsdone.com/">Getting Things Done</a>. I go into the <a href="http://joebuhlig.com/getting-things-done-introduction/">details of GTD here</a> but the simple version is that it’s a method of getting things out of your mind and into a trusted organizational system. The main purpose is to free up your mind to have ideas, not hold them.</p>
 
 <!--more-->
-
-<div class="callout">
-	<div class="callout-book-cover">
-		<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-			<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
-		</a>
-	</div>
-	<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>
-	<p>If you're interested in more detail about my OmniFocus setup, take a look at <a href="http://tools.joebuhlig.com/working-with-omnifocus/">my book on it</a>. I pull back the curtain on the concepts and nuances of OmniFocus and how I work with it.</p>
-</div>
 
 <p>This article focuses on Omnifocus 2 for Mac. I use the iPhone and iPad versions as well, but here I want to walk you through the setup of my central hub.</p>
 
@@ -8539,7 +8832,7 @@ return newcode</pre></noscript>
     <title><![CDATA[What Is An hPDA and How Do I Use It?]]></title>
     <link>http://joebuhlig.com/what-is-an-hpda-and-how-do-i-use-it/</link>
     <pubDate>Fri, 27 Jun 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8609,7 +8902,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Leaving Your Phone]]></title>
     <link>http://joebuhlig.com/leaving-phone/</link>
     <pubDate>Fri, 20 Jun 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8672,7 +8965,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Escaping the Corporate Email Habit]]></title>
     <link>http://joebuhlig.com/escaping-corporate-email-habit/</link>
     <pubDate>Tue, 10 Jun 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8729,7 +9022,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Desktop Tower Move]]></title>
     <link>http://joebuhlig.com/desktop-tower-move/</link>
     <pubDate>Mon, 09 Jun 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
@@ -8776,7 +9069,7 @@ return newcode</pre></noscript>
     <title><![CDATA[Put Distractions in Their Place]]></title>
     <link>http://joebuhlig.com/put-distractions-place/</link>
     <pubDate>Sun, 08 Jun 2014 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[Joe Buhlig]]></dc:creator>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
     <category><![CDATA[blog]]></category>
 
