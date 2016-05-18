@@ -14,11 +14,83 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 17 May 2016 15:18:50 -0500</lastBuildDate>
+<lastBuildDate>Wed, 18 May 2016 15:51:03 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Guest Posting]]></title>
+    <link>http://joebuhlig.com/guest-posting/</link>
+    <pubDate>Wed, 18 May 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[meta]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/guest-posting/</guid>
+    <description>
+        <![CDATA[Over the past month I’ve made some design changes and layout alterations here on the site. Some of that was purely for aesthetics and ease of use, but it also included some back-end alterations to allow guest posting. I’ve debated this for a long time and I’m finally ready to...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/guest-posting.jpeg" /><p>Over the past month I’ve made some design changes and layout alterations here on the site. Some of that was purely for aesthetics and ease of use, but it also included some back-end alterations to allow guest posting. I’ve debated this for a long time and I’m finally ready to pull the trigger.
+<!--more--></p>
+
+<p><strong>You can read the details about how to participate on the <a href="/guest">guest posting page</a>.</strong></p>
+
+<p>One of the best ways to expand our thinking is to explore new ideas and perspectives that may differ from our own. It forces us to formulate our own opinions on the subject. We may love the thought or think it’s trash but either way, making that decision helps us understand our own reasoning behind the subject. By allowing others to write articles for this site, we can see glimpses of how others operate and think, which broadens the perspective on productivity conveyed here.</p>
+
+<p>This also frees up some of my own time. I really like the current posting cadence, but I’m looking to direct some of my writing time to new areas. I have a couple important projects I’m working on that I want to dedicate more time to and I know there will be more projects when those are complete. Guest posting will allow the rhythm to continue and these new areas to accelerate.</p>
+
+<p>I can continue listing reasons why I think this is a good thing, but you get the point. There’s a lot of value that can come to all of us. So if you’re interested in sharing your thoughts and words with readers like yourself (even if you’ve never written an article before), check out the details on the <a href="/guest">guest posting page</a>.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[37: Reading Books vs Articles]]></title>
+    <link>http://joebuhlig.com/37/</link>
+    <pubDate>Wed, 18 May 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[adhd]]></category>
+
+    <category><![CDATA[books]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/37/</guid>
+    <description>
+        <![CDATA[As I learn how to handle the good and bad that comes from being ADHD, I’ve learned the power of reading books over articles.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/reading-books-vs-articles.jpg" /><p>As I learn how to handle the good and bad that comes from being ADHD, I’ve learned the power of reading books over articles.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://www.amazon.com/Delivered-Distraction-Getting-Attention-Disorder/dp/0345442318?tag=joebuhlig-20">Delivered From Distraction</a></p>
+
+<p><a href="http://joebuhlig.com/alternating-types-of-tasks/">Alternating Types of Tasks</a></p>
+
+<p><a href="http://joebuhlig.com/writing-articles-by-hand/">Writing Articles By Hand</a></p>
+
+<p><a href="https://www.macstories.net/">MacStories - Federico Viticci</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Alternating Types of Tasks]]></title>
@@ -709,92 +781,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>Scientists are doing an excellent job of learning about us and the food we eat. We’ve been able to create diets for people struggling with diseases and help patients extend their lives and have a higher quality of life at the same time. There’s a lot of value in these continued attempts to make the best recommendations we can. And the more we learn about ourselves, the better these recommendations get. But we will very likely never have the ability to build the perfect diet and we will never be able to manufacture the perfect food.</p>
 
 <p>At the end of the day, we simply need to keep in mind that the diets we choose to follow are never ideal. Scientists are great at giving us information to follow, but we need to remember the basics when we decide what to eat.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Evernote vs. Raw Files]]></title>
-    <link>http://joebuhlig.com/evernote-vs-raw-files/</link>
-    <pubDate>Fri, 15 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[evernote]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/evernote-vs-raw-files/</guid>
-    <description>
-        <![CDATA[Ever since I published an article about leaving Evernote I’ve received numerous recommendations for alternatives. It seems there is an endless supply of catchall buckets that you can drop information into.  I appreciate all the ideas, but it isn’t the point.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Evernote-vs-Raw-Files.jpg" /><p>Ever since I published an <a href="http://joebuhlig.com/an-alternative-to-evernote/">article about leaving Evernote</a> I’ve received numerous recommendations for alternatives. It seems there is an endless supply of catchall buckets that you can drop information into.  I appreciate all the ideas, but it isn’t the point.
-<!--more--></p>
-
-<p>The majority of my complaints with Evernote revolve around portability and a proprietary format. It’s not an easy task to work with the notes in other applications and it’s not trivial to take the text out of the note, work on it, and bring it back in on iOS. But there are a lot of the details that have me avoiding Evernote and its alternatives.</p>
-
-<h2 id="formatting-text">Formatting Text</h2>
-
-<p>I just don’t do it. 95% of all my writing is in markdown. I’m even starting to do this when I take handwritten notes. The only time I don’t use markdown is when I’m creating a Pages document for a client, which is rare anymore. So I never have a need to create rich text in any way. That mostly stems from my <a href="http://joebuhlig.com/choosing-the-right-medium/">medium of sharing words</a>: the web. Everything eventually ends up in HTML and the words I type that <em>don’t</em> end up on the web are short-form or for personal reference. In either case, I don’t have the need or the time to make something bold or change a font size. To me, it has just as much impact in its natural state as it does formatted.</p>
-
-<h2 id="checklists">Checklists</h2>
-
-<p>I used to keep all my checklists in Evernote. I even found a way to do <a href="http://joebuhlig.com/recurring-checklists-in-evernote/">recurring checklists in Evernote</a>. But that was before I moved <em>every</em> task item into OmniFocus. My Evernote lists worked great at the time, but I prefer the consolidation of every action item in one place and all reference material in a separate place.</p>
-
-<h2 id="pictures-and-files">Pictures and Files</h2>
-
-<p>One major benefit to using Evernote is the ability to keep pictures and files right alongside of the text that you’re storing. It’s an awesome feature, but it comes with a lot of downsides. What if I need to edit the picture or file? It’s rare that I don’t make changes to them in some way. It might be annotations or adding lines to a spreadsheet but if I want to do anything with them I need to make sure I’m on my Mac. It works pretty well there, but the moment you try this on iOS it gets really messy, really fast. The extra work and time involved in pulling it off is not for me. Keeping everything in a single folder in DropBox is much more compatible with the tools I prefer to use.</p>
-
-<h2 id="storage-style">Storage Style</h2>
-
-<p>I’m grateful for all the suggestions on alternatives to Evernote. I now know there are a lot of great ones out there. But I think I’ve developed a new (old?) information storage preference. I enjoy the flexibility of working with standard file types themselves. They’re easy to use and predict, and my use of them is not dependent on the features of a single company or application. If I want to make edits to my information, I don’t have to use a specific app to do it. And I can move from one system to another with little to no overhead and migration steps. I’m free from a single ecosystem; that’s what I like about it.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[32: Doing the Task Shuffle]]></title>
-    <link>http://joebuhlig.com/32/</link>
-    <pubDate>Wed, 13 Apr 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[ideas]]></category>
-
-    <category><![CDATA[task-management]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/32/</guid>
-    <description>
-        <![CDATA[Here’s an update on the new TextExpander pricing and a deep dive into why I wrote a script that shuffles my tasks. That’s right. There’s a big benefit to randomizing a task list.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Doing-the-Task-Shuffle.jpg" /><p>Here’s an update on the new TextExpander pricing and a deep dive into why I wrote a script that shuffles my tasks. That’s right. There’s a big benefit to randomizing a task list.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://smilesoftware.com/textexpander/entry/textexpander-adjustments">TextExpander Adjustments - Smile</a></p>
-
-<p><a href="https://sivers.org/now">What I’m doing now - Derek Sivers</a></p>
-
-<p><a href="http://now.joebuhlig.com">Now - Joe Buhlig</a></p>
-
-<p><a href="https://www.relay.fm/mpu/314">Mac Power Users #314: Trials and Tribulations of Katie’s iPad - Relay FM</a></p>
-
-<p><a href="https://github.com/joebuhlig/OFScripts/tree/master/Task%20Shuffle">OFScripts - Task Shuffle AppleScript</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]>
     </content:encoded>
 </item>

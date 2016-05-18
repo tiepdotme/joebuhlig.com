@@ -181,6 +181,9 @@ table {
   .icon > svg path {
     fill: #828282; }
 
+.pointer {
+  cursor: pointer; }
+
 /**
  * Site header
  */

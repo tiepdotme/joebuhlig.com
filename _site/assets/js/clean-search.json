@@ -1,5 +1,32 @@
 {
 	"clean_search" : [
+		{	"title":"Guest Posting",
+			"image":"/assets/posts/guest-posting.jpeg",
+			"permalink":"/guest-posting/",
+			"categories": [
+				"blog"
+			],
+			"tags": [
+				"meta"
+			],
+			"excerpt": "<p>Over the past month I’ve made some design changes and layout alterations here on the site. Some of that was purely for aesthetics and ease of use, but it also included some back-end alterations to allow guest posting. I’ve debated this for a long time and I’m finally ready to pull the trigger.</p>\n\n",
+			"content": "Over%20the%20past%20month%20I%E2%80%99ve%20made%20some%20design%20changes%20and%20layout%20alterations%20here%20on%20the%20site.%20Some%20of%20that%20was%20purely%20for%20aesthetics%20and%20ease%20of%20use,%20but%20it%20also%20included%20some%20back-end%20alterations%20to%20allow%20guest%20posting.%20I%E2%80%99ve%20debated%20this%20for%20a%20long%20time%20and%20I%E2%80%99m%20finally%20ready%20to%20pull%20the%20trigger.%0A%0A%0AYou%20can%20read%20the%20details%20about%20how%20to%20participate%20on%20the%20guest%20posting%20page.%0A%0AOne%20of%20the%20best%20ways%20to%20expand%20our%20thinking%20is%20to%20explore%20new%20ideas%20and%20perspectives%20that%20may%20differ%20from%20our%20own.%20It%20forces%20us%20to%20formulate%20our%20own%20opinions%20on%20the%20subject.%20We%20may%20love%20the%20thought%20or%20think%20it%E2%80%99s%20trash%20but%20either%20way,%20making%20that%20decision%20helps%20us%20understand%20our%20own%20reasoning%20behind%20the%20subject.%20By%20allowing%20others%20to%20write%20articles%20for%20this%20site,%20we%20can%20see%20glimpses%20of%20how%20others%20operate%20and%20think,%20which%20broadens%20the%20perspective%20on%20productivity%20conveyed%20here.%0A%0AThis%20also%20frees%20up%20some%20of%20my%20own%20time.%20I%20really%20like%20the%20current%20posting%20cadence,%20but%20I%E2%80%99m%20looking%20to%20direct%20some%20of%20my%20writing%20time%20to%20new%20areas.%20I%20have%20a%20couple%20important%20projects%20I%E2%80%99m%20working%20on%20that%20I%20want%20to%20dedicate%20more%20time%20to%20and%20I%20know%20there%20will%20be%20more%20projects%20when%20those%20are%20complete.%20Guest%20posting%20will%20allow%20the%20rhythm%20to%20continue%20and%20these%20new%20areas%20to%20accelerate.%0A%0AI%20can%20continue%20listing%20reasons%20why%20I%20think%20this%20is%20a%20good%20thing,%20but%20you%20get%20the%20point.%20There%E2%80%99s%20a%20lot%20of%20value%20that%20can%20come%20to%20all%20of%20us.%20So%20if%20you%E2%80%99re%20interested%20in%20sharing%20your%20thoughts%20and%20words%20with%20readers%20like%20yourself%20(even%20if%20you%E2%80%99ve%20never%20written%20an%20article%20before),%20check%20out%20the%20details%20on%20the%20guest%20posting%20page.%0A"
+		},
+	
+		{	"title":"37: Reading Books vs Articles",
+			"image":"/assets/posts/reading-books-vs-articles.jpg",
+			"permalink":"/37/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"adhd",
+				"books"
+			],
+			"excerpt": "<p>As I learn how to handle the good and bad that comes from being ADHD, I’ve learned the power of reading books over articles.</p>\n\n",
+			"content": "As%20I%20learn%20how%20to%20handle%20the%20good%20and%20bad%20that%20comes%20from%20being%20ADHD,%20I%E2%80%99ve%20learned%20the%20power%20of%20reading%20books%20over%20articles.%0A%0A%0ABecome%20a%20Patron%0A%0ADelivered%20From%20Distraction%0A%0AAlternating%20Types%20of%20Tasks%0A%0AWriting%20Articles%20By%20Hand%0A%0AMacStories%20-%20Federico%20Viticci%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Alternating Types of Tasks",
 			"image":"/assets/posts/alternating-types-of-tasks.jpeg",
 			"permalink":"/alternating-types-of-tasks/",
