@@ -82,4 +82,4 @@ Here's the downside. It takes longer and that's for two reasons. One, it takes l
 
 I've always felt that writing was synonymous with typing. "That's how it _should_ be done. It's faster and more efficient." But for me, the trade-offs aren't worth it. I'll be sticking with pen and paper. I've even gone to the extent of setting up a dedicated writing desk and purchasing a [special notebook](http://www.amazon.com/Leuchtturm-Master-Notebook-Hardcover-Dotted/dp/B003ENUIKC?tag=joebuhlig-20) for it.
 
-<img class="center-image post-image-small" src="/assets/posts_extra/the-science-and-experience-of-analog-writing/writing-desk.jpeg" />
+<img class="center-image post-image-small" src="http://joebuhlig.com/assets/posts_extra/the-science-and-experience-of-analog-writing/writing-desk.jpeg" />
