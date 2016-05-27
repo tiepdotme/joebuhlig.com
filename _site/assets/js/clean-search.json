@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"38: Using Multiple Desks In One Office",
+			"image":"/assets/posts/Using-Multiple-Desks-In-One-Office.jpg",
+			"permalink":"/38/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"hardware"
+			],
+			"excerpt": "<p>Since starting to exclusively write with pen and paper, I’ve added a dedicated writing desk to my office. This week I explore the pros and cons of using multiple desks in my office.</p>\n\n",
+			"content": "Since%20starting%20to%20exclusively%20write%20with%20pen%20and%20paper,%20I%E2%80%99ve%20added%20a%20dedicated%20writing%20desk%20to%20my%20office.%20This%20week%20I%20explore%20the%20pros%20and%20cons%20of%20using%20multiple%20desks%20in%20my%20office.%0A%0A%0AWriting%20Articles%20By%20Hand%0A%0AThe%20Science%20and%20Experience%20of%20Analog%20Writing%0A%0ALeuchtturm%20Master%20Notebook%20A4%20Hardcover%20Dotted%20Black%0A%0ARhodia%20Dotpads%0A%0APilot%20G-2%0A%0APilot%20Metropolitan%20-%20Notetaking%20fountain%20pen%0A%0ALamy%20Safari%20-%20Long-form%20writing%20fountain%20pen%0A%0AMonteverde%20Invincia%20-%20Specialty%20writing%20fountain%20pen%0A%0AHerman%20Miller%20Aeron%0A%0APalm%20Rest%0A%0ADuncan%20Phyfe%20-%20Wikipedia%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Intentional GTD Titles",
 			"image":"/assets/posts/intentional-gtd-titles.jpeg",
 			"permalink":"/intentional-gtd-titles/",

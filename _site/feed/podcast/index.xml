@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Tue, 24 May 2016 11:36:41 -0500</lastBuildDate>
+<lastBuildDate>Thu, 26 May 2016 20:27:59 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,99 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>38: Using Multiple Desks In One Office</title>
+    <link>http://joebuhlig.com/38/</link>
+    <comments>http://joebuhlig.com/38/#comments</comments>
+    <pubDate>Wed, 25 May 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[hardware]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/38/</guid>
+    <description>
+        <![CDATA[Since starting to exclusively write with pen and paper, I’ve added a dedicated writing desk to my office. This week I explore the pros and cons of using multiple desks in my office.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>Since starting to exclusively write with pen and paper, I’ve added a dedicated writing desk to my office. This week I explore the pros and cons of using multiple desks in my office.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/writing-articles-by-hand/">Writing Articles By Hand</a></p>
+
+<p><a href="http://joebuhlig.com/the-science-and-experience-of-analog-writing/">The Science and Experience of Analog Writing</a></p>
+
+<p><a href="http://www.amazon.com/Leuchtturm-Master-Notebook-Hardcover-Dotted/dp/B003ENUIKC?tag=joebuhlig-20">Leuchtturm Master Notebook A4 Hardcover Dotted Black</a></p>
+
+<p><a href="http://www.amazon.com/Rhodia-No-16-Sheet-Black-16559/dp/B003UCL77U/ref=sr_1_2?tag=joebuhlig-20">Rhodia Dotpads</a></p>
+
+<p><a href="http://www.amazon.com/Pilot-Retractable-Premium-Roller-31256/dp/B001E6D3W6/ref=sr_1_1?tag=joebuhlig-20">Pilot G-2</a></p>
+
+<p><a href="http://www.amazon.com/Pilot-Metropolitan-Collection-Fountain-91101/dp/B009M3PJFM/ref=sr_1_4?tag=joebuhlig-20">Pilot Metropolitan - Notetaking fountain pen</a></p>
+
+<p><a href="http://www.amazon.com/Lamy-Safari-Fountain-Pen-Charcoal/dp/B0002T401Y/ref=sr_1_1?tag=joebuhlig-20">Lamy Safari - Long-form writing fountain pen</a></p>
+
+<p><a href="http://www.amazon.com/Monteverde-Invincia-Chrome-Fountain-MV40065F/dp/B00691RCUK/ref=sr_1_4?tag=joebuhlig-20">Monteverde Invincia - Specialty writing fountain pen</a></p>
+
+<p><a href="http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html">Herman Miller Aeron</a></p>
+
+<p><a href="http://www.amazon.com/HandStands-55510-Add--Wrist-Cushion/dp/B001CWI0XY/ref=sr_1_20?tag=joebuhlig-20">Palm Rest</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Duncan_Phyfe">Duncan Phyfe - Wikipedia</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ038.mp3" length="19914379" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[Since starting to exclusively write with pen and paper, I’ve added a dedicated writing desk to my office. This week I explore the pros and cons of using multiple desks in my office.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>Since starting to exclusively write with pen and paper, I’ve added a dedicated writing desk to my office. This week I explore the pros and cons of using multiple desks in my office.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/writing-articles-by-hand/">Writing Articles By Hand</a></p>
+
+<p><a href="http://joebuhlig.com/the-science-and-experience-of-analog-writing/">The Science and Experience of Analog Writing</a></p>
+
+<p><a href="http://www.amazon.com/Leuchtturm-Master-Notebook-Hardcover-Dotted/dp/B003ENUIKC?tag=joebuhlig-20">Leuchtturm Master Notebook A4 Hardcover Dotted Black</a></p>
+
+<p><a href="http://www.amazon.com/Rhodia-No-16-Sheet-Black-16559/dp/B003UCL77U/ref=sr_1_2?tag=joebuhlig-20">Rhodia Dotpads</a></p>
+
+<p><a href="http://www.amazon.com/Pilot-Retractable-Premium-Roller-31256/dp/B001E6D3W6/ref=sr_1_1?tag=joebuhlig-20">Pilot G-2</a></p>
+
+<p><a href="http://www.amazon.com/Pilot-Metropolitan-Collection-Fountain-91101/dp/B009M3PJFM/ref=sr_1_4?tag=joebuhlig-20">Pilot Metropolitan - Notetaking fountain pen</a></p>
+
+<p><a href="http://www.amazon.com/Lamy-Safari-Fountain-Pen-Charcoal/dp/B0002T401Y/ref=sr_1_1?tag=joebuhlig-20">Lamy Safari - Long-form writing fountain pen</a></p>
+
+<p><a href="http://www.amazon.com/Monteverde-Invincia-Chrome-Fountain-MV40065F/dp/B00691RCUK/ref=sr_1_4?tag=joebuhlig-20">Monteverde Invincia - Specialty writing fountain pen</a></p>
+
+<p><a href="http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html">Herman Miller Aeron</a></p>
+
+<p><a href="http://www.amazon.com/HandStands-55510-Add--Wrist-Cushion/dp/B001CWI0XY/ref=sr_1_20?tag=joebuhlig-20">Palm Rest</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Duncan_Phyfe">Duncan Phyfe - Wikipedia</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>20:33</itunes:duration>
+  </item>
 
   <item>
     <title>37: Reading Books vs Articles</title>
