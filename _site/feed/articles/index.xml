@@ -14,11 +14,90 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 26 May 2016 20:27:59 -0500</lastBuildDate>
+<lastBuildDate>Tue, 31 May 2016 14:17:30 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Checklists in OmniFocus]]></title>
+    <link>http://joebuhlig.com/checklists-in-omnifocus/</link>
+    <pubDate>Mon, 30 May 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/checklists-in-omnifocus/</guid>
+    <description>
+        <![CDATA[Keeping different types of information in separate apps or systems is sometimes worth the extra infrastructure. But there is also a lot of value and mental freedom in using an existing process for multiple forms of data.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/checklists-in-omnifocus.jpeg" /><p>Keeping different types of information in separate apps or systems is sometimes worth the extra infrastructure. But there is also a lot of value and mental freedom in using an existing process for multiple forms of data.
+<!--more--></p>
+
+<p>When you have a tool as flexible and powerful as OmniFocus, it gets easier to combine needs into one database. That is why I originally <a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">moved my Someday/Maybe lists</a> into OmniFocus. The simplicity of having a single place for active <em>and</em> potential tasks eliminated a bit of resistance to capturing an idea. This ease was also my rationale for moving my <a href="http://joebuhlig.com/recurring-checklists-in-evernote/">checklists from Evernote</a> to OmniFocus.</p>
+
+<p>There are a lot of ways to keep checklists in OmniFocus, but I keep the process as effortless as possible. I manage a single folder that holds all of them. I don’t have so many that I feel the need to subdivide them. They are all together in one list and each checklist has the same settings:</p>
+
+<ul>
+  <li>Parallel project set to “Complete when completing last action”</li>
+  <li>Repeat set to Defer Again in one minute</li>
+</ul>
+
+<p>When I sit down to go through a checklist, I work from the project view so it doesn’t matter if the project is Parallel or Sequential. I see every item on the list regardless. My default for new projects is Parallel so I leave it alone. I want these to autocomplete and recreate themselves when everything is done; the repeat and completion settings make it happen.</p>
+
+<p>I’ve used checklists for packing lists, payroll, and even rituals for quite a while. But during a recent Weekly Review I realized I was putting a handful of checklists elsewhere and treating them differently when I shouldn’t. The lists of steps for all my reviews has been living in my Guidance folder, so I flagged them to display on my Dashboard.</p>
+
+<p>This is a prime example of how fluid a GTD system can be. It needs to fluctuate with how you work and morph as you learn about yourself. I very recently wrote about how I work with my <a href="http://joebuhlig.com/the-omnifocus-dashboard/">OmniFocus Dashboard</a>. And here I am changing its purpose entirely. I realized I had abstracted and complicated these meta-lists unnecessarily. Yes, they are Guidance projects to complete at regular intervals, but those intervals are better placed on the calendar and the checklist put where they belong. By breaking them off into their own category, I was required to maintain another level of the structure. If I can simplify it and uphold my level of productivity while eliminating mental strain (no matter how small), why wouldn’t I reduce the complexity? This is especially true when the work required to pull it off is miniscule.</p>
+
+<p>All of this is to say that I’ve moved my reviews into my checklists folder and pulled them from the Dashboard. I reserve time on my calendar for them and go through the list at that time. It cuts back on the automation going into my daily task list and gives me the freedom to put off a review for a few hours or days if I need to go heads down on a project. It also eliminates some of the overwhelm from seeing a Dashboard with 30+ items on it in the morning.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Inbox Consolidation]]></title>
+    <link>http://joebuhlig.com/inbox-consolidation/</link>
+    <pubDate>Fri, 27 May 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[gtd]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/inbox-consolidation/</guid>
+    <description>
+        <![CDATA[As part of a new project that will be released in a few weeks, I recently reread Getting Things Done by David Allen. I found it interesting that David hasn’t changed his tune when it comes to information overload. Despite a dramatic increase in technology and the volume of inputs...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/inbox-consolidation.jpg" /><p>As part of a new project that will be released in a few weeks, I recently reread <em>Getting Things Done</em> by David Allen. I found it interesting that David hasn’t changed his tune when it comes to information overload. Despite a dramatic increase in technology and the volume of inputs as compared to the original writing, he still advocates for the same capture mechanisms and clarification process.
+<!--more--></p>
+
+<p>This is to be expected but reading his thoughts on the subject of social media struck a chord with me. I have long considered Twitter, piles on my desk, and the bench in my woodshop as inboxes. Developing an awareness of where “open loops” collect is a process that reveals a large number of inboxes we may not realize we have. And when we consider the number of apps we use that have an “in” feature, this number can explode. Unless we do something about it we’ll spend all our time clearing our trays, and as soon as we get through them once, we’ll need to start over again. The easy and obvious solution here is to cut back on inputs and create “aggregate inboxes” or places that pull captured items from multiple sources.</p>
+
+<p>Cutting back is the best alternative here, but often times we can’t do this or don’t want to. So the next option is to create consolidated inboxes. I like to think of these as smart inboxes. We may not be able to pull everything into a single inbox but the fewer places that need cleared, the better.</p>
+
+<p>And to be honest, I don’t want everything in one inbox. And I don’t need to process all my inboxes at the same intervals. My voice mails need cleared out multiple times a day, but that pile on the bench in my woodshop only needs clearing when I want to make sawdust. That means my aggregate inboxes can’t be consolidated beyond my clarification frequencies.</p>
+
+<p>Let’s take email for example. Like most, I have multiple email addresses. Whenever I process email (which is way too often), I prefer to take care of all my emails at once. So I pull everything into a single, master email account on Gmail. That allows me to see every new email and act on it from one place.</p>
+
+<p>On my phone, I group all social media accounts into a single folder. I can check them all at once (again, too often) instead of bouncing in and out of them individually. It can become a check pit if I don’t group them.</p>
+
+<p>Although I have done some of this aggregation already, I’m now trying to further the automated consolidation and looking for ways to cut back on physical inboxes. The easier of these are the physical inboxes. I need to notice and combine them to cut back on the number of collection points. The digital side is more treacherous. It’s too easy to draw the conclusion of auto-forwarding all emails or Twitter mentions into OmniFocus. If you’re a social media manager, that might be a good idea. But as a writer and developer, that would be detrimental to my daily work. I would quickly develop a habit of clearing my OmniFocus inbox every 10 minutes.</p>
+
+<p>The better solution might be my existing email account. If I’m already strictly limiting my time in email, that could easily be a better place to send these inputs. And if I can craft the format of the email in a way that enables a quick decision or even an automated decision then my information overwhelm can slowly dissipate. At least, that is the hope.</p>
+
+<p>So the idea here is to bring all digital inputs created by someone other than myself into my email. That sounds a bit scary at first, but if that single inbox can help me cut back on the growing number of digital places to clear, allow me to remain on top of those inputs, and limit the mental strain of multiple collection points, I have succeeded.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Intentional GTD Titles]]></title>
