@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Tue, 31 May 2016 14:17:30 -0500</lastBuildDate>
+<lastBuildDate>Fri, 03 Jun 2016 05:48:50 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,71 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>39: Morning and Evening Rituals</title>
+    <link>http://joebuhlig.com/39/</link>
+    <comments>http://joebuhlig.com/39/#comments</comments>
+    <pubDate>Wed, 01 Jun 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[rituals]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/39/</guid>
+    <description>
+        <![CDATA[What you do for your morning and evening rituals doesn’t have to match what others do. The top 10 things that highly successful people do in the morning may derail your day entirely.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>What you do for your morning and evening rituals doesn’t have to match what others do. The top 10 things that highly successful people do in the morning may derail your day entirely.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://joebuhlig.com/routine-vs-ritual/">Routine vs. Ritual</a></p>
+
+<p><a href="http://joebuhlig.com/why-getting-up-early/">The “Why” of Getting Up Early</a></p>
+
+<p><a href="http://joebuhlig.com/what-to-review/">What To Review</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ039.mp3" length="16844545" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[What you do for your morning and evening rituals doesn’t have to match what others do. The top 10 things that highly successful people do in the morning may derail your day entirely.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>What you do for your morning and evening rituals doesn’t have to match what others do. The top 10 things that highly successful people do in the morning may derail your day entirely.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://joebuhlig.com/routine-vs-ritual/">Routine vs. Ritual</a></p>
+
+<p><a href="http://joebuhlig.com/why-getting-up-early/">The “Why” of Getting Up Early</a></p>
+
+<p><a href="http://joebuhlig.com/what-to-review/">What To Review</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>17:21</itunes:duration>
+  </item>
 
   <item>
     <title>38: Using Multiple Desks In One Office</title>

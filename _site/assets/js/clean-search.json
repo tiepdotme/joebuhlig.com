@@ -1,5 +1,31 @@
 {
 	"clean_search" : [
+		{	"title":"Editorial As A Database Viewer",
+			"image":"/assets/posts/editorial-as-a-database-viewer.jpeg",
+			"permalink":"/editorial-as-a-database-viewer/",
+			"categories": [
+				"blog"
+			],
+			"tags": [
+				"apps"
+			],
+			"excerpt": "<p>One habit that Evernote taught me was that of creating databases, collections of text and pictures that revolve around a specific topic or item. I’m yet to export my Evernote data into my <a href=\"http://joebuhlig.com/an-alternative-to-evernote/\">alternative storage system</a> but I have solved my most glaring issue: searching and viewing these databases on iOS.</p>\n\n",
+			"content": "One%20habit%20that%20Evernote%20taught%20me%20was%20that%20of%20creating%20databases,%20collections%20of%20text%20and%20pictures%20that%20revolve%20around%20a%20specific%20topic%20or%20item.%20I%E2%80%99m%20yet%20to%20export%20my%20Evernote%20data%20into%20my%20alternative%20storage%20system%20but%20I%20have%20solved%20my%20most%20glaring%20issue:%20searching%20and%20viewing%20these%20databases%20on%20iOS.%0A%0A%0AThese%20consist%20of%20three%20data%20types:%20text,%20documents,%20and%20pictures.%20All%20text%20is%20created%20in%20markdown%20files.%20The%20documents%20are%20primarily%20PDFs%20and%20the%20pictures%20are%E2%80%A6%20well%20they%E2%80%99re%20pictures.%20All%20of%20these%20files%20have%20a%20very%20simple%20organizational%20structure%20in%20DropBox.%20There%E2%80%99s%20a%20folder%20named%20after%20the%20type%20of%20database%20(Drinks),%20a%20subfolder%20if%20necessary%20(Coffee),%20and%20then%20the%20files%20which%20are%20named%20after%20the%20item%20itself%20(Caribou%20Mahogany.jpg).%20If%20there%20are%20pictures,%20documents,%20and%20text%20for%20the%20same%20item,%20they%E2%80%99ll%20get%20the%20same%20name%20(but%20with%20different%20file%20extensions)%20to%20make%20it%20easy%20to%20search.%0A%0AIt%E2%80%99s%20a%20very%20basic%20structure,%20which%20makes%20it%20easy%20to%20find%20and%20interact%20with%20these%20different%20files%20from%20different%20apps%20on%20iOS.%20My%20app%20of%20choice%20for%20text%20files%20is%20Editorial.%20There%E2%80%99s%20a%20lot%20of%20power%20in%20Editorial%20that%20I%E2%80%99ve%20never%20utilized%20but%20I%20do%20know%20that%20it%E2%80%99s%20excellent%20for%20editing%20and%20reading%20markdown.%0A%0AI%20was%20typing%20out%20a%20few%20sentences%20for%20an%20article%20while%20waiting%20for%20a%20friend%20when%20I%20accidentally%20tapped%20the%20name%20for%20a%20PDF%20within%20Editorial.%20To%20my%20surprise,%20I%20was%20given%20the%20ability%20to%20%E2%80%9CQuick%20Look%E2%80%9D%20the%20document%20within%20the%20app.%20I%20am%20not%20sure%20why%20I%20never%20tried%20this%20before%20but%20it%20singlehandedly%20changed%20my%20methods%20for%20interacting%20with%20these%20databases%20from%20a%20multi-app%20approach%20to%20a%20single%20point%20of%20access.%0A%0AThis%20means%20that%20given%20a%20file%20structure%20that%20works%20for%20you%20and%20a%20text-heavy%20implementation%20of%20databases,%20Editorial%20can%20act%20as%20a%20user%20interface%20similar%20to%20these%20catchall%20tools%20like%20Evernote.%20Yes,%20there%20is%20the%20downside%20of%20not%20being%20able%20to%20capture%20documents%20and%20pictures%20directly%20into%20Editorial.%20The%20trick%20is%20to%20capture%20these%20into%20DropBox%20and%20let%20Editorial%20be%20the%20viewer%20instead.%20But%20since%20my%20databases%20are%20primarily%20text,%20I%E2%80%99m%20able%20to%20leverage%20the%20power%20of%20a%20tool%20that%20was%20designed%20extensively%20for%20text%20and%20maintain%20the%20majority%20of%20my%20editing%20needs.%20Add%20to%20that%20the%20ability%20to%20view%20the%20extra%20files%20I%20compile%20and%20iOS%20now%20has%20a%20database%20interface%20I%20didn%E2%80%99t%20know%20I%20wanted.%0A"
+		},
+	
+		{	"title":"39: Morning and Evening Rituals",
+			"image":"/assets/posts/Morning-and-Evening-Rituals.jpg",
+			"permalink":"/39/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"rituals"
+			],
+			"excerpt": "<p>What you do for your morning and evening rituals doesn’t have to match what others do. The top 10 things that highly successful people do in the morning may derail your day entirely.</p>\n\n",
+			"content": "What%20you%20do%20for%20your%20morning%20and%20evening%20rituals%20doesn%E2%80%99t%20have%20to%20match%20what%20others%20do.%20The%20top%2010%20things%20that%20highly%20successful%20people%20do%20in%20the%20morning%20may%20derail%20your%20day%20entirely.%0A%0A%0ABecome%20a%20Patron%0A%0ARoutine%20vs.%20Ritual%0A%0AThe%20%E2%80%9CWhy%E2%80%9D%20of%20Getting%20Up%20Early%0A%0AWhat%20To%20Review%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Checklists in OmniFocus",
 			"image":"/assets/posts/checklists-in-omnifocus.jpeg",
 			"permalink":"/checklists-in-omnifocus/",
