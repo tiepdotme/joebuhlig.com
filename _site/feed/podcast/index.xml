@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Tue, 07 Jun 2016 13:27:58 -0500</lastBuildDate>
+<lastBuildDate>Thu, 09 Jun 2016 15:20:38 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,59 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>40: The Problem With Audiobooks</title>
+    <link>http://joebuhlig.com/40/</link>
+    <comments>http://joebuhlig.com/40/#comments</comments>
+    <pubDate>Wed, 08 Jun 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[books]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/40/</guid>
+    <description>
+        <![CDATA[I sometimes listen to books via audio but there are a couple flaws with audiobooks that have me avoiding them when I can.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I sometimes listen to books via audio but there are a couple flaws with audiobooks that have me avoiding them when I can.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ040.mp3" length="14885377" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[I sometimes listen to books via audio but there are a couple flaws with audiobooks that have me avoiding them when I can.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>I sometimes listen to books via audio but there are a couple flaws with audiobooks that have me avoiding them when I can.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>15:19</itunes:duration>
+  </item>
 
   <item>
     <title>39: Morning and Evening Rituals</title>

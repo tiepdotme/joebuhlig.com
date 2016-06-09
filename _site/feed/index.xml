@@ -14,11 +14,43 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 07 Jun 2016 13:27:58 -0500</lastBuildDate>
+<lastBuildDate>Thu, 09 Jun 2016 15:20:38 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[40: The Problem With Audiobooks]]></title>
+    <link>http://joebuhlig.com/40/</link>
+    <pubDate>Wed, 08 Jun 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[books]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/40/</guid>
+    <description>
+        <![CDATA[I sometimes listen to books via audio but there are a couple flaws with audiobooks that have me avoiding them when I can.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/The-Problem-With-Audiobooks.jpg" /><p>I sometimes listen to books via audio but there are a couple flaws with audiobooks that have me avoiding them when I can.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[The Overwhelm Inbox]]></title>
@@ -741,44 +773,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>I generate a daily report that shows all the tasks I’ve completed that day. It gives me a historical record that I can use for clients, but mostly I just like to be able to look back on a certain day and see what I did. It’s not necessary but I like the satisfaction in seeing it. <a href="https://github.com/joebuhlig/OFScripts/tree/master/Daily%20Task%20Report">This script</a> takes the tasks completed yesterday and puts them into a text file. Hazel runs it daily to give me a single file for each day.</p>
 
 <p>Although I would love to see these features built-in, I understand they are too specific to my preferences and a broader implementation would add too much to an already intimidating and powerful tool.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Writing Articles By Hand]]></title>
-    <link>http://joebuhlig.com/writing-articles-by-hand/</link>
-    <pubDate>Fri, 06 May 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[writing]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/writing-articles-by-hand/</guid>
-    <description>
-        <![CDATA[After reflecting on the process of writing a daily schedule by hand and discussing the benefits of the analog over the digital, I’ve decided to try writing articles with pen and paper.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/writing-articles-by-hand.jpeg" /><p>After reflecting on the process of <a href="http://joebuhlig.com/22/">writing a daily schedule by hand</a> and discussing <a href="http://joebuhlig.com/33/">the benefits of the analog over the digital</a>, I’ve decided to try writing articles with pen and paper.
-<!--more--></p>
-
-<p>I’ve accrued a variety of theories for why I should to this, but ultimately, I’m curious to know if there are any benefits of analog writing tools for someone who writes for the web. Even contemplating this makes me think it’s a crazy idea. Why use pen and paper when typing is so much faster? And wasn’t typing speed part of the rationale behind my <a href="http://joebuhlig.com/dvorak-transition/">Dvorak transition</a>? On both counts, yes.</p>
-
-<p>And to be honest, I hope to return to typing them. But my curiosity won’t leave me alone. I cannot help but wonder if the physical process of putting ink on a page has benefits I’m unaware of. I can speculate what those may be, but until I give it a real and genuine attempt, I’ll never be able to let the idea go.</p>
-
-<p>It is all the unknowns surrounding the process that has me writing this away from all screens with fountain pen in hand. Will the slower pace lead me to clearer thoughts and better phrasing of my ideas? Is there a deeper satisfaction in the writing process? Does a pen help me focus more than a keyboard? My presumed answer to all of these questions is yes. If the quality of my articles goes up as a result and the extra time is available, then it is certainly worth the extra effort. And if that’s the case, why can’t this mode of thinking and way of writing be duplicated through a keyboard?</p>
-
-<p>My normal writing environment is in <em>Distraction Free Mode</em> inside Sublime Text. It’s nothing more than full screen mode with all display panels hidden. The theory should hold that I’m writing in the same environment as analog: with no outside distraction or tendencies to deviate from the task at hand. But one major difference remains with the availability of distractions. There are easily more opportunities to jump in and out of alternatives on the Mac. So in theory, the analog process should yield greater focus.</p>
-
-<p>My hope is that the slower pace allows me to process and develop my thoughts more completely. Too often I reread an article I released a few days prior and see a gaping hole in my rationale. Or I’ll see a point that I touched on but could have spelled out in more detail. My brevity isn’t wrong, per se, but I would prefer to put it all out there in most cases. My shortness is due to a lack of decision more than a set intention. I don’t want to hold back without realizing I’ve done so. I know the slower pace of hand writing my articles will have an impact, but is it a noticeable and valuable difference?</p>
-
-<p>I am also tempted to think that the overall process of writing an article will be faster. As much as I like to think that typing can be done distraction-free and focused, I have to confess to “checking in” when I have a pause in words. By stepping away from the screen entirely, those “just checks” and the time they take should disappear and allow me to develop a better phrase instead of defaulting to my original and often predictable way of stating the idea.</p>
-
-<p>I’ve committed to writing five articles by hand - this being the first - so I have four to go. It doesn’t sound like a lot but I’m fairly certain it won’t take long to draw a conclusion. I will give it my best try and explore the results because, as usual, my curiosity has gotten the better of me.</p>
 ]]>
     </content:encoded>
 </item>
