@@ -14,11 +14,45 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 10 Jun 2016 05:46:11 -0500</lastBuildDate>
+<lastBuildDate>Tue, 14 Jun 2016 09:42:17 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[The Deception of Working on a System]]></title>
+    <link>http://joebuhlig.com/the-deception-of-working-on-a-system/</link>
+    <pubDate>Mon, 13 Jun 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[systems]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/the-deception-of-working-on-a-system/</guid>
+    <description>
+        <![CDATA[It’s a trap so easy to fall for: we find ourselves spending multiple hours fine-tuning, tweaking, and developing the simple structure that will automatically create more time and 3X our daily productivity.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/the-deception-of-working-on-a-system.jpeg" /><p>It’s a trap so easy to fall for: we find ourselves spending multiple hours fine-tuning, tweaking, and developing the simple structure that will automatically create more time and 3X our daily productivity.
+<!--more--></p>
+
+<p>If you’re new to productivity or systems, then giving yourself a couple days to put these processes in place may pay off big and be well worth your time. Even if you’re a pro it can be helpful to make adjustments to how you do things with the intent of increasing efficiency, meaning, and output. I make tweaks to my structure frequently. But I need to remind myself of a lie that creeps up when I embark on one of these system alteration endeavors: <em>this is productive.</em></p>
+
+<p>False. It is not productive. It is <em>meta-productive.</em> It feels productive because we are doing something that has meaning; this will make me a better, more efficient person. We are given a sense that we will be able to do more and live a better life, no matter how small the impact, in the future. But it doesn’t inherently make us more productive. It makes it possible, but it won’t make it happen on its own. It simply sets up the environment to be the best it can or should be for us to act on.</p>
+
+<p>This is where the “meta” part comes in. We are completing tasks that allow us to complete tasks more efficiently or effectively. It’s one step removed from the real work to which we’ve committed.</p>
+
+<p>But the deception here is the sense of accomplishment that comes after we have been <em>meta-productive</em>. We’ve done the work necessary to make us better in the future and that gives us the feeling that something important has been completed - even though we haven’t touched one important task the whole time. We get excited about this new or updated system because we’ve made the decisions that will help us accomplish something new or something big. But we haven’t taken an action on the thing itself.</p>
+
+<p>Don’t fall for this feeling of completion after you’ve worked on a system. Don’t celebrate until you’ve worked on the items within it.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Analog Writing Organization]]></title>
@@ -705,60 +739,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </ul>
 
 <p>Again, this amount of review may be overkill for you. As long as your system helps you drive down the right road, you’re golden. But there are always times when we need to reference the lines on the road to keep us from hitting the ditches, and some of us need more reference points than others to stay on the road.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[36: My Current GTD Structure]]></title>
-    <link>http://joebuhlig.com/36/</link>
-    <pubDate>Wed, 11 May 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[gtd]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/36/</guid>
-    <description>
-        <![CDATA[It’s been a while since I’ve shared my entire GTD structure. And now that I’m rereading the book, I figured it would be a good idea to share what I’m currently doing before it changes.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/My-Current-GTD-Structure.jpg" /><p>It’s been a while since I’ve shared my entire GTD structure. And now that I’m rereading the book, I figured it would be a good idea to share what I’m currently doing before it changes.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563?tag=joebuhlig-20">Getting Things Done - 2015 edition</a></p>
-
-<p><a href="http://joebuhlig.com/what-is-an-hpda-and-how-do-i-use-it/">What Is An hPDA and How Do I Use It?</a></p>
-
-<p><a href="http://agiletortoise.com/drafts/">Drafts</a> (<a href="https://geo.itunes.apple.com/us/app/drafts-4-quickly-capture-notes/id905337691?mt=8&amp;at=1l3vnyQ">iTunes</a>)</p>
-
-<p><a href="https://www.youtube.com/watch?v=z9UjeTMb3Yk">Inbox Zero Origin</a></p>
-
-<p><a href="https://www.omnigroup.com/omnifocus">OmniFocus</a></p>
-
-<p><a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">Using Omnifocus for Someday/Maybe Lists</a></p>
-
-<p><a href="http://joebuhlig.com/an-alternative-to-evernote/">An Alternative to Evernote</a></p>
-
-<p><a href="https://discourse.omnigroup.com/t/implementation-details-for-omnifocus-2-14-automation/24179?u=joebuhlig">iOS Automation in OmniFocus</a></p>
-
-<p><a href="http://joebuhlig.com/using-the-analog-to-grasp-the-digital/">Using the Analog to Grasp the Digital</a></p>
-
-<p><a href="http://joebuhlig.com/writing-articles-by-hand/">Writing Articles By Hand</a></p>
-
-<p><a href="http://joebuhlig.com/12/">12: The Higher Horizons</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]>
     </content:encoded>
 </item>
