@@ -813,6 +813,12 @@ table {
     padding: 5px; }
 
 /**
+ * Carbon Ads
+*/
+.fusion-ad {
+  display: none; }
+
+/**
  * Syntax highlighting styles
  */
 .highlight {
