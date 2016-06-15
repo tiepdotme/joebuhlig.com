@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"41: Fountain Pens",
+			"image":"/assets/posts/Fountain-Pens.jpg",
+			"permalink":"/41/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"hardware"
+			],
+			"excerpt": "<p>I’m pushing pen addict status. I don’t think I’m there yet, but I do have three fountain pens that I thoroughly enjoy using.</p>\n\n",
+			"content": "I%E2%80%99m%20pushing%20pen%20addict%20status.%20I%20don%E2%80%99t%20think%20I%E2%80%99m%20there%20yet,%20but%20I%20do%20have%20three%20fountain%20pens%20that%20I%20thoroughly%20enjoy%20using.%0A%0A%0ABecome%20a%20Patron%0A%0AThe%20Science%20and%20Experience%20of%20Analog%20Writing%0A%0AMonteverde%20Invincia%0A%0AThe%20Goulet%20Pen%20Company%0A%0ABrian%20Goulet%E2%80%99s%20Blog%0A%0ABrian%20Goulet%E2%80%99s%20Videos%0A%0ALamy%20Safari%0A%0APilot%20Metropolitan%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"The Deception of Working on a System",
 			"image":"/assets/posts/the-deception-of-working-on-a-system.jpeg",
 			"permalink":"/the-deception-of-working-on-a-system/",

@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Tue, 14 Jun 2016 09:42:17 -0500</lastBuildDate>
+<lastBuildDate>Wed, 15 Jun 2016 09:59:28 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,87 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>41: Fountain Pens</title>
+    <link>http://joebuhlig.com/41/</link>
+    <comments>http://joebuhlig.com/41/#comments</comments>
+    <pubDate>Wed, 15 Jun 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[hardware]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/41/</guid>
+    <description>
+        <![CDATA[I’m pushing pen addict status. I don’t think I’m there yet, but I do have three fountain pens that I thoroughly enjoy using.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I’m pushing pen addict status. I don’t think I’m there yet, but I do have three fountain pens that I thoroughly enjoy using.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://joebuhlig.com/the-science-and-experience-of-analog-writing/">The Science and Experience of Analog Writing</a></p>
+
+<p><a href="https://www.amazon.com/Monteverde-Invincia-Chrome-Fountain-MV40065F/dp/B00691RCUK/ref=sr_1_3?tag=joebuhlig-20">Monteverde Invincia</a></p>
+
+<p><a href="http://www.gouletpens.com/">The Goulet Pen Company</a></p>
+
+<p><a href="http://blog.gouletpens.com/">Brian Goulet’s Blog</a></p>
+
+<p><a href="https://www.youtube.com/channel/UCPdFDFTd6P1a__tAr8CrpCQ">Brian Goulet’s Videos</a></p>
+
+<p><a href="https://www.amazon.com/Lamy-Safari-Fountain-Extra-Charcoal/dp/B00W30C37S/ref=sr_1_3?tag=joebuhlig-20">Lamy Safari</a></p>
+
+<p><a href="https://www.amazon.com/Pilot-Metropolitan-Collection-Fountain-91101/dp/B009M3PJFM/ref=sr_1_4?tag=joebuhlig-20">Pilot Metropolitan</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ041.mp3" length="17121409" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[I’m pushing pen addict status. I don’t think I’m there yet, but I do have three fountain pens that I thoroughly enjoy using.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>I’m pushing pen addict status. I don’t think I’m there yet, but I do have three fountain pens that I thoroughly enjoy using.
+<!--more--></p>
+
+<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
+
+<p><a href="http://joebuhlig.com/the-science-and-experience-of-analog-writing/">The Science and Experience of Analog Writing</a></p>
+
+<p><a href="https://www.amazon.com/Monteverde-Invincia-Chrome-Fountain-MV40065F/dp/B00691RCUK/ref=sr_1_3?tag=joebuhlig-20">Monteverde Invincia</a></p>
+
+<p><a href="http://www.gouletpens.com/">The Goulet Pen Company</a></p>
+
+<p><a href="http://blog.gouletpens.com/">Brian Goulet’s Blog</a></p>
+
+<p><a href="https://www.youtube.com/channel/UCPdFDFTd6P1a__tAr8CrpCQ">Brian Goulet’s Videos</a></p>
+
+<p><a href="https://www.amazon.com/Lamy-Safari-Fountain-Extra-Charcoal/dp/B00W30C37S/ref=sr_1_3?tag=joebuhlig-20">Lamy Safari</a></p>
+
+<p><a href="https://www.amazon.com/Pilot-Metropolitan-Collection-Fountain-91101/dp/B009M3PJFM/ref=sr_1_4?tag=joebuhlig-20">Pilot Metropolitan</a></p>
+
+<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>17:38</itunes:duration>
+  </item>
 
   <item>
     <title>40: The Problem With Audiobooks</title>
