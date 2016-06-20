@@ -14,11 +14,99 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 16 Jun 2016 10:08:24 -0500</lastBuildDate>
+<lastBuildDate>Mon, 20 Jun 2016 14:53:38 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[An Open Letter To Productivity]]></title>
+    <link>http://joebuhlig.com/an-open-letter-to-productivity/</link>
+    <pubDate>Mon, 20 Jun 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[productivity]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/an-open-letter-to-productivity/</guid>
+    <description>
+        <![CDATA[My friend,
+
+We’ve come a long way since we met five years ago.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/an-open-letter-to-productivity.jpeg" /><p>My friend,</p>
+
+<p>We’ve come a long way since we met five years ago.<!--more--> And I cannot thank you enough for the clarity and direction you’ve given me through the multiple transitions and big decisions I have faced in recent years. Without the systems and tricks you’ve taught me, I would accomplish much less and fall short of numerous goals. For that, I am grateful.</p>
+
+<p>I know I don’t always stick to the structure you’ve helped me build, but you’re always there when I realize I’ve stepped away. I know that if I trust the guidelines and follow them, my days are efficient and invigorating; and that makes me want to keep going and do more. It reveals my ability to do something great.</p>
+
+<p>But sometimes I need space. I know you want me to be efficient with my calendar but there are periods when I need to blow some time with no expected outcomes. I need a little freedom. I need to be flexible and play once a while.</p>
+
+<p>I think you would agree that margin is beneficial, but you often expect a measurable result when I take a break. I can understand that. We both know that taking time to re-energize can lead to greater gains elsewhere. But that’s my point: I can’t always look for the benefit of an activity. Why must everything have a defined positive outcome? Why not be content with the lack of definition and embrace spontaneity and play?</p>
+
+<p>I want to continue our friendship, but with a different perspective. Let’s focus less on doing more and more on doing right. That likely means fewer projects, but I want them to be <em>better</em> projects. I know you’re with me here. But let’s also invite Play to our meetings. I’m aware of the love-hate relationship between you. Let’s work through that together. Between the three of us, I believe we can accomplish something awesome.</p>
+
+<p>I’ll see you tomorrow.</p>
+
+<p>Joe</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Reading Books On A Schedule]]></title>
+    <link>http://joebuhlig.com/reading-books-on-a-schedule/</link>
+    <pubDate>Fri, 17 Jun 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[books]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/reading-books-on-a-schedule/</guid>
+    <description>
+        <![CDATA[For years I have wanted to read more books. Prolific readers rave about the benefits and world-renowned leaders often attribute their ideas and successes to their habit of reading, but to me the benefits of having read a lot of books was secondary to the innate sense that a realm...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/reading-books-on-a-schedule.jpeg" /><p>For years I have wanted to read more books. Prolific readers rave about the benefits and world-renowned leaders often attribute their ideas and successes to their habit of reading, but to me the benefits of having read a lot of books  was secondary to the innate sense that a realm of knowledge and experience was available to me, but I was missing it.
+<!--more--></p>
+
+<p>Missing out on something is not inherently bad. It is actually a good thing in many cases. With firehoses of input available at every turn today, we need to decide to miss out on some things. And the more we can cut, the more head space and time we have to expand our minds and work towards our goals in life. I will be the first to say I am bad at this. Resisting the constant pull of potential updates is a war I fight daily.</p>
+
+<p>In time, I have cut back on these overwhelming streams of unnecessary input, but I have only done so successfully with the addition of a replacement habit: reading books. Frankly, I don’t have the self-control to pick up a book instead of my phone when the “just check” bug bites. I rely on staged environmental circumstances to make it happen. I leave my phone out of reach and keep a book readily available. That helps significantly, but taking it another step, I have committed to completing a book every two weeks.</p>
+
+<p>This accomplishes two things. One, I need to read a significant portion of a book each day to hit my mark. Two, it forces me to look for time to read in the day. The combination of these two means I do not have near the time for social media and email as I did previously and instead use that time for books.</p>
+
+<p>But there is a flaw in this design that I discovered early on. My procrastination tendency leads me to back loading the two-week period with higher page counts. This is mostly due to not knowing if I am on track to hit my goal on a daily basis. It appears simple to take the number of pages in the book and divide by 14 to know how far to read each day. But after day three or four, I start to lose track and do not want to continue recalculating where I should be.</p>
+
+<p>Each time I start a new book, I create a new OmniFocus project for it. I have a series of tasks I complete after finishing a book. Since this project already exists, I took it to another level and added a “Read Book” group with subtasks for each day’s reading. With that group flagged, I know what today’s expected page count is by looking at <a href="http://joebuhlig.com/the-omnifocus-dashboard/">my Dashboard</a>.</p>
+
+<p><img class="center-image post-image-medium" src="http://joebuhlig.com/assets/posts_extra/reading-books-on-a-schedule/read-book-group.png" /></p>
+
+<p>But reading a book every two weeks means I create these tasks quite frequently. And you can’t expect me to do that manually every time, can you? A new script was in order.</p>
+
+<p>When run, it asks four questions:</p>
+
+<ol>
+  <li>What is the title of the book?</li>
+  <li>How many pages are in the book?</li>
+  <li>When do you want to start reading?</li>
+  <li>When do you want to finish reading?</li>
+</ol>
+
+<p>Using these answers, the script breaks the book into the correct number of tasks (one per day), each having the same number of pages to read. It adds these to my OmniFocus inbox so I can copy/paste or move them as I like. It programmatically adds @Read as a context, but the script can be altered as needed to fit your system. <a href="https://github.com/joebuhlig/OFScripts/tree/master/Read%20Book%20Tasks">This script</a> can be found in my <a href="https://github.com/joebuhlig/OFScripts">OFScripts repository on GitHub</a>.</p>
+
+<p>The result of this is a daily view of progress I need to make in order to hit my goal. Knowing the day’s goal forces me to make time and cut back on the less important, trivial actions.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[41: Fountain Pens]]></title>
@@ -618,82 +706,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>This also frees up some of my own time. I really like the current posting cadence, but I’m looking to direct some of my writing time to new areas. I have a couple important projects I’m working on that I want to dedicate more time to and I know there will be more projects when those are complete. Guest posting will allow the rhythm to continue and these new areas to accelerate.</p>
 
 <p>I can continue listing reasons why I think this is a good thing, but you get the point. There’s a lot of value that can come to all of us. So if you’re interested in sharing your thoughts and words with readers like yourself (even if you’ve never written an article before), check out the details on the <a href="http://joebuhlig.com/guest">guest posting page</a>.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[37: Reading Books vs Articles]]></title>
-    <link>http://joebuhlig.com/37/</link>
-    <pubDate>Wed, 18 May 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[adhd]]></category>
-
-    <category><![CDATA[books]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/37/</guid>
-    <description>
-        <![CDATA[As I learn how to handle the good and bad that comes from being ADHD, I’ve learned the power of reading books over articles.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/reading-books-vs-articles.jpg" /><p>As I learn how to handle the good and bad that comes from being ADHD, I’ve learned the power of reading books over articles.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="http://www.amazon.com/Delivered-Distraction-Getting-Attention-Disorder/dp/0345442318?tag=joebuhlig-20">Delivered From Distraction</a></p>
-
-<p><a href="http://joebuhlig.com/alternating-types-of-tasks/">Alternating Types of Tasks</a></p>
-
-<p><a href="http://joebuhlig.com/writing-articles-by-hand/">Writing Articles By Hand</a></p>
-
-<p><a href="https://www.macstories.net/">MacStories - Federico Viticci</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Alternating Types of Tasks]]></title>
-    <link>http://joebuhlig.com/alternating-types-of-tasks/</link>
-    <pubDate>Mon, 16 May 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[task-management]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/alternating-types-of-tasks/</guid>
-    <description>
-        <![CDATA[There’s something liberating about putting a name to something you didn’t understand. This was my exact experience when I learned I am ADHD. It gave me words to explain the way I think and those words have given way to a deeper comprehension of how I operate.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/alternating-types-of-tasks.jpeg" /><p>There’s something liberating about putting a name to something you didn’t understand. This was my exact experience when I learned I am ADHD. It gave me words to explain the way I think and those words have given way to a deeper comprehension of how I operate.
-<!--more--></p>
-
-<p>Putting a name to it also makes it easier to connect with people in the same boat. And it makes it possible to learn what others do to take advantage of the positives and overcome the negatives. So naturally, I did some research and found that many try to eradicate it entirely. It’s seen as a disease to overcome. But you may be doing yourself an injustice by trying to delete a portion of who you are. I would rather heighten the useful aspects and downplay the detrimental. If I have an overactive mind, is there a way to allow myself to bounce from thing to thing and still accomplish my creative work? After a bit of experimentation, I’ve discovered a way to do this.</p>
-
-<p>I can only will myself to focus on a new task for about 20 minutes - unless I’m really excited or interested in it, then it can be days before I come up for air. But when I’m not in hyperfocus mode, 20 minutes is about all I have.</p>
-
-<p>For a long time I’ve been breaking my projects down into 15 - 20 minute tasks. My focus-ability may be why I’ve done that but I can’t say for certain. Typically, I would sit down and work on a project with the intent of completing three or four of these tasks. And I’ve had fairly good success doing so. But it’s never occurred to me that this was a bad idea. It’s what everyone else does and they seem to have a great success with it. Why shouldn’t I follow suit?</p>
-
-<p>Learning that I am ADHD gave me the clarity I needed to explore other options. If I can naturally focus on a task for 20 minutes, what if I started a completely different type of task afterwards instead of doing more of the same? What if I alternate between coding, writing, learning, and admin every 20 minutes?</p>
-
-<p>Bingo! It turns out that I’ve wanted to work this way all along, but I couldn’t see it. Yes, there are times when I get into <a href="https://en.wikipedia.org/wiki/Flow_(psychology)">flow</a> and won’t switch. If I can focus for longer, why move on? But if I can’t focus, I don’t fight it. I switch to a different type of task and come back at the next switch off. After all, I tend the bounce quickly. Why not take advantage of it?</p>
 ]]>
     </content:encoded>
 </item>
