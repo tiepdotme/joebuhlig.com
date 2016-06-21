@@ -14,11 +14,43 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 20 Jun 2016 14:53:38 -0500</lastBuildDate>
+<lastBuildDate>Tue, 21 Jun 2016 11:45:39 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Introducing Working With Ideas]]></title>
+    <link>http://joebuhlig.com/introducing-working-with-ideas/</link>
+    <pubDate>Tue, 21 Jun 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[course]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/introducing-working-with-ideas/</guid>
+    <description>
+        <![CDATA[There are times when you realize a project needs to take a hard turn. Your original intent is good, but it doesn’t accomplish your goal as well as it might.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/introducing-working-with-ideas.jpeg" /><p>There are times when you realize a project needs to take a hard turn. Your original intent is good, but it doesn’t accomplish your goal as well as it might.
+<!--more--></p>
+
+<p>I find these moments bittersweet. They often result in something much better, but they also bring with them an extensive amount of rework. This was precisely my experience when I took on my second book, <em>Working With Ideas</em>.</p>
+
+<p>I was working on the outline and collecting segments of content when I realized the medium for this content and its delivery system was wrong. It needed to reveal more emotion and story with more camaraderie than an e-book can provide. So I changed direction and turned it into a full video course with a community of idea workers to share the experience with.</p>
+
+<p>I consider this my best work and I’m thrilled to share it with you. I’m so excited about it that I decided to make it possible to <a href="http://pre.workingwithideas.co">get the course for free</a>! To get started, you simply need to <a href="http://pre.workingwithideas.co">sign-up for the launch email</a> (which gets you $12 off by itself).</p>
+
+<p>If you’re interested in learning more about the course, you can check it out here: <a href="https://workingwithideas.co">workingwithideas.co</a>.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[An Open Letter To Productivity]]></title>

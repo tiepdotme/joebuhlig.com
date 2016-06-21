@@ -14,11 +14,43 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 20 Jun 2016 14:53:38 -0500</lastBuildDate>
+<lastBuildDate>Tue, 21 Jun 2016 11:45:39 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Introducing Working With Ideas]]></title>
+    <link>http://joebuhlig.com/introducing-working-with-ideas/</link>
+    <pubDate>Tue, 21 Jun 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[course]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/introducing-working-with-ideas/</guid>
+    <description>
+        <![CDATA[There are times when you realize a project needs to take a hard turn. Your original intent is good, but it doesn’t accomplish your goal as well as it might.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/introducing-working-with-ideas.jpeg" /><p>There are times when you realize a project needs to take a hard turn. Your original intent is good, but it doesn’t accomplish your goal as well as it might.
+<!--more--></p>
+
+<p>I find these moments bittersweet. They often result in something much better, but they also bring with them an extensive amount of rework. This was precisely my experience when I took on my second book, <em>Working With Ideas</em>.</p>
+
+<p>I was working on the outline and collecting segments of content when I realized the medium for this content and its delivery system was wrong. It needed to reveal more emotion and story with more camaraderie than an e-book can provide. So I changed direction and turned it into a full video course with a community of idea workers to share the experience with.</p>
+
+<p>I consider this my best work and I’m thrilled to share it with you. I’m so excited about it that I decided to make it possible to <a href="http://pre.workingwithideas.co">get the course for free</a>! To get started, you simply need to <a href="http://pre.workingwithideas.co">sign-up for the launch email</a> (which gets you $12 off by itself).</p>
+
+<p>If you’re interested in learning more about the course, you can check it out here: <a href="https://workingwithideas.co">workingwithideas.co</a>.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[An Open Letter To Productivity]]></title>
@@ -676,36 +708,6 @@ We’ve come a long way since we met five years ago.
 <p>I’ve always felt that writing was synonymous with typing. “That’s how it <em>should</em> be done. It’s faster and more efficient.” But for me, the trade-offs aren’t worth it. I’ll be sticking with pen and paper. I’ve even gone to the extent of setting up a dedicated writing desk and purchasing a <a href="http://www.amazon.com/Leuchtturm-Master-Notebook-Hardcover-Dotted/dp/B003ENUIKC?tag=joebuhlig-20">special notebook</a> for it.</p>
 
 <p><img class="center-image post-image-small" src="http://joebuhlig.com/assets/posts_extra/the-science-and-experience-of-analog-writing/writing-desk.jpeg" /></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Guest Posting]]></title>
-    <link>http://joebuhlig.com/guest-posting/</link>
-    <pubDate>Wed, 18 May 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[meta]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/guest-posting/</guid>
-    <description>
-        <![CDATA[Over the past month I’ve made some design changes and layout alterations here on the site. Some of that was purely for aesthetics and ease of use, but it also included some back-end alterations to allow guest posting. I’ve debated this for a long time and I’m finally ready to...]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/guest-posting.jpeg" /><p>Over the past month I’ve made some design changes and layout alterations here on the site. Some of that was purely for aesthetics and ease of use, but it also included some back-end alterations to allow guest posting. I’ve debated this for a long time and I’m finally ready to pull the trigger.
-<!--more--></p>
-
-<p><strong>You can read the details about how to participate on the <a href="http://joebuhlig.com/guest">guest posting page</a>.</strong></p>
-
-<p>One of the best ways to expand our thinking is to explore new ideas and perspectives that may differ from our own. It forces us to formulate our own opinions on the subject. We may love the thought or think it’s trash but either way, making that decision helps us understand our own reasoning behind the subject. By allowing others to write articles for this site, we can see glimpses of how others operate and think, which broadens the perspective on productivity conveyed here.</p>
-
-<p>This also frees up some of my own time. I really like the current posting cadence, but I’m looking to direct some of my writing time to new areas. I have a couple important projects I’m working on that I want to dedicate more time to and I know there will be more projects when those are complete. Guest posting will allow the rhythm to continue and these new areas to accelerate.</p>
-
-<p>I can continue listing reasons why I think this is a good thing, but you get the point. There’s a lot of value that can come to all of us. So if you’re interested in sharing your thoughts and words with readers like yourself (even if you’ve never written an article before), check out the details on the <a href="http://joebuhlig.com/guest">guest posting page</a>.</p>
 ]]>
     </content:encoded>
 </item>

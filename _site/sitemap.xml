@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/introducing-working-with-ideas/</loc>
+    <lastmod>2016-06-21T00:00:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/an-open-letter-to-productivity/</loc>
     <lastmod>2016-06-20T00:00:00-05:00</lastmod>
   </url>
@@ -727,13 +731,16 @@
     <loc>http://joebuhlig.com/guest/thanks/</loc>
   </url>
   <url>
+    <loc>http://joebuhlig.com/</loc>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/guest/</loc>
   </url>
   <url>
-    <loc>http://joebuhlig.com/newsletter/confirm/</loc>
+    <loc>http://joebuhlig.com/articles/</loc>
   </url>
   <url>
-    <loc>http://joebuhlig.com/</loc>
+    <loc>http://joebuhlig.com/newsletter/thank-you/</loc>
   </url>
   <url>
     <loc>http://joebuhlig.com/newsletter/</loc>
@@ -748,7 +755,7 @@
     <loc>http://joebuhlig.com/about/</loc>
   </url>
   <url>
-    <loc>http://joebuhlig.com/newsletter/thank-you/</loc>
+    <loc>http://joebuhlig.com/newsletter/confirm/</loc>
   </url>
   <url>
     <loc>http://joebuhlig.com/tag/distractions/</loc>
@@ -1046,6 +1053,9 @@
   </url>
   <url>
     <loc>http://joebuhlig.com/tag/adhd/</loc>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/tag/course/</loc>
   </url>
     <url>
       <loc>http://joebuhlig.com/put-distractions-place/</loc>
@@ -1577,5 +1587,8 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/an-open-letter-to-productivity/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/introducing-working-with-ideas/</loc>
     </url>
 </urlset>
