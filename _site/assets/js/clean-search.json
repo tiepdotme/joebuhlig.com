@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"42: Deciding On A Medium",
+			"image":"/assets/posts/Deciding-On-A-Medium.jpg",
+			"permalink":"/42/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"mediums"
+			],
+			"excerpt": "<p>If you create content in any form and have dabbled in multiple mediums, you’re left with a decision about which method of consumption is best for the topic you want to present.</p>\n\n",
+			"content": "If%20you%20create%20content%20in%20any%20form%20and%20have%20dabbled%20in%20multiple%20mediums,%20you%E2%80%99re%20left%20with%20a%20decision%20about%20which%20method%20of%20consumption%20is%20best%20for%20the%20topic%20you%20want%20to%20present.%0A%0A%0ABecome%20a%20Patron%0A%0AMy%20Book%20-%20Working%20With%20OmniFocus%0A%0AMy%20Video%20Course%20-%20Working%20With%20Ideas%0A%0A@WhaddyaKnowJoe%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"Introducing Working With Ideas",
 			"image":"/assets/posts/introducing-working-with-ideas.jpeg",
 			"permalink":"/introducing-working-with-ideas/",
