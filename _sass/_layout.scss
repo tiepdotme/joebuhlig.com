@@ -399,6 +399,11 @@
 .feed-title{
     text-align: center;
     padding: 5px;
+
+    a {
+        display: inline-block;
+    }
+    
     h3 {
         margin: 0px;
     }

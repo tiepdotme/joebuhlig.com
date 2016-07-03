@@ -14,11 +14,112 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 23 Jun 2016 06:41:04 -0500</lastBuildDate>
+<lastBuildDate>Sun, 03 Jul 2016 07:19:17 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[My Podcasting Setup]]></title>
+    <link>http://joebuhlig.com/my-podcasting-setup/</link>
+    <pubDate>Mon, 27 Jun 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[podcasting]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/my-podcasting-setup/</guid>
+    <description>
+        <![CDATA[I have detailed my writing process quite a bit lately, but that made me realize I have never pulled all the pieces of my podcasting setup together. Let’s change that.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/my-podcasting-setup.jpeg" /><p>I have detailed <a href="http://joebuhlig.com/the-science-and-experience-of-analog-writing/">my writing process</a> quite a bit lately, but that made me realize I have never pulled all the pieces of my podcasting setup together. Let’s change that.
+<!--more--></p>
+
+<h2 id="equipment">Equipment</h2>
+
+<p>I did a lot of research on beginners microphones before I started podcasting and although there are better ones out there, I landed on the <a href="https://www.amazon.com/Rode-Podcaster-USB-Dynamic-Microphone/dp/B000JM46FY/ref=sr_1_1?tag=joebuhlig-20">Rode Podcaster</a>. I have a dream of upgrading to a <a href="https://www.amazon.com/Shure-Supercardioid-Condenser-Microphone-Applications/dp/B0002BACBO/ref=sr_1_1?tag=joebuhlig-20">Beta 87</a> at some point, but this does a great job for now. Altogether here’s what I’m using:</p>
+
+<ul>
+  <li><a href="https://www.amazon.com/Rode-Podcaster-USB-Dynamic-Microphone/dp/B000JM46FY/ref=sr_1_1?tag=joebuhlig-20">Rode Podcaster</a></li>
+  <li><a href="https://www.amazon.com/RODE-Swivel-Mount-Studio-Microphone/dp/B001D7UYBO/ref=sr_1_1?tag=joebuhlig-20">Rode Boom Stand</a></li>
+  <li><a href="https://www.amazon.com/Rode-PSM-1-Shockmount-Podcaster/dp/B000WA8KYG/ref=sr_1_1?tag=joebuhlig-20">Rode Shockmount</a></li>
+  <li><a href="https://www.amazon.com/SM6-Shock-Mount-Integrated-Shield/dp/B004DE1K5S/ref=sr_1_1?tag=joebuhlig-20">Rode Popfilter</a></li>
+  <li><a href="https://www.amazon.com/V-MODA-Crossfade-Over-Ear-Noise-Isolating-Headphone/dp/B003BYRGLI/ref=sr_1_8?tag=joebuhlig-20">V-MODA Crossfade Headphones</a></li>
+</ul>
+
+<p><img class="center-image post-image-medium" src="http://joebuhlig.com/assets/posts_extra/my-podcasting-setup/rode-podcaster.jpeg" /></p>
+
+<h2 id="software">Software</h2>
+
+<p>I have been a subscriber to the <a href="http://www.adobe.com/creativecloud.html">Adobe Creative Cloud</a> for a while now and really enjoy the power of their tools. They aren’t for everyone, but if you have access to it <a href="http://www.adobe.com/products/audition.html">Audition CC</a> does a great job of editing and recording. When I’m recording with someone else, I use the traditional set of software that most podcasters use:</p>
+
+<ul>
+  <li><a href="http://www.adobe.com/products/audition.html">Adobe Audition CC</a></li>
+  <li><a href="http://mutemymic.com/">MuteMyMic</a></li>
+  <li><a href="https://www.skype.com/en/">Skype</a></li>
+  <li><a href="http://www.ecamm.com/mac/callrecorder/">Skype Call Recorder</a></li>
+</ul>
+
+<h2 id="hosting">Hosting</h2>
+
+<p>In my opinion, the gold standard for hosting your files is <a href="https://www.libsyn.com/">Libsyn</a>. It just works and I’ve never had an issue with them. My feed is a custom XML file generated with <a href="http://jekyllrb.com/">Jekyll</a>. If you are a Jekyll user and want to run a podcast, you can get the <a href="https://github.com/joebuhlig/Jekyll-Podcast-Feed">source code for this here</a>.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Time For Books]]></title>
+    <link>http://joebuhlig.com/time-for-books/</link>
+    <pubDate>Fri, 24 Jun 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[books]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/time-for-books/</guid>
+    <description>
+        <![CDATA[In order to read a book every two weeks (and sometimes every week) I have had to make reading a practice that is incorporated throughout my day. Having a single time for reading isn’t enough and it has become a ritual I like to incorporate as many places as I...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/time-for-books.jpeg" /><p>In order to read a book every two weeks (and sometimes every week) I have had to make reading a practice that is incorporated throughout my day. Having a single time for reading isn’t enough and it has become a ritual I like to incorporate as many places as I can.
+<!--more--></p>
+
+<p>Each day is different, but I know I can count on a handful of repeated situations that allow me to read consistently.</p>
+
+<h2 id="early-mornings">Early Mornings</h2>
+
+<p>Every morning, I <a href="http://joebuhlig.com/why-getting-up-early/">get up at five</a>, grab a shower, and make a hot breakfast for myself. This early breakfast always consists of two eggs fried in a cast iron skillet and a banana. While the skillet is warming up and the eggs are cooking, I read. When they are finished cooking, I read while I eat. This is easily the most reliable time I have for reading. It’s a relaxed, ritualistic, and energizing time that is perfect for creating motivation for the day ahead.</p>
+
+<h2 id="transitions">Transitions</h2>
+
+<p>Whether it’s a few extra minutes before a meeting or a quick break between tasks, the transitional periods throughout the day serve as excellent times to grab a book. It may only be a single page, but one page here and there can add up quickly. The beauty of reclaiming these transitional times comes from what it replaces: social media and email checks. Instead of losing 10 minutes to cruising Twitter, I finish a chapter in my book.</p>
+
+<h2 id="waiting">Waiting</h2>
+
+<p>I have started taking a book with me whenever I leave the house. I’m early to most meetings and often find myself waiting for others to show up. Having a book with me means I can get a few more pages read instead of perusing blog articles or email on my phone.</p>
+
+<h2 id="eob-ritual">EOB Ritual</h2>
+
+<p>At the end of my workday, I go through an End Of Business ritual that helps me unwind and clear my head for spending time with my family. I have tried various tactics during this time, but I have found that learning is the best at hitting the brakes on my mental race car. And what better way to learn than to read? So I’ve made it a habit of reading for about 15 minutes before calling it a day.</p>
+
+<h2 id="bedtime">Bedtime</h2>
+
+<p>The least reliable of my reading times is likely the most consistent for others. I am sporadic at reading before bed, but it is another time that is easy to take advantage of and turn a few pages in a book.</p>
+
+<h2 id="the-pattern">The Pattern?</h2>
+
+<p>When I reflect on each of these scenarios I notice a recurring theme. In every instance, I have historically focused my eyes on a screen instead of a book. It’s easy to check my phone for a few minutes before bed or while I am eating breakfast. But if I pay attention to how I feel afterwards, I always prefer the feeling of accomplishment after having read a book to the feeling of inadequacy that comes from checking a screen.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[42: Deciding On A Medium]]></title>
@@ -517,137 +618,6 @@ We’ve come a long way since we met five years ago.
 <p>The better solution might be my existing email account. If I’m already strictly limiting my time in email, that could easily be a better place to send these inputs. And if I can craft the format of the email in a way that enables a quick decision or even an automated decision then my information overwhelm can slowly dissipate. At least, that is the hope.</p>
 
 <p>So the idea here is to bring all digital inputs created by someone other than myself into my email. That sounds a bit scary at first, but if that single inbox can help me cut back on the growing number of digital places to clear, allow me to remain on top of those inputs, and limit the mental strain of multiple collection points, I have succeeded.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[38: Using Multiple Desks In One Office]]></title>
-    <link>http://joebuhlig.com/38/</link>
-    <pubDate>Wed, 25 May 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[hardware]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/38/</guid>
-    <description>
-        <![CDATA[Since starting to exclusively write with pen and paper, I’ve added a dedicated writing desk to my office. This week I explore the pros and cons of using multiple desks in my office.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Using-Multiple-Desks-In-One-Office.jpg" /><p>Since starting to exclusively write with pen and paper, I’ve added a dedicated writing desk to my office. This week I explore the pros and cons of using multiple desks in my office.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/writing-articles-by-hand/">Writing Articles By Hand</a></p>
-
-<p><a href="http://joebuhlig.com/the-science-and-experience-of-analog-writing/">The Science and Experience of Analog Writing</a></p>
-
-<p><a href="http://www.amazon.com/Leuchtturm-Master-Notebook-Hardcover-Dotted/dp/B003ENUIKC?tag=joebuhlig-20">Leuchtturm Master Notebook A4 Hardcover Dotted Black</a></p>
-
-<p><a href="http://www.amazon.com/Rhodia-No-16-Sheet-Black-16559/dp/B003UCL77U/ref=sr_1_2?tag=joebuhlig-20">Rhodia Dotpads</a></p>
-
-<p><a href="http://www.amazon.com/Pilot-Retractable-Premium-Roller-31256/dp/B001E6D3W6/ref=sr_1_1?tag=joebuhlig-20">Pilot G-2</a></p>
-
-<p><a href="http://www.amazon.com/Pilot-Metropolitan-Collection-Fountain-91101/dp/B009M3PJFM/ref=sr_1_4?tag=joebuhlig-20">Pilot Metropolitan - Notetaking fountain pen</a></p>
-
-<p><a href="http://www.amazon.com/Lamy-Safari-Fountain-Pen-Charcoal/dp/B0002T401Y/ref=sr_1_1?tag=joebuhlig-20">Lamy Safari - Long-form writing fountain pen</a></p>
-
-<p><a href="http://www.amazon.com/Monteverde-Invincia-Chrome-Fountain-MV40065F/dp/B00691RCUK/ref=sr_1_4?tag=joebuhlig-20">Monteverde Invincia - Specialty writing fountain pen</a></p>
-
-<p><a href="http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html">Herman Miller Aeron</a></p>
-
-<p><a href="http://www.amazon.com/HandStands-55510-Add--Wrist-Cushion/dp/B001CWI0XY/ref=sr_1_20?tag=joebuhlig-20">Palm Rest</a></p>
-
-<p><a href="https://en.wikipedia.org/wiki/Duncan_Phyfe">Duncan Phyfe - Wikipedia</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Intentional GTD Titles]]></title>
-    <link>http://joebuhlig.com/intentional-gtd-titles/</link>
-    <pubDate>Mon, 23 May 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[gtd]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/intentional-gtd-titles/</guid>
-    <description>
-        <![CDATA[When I started with GTD five years ago, I was certain it was the missing piece to my mental overwhelm puzzle. It was the five-step framework that would keep me from procrastinating and give me the motivation to accomplish everything to which I kept saying yes.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/intentional-gtd-titles.jpeg" /><p>When I started with GTD five years ago, I was certain it was the missing piece to my mental overwhelm puzzle. It was the five-step framework that would keep me from procrastinating and give me the motivation to accomplish everything to which I kept saying yes.
-<!--more--></p>
-
-<p>And although these are possible outcomes, they are far from implicit. GTD can help you stay on task and give you the means to work on the right next action, but not without your discipline and persistence. And then it only works if you do all of the thinking about a task or project when it is initially processed. Take these projects for example:</p>
-
-<p><strong>Wife’s birthday</strong></p>
-
-<ul>
-  <li>Cake</li>
-  <li>Present</li>
-  <li>Plates and silverware</li>
-  <li>Invite friends</li>
-</ul>
-
-<p><strong>example.com</strong></p>
-
-<ul>
-  <li>Complete web design</li>
-  <li>Decide on host</li>
-  <li>Email?</li>
-  <li>Launch date?</li>
-  <li>Commerce section</li>
-</ul>
-
-<p><strong>New product</strong></p>
-
-<ul>
-  <li>Photos for website</li>
-  <li>Quality across lines</li>
-  <li>Market?</li>
-  <li>Retailers</li>
-  <li>Press release</li>
-</ul>
-
-<p>At first glance, these may seem fine. I have a list of projects and a list of tasks that go with each project. But you may see a glaring issue here; there’s still some interpretation necessary to decide what each requires you to do. Is “plates and silverware” a reminder to set the table or is it part of your shopping list? Are you asking about the addition of email addresses to the website or the set up for an email newsletter? Does “press release” mean you need to write it, publish it, or review it? Granted, some of the detail missing here may be implied depending on the context assigned to each. If “plates and silverware” has the @Errands context, you have your answer.</p>
-
-<p>But the projects themselves leave you in question as well. Do you have a shopping list for your wife’s birthday or a list of setup that needs to happen on the day itself? Are you writing the code for the website or overseeing the project? Are you exploring the addition of a new product for your company or is it a new thing you’re exploring personally? Again, some of this may be implied through the metadata you assigned but the title itself is still lacking. This set of projects leaves a lot of questions and requires you to decode a series of assumptions before you can take action.</p>
-
-<p>Part of the <em>why</em> of GTD is to eliminate the need to hold information in our minds since we are terrible at recalling it when we need it. But we inevitably develop a need to remember our intent for these projects and tasks if we treat them as nothing more than a list of triggers. We’ve left ourselves with only half of the thinking completed and retain the other half in our minds, which defeats the goal we originally set out to achieve. We better serve ourselves if we finish the process and put all of the data we need or have for the item in the name.</p>
-
-<p>That naturally begs the question, “how <em>should</em> you name them?”” The answer is simple in principle and challenging in practice. These titles should tell you exactly what needs to be done without the need to augment it with information you are still trying to remember. From a tactical standpoint, that means starting with a verb and giving so much detail that you can wake up in the middle of the night and still know what to do when you read it.</p>
-
-<ul>
-  <li>Wife’s birthday → <em>Celebrate wife’s birthday at home</em></li>
-  <li>example.com → <em>Build example.com for client xyz</em></li>
-  <li>New product → <em>Launch new line of sweatshirts</em></li>
-</ul>
-
-<p>By renaming these projects, you instantly see an increase in clarity and you know what <em>done</em> is just by reading the title. It takes more work up front to give this level of definition, but I can tell you from experience that those extra few seconds will save you the time and hassle of rethinking them each time in the future.</p>
-
-<ul>
-  <li>Cake → <em>Call Deli re: custom cake for wife’s birthday party</em></li>
-  <li>Email? → <em>Email client xyz re: how many email accounts are needed prior to launch?</em></li>
-  <li>Press release → <em>Write first draft of online press release for new line of sweatshirts</em></li>
-</ul>
-
-<p>It’s no small task to spell out this much detail, but the benefits are invaluable. Instead of seeing a few words that require interpretation (which becomes a task itself), I see an action to be taken. Eliminating that miniscule amount of resistance can be the difference between productive work and procrastination. Don’t let a desire to save time up front create an excuse to do nothing later.</p>
 ]]>
     </content:encoded>
 </item>

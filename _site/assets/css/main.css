@@ -501,6 +501,8 @@ table {
 .feed-title {
   text-align: center;
   padding: 5px; }
+  .feed-title a {
+    display: inline-block; }
   .feed-title h3 {
     margin: 0px; }
 

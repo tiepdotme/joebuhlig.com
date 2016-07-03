@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/my-podcasting-setup/</loc>
+    <lastmod>2016-06-27T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/time-for-books/</loc>
+    <lastmod>2016-06-24T00:00:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/42/</loc>
     <lastmod>2016-06-22T00:00:00-05:00</lastmod>
   </url>
@@ -1064,6 +1072,9 @@
   <url>
     <loc>http://joebuhlig.com/tag/mediums/</loc>
   </url>
+  <url>
+    <loc>http://joebuhlig.com/tag/podcasting/</loc>
+  </url>
     <url>
       <loc>http://joebuhlig.com/put-distractions-place/</loc>
     </url>
@@ -1600,5 +1611,11 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/42/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/time-for-books/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/my-podcasting-setup/</loc>
     </url>
 </urlset>
