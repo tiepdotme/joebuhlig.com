@@ -388,6 +388,11 @@
     display: table;
     margin: 0px auto;
     text-align: center;
+
+    img.bookworm{
+        max-height: 227px;
+        padding: 20px;
+    }
 }
 .feed-pic a {
     display: table-cell;
@@ -398,7 +403,7 @@
 }
 .feed-title{
     text-align: center;
-    padding: 5px;
+    padding: 5px 10px;
 
     a {
         display: inline-block;
@@ -429,7 +434,7 @@
     max-width: 820px;
     width: calc(70% - 20px);
     margin-bottom: $spacing-unit;
-    text-align: left;
+    text-align: center;
     padding: 0px 10px;
 
     img {
@@ -445,6 +450,7 @@
 }
 .article{
     padding: 0px 10px;
+    text-align: left;
 }
 .sidebar{
     float: right;

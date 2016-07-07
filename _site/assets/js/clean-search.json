@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"A New Podcast: Bookworm",
+			"image":"/assets/posts/bookwormlogo.png",
+			"permalink":"/a-new-podcast-bookworm/",
+			"categories": [
+				"bookworm"
+			],
+			"tags": [
+				"bookworm"
+			],
+			"excerpt": "<p>Almost 2 months ago I embarked on a journey of reading a book every two weeks. Although there are a lot of personal benefits to doing this, it is primarily for a new podcast I’m doing with my good friend, <a href=\"http://mikeschmitz.me/\">Mike Schmitz</a>.</p>\n\n",
+			"content": "Almost%202%20months%20ago%20I%20embarked%20on%20a%20journey%20of%20reading%20a%20book%20every%20two%20weeks.%20Although%20there%20are%20a%20lot%20of%20personal%20benefits%20to%20doing%20this,%20it%20is%20primarily%20for%20a%20new%20podcast%20I%E2%80%99m%20doing%20with%20my%20good%20friend,%20Mike%20Schmitz.%0A%0A%0AMike%20and%20I%20have%20done%20a%20couple%20shows%20together%20in%20the%20past%20(The%20Productivity%20Show%20and%20Whaddya%20Know%20Joe)%20and%20we%20each%20independently%20came%20to%20the%20conclusion%20that%20we%20wanted%20start%20a%20new%20show%20together.%20After%20a%20single%20call,%20Bookworm%20was%20born%20and%20recording%20commenced.%0A%0ABookworm%20is%20all%20about%20taking%20action%20on%20the%20words%20we%20read.%20Mike%20and%20I%20read%20a%20book,%20then%20talk%20about%20what%20it%20means%20for%20our%20lives.%20We%20can%20read%20all%20the%20books%20in%20the%20world%20but%20it%E2%80%99s%20for%20naught%20if%20we%20don%E2%80%99t%20do%20something%20with%20that%20knowledge.%0A%0AToday%20we%20are%20revealing%20our%20work%20to%20the%20world.%20You%20can%20check%20it%20out%20it%20at%20bookworm.fm%20and%20find%20it%20on%20iTunes%20here.%20We%20also%20have%20a%20Twitter%20handle%20for%20the%20show,%20@bookwormfm.%0A%0AIf%20you%20are%20a%20reader%20(or%20you%E2%80%99re%20not%20and%20want%20a%20summary),%20subscribe%20now.%20We%E2%80%99re%20super%20pumped%20about%20it%20and%20excited%20to%20talk%20books%20with%20you!%0A"
+		},
+	
 		{	"title":"My Podcasting Setup",
 			"image":"/assets/posts/my-podcasting-setup.jpeg",
 			"permalink":"/my-podcasting-setup/",
