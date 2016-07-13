@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 12 Jul 2016 05:43:43 -0500</lastBuildDate>
+<lastBuildDate>Wed, 13 Jul 2016 06:23:50 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[3: The War Of Art by Steven Pressfield [Bookworm]]]></title>
+    <link>http://joebuhlig.com/3-the-war-of-art-by-steven-pressfield/</link>
+    <pubDate>Wed, 13 Jul 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/3-the-war-of-art-by-steven-pressfield/</guid>
+    <description>
+        <![CDATA[Whether it’s writing or building a business, we all struggle to put in the work to create. Mike and Joe discuss going pro with their art and overcoming resistance.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Whether it’s writing or building a business, we all struggle to put in the work to create. Mike and Joe discuss going pro with their art and overcoming resistance.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Working With Ideas: Now Open]]></title>
@@ -531,38 +554,6 @@ We’ve come a long way since we met five years ago.
 <p>If you’re looking to write by hand and need an organizational structure for your writing, take a look at Leuchtturm. Their notebooks fit perfectly.</p>
 
 <p>Note: this article contains affiliate links, but this is <strong>not a sponsored post</strong>. I’m simply a big fan of Leuchtturm and have found their products exceptional to use.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[40: The Problem With Audiobooks]]></title>
-    <link>http://joebuhlig.com/40/</link>
-    <pubDate>Wed, 08 Jun 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[books]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/40/</guid>
-    <description>
-        <![CDATA[I sometimes listen to books via audio but there are a couple flaws with audiobooks that have me avoiding them when I can.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/The-Problem-With-Audiobooks.jpg" /><p>I sometimes listen to books via audio but there are a couple flaws with audiobooks that have me avoiding them when I can.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]>
     </content:encoded>
 </item>

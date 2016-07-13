@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"3: The War Of Art by Steven Pressfield [Bookworm]",
+			"image":"/assets/posts/bookwormlogo.png",
+			"permalink":"/3-the-war-of-art-by-steven-pressfield/",
+			"categories": [
+				"bookworm"
+			],
+			"tags": [
+				"bookworm"
+			],
+			"excerpt": "<p>Whether it’s writing or building a business, we all struggle to put in the work to create. Mike and Joe discuss going pro with their art and overcoming resistance.</p>\n",
+			"content": "Whether%20it%E2%80%99s%20writing%20or%20building%20a%20business,%20we%20all%20struggle%20to%20put%20in%20the%20work%20to%20create.%20Mike%20and%20Joe%20discuss%20going%20pro%20with%20their%20art%20and%20overcoming%20resistance.%0A%0A"
+		},
+	
 		{	"title":"Working With Ideas: Now Open",
 			"image":"/assets/posts/introducing-working-with-ideas.jpeg",
 			"permalink":"/working-with-ideas-now-open/",
