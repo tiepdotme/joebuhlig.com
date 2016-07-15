@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"43: Big Project Decisions",
+			"image":"/assets/posts/Big-Project-Decisions.jpg",
+			"permalink":"/43/",
+			"categories": [
+				"podcast"
+			],
+			"tags": [
+				"projects"
+			],
+			"excerpt": "<p>I have a lot going on with a number of new projects taking off. But with new doors opening, a few doors need to be closed.</p>\n\n",
+			"content": "I%20have%20a%20lot%20going%20on%20with%20a%20number%20of%20new%20projects%20taking%20off.%20But%20with%20new%20doors%20opening,%20a%20few%20doors%20need%20to%20be%20closed.%0A%0A%0AWorking%20With%20Ideas%0A%0ABookworm%20%E2%80%93%20Podcast%20Book%20Club%0A%0A@bookwormfm%0A%0AMike%20Schmitz%0A%0AWorking%20With%20OmniFocus%0A%0AEssentialism%20by%20Greg%20McKeown%0A%0A@JoeBuhlig%0A%0ASubscribe%20on%20iTunes%0A"
+		},
+	
 		{	"title":"3: The War Of Art by Steven Pressfield [Bookworm]",
 			"image":"/assets/posts/bookwormlogo.png",
 			"permalink":"/3-the-war-of-art-by-steven-pressfield/",

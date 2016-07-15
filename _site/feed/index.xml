@@ -14,11 +14,51 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 13 Jul 2016 12:53:54 -0500</lastBuildDate>
+<lastBuildDate>Thu, 14 Jul 2016 20:10:35 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[43: Big Project Decisions]]></title>
+    <link>http://joebuhlig.com/43/</link>
+    <pubDate>Thu, 14 Jul 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[projects]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/43/</guid>
+    <description>
+        <![CDATA[I have a lot going on with a number of new projects taking off. But with new doors opening, a few doors need to be closed.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Big-Project-Decisions.jpg" /><p>I have a lot going on with a number of new projects taking off. But with new doors opening, a few doors need to be closed.
+<!--more--></p>
+
+<p><a href="https://workingwithideas.co/">Working With Ideas</a></p>
+
+<p><a href="http://bookworm.fm/">Bookworm – Podcast Book Club</a></p>
+
+<p><a href="https://twitter.com/bookwormfm">@bookwormfm</a></p>
+
+<p><a href="http://mikeschmitz.me/">Mike Schmitz</a></p>
+
+<p><a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working With OmniFocus</a></p>
+
+<p><a href="https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-Mckeown-ebook/dp/B00G1J1D28/ref=sr_1_1_ha?tag=joebuhlig-20">Essentialism by Greg McKeown</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[3: The War Of Art by Steven Pressfield [Bookworm]]]></title>
@@ -512,48 +552,6 @@ We’ve come a long way since we met five years ago.
 <p>But the deception here is the sense of accomplishment that comes after we have been <em>meta-productive</em>. We’ve done the work necessary to make us better in the future and that gives us the feeling that something important has been completed - even though we haven’t touched one important task the whole time. We get excited about this new or updated system because we’ve made the decisions that will help us accomplish something new or something big. But we haven’t taken an action on the thing itself.</p>
 
 <p>Don’t fall for this feeling of completion after you’ve worked on a system. Don’t celebrate until you’ve worked on the items within it.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Analog Writing Organization]]></title>
-    <link>http://joebuhlig.com/analog-writing-organization/</link>
-    <pubDate>Fri, 10 Jun 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[writing]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/analog-writing-organization/</guid>
-    <description>
-        <![CDATA[When I made the decision to embrace pen and paper, the need for structure quickly showed its face. I wanted my writing to live in a single notebook, but that meant I needed a method of tracking progress on pieces without thumbing through the whole notebook.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/analog-writing-organization.jpeg" /><p>When I made the decision to <a href="http://joebuhlig.com/the-science-and-experience-of-analog-writing/">embrace pen and paper</a>, the need for structure quickly showed its face. I wanted my writing to live in a single notebook, but that meant I needed a method of tracking progress on pieces without thumbing through the whole notebook.
-<!--more--></p>
-
-<p>The logical conclusion here is an index which allows me to see each composition and the headway I’ve made. That progression consists of three steps which need to be incorporated in the indicator. First is the initial draft: the dump of the ideas at the onset. Second is the editing process of the first draft, and the final step is to transcribe the writing to the computer for one last look. Once it is moved from paper to screen, the tracking process is handled digitally.</p>
-
-<p>In practice, this means I need a list of articles augmented with the location within the notebook and the progress I’ve made on it. A simple page number will do for the location, but I wanted an evolving indicator for the progress meter. And since there are only three states to track, I went for the slow build of a star: “/” → “X” → “*”.</p>
-
-<p>When there is no indicator, I know I have made a commitment to the piece but haven’t started writing. The “/” tells me I’ve finished the first draft. The “X” tells me the editing process as been completed. And the final “*” is a picture of completion when the transcription is finished. Altogether, this is what it looks like:</p>
-
-<p><img class="center-image post-image-medium" src="http://joebuhlig.com/assets/posts_extra/analog-writing-organization/index.jpeg" /></p>
-
-<p>Now, I can take the first few pages of any notebook to create this index over the life of the notebook. I could also add page numbers to any grouping of paper I feel inclined to use. Throw on top of this my want for good fountain pen paper and I was certain I would need to hack together a custom notebook or make compromises. But that’s not the case.</p>
-
-<p>I found the notebook, <a href="https://www.amazon.com/s/ref=as_li_ss_tl?url=search-alias%3Daps&amp;field-keywords=leuchtturm1917&amp;sprefix=leuchtturm1917%2Caps%2C166&amp;linkCode=ll2&amp;tag=joebuhlig-20">Leuchtturm</a>, that has all of these features plus a few I didn’t realize I wanted. They have a built-in index as well as page numbers. It’s high-quality paper and has dual bookmark ribbons, one for finding my index and one for the last used page. There’s even a slot in the back that acts as an inbox while I’m out and stickers to help with archiving the notebook. I haven’t made a decision about keeping these when I fill it, but having the ability to easily do so and knowing the quality of the notebook makes me consider long-term storage of my hand-written words. Though storage space will likely make my decision for me.</p>
-
-<p>I’ve chosen their <a href="http://www.amazon.com/Leuchtturm-Master-Notebook-Hardcover-Dotted/dp/B003ENUIKC?tag=joebuhlig-20">Master Dot Grid</a> notebook because it’s larger and keeps my pages clean. The bigger pages allow me to see more of the piece at one time and requires less page turning when dictating the words into a microphone. It also fits nicely into the computer slot in my <a href="http://www.amazon.com/Cocoon-Innovations-Backpack-Laptop-MCP3401BK/dp/B00LBYTMOY?tag=joebuhlig-20">backpack</a> which is perfect for writing ventures away from the house. I’m a big fan of the Dot Grid paper because it limits the markings on the page yet gives me a bit of structure to keep my words in line.</p>
-
-<p>If you’re looking to write by hand and need an organizational structure for your writing, take a look at Leuchtturm. Their notebooks fit perfectly.</p>
-
-<p>Note: this article contains affiliate links, but this is <strong>not a sponsored post</strong>. I’m simply a big fan of Leuchtturm and have found their products exceptional to use.</p>
 ]]>
     </content:encoded>
 </item>

@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Wed, 13 Jul 2016 12:53:54 -0500</lastBuildDate>
+<lastBuildDate>Thu, 14 Jul 2016 20:10:35 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,75 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="Software How-To" />
 <itunes:category text="Gadgets" />
 </itunes:category>
+
+  <item>
+    <title>43: Big Project Decisions</title>
+    <link>http://joebuhlig.com/43/</link>
+    <comments>http://joebuhlig.com/43/#comments</comments>
+    <pubDate>Thu, 14 Jul 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[podcast]]></category>
+
+
+    <category><![CDATA[projects]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/43/</guid>
+    <description>
+        <![CDATA[I have a lot going on with a number of new projects taking off. But with new doors opening, a few doors need to be closed.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<p>I have a lot going on with a number of new projects taking off. But with new doors opening, a few doors need to be closed.
+<!--more--></p>
+
+<p><a href="https://workingwithideas.co/">Working With Ideas</a></p>
+
+<p><a href="http://bookworm.fm/">Bookworm – Podcast Book Club</a></p>
+
+<p><a href="https://twitter.com/bookwormfm">@bookwormfm</a></p>
+
+<p><a href="http://mikeschmitz.me/">Mike Schmitz</a></p>
+
+<p><a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working With OmniFocus</a></p>
+
+<p><a href="https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-Mckeown-ebook/dp/B00G1J1D28/ref=sr_1_1_ha?tag=joebuhlig-20">Essentialism by Greg McKeown</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]>
+    </content:encoded>
+
+    <enclosure url="http://traffic.libsyn.com/whaddyaknowjoe/WKJ043.mp3" length="7630849" type="audio/mpeg" />
+    <itunes:subtitle><![CDATA[I have a lot going on with a number of new projects taking off. But with new doors opening, a few doors need to be closed.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[<p>I have a lot going on with a number of new projects taking off. But with new doors opening, a few doors need to be closed.
+<!--more--></p>
+
+<p><a href="https://workingwithideas.co/">Working With Ideas</a></p>
+
+<p><a href="http://bookworm.fm/">Bookworm – Podcast Book Club</a></p>
+
+<p><a href="https://twitter.com/bookwormfm">@bookwormfm</a></p>
+
+<p><a href="http://mikeschmitz.me/">Mike Schmitz</a></p>
+
+<p><a href="https://tools.joebuhlig.com/working-with-omnifocus/">Working With OmniFocus</a></p>
+
+<p><a href="https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-Mckeown-ebook/dp/B00G1J1D28/ref=sr_1_1_ha?tag=joebuhlig-20">Essentialism by Greg McKeown</a></p>
+
+<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
+
+<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
+]]></itunes:summary>
+    <itunes:author>Joe Buhlig</itunes:author>
+    <itunes:image href="http://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>7:45</itunes:duration>
+  </item>
 
   <item>
     <title>42: Deciding On A Medium</title>
