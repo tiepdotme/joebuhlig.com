@@ -1,5 +1,45 @@
 {
 	"clean_search" : [
+		{	"title":"4: The Obstacle Is The Way by Ryan Holiday [Bookworm]",
+			"image":"/assets/posts/bookwormlogo.png",
+			"permalink":"/4-the-obstacle-is-the-way-by-ryan-holiday/",
+			"categories": [
+				"bookworm"
+			],
+			"tags": [
+				"bookworm"
+			],
+			"excerpt": "<p>We all deal with something painful in our lives. And although they are hard to talk about, it’s these obstacles that strengthen us for the future.</p>\n",
+			"content": "We%20all%20deal%20with%20something%20painful%20in%20our%20lives.%20And%20although%20they%20are%20hard%20to%20talk%20about,%20it%E2%80%99s%20these%20obstacles%20that%20strengthen%20us%20for%20the%20future.%0A%0A"
+		},
+	
+		{	"title":"TextExpander And OmniFocus",
+			"image":"/assets/posts/textexpander-and-omnifocus.jpeg",
+			"permalink":"/textexpander-and-omnifocus/",
+			"categories": [
+				"blog"
+			],
+			"tags": [
+				"textexpander",
+				"omnifocus"
+			],
+			"excerpt": "<p>TextExpander and OmniFocus are <a href=\"http://joebuhlig.com/first-apps-on-a-new-mac/\">two of the first tools</a> I install on any new device, so it’s no surprise that the two work well together. You may expect some kind of Applescripting or shell magic, but I keep this extremely simple and only use true text expansion with OmniFocus. I run the scripts manually or behind the scenes with Hazel.</p>\n\n",
+			"content": "TextExpander%20and%20OmniFocus%20are%20two%20of%20the%20first%20tools%20I%20install%20on%20any%20new%20device,%20so%20it%E2%80%99s%20no%20surprise%20that%20the%20two%20work%20well%20together.%20You%20may%20expect%20some%20kind%20of%20Applescripting%20or%20shell%20magic,%20but%20I%20keep%20this%20extremely%20simple%20and%20only%20use%20true%20text%20expansion%20with%20OmniFocus.%20I%20run%20the%20scripts%20manually%20or%20behind%20the%20scenes%20with%20Hazel.%0A%0A%0Axwait%20=%20%E2%80%9CWaiting%20for%20%E2%80%9C%0A%0AThis%20is%20easily%20the%20most%20commonly%20used%20snippet%20I%20have%20for%20OmniFocus.%20Any%20time%20I%20need%20to%20create%20a%20new%20Waiting%20For%20task,%20I%20always%20type%20xwait%20and%20keep%20going.%20It%E2%80%99s%20not%20a%20huge%20savings%20in%20one%20instance%20but%20multiply%20this%20by%20the%20average%2020%20uses%20a%20day%20and%20it%20really%20adds%20up.%0A%0Axresp%20=%20%E2%80%9CWaiting%20for%20response%20from%20%E2%80%9C%0A%0ASimilar%20to%20the%20first,%20I%20use%20this%20one%20a%20lot.%20I%20receive%20and%20send%20a%20ton%20of%20email.%20Any%20time%20I%20send%20one%20that%20warrants%20a%20response,%20a%20new%20task%20is%20created%20and%20this%20is%20where%20the%20naming%20starts.%0A%0Axplan%20=%20%E2%80%9CPlan%20project%20for%20%E2%80%9C%0A%0AMost%20of%20the%20time%20when%20I%20decide%20to%20take%20on%20a%20new%20project,%20I%20don%E2%80%99t%20have%20time%20right%20then%20to%20plan%20it%20out.%20So%20I%20use%20this%20to%20create%20a%20task%20for%20the%20planning%20process.%0A%0Axpfm%20=%20%E2%80%9CPlan%20for%20meeting%20re:%20%E2%80%9C%0A%0AI%20don%E2%80%99t%20use%20this%20as%20much%20as%20I%20used%20to,%20but%20this%20helps%20me%20create%20a%20new%20task%20as%20a%20reminder%20to%20review%20meeting%20materials%20and%20get%20resources%20together%20for%20a%20call.%0A%0Axlook%20=%20%E2%80%9CLook%20into%20%E2%80%9C%0A%0AI%20do%20a%20ton%20of%20research%20to%20help%20me%20get%20better%20at%20a%20project%20or%20learn%20how%20a%20new%20process%20works.%20I%20always%20start%20these%20tasks%20with%20%E2%80%9CLook%20into%E2%80%9D%20as%20an%20indicator%20to%20Google,%20read,%20or%20learn%20about%20the%20item.%0A%0Axdwc%20=%20%E2%80%9C%20(Delete%20when%20complete)%E2%80%9D%0A%0AI%20stole%20this%20one%20from%20Kourosh.%20I%20sometimes%20have%20repeating%20tasks%20that%20are%20creative%20in%20some%20form%20or%20don%E2%80%99t%20have%20a%20clear%20definition%20of%20%E2%80%9Ccompleted.%E2%80%9D%20I%20augment%20the%20end%20of%20the%20task%20title%20with%20%E2%80%9C(Delete%20when%20complete)%E2%80%9D%20so%20I%20know%20to%20delete%20the%20task%20instead%20of%20check%20it%20off%20when%20I%E2%80%99m%20done%20with%20it.%20That%20will%20keep%20it%20from%20repeating%20when%20it%E2%80%99s%20done%20and%20allow%20the%20project%20to%20move%20on.%0A%0Ax5tom%20=%20%E2%80%9C5am%20tomorrow%E2%80%9D%0A%0AOccasionally,%20I%20need%20to%20push%20a%20task%20off%20until%20tomorrow.%20When%20I%20do,%20I%20use%20this%20in%20the%20Defer%20Date%20field%20to%20push%20it%20out%20one%20day.%20I%20could%20hit%20the%20%E2%80%9C+1%20day%E2%80%9D%20button%20but%20this%20is%20habit.%0A%0AOverall,%20this%20is%20extremely%20basic%20compared%20to%20what%20is%20possible.%20But%20this%20does%20all%20I%20need,%20%20there%E2%80%99s%20no%20point%20overcomplicating%20it.%0A"
+		},
+	
+		{	"title":"My Current Home Screen",
+			"image":"/assets/posts/my-current-home-screen.png",
+			"permalink":"/my-current-home-screen/",
+			"categories": [
+				"blog"
+			],
+			"tags": [
+				"iOS"
+			],
+			"excerpt": "<p>When I <a href=\"http://joebuhlig.com/the-overwhelm-inbox/\">consolidated a handful of my inboxes</a> into my email it made me rethink my home screen. I had previously kept it slim but this takes it a step further and creates significant resistance to activities better left undone.</p>\n\n",
+			"content": "When%20I%20consolidated%20a%20handful%20of%20my%20inboxes%20into%20my%20email%20it%20made%20me%20rethink%20my%20home%20screen.%20I%20had%20previously%20kept%20it%20slim%20but%20this%20takes%20it%20a%20step%20further%20and%20creates%20significant%20resistance%20to%20activities%20better%20left%20undone.%0A%0A%0AThe%20biggest%20time%20wasters%20on%20my%20phone%20and%20the%20ones%20I%20have%20consolidated%20are%20social%20media,%20RSS%20feeds,%20and%20email.%20Once%20those%20were%20all%20funneled%20into%20email,%20they%20didn%E2%80%99t%20need%20to%20be%20on%20my%20phone%20at%20all.%20That%20meant%20Feedly,%20Google+,%20Pinterest,%20and%20LinkedIn%20all%20disappeared.%0A%0AThe%20big%20one%20here%20was%20Feedly.%20I%20normally%20used%20it%20as%20a%20triage%20tool,%20sending%20articles%20I%20wanted%20to%20read%20to%20Pocket.%20But%20I%E2%80%99ve%20always%20disliked%20their%20need%20to%20auto-shorten%20links%20when%20I%20share%20an%20article.%20It%20was%20bad%20enough%20that%20I%20built%20Workflow%20actions%20to%20overcome%20it.%20The%20main%20reason%20I%20originally%20used%20Pocket%20was%20the%20IFTTT%20integration.%20This%20inbox%20consolidation%20process%20made%20me%20comb%20through%20my%20recipes%20and%20realize%20I%20wasn%E2%80%99t%20using%20IFTTT%20with%20Pocket%20anymore.%20I%20had%20slowly%20turned%20off%20all%20the%20connections%20with%20it.%20Goodbye,%20Pocket.%20Hello,%20Instapaper.%20I%E2%80%99ve%20wanted%20to%20switch%20for%20a%20while%20anyway.%0A%0AOnce%20I%20deleted%20a%20few%20apps,%20I%20started%20thinking%20through%20how%20I%20use%20my%20phone.%20If%20the%20app%20isn%E2%80%99t%20on%20the%20front%20screen,%20I%20swipe%20down%20and%20search%20for%20it.%20If%20I%E2%80%99m%20going%20to%20launch%20apps%20with%20Spotlight,%20why%20keep%20multiple%20folders%20of%20them?%20I%20combined%20them%20into%20a%20single%20folder%20in%20order%20to%20bury%20the%20apps%20that%20are%20most%20tempting,%20but%20still%20keep%20them%20around%20for%20their%20Share%20Sheet%20functions.%20These%20are%20primarily%20Twitter%20and%20Instagram.%0A%0AI%E2%80%99ve%20been%20using%20my%20phone%20this%20way%20for%20about%20a%20month%20now%20and%20it%20has%20seriously%20helped%20me%20limit%20my%20phone%20usage.%20It%E2%80%99s%20geared%20toward%20getting%20work%20done%20as%20opposed%20to%20blowing%20time.%20If%20I%E2%80%99m%20going%20to%20blow%20time,%20I%E2%80%99m%20better%20off%20reading.%0A"
+		},
+	
 		{	"title":"43: Big Project Decisions",
 			"image":"/assets/posts/Big-Project-Decisions.jpg",
 			"permalink":"/43/",

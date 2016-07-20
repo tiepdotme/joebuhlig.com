@@ -14,11 +14,97 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 14 Jul 2016 20:10:35 -0500</lastBuildDate>
+<lastBuildDate>Wed, 20 Jul 2016 07:18:44 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[TextExpander And OmniFocus]]></title>
+    <link>http://joebuhlig.com/textexpander-and-omnifocus/</link>
+    <pubDate>Mon, 18 Jul 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[textexpander]]></category>
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/textexpander-and-omnifocus/</guid>
+    <description>
+        <![CDATA[TextExpander and OmniFocus are two of the first tools I install on any new device, so it’s no surprise that the two work well together. You may expect some kind of Applescripting or shell magic, but I keep this extremely simple and only use true text expansion with OmniFocus. I...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/textexpander-and-omnifocus.jpeg" /><p>TextExpander and OmniFocus are <a href="http://joebuhlig.com/first-apps-on-a-new-mac/">two of the first tools</a> I install on any new device, so it’s no surprise that the two work well together. You may expect some kind of Applescripting or shell magic, but I keep this extremely simple and only use true text expansion with OmniFocus. I run the scripts manually or behind the scenes with Hazel.
+<!--more--></p>
+
+<p><strong>xwait = “Waiting for “</strong></p>
+
+<p>This is easily the most commonly used snippet I have for OmniFocus. Any time I need to create a new Waiting For task, I always type <em>xwait</em> and keep going. It’s not a huge savings in one instance but multiply this by the average 20 uses a day and it really adds up.</p>
+
+<p><strong>xresp = “Waiting for response from “</strong></p>
+
+<p>Similar to the first, I use this one a lot. I receive and send a ton of email. Any time I send one that warrants a response, a new task is created and this is where the naming starts.</p>
+
+<p><strong>xplan = “Plan project for “</strong></p>
+
+<p>Most of the time when I decide to take on a new project, I don’t have time right then to plan it out. So I use this to create a task for the planning process.</p>
+
+<p><strong>xpfm = “Plan for meeting re: “</strong></p>
+
+<p>I don’t use this as much as I used to, but this helps me create a new task as a reminder to review meeting materials and get resources together for a call.</p>
+
+<p><strong>xlook = “Look into “</strong></p>
+
+<p>I do a ton of research to help me get better at a project or learn how a new process works. I always start these tasks with “Look into” as an indicator to Google, read, or learn about the item.</p>
+
+<p><strong>xdwc = “ (Delete when complete)”</strong></p>
+
+<p>I stole this one from <a href="http://www.usingomnifocus.com">Kourosh</a>. I sometimes have repeating tasks that are creative in some form or don’t have a clear definition of “completed.” I augment the end of the task title with “(Delete when complete)” so I know to delete the task instead of check it off when I’m done with it. That will keep it from repeating when it’s done and allow the project to move on.</p>
+
+<p><strong>x5tom = “5am tomorrow”</strong></p>
+
+<p>Occasionally, I need to push a task off until tomorrow. When I do, I use this in the Defer Date field to push it out one day. I could hit the “+1 day” button but this is habit.</p>
+
+<p>Overall, this is extremely basic compared to what is possible. But this does all I need,  there’s no point overcomplicating it.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[My Current Home Screen]]></title>
+    <link>http://joebuhlig.com/my-current-home-screen/</link>
+    <pubDate>Fri, 15 Jul 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[iOS]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/my-current-home-screen/</guid>
+    <description>
+        <![CDATA[When I consolidated a handful of my inboxes into my email it made me rethink my home screen. I had previously kept it slim but this takes it a step further and creates significant resistance to activities better left undone.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/my-current-home-screen.png" /><p>When I <a href="http://joebuhlig.com/the-overwhelm-inbox/">consolidated a handful of my inboxes</a> into my email it made me rethink my home screen. I had previously kept it slim but this takes it a step further and creates significant resistance to activities better left undone.
+<!--more--></p>
+
+<p>The biggest time wasters on my phone and the ones I have consolidated are social media, RSS feeds, and email. Once those were all funneled into email, they didn’t need to be on my phone at all. That meant Feedly, Google+, Pinterest, and LinkedIn all disappeared.</p>
+
+<p>The big one here was Feedly. I normally used it as a triage tool, sending articles I wanted to read to Pocket. But I’ve always disliked their need to auto-shorten links when I share an article. It was bad enough that I built <a href="http://joebuhlig.com/workflow-to-share-articles-with-twitter-handle/">Workflow actions to overcome it</a>. The main reason I originally used Pocket was the IFTTT integration. This inbox consolidation process made me comb through my recipes and realize I wasn’t using IFTTT with Pocket anymore. I had slowly turned off all the connections with it. Goodbye, Pocket. Hello, <a href="https://www.instapaper.com">Instapaper</a>. I’ve wanted to switch for a while anyway.</p>
+
+<p>Once I deleted a few apps, I started thinking through how I use my phone. If the app isn’t on the front screen, I swipe down and search for it. If I’m going to launch apps with Spotlight, why keep multiple folders of them? I combined them into a single folder in order to bury the apps that are most tempting, but still keep them around for their Share Sheet functions. These are primarily Twitter and Instagram.</p>
+
+<p>I’ve been using my phone this way for about a month now and it has seriously helped me limit my phone usage. It’s geared toward getting work done as opposed to blowing time. If I’m going to blow time, I’m <a href="http://bookworm.fm">better off reading</a>.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Working With Ideas: Now Open]]></title>

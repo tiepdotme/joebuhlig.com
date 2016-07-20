@@ -14,11 +14,120 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 14 Jul 2016 20:10:35 -0500</lastBuildDate>
+<lastBuildDate>Wed, 20 Jul 2016 07:18:44 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[4: The Obstacle Is The Way by Ryan Holiday [Bookworm]]]></title>
+    <link>http://joebuhlig.com/4-the-obstacle-is-the-way-by-ryan-holiday/</link>
+    <pubDate>Wed, 20 Jul 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/4-the-obstacle-is-the-way-by-ryan-holiday/</guid>
+    <description>
+        <![CDATA[We all deal with something painful in our lives. And although they are hard to talk about, it’s these obstacles that strengthen us for the future.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>We all deal with something painful in our lives. And although they are hard to talk about, it’s these obstacles that strengthen us for the future.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[TextExpander And OmniFocus]]></title>
+    <link>http://joebuhlig.com/textexpander-and-omnifocus/</link>
+    <pubDate>Mon, 18 Jul 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[textexpander]]></category>
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/textexpander-and-omnifocus/</guid>
+    <description>
+        <![CDATA[TextExpander and OmniFocus are two of the first tools I install on any new device, so it’s no surprise that the two work well together. You may expect some kind of Applescripting or shell magic, but I keep this extremely simple and only use true text expansion with OmniFocus. I...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/textexpander-and-omnifocus.jpeg" /><p>TextExpander and OmniFocus are <a href="http://joebuhlig.com/first-apps-on-a-new-mac/">two of the first tools</a> I install on any new device, so it’s no surprise that the two work well together. You may expect some kind of Applescripting or shell magic, but I keep this extremely simple and only use true text expansion with OmniFocus. I run the scripts manually or behind the scenes with Hazel.
+<!--more--></p>
+
+<p><strong>xwait = “Waiting for “</strong></p>
+
+<p>This is easily the most commonly used snippet I have for OmniFocus. Any time I need to create a new Waiting For task, I always type <em>xwait</em> and keep going. It’s not a huge savings in one instance but multiply this by the average 20 uses a day and it really adds up.</p>
+
+<p><strong>xresp = “Waiting for response from “</strong></p>
+
+<p>Similar to the first, I use this one a lot. I receive and send a ton of email. Any time I send one that warrants a response, a new task is created and this is where the naming starts.</p>
+
+<p><strong>xplan = “Plan project for “</strong></p>
+
+<p>Most of the time when I decide to take on a new project, I don’t have time right then to plan it out. So I use this to create a task for the planning process.</p>
+
+<p><strong>xpfm = “Plan for meeting re: “</strong></p>
+
+<p>I don’t use this as much as I used to, but this helps me create a new task as a reminder to review meeting materials and get resources together for a call.</p>
+
+<p><strong>xlook = “Look into “</strong></p>
+
+<p>I do a ton of research to help me get better at a project or learn how a new process works. I always start these tasks with “Look into” as an indicator to Google, read, or learn about the item.</p>
+
+<p><strong>xdwc = “ (Delete when complete)”</strong></p>
+
+<p>I stole this one from <a href="http://www.usingomnifocus.com">Kourosh</a>. I sometimes have repeating tasks that are creative in some form or don’t have a clear definition of “completed.” I augment the end of the task title with “(Delete when complete)” so I know to delete the task instead of check it off when I’m done with it. That will keep it from repeating when it’s done and allow the project to move on.</p>
+
+<p><strong>x5tom = “5am tomorrow”</strong></p>
+
+<p>Occasionally, I need to push a task off until tomorrow. When I do, I use this in the Defer Date field to push it out one day. I could hit the “+1 day” button but this is habit.</p>
+
+<p>Overall, this is extremely basic compared to what is possible. But this does all I need,  there’s no point overcomplicating it.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[My Current Home Screen]]></title>
+    <link>http://joebuhlig.com/my-current-home-screen/</link>
+    <pubDate>Fri, 15 Jul 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[iOS]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/my-current-home-screen/</guid>
+    <description>
+        <![CDATA[When I consolidated a handful of my inboxes into my email it made me rethink my home screen. I had previously kept it slim but this takes it a step further and creates significant resistance to activities better left undone.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/my-current-home-screen.png" /><p>When I <a href="http://joebuhlig.com/the-overwhelm-inbox/">consolidated a handful of my inboxes</a> into my email it made me rethink my home screen. I had previously kept it slim but this takes it a step further and creates significant resistance to activities better left undone.
+<!--more--></p>
+
+<p>The biggest time wasters on my phone and the ones I have consolidated are social media, RSS feeds, and email. Once those were all funneled into email, they didn’t need to be on my phone at all. That meant Feedly, Google+, Pinterest, and LinkedIn all disappeared.</p>
+
+<p>The big one here was Feedly. I normally used it as a triage tool, sending articles I wanted to read to Pocket. But I’ve always disliked their need to auto-shorten links when I share an article. It was bad enough that I built <a href="http://joebuhlig.com/workflow-to-share-articles-with-twitter-handle/">Workflow actions to overcome it</a>. The main reason I originally used Pocket was the IFTTT integration. This inbox consolidation process made me comb through my recipes and realize I wasn’t using IFTTT with Pocket anymore. I had slowly turned off all the connections with it. Goodbye, Pocket. Hello, <a href="https://www.instapaper.com">Instapaper</a>. I’ve wanted to switch for a while anyway.</p>
+
+<p>Once I deleted a few apps, I started thinking through how I use my phone. If the app isn’t on the front screen, I swipe down and search for it. If I’m going to launch apps with Spotlight, why keep multiple folders of them? I combined them into a single folder in order to bury the apps that are most tempting, but still keep them around for their Share Sheet functions. These are primarily Twitter and Instagram.</p>
+
+<p>I’ve been using my phone this way for about a month now and it has seriously helped me limit my phone usage. It’s geared toward getting work done as opposed to blowing time. If I’m going to blow time, I’m <a href="http://bookworm.fm">better off reading</a>.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[43: Big Project Decisions]]></title>
@@ -423,135 +532,6 @@ We’ve come a long way since we met five years ago.
 <p>I’ll see you tomorrow.</p>
 
 <p>Joe</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Reading Books On A Schedule]]></title>
-    <link>http://joebuhlig.com/reading-books-on-a-schedule/</link>
-    <pubDate>Fri, 17 Jun 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[books]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/reading-books-on-a-schedule/</guid>
-    <description>
-        <![CDATA[For years I have wanted to read more books. Prolific readers rave about the benefits and world-renowned leaders often attribute their ideas and successes to their habit of reading, but to me the benefits of having read a lot of books was secondary to the innate sense that a realm...]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/reading-books-on-a-schedule.jpeg" /><p>For years I have wanted to read more books. Prolific readers rave about the benefits and world-renowned leaders often attribute their ideas and successes to their habit of reading, but to me the benefits of having read a lot of books  was secondary to the innate sense that a realm of knowledge and experience was available to me, but I was missing it.
-<!--more--></p>
-
-<p>Missing out on something is not inherently bad. It is actually a good thing in many cases. With firehoses of input available at every turn today, we need to decide to miss out on some things. And the more we can cut, the more head space and time we have to expand our minds and work towards our goals in life. I will be the first to say I am bad at this. Resisting the constant pull of potential updates is a war I fight daily.</p>
-
-<p>In time, I have cut back on these overwhelming streams of unnecessary input, but I have only done so successfully with the addition of a replacement habit: reading books. Frankly, I don’t have the self-control to pick up a book instead of my phone when the “just check” bug bites. I rely on staged environmental circumstances to make it happen. I leave my phone out of reach and keep a book readily available. That helps significantly, but taking it another step, I have committed to completing a book every two weeks.</p>
-
-<p>This accomplishes two things. One, I need to read a significant portion of a book each day to hit my mark. Two, it forces me to look for time to read in the day. The combination of these two means I do not have near the time for social media and email as I did previously and instead use that time for books.</p>
-
-<p>But there is a flaw in this design that I discovered early on. My procrastination tendency leads me to back loading the two-week period with higher page counts. This is mostly due to not knowing if I am on track to hit my goal on a daily basis. It appears simple to take the number of pages in the book and divide by 14 to know how far to read each day. But after day three or four, I start to lose track and do not want to continue recalculating where I should be.</p>
-
-<p>Each time I start a new book, I create a new OmniFocus project for it. I have a series of tasks I complete after finishing a book. Since this project already exists, I took it to another level and added a “Read Book” group with subtasks for each day’s reading. With that group flagged, I know what today’s expected page count is by looking at <a href="http://joebuhlig.com/the-omnifocus-dashboard/">my Dashboard</a>.</p>
-
-<p><img class="center-image post-image-medium" src="http://joebuhlig.com/assets/posts_extra/reading-books-on-a-schedule/read-book-group.png" /></p>
-
-<p>But reading a book every two weeks means I create these tasks quite frequently. And you can’t expect me to do that manually every time, can you? A new script was in order.</p>
-
-<p>When run, it asks four questions:</p>
-
-<ol>
-  <li>What is the title of the book?</li>
-  <li>How many pages are in the book?</li>
-  <li>When do you want to start reading?</li>
-  <li>When do you want to finish reading?</li>
-</ol>
-
-<p>Using these answers, the script breaks the book into the correct number of tasks (one per day), each having the same number of pages to read. It adds these to my OmniFocus inbox so I can copy/paste or move them as I like. It programmatically adds @Read as a context, but the script can be altered as needed to fit your system. <a href="https://github.com/joebuhlig/OFScripts/tree/master/Read%20Book%20Tasks">This script</a> can be found in my <a href="https://github.com/joebuhlig/OFScripts">OFScripts repository on GitHub</a>.</p>
-
-<p>The result of this is a daily view of progress I need to make in order to hit my goal. Knowing the day’s goal forces me to make time and cut back on the less important, trivial actions.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[41: Fountain Pens]]></title>
-    <link>http://joebuhlig.com/41/</link>
-    <pubDate>Wed, 15 Jun 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[hardware]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/41/</guid>
-    <description>
-        <![CDATA[I’m pushing pen addict status. I don’t think I’m there yet, but I do have three fountain pens that I thoroughly enjoy using.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Fountain-Pens.jpg" /><p>I’m pushing pen addict status. I don’t think I’m there yet, but I do have three fountain pens that I thoroughly enjoy using.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="http://joebuhlig.com/the-science-and-experience-of-analog-writing/">The Science and Experience of Analog Writing</a></p>
-
-<p><a href="https://www.amazon.com/Monteverde-Invincia-Chrome-Fountain-MV40065F/dp/B00691RCUK/ref=sr_1_3?tag=joebuhlig-20">Monteverde Invincia</a></p>
-
-<p><a href="http://www.gouletpens.com/">The Goulet Pen Company</a></p>
-
-<p><a href="http://blog.gouletpens.com/">Brian Goulet’s Blog</a></p>
-
-<p><a href="https://www.youtube.com/channel/UCPdFDFTd6P1a__tAr8CrpCQ">Brian Goulet’s Videos</a></p>
-
-<p><a href="https://www.amazon.com/Lamy-Safari-Fountain-Extra-Charcoal/dp/B00W30C37S/ref=sr_1_3?tag=joebuhlig-20">Lamy Safari</a></p>
-
-<p><a href="https://www.amazon.com/Pilot-Metropolitan-Collection-Fountain-91101/dp/B009M3PJFM/ref=sr_1_4?tag=joebuhlig-20">Pilot Metropolitan</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[The Deception of Working on a System]]></title>
-    <link>http://joebuhlig.com/the-deception-of-working-on-a-system/</link>
-    <pubDate>Mon, 13 Jun 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[systems]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/the-deception-of-working-on-a-system/</guid>
-    <description>
-        <![CDATA[It’s a trap so easy to fall for: we find ourselves spending multiple hours fine-tuning, tweaking, and developing the simple structure that will automatically create more time and 3X our daily productivity.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/the-deception-of-working-on-a-system.jpeg" /><p>It’s a trap so easy to fall for: we find ourselves spending multiple hours fine-tuning, tweaking, and developing the simple structure that will automatically create more time and 3X our daily productivity.
-<!--more--></p>
-
-<p>If you’re new to productivity or systems, then giving yourself a couple days to put these processes in place may pay off big and be well worth your time. Even if you’re a pro it can be helpful to make adjustments to how you do things with the intent of increasing efficiency, meaning, and output. I make tweaks to my structure frequently. But I need to remind myself of a lie that creeps up when I embark on one of these system alteration endeavors: <em>this is productive.</em></p>
-
-<p>False. It is not productive. It is <em>meta-productive.</em> It feels productive because we are doing something that has meaning; this will make me a better, more efficient person. We are given a sense that we will be able to do more and live a better life, no matter how small the impact, in the future. But it doesn’t inherently make us more productive. It makes it possible, but it won’t make it happen on its own. It simply sets up the environment to be the best it can or should be for us to act on.</p>
-
-<p>This is where the “meta” part comes in. We are completing tasks that allow us to complete tasks more efficiently or effectively. It’s one step removed from the real work to which we’ve committed.</p>
-
-<p>But the deception here is the sense of accomplishment that comes after we have been <em>meta-productive</em>. We’ve done the work necessary to make us better in the future and that gives us the feeling that something important has been completed - even though we haven’t touched one important task the whole time. We get excited about this new or updated system because we’ve made the decisions that will help us accomplish something new or something big. But we haven’t taken an action on the thing itself.</p>
-
-<p>Don’t fall for this feeling of completion after you’ve worked on a system. Don’t celebrate until you’ve worked on the items within it.</p>
 ]]>
     </content:encoded>
 </item>

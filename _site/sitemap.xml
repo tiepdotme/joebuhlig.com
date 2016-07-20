@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/4-the-obstacle-is-the-way-by-ryan-holiday/</loc>
+    <lastmod>2016-07-20T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/textexpander-and-omnifocus/</loc>
+    <lastmod>2016-07-18T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/my-current-home-screen/</loc>
+    <lastmod>2016-07-15T00:00:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/43/</loc>
     <lastmod>2016-07-14T00:00:00-05:00</lastmod>
   </url>
@@ -1109,6 +1121,9 @@
   <url>
     <loc>http://joebuhlig.com/tag/mindsets/</loc>
   </url>
+  <url>
+    <loc>http://joebuhlig.com/tag/ios/</loc>
+  </url>
     <url>
       <loc>http://joebuhlig.com/put-distractions-place/</loc>
     </url>
@@ -1672,5 +1687,14 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/43/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/my-current-home-screen/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/textexpander-and-omnifocus/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/4-the-obstacle-is-the-way-by-ryan-holiday/</loc>
     </url>
 </urlset>
