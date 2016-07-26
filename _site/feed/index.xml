@@ -14,11 +14,99 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 21 Jul 2016 07:06:29 -0500</lastBuildDate>
+<lastBuildDate>Tue, 26 Jul 2016 14:39:23 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Leaving Pocket For Instapaper]]></title>
+    <link>http://joebuhlig.com/leaving-pocket-for-instapaper/</link>
+    <pubDate>Mon, 25 Jul 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[instapaper]]></category>
+
+    <category><![CDATA[pocket]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/leaving-pocket-for-instapaper/</guid>
+    <description>
+        <![CDATA[I follow specific websites less and less. I’m more inclined to follow people and services on Twitter and Medium that act as sources of curated articles. This gives me the ability to find sites I normally would have glossed over and still read my favorite writers.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/leaving-pocket-for-instapaper.jpeg" /><p>I follow specific websites less and less. I’m more inclined to follow people and services on Twitter and <a href="https://medium.com/@JoeBuhlig">Medium</a> that act as sources of curated articles. This gives me the ability to find sites I normally would have glossed over and still read my favorite writers.
+<!--more--></p>
+
+<p>But regardless of where I find these articles, I still need a way to save them for later. I rarely have time to read an article the moment I discover it. In the past I’ve used Pocket, but I have now moved to <a href="https://www.instapaper.com">Instapaper</a>.</p>
+
+<p>Originally, I chose Pocket for its IFTTT integration. I had built a number of recipes that acted on the tagging ability of Pocket. But over time I slowly turned these off one by one, mostly due to my move away from tagging articles.</p>
+
+<p>I still would’ve stayed with Pocket if they had simply left the URLs of the articles alone. When I’m finished with an article, I either archive it or share it. But if you share it through Pocket, they insist on shortening the URL with their custom link. The only way around it that I have found is to have <a href="https://workflow.is/">Workflow</a> expand the the link before sharing. When I see links shared by others, I use the top level domain (TLD) of the link as part of my decision about whether or not I want to read it. So I don’t want my own links preventing that ability.</p>
+
+<p>Coupled with the link shortening is the difficulty in sharing quotes from Pocket. It is similarly complicated to do so without the Pocket custom link. Contrast this with Instapaper, where it works perfectly without the need for Workflow actions to expand the link and format the text. Instapaper uses the link you originally saved and gets out of the way.</p>
+
+<p>The reading experience is also far better on Instapaper. They give a lot of options to customize the reading view. And since these are apps designed for reading, I feel this is paramount. The experience in Pocket is not bad, I simply prefer the environment created and allowed by Instapaper.</p>
+
+<p>When I realized I was no longer using IFTTT with Pocket it gave me the freedom to explore other options. And because I have been watching Instapaper for a long time hoping their IFTTT integration would progress, it was the perfect time to switch. I no longer needed Instapaper to adopt a deeper relationship with IFTTT, so I could make the transition with zero compromises.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Updates For Working With OmniFocus]]></title>
+    <link>http://joebuhlig.com/updates-for-working-with-omnifocus/</link>
+    <pubDate>Fri, 22 Jul 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/updates-for-working-with-omnifocus/</guid>
+    <description>
+        <![CDATA[It’s been about nine months since I released Working With OmniFocus. A lot has happened in that time and my systems around OmniFocus have morphed quite a bit. Throw in a pile of learning accrued from other projects and I have decided to make some significant changes to the book....]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/base/WorkingWithOmniFocus-Small.png" /><p>It’s been about nine months since I released <em>Working With OmniFocus</em>. A lot has happened in that time and my systems around OmniFocus have morphed quite a bit. Throw in a pile of learning accrued from other projects and I have decided to make some significant changes to the book.
+<!--more--></p>
+
+<h2 id="video">Video</h2>
+
+<p>Easily the most prominent change will be the medium through which the content is delivered. Words on page work well, but when software is involved video can be a better route to follow. The ability to visually demonstrate a concept and how it works can dramatically increased the comprehension level of the viewer. So in the near future <em>Working With OmniFocus</em> will no longer be a book, but a repository of over 60 screencasts explaining and visualizing the idea at hand.</p>
+
+<h2 id="location">Location</h2>
+
+<p>I originally built a custom Ruby and Rails application to host the sales page and associated mechanisms for the book. That works well but gets to be a lot of maintenance that I’d rather not have. So <em>Working With OmniFocus</em> is moving to a new home on the web: <a href="https://workingwithomnifocus.com">workingwithomnifocus.com</a>. Obviously, this is currently under development and will continue to change over the next few weeks.</p>
+
+<h2 id="dynamic">Dynamic</h2>
+
+<p>One of the major difficulties in writing a book about software is the static nature of a book compared to the continual development of the software. It makes it difficult to keep the book up to date. By moving to web-based video and breaking the content into smaller pieces, it allows me to tweak the content as the program changes.</p>
+
+<h2 id="pricing">Pricing</h2>
+
+<p>I hate pricing. Throw in discounts, launch promotions, and levels of access and it’s a nightmare to me. I have avoided much of this by sticking with a single price and I’m not leaving that mindset. In this case, the content will be more advanced and have more depth so I know the price will need to increase over the price of the book. I don’t currently have an answer on what it will cost, but I do know that those who have purchased the book (and those who <a href="https://tools.joebuhlig.com/working-with-omnifocus/">purchase it before the relaunch</a>) will receive $20 off the videos.</p>
+
+<h2 id="affiliates">Affiliates</h2>
+
+<p>The current affiliate program for the book has been a big success for me and I plan to continue to run one for the videos. But since I’m rebuilding the site, the mechanism will be different and will require you to sign up again for the new program. I know this is inconvenient but it will be better for all of us in the long run.</p>
+
+<h2 id="book">Book?</h2>
+
+<p>I’m not planning to update the book itself and the ability to purchase it by itself will go away. I will, however, make it available to those who purchase the video series with the caveat that my processes mentioned in the book are out of date.</p>
+
+<h2 id="overall">Overall</h2>
+
+<p>I’m really excited about these changes.  I will be able to explain the mindsets and demonstrate the app mechanisms in much more detail than was ever possible through the book. I’m devoting most of my current working time to these edits and plan to deliver it in mid to late August.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[4: The Obstacle Is The Way by Ryan Holiday [Bookworm]]]></title>
@@ -461,77 +549,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Introducing Working With Ideas]]></title>
-    <link>http://joebuhlig.com/introducing-working-with-ideas/</link>
-    <pubDate>Tue, 21 Jun 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[course]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/introducing-working-with-ideas/</guid>
-    <description>
-        <![CDATA[There are times when you realize a project needs to take a hard turn. Your original intent is good, but it doesn’t accomplish your goal as well as it might.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/introducing-working-with-ideas.jpeg" /><p>There are times when you realize a project needs to take a hard turn. Your original intent is good, but it doesn’t accomplish your goal as well as it might.
-<!--more--></p>
-
-<p>I find these moments bittersweet. They often result in something much better, but they also bring with them an extensive amount of rework. This was precisely my experience when I took on my second book, <em>Working With Ideas</em>.</p>
-
-<p>I was working on the outline and collecting segments of content when I realized the medium for this content and its delivery system was wrong. It needed to reveal more emotion and story with more camaraderie than an e-book can provide. So I changed direction and turned it into a full video course with a community of idea workers to share the experience with.</p>
-
-<p>I consider this my best work and I’m thrilled to share it with you. I’m so excited about it that I decided to make it possible to <a href="http://pre.workingwithideas.co">get the course for free</a>! To get started, you simply need to <a href="http://pre.workingwithideas.co">sign-up for the launch email</a> (which gets you $12 off by itself).</p>
-
-<p>If you’re interested in learning more about the course, you can check it out here: <a href="https://workingwithideas.co">workingwithideas.co</a>.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[An Open Letter To Productivity]]></title>
-    <link>http://joebuhlig.com/an-open-letter-to-productivity/</link>
-    <pubDate>Mon, 20 Jun 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[productivity]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/an-open-letter-to-productivity/</guid>
-    <description>
-        <![CDATA[My friend,
-
-We’ve come a long way since we met five years ago.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/an-open-letter-to-productivity.jpeg" /><p>My friend,</p>
-
-<p>We’ve come a long way since we met five years ago.<!--more--> And I cannot thank you enough for the clarity and direction you’ve given me through the multiple transitions and big decisions I have faced in recent years. Without the systems and tricks you’ve taught me, I would accomplish much less and fall short of numerous goals. For that, I am grateful.</p>
-
-<p>I know I don’t always stick to the structure you’ve helped me build, but you’re always there when I realize I’ve stepped away. I know that if I trust the guidelines and follow them, my days are efficient and invigorating; and that makes me want to keep going and do more. It reveals my ability to do something great.</p>
-
-<p>But sometimes I need space. I know you want me to be efficient with my calendar but there are periods when I need to blow some time with no expected outcomes. I need a little freedom. I need to be flexible and play once a while.</p>
-
-<p>I think you would agree that margin is beneficial, but you often expect a measurable result when I take a break. I can understand that. We both know that taking time to re-energize can lead to greater gains elsewhere. But that’s my point: I can’t always look for the benefit of an activity. Why must everything have a defined positive outcome? Why not be content with the lack of definition and embrace spontaneity and play?</p>
-
-<p>I want to continue our friendship, but with a different perspective. Let’s focus less on doing more and more on doing right. That likely means fewer projects, but I want them to be <em>better</em> projects. I know you’re with me here. But let’s also invite Play to our meetings. I’m aware of the love-hate relationship between you. Let’s work through that together. Between the three of us, I believe we can accomplish something awesome.</p>
-
-<p>I’ll see you tomorrow.</p>
-
-<p>Joe</p>
 ]]>
     </content:encoded>
 </item>
