@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"5: Essentialism by Greg McKeown [Bookworm]",
+			"image":"/assets/posts/bookwormlogo.png",
+			"permalink":"/5-essentialism-by-greg-mckeown/",
+			"categories": [
+				"bookworm"
+			],
+			"tags": [
+				"bookworm"
+			],
+			"excerpt": "<p>Joe gets too much email, Mike thinks he should hide his email address, and they both have an interest in saying “no” more often.</p>\n",
+			"content": "Joe%20gets%20too%20much%20email,%20Mike%20thinks%20he%20should%20hide%20his%20email%20address,%20and%20they%20both%20have%20an%20interest%20in%20saying%20%E2%80%9Cno%E2%80%9D%20more%20often.%0A%0A"
+		},
+	
 		{	"title":"Leaving Pocket For Instapaper",
 			"image":"/assets/posts/leaving-pocket-for-instapaper.jpeg",
 			"permalink":"/leaving-pocket-for-instapaper/",

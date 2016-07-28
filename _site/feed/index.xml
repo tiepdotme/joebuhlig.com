@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 26 Jul 2016 14:39:23 -0500</lastBuildDate>
+<lastBuildDate>Thu, 28 Jul 2016 11:55:03 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[5: Essentialism by Greg McKeown [Bookworm]]]></title>
+    <link>http://joebuhlig.com/5-essentialism-by-greg-mckeown/</link>
+    <pubDate>Wed, 27 Jul 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/5-essentialism-by-greg-mckeown/</guid>
+    <description>
+        <![CDATA[Joe gets too much email, Mike thinks he should hide his email address, and they both have an interest in saying “no” more often.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Joe gets too much email, Mike thinks he should hide his email address, and they both have an interest in saying “no” more often.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Leaving Pocket For Instapaper]]></title>
@@ -513,42 +536,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <h2 id="the-pattern">The Pattern?</h2>
 
 <p>When I reflect on each of these scenarios I notice a recurring theme. In every instance, I have historically focused my eyes on a screen instead of a book. It’s easy to check my phone for a few minutes before bed or while I am eating breakfast. But if I pay attention to how I feel afterwards, I always prefer the feeling of accomplishment after having read a book to the feeling of inadequacy that comes from checking a screen.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[42: Deciding On A Medium]]></title>
-    <link>http://joebuhlig.com/42/</link>
-    <pubDate>Wed, 22 Jun 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[podcast]]></category>
-
-
-    <category><![CDATA[mediums]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/42/</guid>
-    <description>
-        <![CDATA[If you create content in any form and have dabbled in multiple mediums, you’re left with a decision about which method of consumption is best for the topic you want to present.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Deciding-On-A-Medium.jpg" /><p>If you create content in any form and have dabbled in multiple mediums, you’re left with a decision about which method of consumption is best for the topic you want to present.
-<!--more--></p>
-
-<p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
-
-<p><a href="https://tools.joebuhlig.com/working-with-omnifocus/">My Book - Working With OmniFocus</a></p>
-
-<p><a href="http://pre.workingwithideas.co">My Video Course - Working With Ideas</a></p>
-
-<p><a href="https://twitter.com/whaddyaknowjoe">@WhaddyaKnowJoe</a></p>
-
-<p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
-
-<p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]>
     </content:encoded>
 </item>
