@@ -14,11 +14,59 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 28 Jul 2016 11:55:03 -0500</lastBuildDate>
+<lastBuildDate>Fri, 29 Jul 2016 08:00:46 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Embracing The New TextExpander]]></title>
+    <link>http://joebuhlig.com/embracing-the-new-textexpander/</link>
+    <pubDate>Fri, 29 Jul 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[textexpander]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/embracing-the-new-textexpander/</guid>
+    <description>
+        <![CDATA[When Smile introduced the new “Snippet As A Service” version of TextExpander, there was quite an outcry. To be completely honest, I was confused by and resistant to the change at the onset. However, if I look at the new version without allowing my previous experience to color my opinion,...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/embracing-the-new-textexpander.jpg" /><p>When <a href="https://smilesoftware.com/">Smile</a> introduced the new “Snippet As A Service” version of TextExpander, there was quite an outcry. To be completely honest, I was confused by and resistant to the change at the onset. However, if I look at the new version without allowing my previous experience to color my opinion, it is striking how similar it is to my other choices for software.
+<!--more--></p>
+
+<h2 id="data">Data</h2>
+
+<p>One of the big complaints is the location used for data storage and syncing. Previously, we used DropBox or some other syncing service to host and update our snippets as we alter them. The new version forces you to use <a href="//smile.7eer.net/c/298450/277331/2936">textexpander.com</a> as the backend. I understand the concern over data control here but it really doesn’t apply to me. I already use the backend for other software and services like OmniFocus, Workflow, and Overcast. This isn’t much different.</p>
+
+<h2 id="pricing">Pricing</h2>
+
+<p>This is the one that got me at first. Year-over-year, the price to me would increase almost twofold. At least, that’s what it was originally. Since release, Smile listened to the flood of feedback and generously implemented a 50% upgrade discount for life. In the end, that means I’m paying no more than I have in the past. It’s a wash.</p>
+
+<h2 id="subscription">Subscription</h2>
+
+<p>Anymore I’m slow to upgrade hardware. But software is a different story. I deliberately limit the number of tools I use, which means I pick quality, pro-user tools with a lot of features and flexibility. Any time these tools have an upgrade available, I like to jump on it quickly. If you look at it from a high-level, I am effectively paying a subscription plan already. By adopting this recurring payment structure, I get no-hassle updates without the worry.</p>
+
+<h2 id="new-features">New Features</h2>
+
+<p>My big question when I first saw the release of the new TextExpander was about features. What’s new that would lead me to upgrade? I didn’t have an answer. But then I tried the trial and found two features that are important to me and a third I’m considering.</p>
+
+<p>The first is inline search. You type a keyword anywhere, hit a keyboard shortcut (that you can customize), and see search results of your matching snippets. Since we typically have these memorized it may not sound very useful until you consider the pain of changing your snippet abbreviations or a database with hundreds of snippets. I find the need to alter abbreviations every few months which means the inline search ability has received a lot of my attention.</p>
+
+<p>Second, the <a href="//smile.7eer.net/c/298450/277331/2936">website</a>. It seems unnecessary at first. If you have the apps, why would you use the website? Then I ran into a couple instances where I wanted a block of text from TextExpander while on a different profile on my computer. I don’t want TextExpander on it for other reasons but it’s incredibly handy to log on to the website to access that data. It makes it possible to retrieve the info I want without a software installation.</p>
+
+<p>And the feature I’m considering is the one that initiated this whole thing: teams and sharing. I can see a lot of value in sharing email templates with clients or for <a href="http://bookworm.fm">Bookworm</a>. Anytime there are communications, blocks of text, or forms that are used by multiple people, this could save us all a lot of time. I haven’t tried it yet, but I’m looking for the opportunity.</p>
+
+<h2 id="personal-use-only">Personal Use Only?</h2>
+
+<p>With all of this in mind, I’m happy with my choice to upgrade to the new TextExpander even if I choose not to use the sharing features. There’s enough added value in the new version and consistency in pricing (for me) to convince me to buy in. TextExpander is one of those core applications I incorporate into a lot of other tools. That means I want it up-to-date. And since there are new possibilities that come along for the ride, I’m exploring the options that the new functionality gives me.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[5: Essentialism by Greg McKeown [Bookworm]]]></title>
@@ -488,54 +536,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <h2 id="hosting">Hosting</h2>
 
 <p>In my opinion, the gold standard for hosting your files is <a href="https://www.libsyn.com/">Libsyn</a>. It just works and I’ve never had an issue with them. My feed is a custom XML file generated with <a href="http://jekyllrb.com/">Jekyll</a>. If you are a Jekyll user and want to run a podcast, you can get the <a href="https://github.com/joebuhlig/Jekyll-Podcast-Feed">source code for this here</a>.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Time For Books]]></title>
-    <link>http://joebuhlig.com/time-for-books/</link>
-    <pubDate>Fri, 24 Jun 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[books]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/time-for-books/</guid>
-    <description>
-        <![CDATA[In order to read a book every two weeks (and sometimes every week) I have had to make reading a practice that is incorporated throughout my day. Having a single time for reading isn’t enough and it has become a ritual I like to incorporate as many places as I...]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/time-for-books.jpeg" /><p>In order to read a book every two weeks (and sometimes every week) I have had to make reading a practice that is incorporated throughout my day. Having a single time for reading isn’t enough and it has become a ritual I like to incorporate as many places as I can.
-<!--more--></p>
-
-<p>Each day is different, but I know I can count on a handful of repeated situations that allow me to read consistently.</p>
-
-<h2 id="early-mornings">Early Mornings</h2>
-
-<p>Every morning, I <a href="http://joebuhlig.com/why-getting-up-early/">get up at five</a>, grab a shower, and make a hot breakfast for myself. This early breakfast always consists of two eggs fried in a cast iron skillet and a banana. While the skillet is warming up and the eggs are cooking, I read. When they are finished cooking, I read while I eat. This is easily the most reliable time I have for reading. It’s a relaxed, ritualistic, and energizing time that is perfect for creating motivation for the day ahead.</p>
-
-<h2 id="transitions">Transitions</h2>
-
-<p>Whether it’s a few extra minutes before a meeting or a quick break between tasks, the transitional periods throughout the day serve as excellent times to grab a book. It may only be a single page, but one page here and there can add up quickly. The beauty of reclaiming these transitional times comes from what it replaces: social media and email checks. Instead of losing 10 minutes to cruising Twitter, I finish a chapter in my book.</p>
-
-<h2 id="waiting">Waiting</h2>
-
-<p>I have started taking a book with me whenever I leave the house. I’m early to most meetings and often find myself waiting for others to show up. Having a book with me means I can get a few more pages read instead of perusing blog articles or email on my phone.</p>
-
-<h2 id="eob-ritual">EOB Ritual</h2>
-
-<p>At the end of my workday, I go through an End Of Business ritual that helps me unwind and clear my head for spending time with my family. I have tried various tactics during this time, but I have found that learning is the best at hitting the brakes on my mental race car. And what better way to learn than to read? So I’ve made it a habit of reading for about 15 minutes before calling it a day.</p>
-
-<h2 id="bedtime">Bedtime</h2>
-
-<p>The least reliable of my reading times is likely the most consistent for others. I am sporadic at reading before bed, but it is another time that is easy to take advantage of and turn a few pages in a book.</p>
-
-<h2 id="the-pattern">The Pattern?</h2>
-
-<p>When I reflect on each of these scenarios I notice a recurring theme. In every instance, I have historically focused my eyes on a screen instead of a book. It’s easy to check my phone for a few minutes before bed or while I am eating breakfast. But if I pay attention to how I feel afterwards, I always prefer the feeling of accomplishment after having read a book to the feeling of inadequacy that comes from checking a screen.</p>
 ]]>
     </content:encoded>
 </item>
