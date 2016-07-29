@@ -35,7 +35,7 @@ There are quite a few text expanders out there: Phrase Express, AutoHotKey, aTex
 
     Allows me to easily set a start date in [Omnifocus](http://joebuhlig.com/omnifocus-setup-workflow/) for 9am tomorrow morning.
 
-4.  **;joe** = joe@joebuhlig.com
+4.  **;joe** = _My email address_
 
     Email addresses are used all over the place. I just got tired of typing it all the time.
 

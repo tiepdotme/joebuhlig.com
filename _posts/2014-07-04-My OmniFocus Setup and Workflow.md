@@ -125,4 +125,4 @@ If I complete all my due tasks and have made it through all of my flagged items,
 
 At the end of the day, I do a [Daily Review](http://joebuhlig.com/gaining-perspective-daily-review/). I take 20 minutes or so and quickly look over calendars, completed items from the day, and set up tomorrow. Basically, I look at the Forecast view for tomorrow and see what’s on my plate. If I have a lot going on, I typically won’t flag any _extra_ items. If I don’t have anything due and I have no meetings, I’ll run through my contexts and flag actions for tomorrow and set the start date for tomorrow morning. That way they don’t show up when I’m doing one last check before I go to bed. There’s no point in seeing them until tomorrow.
 
-This is my system and I’ve found it to work really well for me. I hope you can find a piece or two of it that helps, even if you’re not an Omnifocus user. If you have any questions or comments, I’d love to hear them. You can [send me an email](mailto:joe@joebuhlig.com).
+This is my system and I’ve found it to work really well for me. I hope you can find a piece or two of it that helps, even if you’re not an Omnifocus user.
