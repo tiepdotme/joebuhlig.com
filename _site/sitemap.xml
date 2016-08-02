@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/too-much-tech/</loc>
+    <lastmod>2016-08-01T00:00:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/embracing-the-new-textexpander/</loc>
     <lastmod>2016-07-29T00:00:00-05:00</lastmod>
   </url>
@@ -1146,6 +1150,9 @@
   <url>
     <loc>http://joebuhlig.com/tag/pocket/</loc>
   </url>
+  <url>
+    <loc>http://joebuhlig.com/tag/devices/</loc>
+  </url>
     <url>
       <loc>http://joebuhlig.com/put-distractions-place/</loc>
     </url>
@@ -1730,5 +1737,8 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/embracing-the-new-textexpander/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/too-much-tech/</loc>
     </url>
 </urlset>
