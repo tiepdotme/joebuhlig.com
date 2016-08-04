@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"6: The More Of Less by Joshua Becker [Bookworm]",
+			"image":"/assets/posts/bookwormlogo.png",
+			"permalink":"/6-the-more-of-less-by-joshua-becker/",
+			"categories": [
+				"bookworm"
+			],
+			"tags": [
+				"bookworm"
+			],
+			"excerpt": "<p>This week Mike and Joe talk about cutting back and simplifying life with Joshua Becker’s book <em>The More Of Less</em>.</p>\n",
+			"content": "This%20week%20Mike%20and%20Joe%20talk%20about%20cutting%20back%20and%20simplifying%20life%20with%20Joshua%20Becker%E2%80%99s%20book%20The%20More%20Of%20Less.%0A%0A"
+		},
+	
 		{	"title":"Too Much Tech?",
 			"image":"/assets/posts/too-much-tech.jpeg",
 			"permalink":"/too-much-tech/",

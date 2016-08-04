@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 02 Aug 2016 14:15:15 -0500</lastBuildDate>
+<lastBuildDate>Thu, 04 Aug 2016 11:47:20 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[6: The More Of Less by Joshua Becker [Bookworm]]]></title>
+    <link>http://joebuhlig.com/6-the-more-of-less-by-joshua-becker/</link>
+    <pubDate>Wed, 03 Aug 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/6-the-more-of-less-by-joshua-becker/</guid>
+    <description>
+        <![CDATA[This week Mike and Joe talk about cutting back and simplifying life with Joshua Becker’s book The More Of Less.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This week Mike and Joe talk about cutting back and simplifying life with Joshua Becker’s book <em>The More Of Less</em>.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Too Much Tech?]]></title>
@@ -491,38 +514,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <content:encoded>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Welcome to Bookworm! To kick things off, we’ve reread a book we both rely on heavily in our lives, Getting Things Done by David Allen. This is the best discussion either of us have had about GTD in a long time.
 <!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[A New Podcast: Bookworm]]></title>
-    <link>http://joebuhlig.com/a-new-podcast-bookworm/</link>
-    <pubDate>Thu, 07 Jul 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/a-new-podcast-bookworm/</guid>
-    <description>
-        <![CDATA[Almost 2 months ago I embarked on a journey of reading a book every two weeks. Although there are a lot of personal benefits to doing this, it is primarily for a new podcast I’m doing with my good friend, Mike Schmitz.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Almost 2 months ago I embarked on a journey of reading a book every two weeks. Although there are a lot of personal benefits to doing this, it is primarily for a new podcast I’m doing with my good friend, <a href="http://mikeschmitz.me/">Mike Schmitz</a>.
-<!--more--></p>
-
-<p>Mike and I have done a couple shows together in the past (<a href="http://www.asianefficiency.com/podcast/057-joe-buhlig/">The Productivity Show</a> and <a href="http://joebuhlig.com/33/">Whaddya Know Joe</a>) and we each independently came to the conclusion that we wanted start a new show together. After a single call, Bookworm was born and recording commenced.</p>
-
-<p>Bookworm is all about taking action on the words we read. Mike and I read a book, then talk about what it means for our lives. We can read all the books in the world but it’s for naught if we don’t do something with that knowledge.</p>
-
-<p>Today we are revealing our work to the world. You can check it out it at <a href="http://bookworm.fm/">bookworm.fm</a> and find it <a href="https://itunes.apple.com/us/podcast/bookworm/id1132102092">on iTunes here</a>. We also have a Twitter handle for the show, <a href="https://twitter.com/bookwormfm">@bookwormfm</a>.</p>
-
-<p>If you are a reader (or you’re not and want a summary), <a href="https://itunes.apple.com/us/podcast/bookworm/id1132102092">subscribe now</a>. We’re super pumped about it and excited to talk books with you!</p>
 ]]>
     </content:encoded>
 </item>
