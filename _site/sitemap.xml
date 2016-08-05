@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/moving-omnifocus-scripts-to-ios/</loc>
+    <lastmod>2016-08-05T00:00:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/6-the-more-of-less-by-joshua-becker/</loc>
     <lastmod>2016-08-03T00:00:00-05:00</lastmod>
   </url>
@@ -1747,5 +1751,8 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/6-the-more-of-less-by-joshua-becker/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/moving-omnifocus-scripts-to-ios/</loc>
     </url>
 </urlset>

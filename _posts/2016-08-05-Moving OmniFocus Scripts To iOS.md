@@ -21,6 +21,8 @@ The obvious one here is templates. [Ken Case shared an Editorial workflow](https
 
 The other script I moved over was the ["Read Book Tasks" script](http://joebuhlig.com/reading-books-on-a-schedule/). This was a complete rebuild of the code in Workflow. Using it on iOS is the same as running the script on a Mac. Run the workflow, answer the prompts, and you get a sub-project for the tasks added to your inbox.
 
+[OF Book Tasks - Workflow](https://workflow.is/workflows/cece509a6fd6477d8d9e479f3f5df184)
+
 Everything above is about creating new tasks. In the world of data, we often refer to CRUD - Create, Read, Update, Delete. It's shorthand for the four ways you can work with information. You can make new data - Create. You can get existing data - Read. You can change or edit existing data - Update. And you can destroy the data - Delete. If you have the ability to do all four of these, you are able to do anything you want with the database.
 
 If we overlay those four methods on top of the new OmniFocus URLs, we see only the first (Create) as a possibility. So we're still limited in what we can do on iOS. It's also why I'm not able to move [all of my scripts](https://github.com/joebuhlig/OFScripts) to iOS. It simply isn't possible. Given the support for AppleScripting that the Omni Group shows, I can imagine it is only a matter of time before the RUD of CRUD makes it to iOS.
