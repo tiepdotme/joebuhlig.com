@@ -14,11 +14,41 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 05 Aug 2016 05:33:06 -0500</lastBuildDate>
+<lastBuildDate>Wed, 10 Aug 2016 15:52:43 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Woodworking Versus Websites]]></title>
+    <link>http://joebuhlig.com/woodworking-versus-websites/</link>
+    <pubDate>Mon, 08 Aug 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[development]]></category>
+
+    <category><![CDATA[woodworking]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/woodworking-versus-websites/</guid>
+    <description>
+        <![CDATA[One of the most difficult aspects of building websites or doing knowledge work full-time is the lack of motivation and pride that typically comes from physically seeing the work of your hands. Yes, it is possible to achieve this sense of accomplishment when working purely with information and computers, but...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/woodworking-versus-websites.jpeg" /><p>One of the most difficult aspects of building websites or doing knowledge work full-time is the lack of motivation and pride that typically comes from physically seeing the work of your hands. Yes, it is possible to achieve this sense of accomplishment when working purely with information and computers, but it’s far from natural.
+<!--more--></p>
+
+<p>Looking at my own life, I compare it to woodworking. When I build a piece of furniture I rarely need a to-do list for it. And (given available time) I don’t struggle with getting to work on it like I do a bug-fix. I know that I can go to the woodshop, see my current progress, immediately determine what comes next, and get to work. And when I’m done, there is a innate joy that comes from having built the piece or at least made progress on it.</p>
+
+<p>But when it comes to websites, it’s a different story. I need a list to know where I left off. And I have to develop tricks and rituals to motivate me to get to work. Even after I’m done with the build I need to reflect on my work and put it in perspective to understand its value and develop pride in my work.</p>
+
+<p>The weird part of this is that I really enjoy both. But I do think there’s value in understanding the feelings and mechanics that come with working as a craftsman. If they can be applied to knowledge work, I think there is a drive and enjoyment we can achieve that has typically been reserved for those working with their hands.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Moving OmniFocus Scripts To iOS]]></title>
@@ -510,29 +540,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>Tools can get in the way of developing this nuanced thinking. You may start searching for an app to solve procrastination when you actually need to name your tasks differently. You need to understand yourself, how you operate, and what you need before deciding a new tool is the solution. And you can only take on a new tool successfully when you know what it offers that will suit your mindset. <em>That’s</em> when the articles comparing software are helpful.</p>
 
 <p>It is only when you can sit down and spell out how a new tool will help that you understand your mindset well enough to warrant a potential change.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[2: The Willpower Instinct by Kelly McGonigal [Bookworm]]]></title>
-    <link>http://joebuhlig.com/2-the-willpower-instinct-by-kelly-mcgonigal/</link>
-    <pubDate>Sat, 09 Jul 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/2-the-willpower-instinct-by-kelly-mcgonigal/</guid>
-    <description>
-        <![CDATA[Whether it’s overcoming an addiction to email or sticking to a diet, The Willpower Instinct is excellent at helping you develop the self-control to accomplish your goals.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Whether it’s overcoming an addiction to email or sticking to a diet, The Willpower Instinct is excellent at helping you develop the self-control to accomplish your goals.
-<!--more--></p>
 ]]>
     </content:encoded>
 </item>

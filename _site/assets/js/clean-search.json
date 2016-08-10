@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"Woodworking Versus Websites",
+			"image":"/assets/posts/woodworking-versus-websites.jpeg",
+			"permalink":"/woodworking-versus-websites/",
+			"categories": [
+				"blog"
+			],
+			"tags": [
+				"development",
+				"woodworking"
+			],
+			"excerpt": "<p>One of the most difficult aspects of building websites or doing knowledge work full-time is the lack of motivation and pride that typically comes from physically seeing the work of your hands. Yes, it is possible to achieve this sense of accomplishment when working purely with information and computers, but it’s far from natural.</p>\n\n",
+			"content": "One%20of%20the%20most%20difficult%20aspects%20of%20building%20websites%20or%20doing%20knowledge%20work%20full-time%20is%20the%20lack%20of%20motivation%20and%20pride%20that%20typically%20comes%20from%20physically%20seeing%20the%20work%20of%20your%20hands.%20Yes,%20it%20is%20possible%20to%20achieve%20this%20sense%20of%20accomplishment%20when%20working%20purely%20with%20information%20and%20computers,%20but%20it%E2%80%99s%20far%20from%20natural.%0A%0A%0ALooking%20at%20my%20own%20life,%20I%20compare%20it%20to%20woodworking.%20When%20I%20build%20a%20piece%20of%20furniture%20I%20rarely%20need%20a%20to-do%20list%20for%20it.%20And%20(given%20available%20time)%20I%20don%E2%80%99t%20struggle%20with%20getting%20to%20work%20on%20it%20like%20I%20do%20a%20bug-fix.%20I%20know%20that%20I%20can%20go%20to%20the%20woodshop,%20see%20my%20current%20progress,%20immediately%20determine%20what%20comes%20next,%20and%20get%20to%20work.%20And%20when%20I%E2%80%99m%20done,%20there%20is%20a%20innate%20joy%20that%20comes%20from%20having%20built%20the%20piece%20or%20at%20least%20made%20progress%20on%20it.%0A%0ABut%20when%20it%20comes%20to%20websites,%20it%E2%80%99s%20a%20different%20story.%20I%20need%20a%20list%20to%20know%20where%20I%20left%20off.%20And%20I%20have%20to%20develop%20tricks%20and%20rituals%20to%20motivate%20me%20to%20get%20to%20work.%20Even%20after%20I%E2%80%99m%20done%20with%20the%20build%20I%20need%20to%20reflect%20on%20my%20work%20and%20put%20it%20in%20perspective%20to%20understand%20its%20value%20and%20develop%20pride%20in%20my%20work.%0A%0AThe%20weird%20part%20of%20this%20is%20that%20I%20really%20enjoy%20both.%20But%20I%20do%20think%20there%E2%80%99s%20value%20in%20understanding%20the%20feelings%20and%20mechanics%20that%20come%20with%20working%20as%20a%20craftsman.%20If%20they%20can%20be%20applied%20to%20knowledge%20work,%20I%20think%20there%20is%20a%20drive%20and%20enjoyment%20we%20can%20achieve%20that%20has%20typically%20been%20reserved%20for%20those%20working%20with%20their%20hands.%0A"
+		},
+	
 		{	"title":"Moving OmniFocus Scripts To iOS",
 			"image":"/assets/posts/moving-omnifocus-scripts-to-ios.jpeg",
 			"permalink":"/moving-omnifocus-scripts-to-ios/",
