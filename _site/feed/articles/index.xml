@@ -14,11 +14,115 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 11 Aug 2016 16:44:00 -0500</lastBuildDate>
+<lastBuildDate>Tue, 16 Aug 2016 15:04:34 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[A Year Without Extra Screens]]></title>
+    <link>http://joebuhlig.com/a-year-without-extra-screens/</link>
+    <pubDate>Mon, 15 Aug 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[hardware]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/a-year-without-extra-screens/</guid>
+    <description>
+        <![CDATA[For the last year I’ve been running my business from a MacBook Pro  and an iPhone.  No iPad. No Watch. And no external monitors.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/a-year-without-extra-screens.jpeg" /><p>For the last year I’ve been running my business from a MacBook Pro  and an iPhone.  No iPad. No Watch. And no external monitors.
+<!--more--></p>
+
+<p>This started out of necessity. I had jumped into bootstrapping my business quicker than I wanted and knew I shouldn’t spend extra dollars on unnecessary gadgets. So I took on the bare essentials.</p>
+
+<p>At first, this was painful. I had done development and data analysis work for quite a while and had been able to use iPads and at least three monitors for years. I could easily argue the validity of multiple monitors for someone doing my line of work. To go from three 27” Thunderbolts and an always-on iPad at my desk to nothing more than a MacBook Pro screen was not fun.</p>
+
+<p>To be honest, the freelance development and online business world isn’t all roses and rainbows. I haven’t felt comfortable spending extra dollars on a nice-to-have that isn’t necessary for me to do my job. So I’ve spent the last year working with the same minimal setup I started with.</p>
+
+<p>Despite the wounds this inflicted at the onset, I’ve discovered some unexpected benefits and learnings from this unwanted experiment. I can’t say everyone will experience these and frankly some will say these are illogical conclusions. Regardless, my feelings on the topic remain.</p>
+
+<blockquote>
+  <p>Multiple screens don’t increase productivity.</p>
+</blockquote>
+
+<p>When forced to work from a single, small screen, you find ways to make the process as easy as possible. Instead of designating apps to specific locations on a specific screen, I found a <a href="http://joebuhlig.com/mac-navigation/">way to quickly switch</a> to a screen filling view of an app. With a single keyboard shortcut, I jump from program to program. But that means my need to see multiple things at once is no longer necessary because I can switch about as fast as my eyes can move to another screen and back.</p>
+
+<p>The other aspect at work here is pure willpower to focus. Multiple screens increase the speed at which I can be distracted. Even if the distraction is productive, it still takes me away from my intended task. A single screen forces me to look at the application and task in front of me. I have to make a conscious decision to navigate elsewhere.</p>
+
+<blockquote>
+  <p>Device overlap is detrimental to focus.</p>
+</blockquote>
+
+<p>When I owned an iPad, it served two purposes. It was used to read articles and watch videos and it became a dashboard for my task list, outline, or reference material. Without it, I read articles and watch videos on my phone or Mac. But honestly, I do this very little anymore. And from what I can tell, I’m better off scaling this back even further.</p>
+
+<p>The lack of the dashboard has been a different story. It was a big loss initially since I’ve been using an iPad that way for three years or better. I struggled to find an alternative. As expected, I eventually found a combination of tools and techniques to simulate what I was doing previously. But what surprised me was the fact that my “new” methods were already in place. I had been switching between the iPad and my iPhone for a task list. My outlines and references were a shortcut away on the Mac. I had been duplicating the main purpose of the iPad on the Mac and iPhone already.</p>
+
+<p>It’s tricky, but I found there was a split in focus when there were options about which device to use. Because I could choose between devices for a given task, I would have to make an extra decision (iPad or Mac?) about the right one in the moment. Remove the decision (the extra device) and I can get to work quicker and, in most cases, more effectively. Without the choice and the potential overlap in devices, I’m free to focus on the task itself instead of asking which device to use for the task.</p>
+
+<blockquote>
+  <p>Owning every Apple device isn’t logical.</p>
+</blockquote>
+
+<p>I’ll say it. I’m an Apple fanboy. Every product with an Apple logo has me looking for an excuse to own it. But each time I consider one, I’ve had to ask myself, “What does this enable me to do that I can’t already do and need to do?”” It’s the last piece of that question that always throws me off. There’s a lot of new and shiny with Apple products, but at the end of the day, I’ve learned that it takes only a couple of them to do what I need and to do it well.</p>
+
+<p>All that said, there are changes I would make and I <em>would</em> increase my screen count by one. But I would only do so in the realm of Macs. Given my work in audio/video lately, I would put in either an iMac or a Mac Pro with a single, large monitor. I’m unsure of the exact hardware needs at the moment. But to allow travel, I would pick up a new MacBook. I can do a light weight machine for this, since it only needs to do email and raw text when I’m away from my office. I wouldn’t buy an iPad and I wouldn’t go for more than a single monitor for the Mac.</p>
+
+<p>When will this happen? I don’t know. But learning how to work with so little has taught me where I want to go.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Information Overwhelm Without The Internet]]></title>
+    <link>http://joebuhlig.com/information-overwhelm-without-the-internet/</link>
+    <pubDate>Fri, 12 Aug 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[internet]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/information-overwhelm-without-the-internet/</guid>
+    <description>
+        <![CDATA[I hear people refer to information overwhelm more often than I would expect. The context varies but the idea is the same: finding information on the internet is so easy that the person has a hard time deciphering what is right and what to question. Some even take it as...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/information-overwhelm-without-the-internet.jpeg" /><p>I hear people refer to information overwhelm more often than I would expect. The context varies but the idea is the same: finding information on the internet is so easy that the person has a hard time deciphering what is right and what to question. Some even take it as far as to suggest <a href="http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/">Google is making us dumb</a>.
+<!--more--></p>
+
+<p>The validity of that statement and my opinion of it aren’t important for the context of this article. What is important is the cause of the overwhelm: a broad range of topics at our fingertips. Type a word into any web search tool and you are hit with page after page of words to consume. It boggles your mind when you try to comprehend the complexity of the systems behind the interface that deliver those search results.</p>
+
+<p>And regardless of your opinion on the effects this has on our brains, it’s safe to say that most of the results are surface level articles. In other words, the vast majority of the internet articles out there will focus on the introduction of a topic or dive deep into one small aspect of a broader discipline. When combined and reviewed collectively, it’s possible to ascertain expert levels of knowledge about a given search. But more often than not, it requires a great deal of time and experience in scouring the web to develop that level of expertise from search results.</p>
+
+<p>In most cases, we aren’t going to take the time necessary to understand a topic fully. We would rather skim the headlines we find, get our answer, and move on. This is where the traditional sense of information overwhelm comes in. There are so many potential solutions to our query that we have difficulty discerning which trail to follow. It’s overwhelm due to a wide variety of topics made available to you.</p>
+
+<p>But I’ve recently discovered a different type of overwhelm. Instead of this <em>broad topics overwhelm</em>, there’s also <em>deep topic overwhelm</em>. Both flavors come with two constraints: a lot of information going into your mind in a short time frame. With the broad form, we see a variety of subjects available to us through systems like Google. But the deep form flips the equation and gives us a ton of detail about a single realm of knowledge. In my case, this is revealed through the rapid consumption of business and productivity books.</p>
+
+<p>You could make the argument that given wisdom in writing queries you could create a list of search results that would emulate deep topic overwhelm. But again, you will be presented with a series of webpages that would need to be reviewed collectively and digested over a longer period of time. At that point you no longer fall into the constraint of a short time period, whereas reading multiple longform works on a single subject in short succession does.</p>
+
+<p>A prime example of this difference is the book, <a href="https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/ref=sr_1_1?tag=joebuhlig-20">Getting Things Done</a>. There are countless people, myself included, who discovered the GTD framework through searches and failed to implement it successfully until they broke down and actually read the book. Despite the thousands of articles out there about GTD and, in my case, months of reading them, you’ll never reach a level of full understanding until you read the book.</p>
+
+<p>But if you read a lot of these types of books in a short time, you’ll quickly start to feel this deep topic overwhelm. There’s so much information and an incomprehensible level of rationale behind each author’s arguments that you can’t help but notice numerous aspects of your life and work that you want to change or develop. You have loads of data entering your mind that you want to act on and feel like you can’t keep up.</p>
+
+<p>The logical response is to slow down. Give yourself time to process and adapt. In my case, that’s not possible since my quick reading is a part of <a href="http://bookworm.fm">Bookworm</a>. But I’m convinced I would continue my biweekly pace even without the podcast and accountability. There are two reasons for this:</p>
+
+<p>One, <strong>I’m able to draw correlations and similarities I wouldn’t otherwise have seen</strong>. Given the short timeframe that I consume these books within, I have found that I still have a deep recollection of the last seven to ten that I’ve read. The book I am currently reading ends up being colored by what I’ve learned across thousands of pages I am still intimately familiar with. I find connections across multiple texts that I would normally miss.</p>
+
+<p>Second, <strong>the new information I’m learning becomes motivation to keep moving forward with action items and deepens my rationale for what I’ve learned</strong>. Reading a thought-out reasoning for an author’s belief will encourage you to either develop your own perspective or challenge you to reconsider your existing view. In both cases, you come out better on the other side.</p>
+
+<p>When you have the ability to be both broadly overwhelmed and deeply overwhelmed, through the internet or through books, you can choose between two responses: you can wait to learn until you need a piece of information, or you can take advantage of your good fortune and learn as much as possible right now. I’ll take the latter.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Woodworking Versus Websites]]></title>
