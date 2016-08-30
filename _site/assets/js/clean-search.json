@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"7: Deep Work by Cal Newport [Bookworm]",
+			"image":"/assets/posts/bookwormlogo.png",
+			"permalink":"/7-deep-work-by-cal-newport/",
+			"categories": [
+				"bookworm"
+			],
+			"tags": [
+				"bookworm"
+			],
+			"excerpt": "<p>Mike has a new Apple device despite his minimizing efforts and Joe has finally done something about his email issue.</p>\n",
+			"content": "Mike%20has%20a%20new%20Apple%20device%20despite%20his%20minimizing%20efforts%20and%20Joe%20has%20finally%20done%20something%20about%20his%20email%20issue.%0A%0A"
+		},
+	
 		{	"title":"A Year Without Extra Screens",
 			"image":"/assets/posts/a-year-without-extra-screens.jpeg",
 			"permalink":"/a-year-without-extra-screens/",

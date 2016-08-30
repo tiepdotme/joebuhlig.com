@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 16 Aug 2016 15:04:34 -0500</lastBuildDate>
+<lastBuildDate>Tue, 30 Aug 2016 11:41:08 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[7: Deep Work by Cal Newport [Bookworm]]]></title>
+    <link>http://joebuhlig.com/7-deep-work-by-cal-newport/</link>
+    <pubDate>Wed, 17 Aug 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/7-deep-work-by-cal-newport/</guid>
+    <description>
+        <![CDATA[Mike has a new Apple device despite his minimizing efforts and Joe has finally done something about his email issue.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Mike has a new Apple device despite his minimizing efforts and Joe has finally done something about his email issue.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[A Year Without Extra Screens]]></title>
@@ -563,29 +586,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[3: The War Of Art by Steven Pressfield [Bookworm]]]></title>
-    <link>http://joebuhlig.com/3-the-war-of-art-by-steven-pressfield/</link>
-    <pubDate>Wed, 13 Jul 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/3-the-war-of-art-by-steven-pressfield/</guid>
-    <description>
-        <![CDATA[Whether it’s writing or building a business, we all struggle to put in the work to create. Mike and Joe discuss going pro with their art and overcoming resistance.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Whether it’s writing or building a business, we all struggle to put in the work to create. Mike and Joe discuss going pro with their art and overcoming resistance.
-<!--more--></p>
 ]]>
     </content:encoded>
 </item>
