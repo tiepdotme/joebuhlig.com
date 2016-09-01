@@ -1,5 +1,31 @@
 {
 	"clean_search" : [
+		{	"title":"Introducing The New Working With OmniFocus",
+			"image":"/assets/posts/introducing-the-new-working-with-omnifocus.jpg",
+			"permalink":"/introducing-the-new-working-with-omnifocus/",
+			"categories": [
+				"blog"
+			],
+			"tags": [
+				"omnifocus"
+			],
+			"excerpt": "<p>Working With OmniFocus has been recreated in video format!  It’s now available on the new dedicated website: <a href=\"https://workingwithomnifocus.com\">workingwithomnifocus.com</a>.</p>\n\n",
+			"content": "Working%20With%20OmniFocus%20has%20been%20recreated%20in%20video%20format!%20%20It%E2%80%99s%20now%20available%20on%20the%20new%20dedicated%20website:%20workingwithomnifocus.com.%0A%0A%0ASomething%20I%20didn%E2%80%99t%20plan%20on%20with%20this%20project%20was%20the%20expansion%20of%20content.%20By%20the%20time%20I%20finished%20the%20set%20of%20videos,%20I%20realized%20there%20are%20over%20four%20hours%20of%20content%20and%20an%20additional%2040%25%20in%20topics%20covered%20over%20the%20book.%20And%20I%20already%20have%20another%20hour%20worth%20of%20topics%20in%20the%20queue.%20So%20it%E2%80%99s%20easy%20to%20say%20that%20this%20is%20a%20pretty%20extensive%20resource%20and%20I%E2%80%99m%20really%20excited%20to%20share%20it%20with%20you!%0A%0AQuick%20note:%20if%20you%E2%80%99ve%20previously%20purchased%20the%20book,%20check%20your%20email.%20There%E2%80%99s%20a%20present%20waiting%20for%20you%20there.%20If%20you%20haven%E2%80%99t%20bought%20the%20book,%20you%20can%20still%20get%20it%20as%20part%20of%20the%20video%20series.%20I%E2%80%99m%20keeping%20it%20simple%20and%20throwing%20it%20all%20into%20one%20package.%0A%0AGo%20check%20out%20the%20new%20website!%20There%20are%20a%20handful%20of%20freebies%20there%20even%20if%20you%E2%80%99re%20not%20planning%20to%20buy.%0A"
+		},
+	
+		{	"title":"8: The Power of Full Engagement by Jim Loehr, Tony Schwartz [Bookworm]",
+			"image":"/assets/posts/bookwormlogo.png",
+			"permalink":"/8-the-power-of-full-engagement-by-jim-loehr-tony-schwartz/",
+			"categories": [
+				"bookworm"
+			],
+			"tags": [
+				"bookworm"
+			],
+			"excerpt": "<p>When you step out beyond time management you land in the world of energy management. It’s a simple concept that is drastically different for everyone embarking on the journey.</p>\n",
+			"content": "When%20you%20step%20out%20beyond%20time%20management%20you%20land%20in%20the%20world%20of%20energy%20management.%20It%E2%80%99s%20a%20simple%20concept%20that%20is%20drastically%20different%20for%20everyone%20embarking%20on%20the%20journey.%0A%0A"
+		},
+	
 		{	"title":"7: Deep Work by Cal Newport [Bookworm]",
 			"image":"/assets/posts/bookwormlogo.png",
 			"permalink":"/7-deep-work-by-cal-newport/",
