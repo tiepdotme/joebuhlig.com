@@ -3,7 +3,7 @@
  */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
+dl, dd, ol, ul, figure, center {
   margin: 0;
   padding: 0; }
 
@@ -24,7 +24,7 @@ body {
  */
 h1, h2, h3, h4, h5, h6,
 p, table, blockquote, pre,
-ul, ol, dl, figure,
+ul, ol, dl, figure, center,
 .highlight {
   margin-bottom: 15px; }
 
@@ -431,16 +431,16 @@ table {
   margin-left: 20px; }
 
 .post-image-tiny {
-  width: 25%; }
+  width: 24%; }
 
 .post-image-mini {
-  width: 33%; }
+  width: 32%; }
 
 .post-image-small {
-  width: 50%; }
+  width: 49%; }
 
 .post-image-medium {
-  width: 75%; }
+  width: 74%; }
 
 .post-image-large {
   width: 100%; }
