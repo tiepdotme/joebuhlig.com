@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/creating-drafts-actions-in-bulk/</loc>
+    <lastmod>2016-09-12T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/when-deep-work-strikes/</loc>
+    <lastmod>2016-09-09T00:00:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/introducing-the-new-working-with-omnifocus/</loc>
     <lastmod>2016-09-01T00:00:00-05:00</lastmod>
   </url>
@@ -1808,5 +1816,11 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/introducing-the-new-working-with-omnifocus/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/when-deep-work-strikes/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/creating-drafts-actions-in-bulk/</loc>
     </url>
 </urlset>
