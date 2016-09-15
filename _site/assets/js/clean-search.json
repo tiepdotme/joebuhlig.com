@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"9: Daring Greatly by Brené Brown [Bookworm]",
+			"image":"/assets/posts/bookwormlogo.png",
+			"permalink":"/9-daring-greatly-by-brene-brown/",
+			"categories": [
+				"bookworm"
+			],
+			"tags": [
+				"bookworm"
+			],
+			"excerpt": "<p>We’re trying a different flavor of book this time and discussing our relationships and feelings with Brené Brown’s Daring Greatly.</p>\n",
+			"content": "We%E2%80%99re%20trying%20a%20different%20flavor%20of%20book%20this%20time%20and%20discussing%20our%20relationships%20and%20feelings%20with%20Bren%C3%A9%20Brown%E2%80%99s%20Daring%20Greatly.%0A%0A"
+		},
+	
 		{	"title":"Creating Drafts Actions In Bulk",
 			"image":"/assets/posts/creating-drafts-actions-in-bulk.jpeg",
 			"permalink":"/creating-drafts-actions-in-bulk/",
