@@ -1,0 +1,9 @@
+{% if include.article.categories contains 'blog'%}
+{{ include.article.date | date: "%b %-d, %Y" }}{% if include.author %} • {{ include.author.name }}{% endif %}{% if include.article.meta %} • {{ include.article.meta }}{% endif %} • {{ include.article.content | reading_time }}{% if include.article.tags %} • {% for tag in include.article.tags %}<a href="/tag/{{ tag }}">{{ tag }}</a>{% if forloop.index > 0 and include.article.tags.size != (forloop.index + 1)%}, {% endif %} {% endfor %}{% endif %}
+{% elsif include.article.categories contains 'podcast'%}
+{{ include.article.date | date: "%b %-d, %Y" }}{% if include.author %} • {{ include.author.name }}{% endif %}{% if include.article.meta %} • {{ include.article.meta }}{% endif %} • {{ include.article.podcast_duration }}{% if include.article.tags %} • {% for tag in include.article.tags %}<a href="/tag/{{ tag }}">{{ tag }}</a>{% if forloop.index > 0 and include.article.tags.size != (forloop.index + 1)%}, {% endif %} {% endfor %}{% endif %}
+{% elsif include.article.categories contains 'bookworm'%}
+{{ include.article.date | date: "%b %-d, %Y" }}{% if include.author %} • {{ include.author.name }}{% endif %}{% if include.article.meta %} • {{ include.article.meta }}{% endif %}{% if include.article.tags %} • {% for tag in include.article.tags %}<a href="/tag/{{ tag }}">{{ tag }}</a>{% if forloop.index > 0 and include.article.tags.size != (forloop.index + 1)%}, {% endif %} {% endfor %}{% endif %}
+{% elsif include.article.categories contains 'video'%}
+{{ include.article.date | date: "%b %-d, %Y" }}{% if include.author %} • {{ include.author.name }}{% endif %}{% if include.article.meta %} • {{ include.article.meta }}{% endif %} • {{ include.article.video_duration }}{% if include.article.tags %} • {% for tag in include.article.tags %}<a href="/tag/{{ tag }}">{{ tag }}</a>{% if forloop.index > 0 and include.article.tags.size != (forloop.index + 1)%}, {% endif %} {% endfor %}{% endif %}
+{% endif %}

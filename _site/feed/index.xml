@@ -14,11 +14,83 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 15 Sep 2016 16:01:57 -0500</lastBuildDate>
+<lastBuildDate>Thu, 22 Sep 2016 09:48:11 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Forget Third Party Email Apps]]></title>
+    <link>http://joebuhlig.com/forget-third-party-email-apps/</link>
+    <pubDate>Mon, 19 Sep 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[apps]]></category>
+
+    <category><![CDATA[email]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/forget-third-party-email-apps/</guid>
+    <description>
+        <![CDATA[Folks are quite passionate about the software they use to access their email. I fell in that camp for a while but anymore I just don’t get it. I think that stems from my intent to touch emails only once, keep my inbox as empty as possible, and use a...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/forget-third-party-email-apps.jpeg" /><p>Folks are quite passionate about the software they use to access their email. I fell in that camp for a while but anymore I just don’t get it. I think that stems from my intent to touch emails only once, keep my inbox as empty as possible, and use a single archive folder for all emails I want to keep.
+<!--more--></p>
+
+<p>My needs in an email app are just as simple. I need an easy way to move an email to either an archive or the trash. That’s it. And since there’s an internet connection and a Mac with me 99.9% of the times I check email, I do all of it in the browser with Gmail.</p>
+
+<p>That means I have no need for integrations with other apps because I always have a URL to reference an email. I can always grab the link, drop it into a notes field, or save it as part of a reference document. It also means the email is always a click away.</p>
+
+<p>I have no need for fancy folder structures and snoozing mechanisms. They don’t make sense to me. It’s an extra layer of complexity and decision deferment that delays progress on the requests represented in the emails. I don’t want to postpone my action on it for later, I make the decision the first time I see it.</p>
+
+<p>When I read reviews or hear comparisons of new email apps, I’m usually left asking “why?” Why are all these extra features necessary? Why is everyone trying to solve the “email problem?” The extra bells and whistles won’t make your decisions for you. It won’t write your responses for you. That’s up to you.</p>
+
+<p>We all get email. Some of us get a lot more than others. And if you feel you have an email problem, <em>you</em> need to do something about it. The issue isn’t the app. Don’t complicate matters looking for a third party app. Keep it dead simple and own your decisions. You’ll feel a lot better in the end.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Building Systems You Won't Use]]></title>
+    <link>http://joebuhlig.com/building-systems-you-wont-use/</link>
+    <pubDate>Fri, 16 Sep 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[systems]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/building-systems-you-wont-use/</guid>
+    <description>
+        <![CDATA[I’m always looking for a way to automate a process or develop a structure that removes steps from a frequently repeated task. That’s to be expected since I enjoy the world of productivity and do a fair amount of development.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/building-systems-you-wont-use.jpeg" /><p>I’m always looking for a way to automate a process or develop a structure that removes steps from a frequently repeated task. That’s to be expected since I enjoy the world of productivity and do a fair amount of development.
+<!--more--></p>
+
+<p>But building new systems to increase efficiency and accomplish new actions used to be relegated to the Mac or PC. You can write scripts and code there that do really sophisticated tasks. The only limit is your imagination and time devoted to it.</p>
+
+<p>With the creation of apps such as <a href="https://itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8&amp;at=1l3vnyQ">Workflow</a>, <a href="https://itunes.apple.com/us/app/launch-center-pro-shortcut/id532016360?mt=8&amp;at=1l3vnyQ">Launch Center Pro</a>, and <a href="https://itunes.apple.com/us/app/editorial/id673907758?mt=8&amp;at=1l3vnyQ">Editorial</a>, the system building process has more or less made its way onto iOS. And I leverage these heavily in my daily iPhone use.</p>
+
+<p>Although this ability comes with a plethora of benefits, it also comes with a very large downside: <em>time consumption</em>.</p>
+
+<p>My general rule of thumb for development and systems building is “if you can think it, you can build it.” If you have an idea for a script or a new system, you can generally make it happen given enough time and resources. Yes, there are occasions that this assumption falls down, but in my experience it generally holds true.</p>
+
+<p>If you combine this assumption with the flexibility, ease, and novelty of an app like Workflow, it’s easy to find yourself looking for ways to use it. “It has so much power, I should use it for <strong>__</strong><em>__</em>.” And new workflows are fun to build, so you get to “work” on a new process that will help you later.</p>
+
+<p>The trouble is that it’s time-consuming to build these new systems and since we utilize an app just because we can, we end up building things that serve no real purpose in our daily activities. It’s cool that you can turn a series of pictures into a GIF but how often do you need to do that? Is it really necessary to spend time building these out if you’re only going to use it a couple times, if ever?</p>
+
+<p>My point is this: don’t waste time building new systems just because you can or you think there might be a use for it. Determine the need up front and then get to work. Make sure it has a necessary and legitimate use before you spend time creating it.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[9: Daring Greatly by Brené Brown [Bookworm]]]></title>
@@ -523,67 +595,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <h2 id="personal-use-only">Personal Use Only?</h2>
 
 <p>With all of this in mind, I’m happy with my choice to upgrade to the new TextExpander even if I choose not to use the sharing features. There’s enough added value in the new version and consistency in pricing (for me) to convince me to buy in. TextExpander is one of those core applications I incorporate into a lot of other tools. That means I want it up-to-date. And since there are new possibilities that come along for the ride, I’m exploring the options that the new functionality gives me.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[5: Essentialism by Greg McKeown [Bookworm]]]></title>
-    <link>http://joebuhlig.com/5-essentialism-by-greg-mckeown/</link>
-    <pubDate>Wed, 27 Jul 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/5-essentialism-by-greg-mckeown/</guid>
-    <description>
-        <![CDATA[Joe gets too much email, Mike thinks he should hide his email address, and they both have an interest in saying “no” more often.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Joe gets too much email, Mike thinks he should hide his email address, and they both have an interest in saying “no” more often.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Leaving Pocket For Instapaper]]></title>
-    <link>http://joebuhlig.com/leaving-pocket-for-instapaper/</link>
-    <pubDate>Mon, 25 Jul 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[instapaper]]></category>
-
-    <category><![CDATA[pocket]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/leaving-pocket-for-instapaper/</guid>
-    <description>
-        <![CDATA[I follow specific websites less and less. I’m more inclined to follow people and services on Twitter and Medium that act as sources of curated articles. This gives me the ability to find sites I normally would have glossed over and still read my favorite writers.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/leaving-pocket-for-instapaper.jpeg" /><p>I follow specific websites less and less. I’m more inclined to follow people and services on Twitter and <a href="https://medium.com/@JoeBuhlig">Medium</a> that act as sources of curated articles. This gives me the ability to find sites I normally would have glossed over and still read my favorite writers.
-<!--more--></p>
-
-<p>But regardless of where I find these articles, I still need a way to save them for later. I rarely have time to read an article the moment I discover it. In the past I’ve used Pocket, but I have now moved to <a href="https://www.instapaper.com">Instapaper</a>.</p>
-
-<p>Originally, I chose Pocket for its IFTTT integration. I had built a number of recipes that acted on the tagging ability of Pocket. But over time I slowly turned these off one by one, mostly due to my move away from tagging articles.</p>
-
-<p>I still would’ve stayed with Pocket if they had simply left the URLs of the articles alone. When I’m finished with an article, I either archive it or share it. But if you share it through Pocket, they insist on shortening the URL with their custom link. The only way around it that I have found is to have <a href="https://workflow.is/">Workflow</a> expand the the link before sharing. When I see links shared by others, I use the top level domain (TLD) of the link as part of my decision about whether or not I want to read it. So I don’t want my own links preventing that ability.</p>
-
-<p>Coupled with the link shortening is the difficulty in sharing quotes from Pocket. It is similarly complicated to do so without the Pocket custom link. Contrast this with Instapaper, where it works perfectly without the need for Workflow actions to expand the link and format the text. Instapaper uses the link you originally saved and gets out of the way.</p>
-
-<p>The reading experience is also far better on Instapaper. They give a lot of options to customize the reading view. And since these are apps designed for reading, I feel this is paramount. The experience in Pocket is not bad, I simply prefer the environment created and allowed by Instapaper.</p>
-
-<p>When I realized I was no longer using IFTTT with Pocket it gave me the freedom to explore other options. And because I have been watching Instapaper for a long time hoping their IFTTT integration would progress, it was the perfect time to switch. I no longer needed Instapaper to adopt a deeper relationship with IFTTT, so I could make the transition with zero compromises.</p>
 ]]>
     </content:encoded>
 </item>

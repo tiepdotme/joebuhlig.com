@@ -4,66 +4,28 @@ layout: default
 {% assign author = site.data.authors[page.author] %}
 <div class="post-wrapper">
 	<article class="post">
+		{% if page.categories contains 'video' %}
+			<div class="embed-container">
+				<iframe id="vimeoplayer" src="//player.vimeo.com/video/{{ page.vimeo_id }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			</div>
+		{% else %}
 		<img class="featured-image" src="{{ page.image }}" />
+		{% endif %}
 		<header class="post-header">
 			<h1 class="post-title">{% if page.external %}<a href="{{ page.external }}">{% endif %}{{ page.title }} {% if page.external %}&rarr;</a>{% endif %}</h1>
 			<p class="post-meta">
-				{{ page.date | date: "%b %-d, %Y" }}{% if author %} • {{ author.name }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} • {{ page.content | reading_time }}{% if page.tags %} • {% for tag in page.tags %}<a href="/tag/{{ tag }}">{{ tag }}</a>{% if forloop.index > 0 and page.tags.size != (forloop.index + 1)%}, {% endif %} {% endfor %}{% endif %}
+				{% include post_meta.html article=page author=author%}
 			</p>
 		</header>
 		<div class="article">
 			{{ content }}
 		</div>
-		{% if page.podcast_link %}
-			<audio controls>
-				<source src="{{ page.podcast_link }}" type="audio/mpeg">
-			</audio>
-			<div class="podcast-details">
-				<p class="post-meta">
-					<a href="{{ page.podcast_link }}">Download</a> • {{ page.podcast_file_size }} • {{ page.podcast_duration }}
-				</p>
-			</div>
+		{% if page.categories contains 'podcast' %}
+			{% include podcast_player.html %}
 		{% endif %}
 		<div class="page-navigation">
-			{% if page.categories contains 'blog' %}
-				{% if page.previous.categories contains 'blog' %}
-					<a class="prev-page" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-				{% elsif page.previous.previous.categories contains 'blog' %}
-					<a class="prev-page" href="{{page.previous.previous.url}}">&laquo; {{page.previous.previous.title}}</a>
-				{% elsif page.previous.previous.previous.categories contains 'blog' %}
-					<a class="prev-page" href="{{page.previous.previous.previous.url}}">&laquo; {{page.previous.previous.previous.title}}</a>
-				{% elsif page.previous.previous.previous.previous.categories contains 'blog' %}
-					<a class="prev-page" href="{{page.previous.previous.previous.previous.url}}">&laquo; {{page.previous.previous.previous.previous.title}}</a>
-				{% endif %}
-				{% if page.next.categories contains 'blog' %}
-					<a class="next-page" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-				{% elsif page.next.next.categories contains 'blog' %}
-					<a class="next-page" href="{{page.next.next.url}}">{{page.next.next.title}} &raquo;</a>
-				{% elsif page.next.next.next.categories contains 'blog' %}
-					<a class="next-page" href="{{page.next.next.next.url}}">{{page.next.next.next.title}} &raquo;</a>
-				{% elsif page.next.next.next.next.categories contains 'blog' %}
-					<a class="next-page" href="{{page.next.next.next.next.url}}">{{page.next.next.next.next.title}} &raquo;</a>
-				{% endif %}
-			{% elsif page.categories contains 'podcast' %}
-				{% if page.previous.categories contains 'podcast' %}
-					<a class="prev-page" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-				{% elsif page.previous.previous.categories contains 'podcast' %}
-					<a class="prev-page" href="{{page.previous.previous.url}}">&laquo; {{page.previous.previous.title}}</a>
-				{% elsif page.previous.previous.previous.categories contains 'podcast' %}
-					<a class="prev-page" href="{{page.previous.previous.previous.url}}">&laquo; {{page.previous.previous.previous.title}}</a>
-				{% elsif page.previous.previous.previous.previous.categories contains 'podcast' %}
-					<a class="prev-page" href="{{page.previous.previous.previous.previous.url}}">&laquo; {{page.previous.previous.previous.previous.title}}</a>
-				{% endif %}
-				{% if page.next.categories contains 'podcast' %}
-					<a class="next-page" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-				{% elsif page.next.next.categories contains 'podcast' %}
-					<a class="next-page" href="{{page.next.next.url}}">{{page.next.next.title}} &raquo;</a>
-				{% elsif page.next.next.next.categories contains 'podcast' %}
-					<a class="next-page" href="{{page.next.next.next.url}}">{{page.next.next.next.title}} &raquo;</a>
-				{% elsif page.next.next.next.next.categories contains 'podcast' %}
-					<a class="next-page" href="{{page.next.next.next.next.url}}">{{page.next.next.next.next.title}} &raquo;</a>
-				{% endif %}
-			{% endif %}
+			<a class="prev-page" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+			<a class="next-page" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
 		</div>
 	</article>
 
