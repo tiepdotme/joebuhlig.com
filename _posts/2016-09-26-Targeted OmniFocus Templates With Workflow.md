@@ -8,7 +8,7 @@ tags:
 permalink: /targeted-omnifocus-templates-with-workflow/
 image: /assets/posts/targeted-omnifocus-templates-with-workflow.jpg
 ---
-I've been impressed by the speed of the Omni Group's release cycles lately. It's obvious they are hard at work on the automation methods for both iOS and MacOS. One of these recent releases introduced the ability to create new projects within a specific folder on iOS.
+I've been impressed by the speed of the Omni Group's release cycles lately. It's obvious they are hard at work on the automation methods for both iOS and macOS. One of these recent releases introduced the ability to create new projects within a specific folder on iOS.
 <!--more-->
 
 It's pretty straight-forward. You use the `/paste` URL as before but replace `target=projects` with `target=/folder/FOLDERNAME`, so you now get something like this:

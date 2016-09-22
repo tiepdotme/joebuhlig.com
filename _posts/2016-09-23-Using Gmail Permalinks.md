@@ -9,7 +9,7 @@ image: /assets/posts/using-gmail-permalinks.jpg
 vimeo_id: 183676451
 video_duration: "6:14"
 ---
-Earlier this week, I [published an article](http://joebuhlig.com/forget-third-party-email-apps/) eluding to my use of Gmail's permalinks. It sparked a number of unexpected questions about how to get them and how I use them on both MacOS and iOS. But rather than write it out, I figured a screencast would help convey the process better.
+Earlier this week, I [published an article](http://joebuhlig.com/forget-third-party-email-apps/) eluding to my use of Gmail's permalinks. It sparked a number of unexpected questions about how to get them and how I use them on both macOS and iOS. But rather than write it out, I figured a screencast would help convey the process better.
 <!--more-->
 
 Here are the Workflows I mentioned in the video:
