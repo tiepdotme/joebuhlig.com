@@ -14,11 +14,53 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 23 Sep 2016 05:25:15 -0500</lastBuildDate>
+<lastBuildDate>Sat, 24 Sep 2016 15:38:52 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Targeted OmniFocus Templates With Workflow]]></title>
+    <link>http://joebuhlig.com/targeted-omnifocus-templates-with-workflow/</link>
+    <pubDate>Mon, 26 Sep 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <category><![CDATA[workflow]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/targeted-omnifocus-templates-with-workflow/</guid>
+    <description>
+        <![CDATA[I’ve been impressed by the speed of the Omni Group’s release cycles lately. It’s obvious they are hard at work on the automation methods for both iOS and macOS. One of these recent releases introduced the ability to create new projects within a specific folder on iOS.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/targeted-omnifocus-templates-with-workflow.jpg" /><p>I’ve been impressed by the speed of the Omni Group’s release cycles lately. It’s obvious they are hard at work on the automation methods for both iOS and macOS. One of these recent releases introduced the ability to create new projects within a specific folder on iOS.
+<!--more--></p>
+
+<p>It’s pretty straight-forward. You use the <code class="highlighter-rouge">/paste</code> URL as before but replace <code class="highlighter-rouge">target=projects</code> with <code class="highlighter-rouge">target=/folder/FOLDERNAME</code>, so you now get something like this:</p>
+
+<p><code class="highlighter-rouge">omnifocus:///paste?target=/folder/Articles&amp;content=TASKPAPERCONTENT</code></p>
+
+<p>This opens a lot of doors, but I prefer to keep things simple by using a single Workflow. This new Workflow takes a text file in DropBox (containing a taskpaper template), replaces any placeholders (using this format: <code class="highlighter-rouge">«PLACEHOLDER»</code>), and places the new project in the folder you choose from the menu.</p>
+
+<p>You can <a href="https://workflow.is/workflows/86f951099b6d40fcacfe7b0e4ab41d65">get this Workflow here</a>.</p>
+
+<p>If you look through the steps, you’ll see an action that looks like this:</p>
+
+<center><img class="post-image-mini" src="http://joebuhlig.com/assets/posts_extra/targeted-omnifocus-templates-with-workflow/workflow-targets.png" /></center>
+
+<p>These are the selectable targets in the Workflow. You’ll want to alter these to fit your structure. Just pay attention to the text and variable assignment under each choice and be sure to copy that format.</p>
+
+<p>In the end, this allows me to pinpoint where I want my templated projects to land within OmniFocus without needing to manually move it after creation.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Forget Third Party Email Apps]]></title>
@@ -885,16 +927,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <guid isPermaLink="true">http://joebuhlig.com/an-open-letter-to-productivity/</guid>
     <description>
-        <![CDATA[My friend,
-
-We’ve come a long way since we met five years ago.
-
-]]>
+        <![CDATA[My friend, We’ve come a long way since we met five years ago. And I cannot thank you enough for the clarity and direction you’ve given me through the multiple transitions and big decisions I have faced in recent years. Without the systems and tricks you’ve taught me, I would...]]>
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/an-open-letter-to-productivity.jpeg" /><p>My friend,</p>
 
-<p>We’ve come a long way since we met five years ago.<!--more--> And I cannot thank you enough for the clarity and direction you’ve given me through the multiple transitions and big decisions I have faced in recent years. Without the systems and tricks you’ve taught me, I would accomplish much less and fall short of numerous goals. For that, I am grateful.</p>
+<p>We’ve come a long way since we met five years ago. And I cannot thank you enough for the clarity and direction you’ve given me through the multiple transitions and big decisions I have faced in recent years. Without the systems and tricks you’ve taught me, I would accomplish much less and fall short of numerous goals. For that, I am grateful.
+<!--more--></p>
 
 <p>I know I don’t always stick to the structure you’ve helped me build, but you’re always there when I realize I’ve stepped away. I know that if I trust the guidelines and follow them, my days are efficient and invigorating; and that makes me want to keep going and do more. It reveals my ability to do something great.</p>
 

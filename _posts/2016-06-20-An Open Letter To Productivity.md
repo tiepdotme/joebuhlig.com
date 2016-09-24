@@ -9,7 +9,8 @@ image: /assets/posts/an-open-letter-to-productivity.jpeg
 ---
 My friend,
 
-We've come a long way since we met five years ago.<!--more--> And I cannot thank you enough for the clarity and direction you've given me through the multiple transitions and big decisions I have faced in recent years. Without the systems and tricks you've taught me, I would accomplish much less and fall short of numerous goals. For that, I am grateful.
+We've come a long way since we met five years ago. And I cannot thank you enough for the clarity and direction you've given me through the multiple transitions and big decisions I have faced in recent years. Without the systems and tricks you've taught me, I would accomplish much less and fall short of numerous goals. For that, I am grateful.
+<!--more-->
 
 I know I don't always stick to the structure you've helped me build, but you're always there when I realize I've stepped away. I know that if I trust the guidelines and follow them, my days are efficient and invigorating; and that makes me want to keep going and do more. It reveals my ability to do something great.
 
