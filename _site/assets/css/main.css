@@ -393,7 +393,6 @@ table {
  */
 .page-content {
   -webkit-transform: translate3d(0, 0, 0);
-  background-color: #FFFFFF;
   margin-top: 57px;
   padding: 0px;
   position: relative;
@@ -492,7 +491,8 @@ table {
   .feed-pic a {
     display: block; }
   .feed-pic img {
-    max-height: 150px; }
+    max-height: 150px;
+    box-shadow: 0 0px 10px 2px rgba(0, 0, 0, 0.25); }
 
 .feed-content-wrapper {
   max-width: 600px;
@@ -641,6 +641,20 @@ table {
     max-width: 100%; } }
 .post-header {
   margin-bottom: 30px; }
+  .post-header .meta-item {
+    font-size: 14px;
+    color: #828282;
+    display: inline-block;
+    margin-right: 10px; }
+
+.post-icon {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  vertical-align: bottom;
+  margin-right: 10px; }
+  .post-icon .bookworm path {
+    fill: #232b36; }
 
 .post-title {
   margin-top: 30px;
@@ -904,6 +918,22 @@ table {
     padding: 0px 5px; }
   #carbonads .carbon-poweredby {
     display: block; }
+
+/**
+ * Dark Theme
+*/
+html.dark body {
+  background-color: #333333;
+  color: #eeeeee; }
+html.dark .sidebar-segment {
+  background-color: #555555; }
+html.dark .sidebar h2 {
+  color: #eeeeee;
+  border-bottom: 1px solid #eeeeee; }
+html.dark #carbonads .carbon-text {
+  color: #eeeeee; }
+html.dark .bookworm path {
+  fill: #97B9CC; }
 
 /**
  * Syntax highlighting styles
