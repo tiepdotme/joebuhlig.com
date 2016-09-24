@@ -1,5 +1,5 @@
 ---
-title:  "Using Gmail Permalinks"
+title:  "Using Gmail Permalinks [Video]"
 date:   2016-09-23
 categories: video
 tags:

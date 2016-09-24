@@ -1,5 +1,18 @@
 {
 	"clean_search" : [
+		{	"title":"Using Gmail Permalinks [Video]",
+			"image":"/assets/posts/using-gmail-permalinks.jpg",
+			"permalink":"/using-gmail-permalinks/",
+			"categories": [
+				"video"
+			],
+			"tags": [
+				"email"
+			],
+			"excerpt": "<p>Earlier this week, I <a href=\"http://joebuhlig.com/forget-third-party-email-apps/\">published an article</a> eluding to my use of Gmail’s permalinks. It sparked a number of unexpected questions about how to get them and how I use them on both macOS and iOS. But rather than write it out, I figured a screencast would help convey the process better.</p>\n\n",
+			"content": "Earlier%20this%20week,%20I%20published%20an%20article%20eluding%20to%20my%20use%20of%20Gmail%E2%80%99s%20permalinks.%20It%20sparked%20a%20number%20of%20unexpected%20questions%20about%20how%20to%20get%20them%20and%20how%20I%20use%20them%20on%20both%20macOS%20and%20iOS.%20But%20rather%20than%20write%20it%20out,%20I%20figured%20a%20screencast%20would%20help%20convey%20the%20process%20better.%0A%0A%0AHere%20are%20the%20Workflows%20I%20mentioned%20in%20the%20video:%0A%0AOpen%20Gmail%20Permalink%20on%20iOS%20-%20Workflow%0A%0AMy%20Altered%20Workflow%0A"
+		},
+	
 		{	"title":"Forget Third Party Email Apps",
 			"image":"/assets/posts/forget-third-party-email-apps.jpeg",
 			"permalink":"/forget-third-party-email-apps/",
