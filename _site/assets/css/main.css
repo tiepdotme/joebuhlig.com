@@ -212,7 +212,11 @@ table {
   width: 100%;
   border-bottom: #ccc 1px dotted;
   margin-bottom: 25px;
-  height: 260px; }
+  height: 260px;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease; }
   .site-nav .mobile-toggle {
     display: none; }
   .site-nav .page-link {
@@ -337,6 +341,17 @@ table {
 
   .header-icon svg, .header-name svg {
     height: 30px; } }
+.menu-toggled.site-nav {
+  height: 300px; }
+  .menu-toggled.site-nav .left-nav, .menu-toggled.site-nav .right-nav {
+    display: initial;
+    position: absolute;
+    top: 30px; }
+  .menu-toggled.site-nav .left-nav {
+    left: 0px; }
+  .menu-toggled.site-nav .right-nav {
+    right: 0px; }
+
 /**
  * Site footer
  */

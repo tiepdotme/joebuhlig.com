@@ -28,6 +28,10 @@ $(document).ready(function(){
         var imageTrigger = windowHeight + windowScrollPosition;
     	displayImages(imageTrigger);
 	});
+	$(".menu-icon").click(function(e){
+		e.preventDefault();
+		$(".site-nav").toggleClass("menu-toggled");
+	})
 	$(".theme-toggle").click(function(e){
 		e.preventDefault();
 		$('html').toggleClass("dark");
