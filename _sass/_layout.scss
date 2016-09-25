@@ -28,10 +28,18 @@
 }
 
 .site-nav {
-    max-width: 1030px;
+    max-width: 1200px;
     padding:0px;
     text-align: center;
     width: 100%;
+    border-bottom: #ccc 1px dotted;
+    margin-bottom: 25px;
+    height: 260px;
+
+    .mobile-toggle{
+        display: none;
+    }
+
     .page-link {
         color: $brand-color;
         font-size: 18px;
@@ -55,17 +63,24 @@
     }
 
     .menu-icon {
-        width: 36px;
-        height: 42px;
         line-height: $site-links-height;
         text-align: center;
         margin-left: 10px;
+        position: absolute;
+        left: 0px;
+        top: 15px;
 
         > svg {
             width: 22px;
             height: 22px;
             vertical-align: middle;
         }
+    }
+
+    .theme-toggle.mobile-toggle {
+        position: absolute;
+        right: 10px;
+        top: 25px;
     }
 
     #search-icon:hover{
@@ -150,7 +165,49 @@
     text-decoration: none;
 }
 
+@media only screen and (max-width: 650px){
+    .site-nav{
+        height: 80px;
 
+        .mobile-toggle{
+            display: initial;
+        }
+    }
+    #header-image{
+        top: 16px;
+    }
+    .left-nav {
+        float:none;
+        display:none;
+    }
+    .right-nav{
+        float:none;
+        display:none;
+    }
+    .mobile-toggle{
+        display: initial;
+    }
+}
+
+@media only screen and (max-width: 650px){
+    .site-nav{
+        height: 50px;
+
+        .menu-icon{
+            top: 0px;
+        }
+        .mobile-toggle.theme-toggle{
+            top: 10px;
+        }
+    }
+    #header-image{
+        top: 10px;
+        left: calc(50% - 98px);
+    }
+    .header-icon svg, .header-name svg{
+        height: 30px;
+    }
+}
 
 /**
  * Site footer
@@ -355,14 +412,14 @@
 
 .feed-item {
     margin: 8px auto;
-    padding: 20px 10px;
+    padding: 20px 0px;
     text-align: left;
     vertical-align: top;
-    max-width: 1030px;
-    border-top: #ccc 1px dotted;
+    max-width: 900px;
+    border-bottom: #ccc 1px dotted;
     overflow: hidden;
     display: table;
-    width: calc(100% - 20px);
+    width: 100%;
 }
 
 .feed-item.ad {
@@ -393,7 +450,7 @@
 }
 
 .feed-content-wrapper{
-    max-width: 600px;
+    max-width: 795px;
     vertical-align: top;
     padding: 0px 10px;
 }
@@ -405,7 +462,6 @@
     float: left;
 }
 .feed-content {
-    max-width: 575px;
     margin: 0px 0px 0px 25px;
 }
 .feed-title{
@@ -480,11 +536,6 @@
     }
 }
 @media only screen and (max-width: 600px){
-    .feed-pic{
-        width: 150px;
-    }
-}
-@media only screen and (max-width: 500px){
     .feed-pic{
         display: none;
     }
@@ -907,6 +958,9 @@ html.dark{
     body {
         background-color: #333333;
         color: #eeeeee;
+    }
+    code {
+        color: #333333;
     }
 
     .header-name svg{
