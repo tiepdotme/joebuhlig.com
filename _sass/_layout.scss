@@ -27,40 +27,11 @@
     }
 }
 
-.site-nav-outer{
-    background-color: #FFFFFF;
-    height: $site-links-height;
-    max-width: 100%;
-    padding:0px;
-    position:fixed;
-    text-align: center;
-    top: 0px;
-    width: 100%;
-    z-index: 1000;
-}
-
-.site-nav-outer.scrolled {
-    border-bottom: 1px solid #CCCCCC;
-    box-shadow: 0 0px 3px rgba(0,0,0,0.25);
-}
-
-.site-nav-inner{
-    height: $site-links-height;
-    margin: 0 auto;
-    max-width: $content-width;
-
-    @include media-query($content-width) {
-        padding: 0px 10px;
-    }
-}
-
 .site-nav {
-    line-height: $site-links-height;
-    text-align: right;
-    position: absolute;
-    right: 20px;
-    width: auto;
-
+    max-width: 1030px;
+    padding:0px;
+    text-align: center;
+    width: 100%;
     .page-link {
         color: $brand-color;
         font-size: 18px;
@@ -125,6 +96,33 @@
     }
 }
 
+.left-nav {
+    float: left;
+    width: 150px;
+    margin: 20px 0px;
+    text-align: left;
+}
+.right-nav {
+    float: right;
+    width: 250px;
+    margin: 20px 0px;
+    text-align: right;
+}
+.header-icon, .header-name{
+    display: inline-block;
+
+    svg {
+        height: 50px;
+    }
+}
+.header-icon svg {
+    fill: #666666;
+}
+
+.header-name svg{
+    fill: #743517;
+}
+
 .social-media-list {
     line-height: $site-links-height;
     padding: 0px 10px;
@@ -139,16 +137,13 @@
 }
 
 #header-image{
-    left: 20px;
     position: absolute;
-    height: calc(100% - 10px);
-    top: 5px;
+    top: 88px;
+    left: calc(50% - 162px);
+
     img{
         height: 100%;
         vertical-align: initial;
-    }
-    svg{
-        height: 100%;
     }
 }
 #header-image:hover{
@@ -270,7 +265,6 @@
  */
 .page-content {
     -webkit-transform: translate3d(0,0,0);
-    margin-top: $site-links-height + 10px;
     padding: 0px;
     position: relative;
     z-index: 100;
@@ -386,7 +380,7 @@
     text-align: center;
     width: 250px;
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: top;
 
     a {
         display: block;
@@ -432,7 +426,7 @@
     padding: 0px 10px 0px 10px;
     display: table-cell;
     width: 115px;
-    vertical-align: middle;
+    vertical-align: top;
 }
 
 .feed-meta-mobile{
@@ -915,6 +909,9 @@ html.dark{
         color: #eeeeee;
     }
 
+    .header-name svg{
+        fill: #eeeeee;
+    }
     .sidebar-segment{
         background-color: #555555;
     }
@@ -929,5 +926,9 @@ html.dark{
 
     .bookworm path{
         fill: #97B9CC;
+    }
+
+    .meta-tag, a.meta-tag:visited, a.meta-tag:hover {
+        color: #333333;
     }
 }
