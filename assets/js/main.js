@@ -2,6 +2,11 @@ if (getCookie("theme") == "light"){
 	$('html').removeClass("dark");
 }
 
+var nextFeedPost = 20;
+var postList;
+var triggered = false;
+var jsonRetrieved = false;
+
 $(document).ready(function(){
 	var topOfContent = $(".page-content").offset().top;
 	var windowHeight = $(window).height();
@@ -16,10 +21,32 @@ $(document).ready(function(){
 	$('.post img').not('.featured-image').click(function(event){
 		window.location.href = $(this).attr("src");
 	})
-
+	
 	$(window).scroll(function() {
-        var windowScrollPosition = $(window).scrollTop();
-        var imageTrigger = windowHeight + windowScrollPosition;
+        var imageTrigger = windowHeight + $(window).scrollTop();
+
+        var postListTrigger = $(window).scrollTop() + windowHeight;
+        var postListTrigger = $(document).height() - 1000;
+        if (!triggered && (imageTrigger > postListTrigger) && $("#home").length){
+	  		triggered = true;
+        	if(!jsonRetrieved){
+				jsonRetrieved = true;
+	        	var request = $.ajax({
+	        		method: "GET",
+	        		url: '/post-list'
+	        	});
+	        	request.success(function (data) {
+					postList = $('.feed-item', '<div>' + data + '</div>');
+					appendFeedContent();
+				});
+				request.fail(function(data){
+					console.log("Failed to retrieve more posts.");
+				})
+			}
+			else{
+				appendFeedContent();
+			}
+        }
     	displayImages(imageTrigger);
 	});
 	$(".menu-icon").click(function(e){
@@ -38,6 +65,11 @@ $(document).ready(function(){
 	})
 });
 
+function appendFeedContent(){
+	$('.posts').append(postList[nextFeedPost]);
+	nextFeedPost++;
+	triggered = false;
+}
 function displayImages(loc){
 	var imgs = $(".feed-pic .hidden");
 	for (var i = 0; i<imgs.length; i++){
