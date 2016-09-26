@@ -200,6 +200,11 @@
     <a class="page-link" href="https://workingwithomnifocus.com">OmniFocus</a>
     <a class="page-link" href="https://workingwithideas.co">Ideas</a>
     <a class="page-link" href="http://now.joebuhlig.com">Now</a>
+    <div class="form-wrapper search-form">
+      <form action="/search" method="get">
+        <input type="text" class="search-box" placeholder="Search" name="q">
+      </form>
+    </div>
     <a href="#" id="search-icon">
       <span class="icon  icon--search">
         <svg viewBox="0 0 250.313 250.313">
@@ -224,11 +229,12 @@
     <div class="page-content">
       <div class="wrapper content-wrapper">
         <h1></h1>
-<form action="/search" method="get">
-	<label for="search-box">Search</label>
-	<input type="text" id="search-box" name="q">
-	<input type="submit" value="search">
-</form>
+<div class="form-wrapper search-form">
+  <form action="/search" method="get">
+  	<input type="text" class="search-box" name="q">
+  	<input type="submit" value="Search">
+  </form>
+</div>
 <div class="posts">
 	<div id="search-results"></div>
 	<textarea id="temp-results" style="display:none;"></textarea>

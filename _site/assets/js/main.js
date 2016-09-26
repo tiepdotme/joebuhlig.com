@@ -17,6 +17,7 @@ $(document).ready(function(){
 	});
 	$('.page-content').click(function(event){
 		$('.trigger').removeClass('active');
+		$(".right-nav .search-form").slideUp(300, function(){$("#search-icon").fadeIn(100)});
 	})
 	$('.post img').not('.featured-image').click(function(event){
 		window.location.href = $(this).attr("src");
@@ -52,15 +53,20 @@ $(document).ready(function(){
 	$(".menu-icon").click(function(e){
 		e.preventDefault();
 		$(".site-nav").toggleClass("menu-toggled");
-	})
+	});
+	$("#search-icon").click(function(e){
+		e.preventDefault();
+		$(this).fadeOut(100);
+		$(".right-nav .search-form").slideDown(300);
+	});
 	$(".theme-toggle").click(function(e){
 		e.preventDefault();
 		$('html').toggleClass("dark");
 		if ($('html').hasClass("dark")){
-			document.cookie = "theme=dark";
+			document.cookie = "theme=dark;path=/";
 		}
 		else {
-			document.cookie = "theme=light";
+			document.cookie = "theme=light;path=/";
 		}
 	})
 });

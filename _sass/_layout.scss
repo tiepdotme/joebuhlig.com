@@ -764,7 +764,31 @@
     line-height: 47px;
     padding: 0px 10px;
 }
+.form-wrapper.search-form input, .form-wrapper.search-form input[type="submit"] {
+    font-size: 16px;
+    display: initial;
+    width: initial;
+    margin: 0px 5px;
+}
+.form-wrapper.search-form input[type="text"]{
+    width: 250px;
+}
 
+.form-wrapper.search-form input[type="submit"]{
+    padding: 5px 10px;
+}
+
+.right-nav .search-form{
+    display: none;
+    line-height: 47px;
+    padding: 0px 5px;
+    width: 240px;
+    margin: initial;
+
+    input[type="text"]{
+        width: 200px;
+    }
+}
 /**
  * Patron
 */
@@ -799,7 +823,7 @@
 /**
  * Guest Posting
 */
-#guest-form-wrapper{
+#guest-form-wrapper, .form-wrapper{
     max-width: 500px;
     width: 100%;
     margin: 0px auto;
