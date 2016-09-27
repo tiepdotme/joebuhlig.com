@@ -1,5 +1,19 @@
 {
 	"clean_search" : [
+		{	"title":"Targeted OmniFocus Templates With Workflow",
+			"image":"/assets/posts/targeted-omnifocus-templates-with-workflow.jpg",
+			"permalink":"/targeted-omnifocus-templates-with-workflow/",
+			"categories": [
+				"blog"
+			],
+			"tags": [
+				"omnifocus",
+				"workflow"
+			],
+			"excerpt": "<p>I’ve been impressed by the speed of the Omni Group’s release cycles lately. It’s obvious they are hard at work on the automation methods for both iOS and macOS. One of these recent releases introduced the ability to create new projects within a specific folder on iOS.</p>\n\n",
+			"content": "I%E2%80%99ve%20been%20impressed%20by%20the%20speed%20of%20the%20Omni%20Group%E2%80%99s%20release%20cycles%20lately.%20It%E2%80%99s%20obvious%20they%20are%20hard%20at%20work%20on%20the%20automation%20methods%20for%20both%20iOS%20and%20macOS.%20One%20of%20these%20recent%20releases%20introduced%20the%20ability%20to%20create%20new%20projects%20within%20a%20specific%20folder%20on%20iOS.%0A%0A%0AIt%E2%80%99s%20pretty%20straight-forward.%20You%20use%20the%20/paste%20URL%20as%20before%20but%20replace%20target=projects%20with%20target=/folder/FOLDERNAME,%20so%20you%20now%20get%20something%20like%20this:%0A%0Aomnifocus:///paste?target=/folder/Articles&amp;content=TASKPAPERCONTENT%0A%0AThis%20opens%20a%20lot%20of%20doors,%20but%20I%20prefer%20to%20keep%20things%20simple%20by%20using%20a%20single%20Workflow.%20This%20new%20Workflow%20takes%20a%20text%20file%20in%20DropBox%20(containing%20a%20taskpaper%20template),%20replaces%20any%20placeholders%20(using%20this%20format:%20%C2%ABPLACEHOLDER%C2%BB),%20and%20places%20the%20new%20project%20in%20the%20folder%20you%20choose%20from%20the%20menu.%0A%0AYou%20can%20get%20this%20Workflow%20here.%0A%0AIf%20you%20look%20through%20the%20steps,%20you%E2%80%99ll%20see%20an%20action%20that%20looks%20like%20this:%0A%0A%0A%0AThese%20are%20the%20selectable%20targets%20in%20the%20Workflow.%20You%E2%80%99ll%20want%20to%20alter%20these%20to%20fit%20your%20structure.%20Just%20pay%20attention%20to%20the%20text%20and%20variable%20assignment%20under%20each%20choice%20and%20be%20sure%20to%20copy%20that%20format.%0A%0AIn%20the%20end,%20this%20allows%20me%20to%20pinpoint%20where%20I%20want%20my%20templated%20projects%20to%20land%20within%20OmniFocus%20without%20needing%20to%20manually%20move%20it%20after%20creation.%0A"
+		},
+	
 		{	"title":"Using Gmail Permalinks [Video]",
 			"image":"/assets/posts/using-gmail-permalinks.jpg",
 			"permalink":"/using-gmail-permalinks/",

@@ -8,12 +8,12 @@
 <meta name="bitly-verification" content="ac0f04117b06">
 <meta name="p:domain_verify" content="92caa79b9e843a42436dface55a7595f">
 <!-- Page info -->
-<title>Choosing OmniFocus Settings</title>
-<meta name="description" content="No application setup is complete without tweaking the settings to your liking. This is the power (and struggle) of OmniFocus. Some of the available options m...">
+<title>Targeted OmniFocus Templates With Workflow</title>
+<meta name="description" content="I’ve been impressed by the speed of the Omni Group’s release cycles lately. It’s obvious they are hard at work on the automation methods for both iOS and mac...">
 <!-- Stylesheets -->
 <link rel="stylesheet" href="/assets/css/main.css">
 <!-- Feeds -->
-<link rel="canonical" href="http://joebuhlig.com/choosing-omnifocus-settings/">
+<link rel="canonical" href="http://joebuhlig.com/targeted-omnifocus-templates-with-workflow/">
 <link rel="alternate" type="application/rss+xml" title="Joe Buhlig | leverage the digital and welcome real life" href="http://joebuhlig.com/feed" />
 <link rel="alternate" type="application/rss+xml" title="Joe Buhlig | leverage the digital and welcome real life - Articles Only" href="http://joebuhlig.com/feed/articles" />
 <link rel="alternate" type="application/rss+xml" title="Joe Buhlig | leverage the digital and welcome real life - Podcast Only" href="http://joebuhlig.com/feed/podcast" />
@@ -37,23 +37,23 @@
 <!-- Open Graph tags -->
 <meta content="Joe Buhlig | leverage the digital and welcome real life" property="og:site_name">
 <meta property="og:locale" content="en_US" />
-<meta content="Choosing OmniFocus Settings" property="og:title">
+<meta content="Targeted OmniFocus Templates With Workflow" property="og:title">
 <meta content="article" property="og:type">
-<meta content="No application setup is complete without tweaking the settings to your liking. This is the power (and struggle) of OmniFocus. Some of the available options m..." property="og:description">
-<meta content="http://joebuhlig.com/choosing-omnifocus-settings/" property="og:url">
-<meta content="2016-03-28T00:00:00-05:00" property="article:published_time">
+<meta content="I’ve been impressed by the speed of the Omni Group’s release cycles lately. It’s obvious they are hard at work on the automation methods for both iOS and mac..." property="og:description">
+<meta content="http://joebuhlig.com/targeted-omnifocus-templates-with-workflow/" property="og:url">
+<meta content="2016-09-26T00:00:00-05:00" property="article:published_time">
 <meta content="http://joebuhlig.com/about/" property="article:author">
-<meta content="http://joebuhlig.com/assets/posts/Choosing-OmniFocus-Settings.jpg" property="og:image">
+<meta content="http://joebuhlig.com/assets/posts/targeted-omnifocus-templates-with-workflow.jpg" property="og:image">
 <meta content="blog" property="article:section">
-<meta content="omnifocus" property="article:tag">
+<meta content="omnifocus" property="article:tag"><meta content="workflow" property="article:tag">
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@joebuhlig">
 <meta name="twitter:creator" content="@joebuhlig">
-<meta name="twitter:title" content="Choosing OmniFocus Settings">
-<meta name="twitter:url" content="http://joebuhlig.com/choosing-omnifocus-settings/">
-<meta name="twitter:description" content="No application setup is complete without tweaking the settings to your liking. This is the power (and struggle) of OmniFocus. Some of the available options m...">
-<meta name="twitter:image:src" content="http://joebuhlig.com/assets/posts/Choosing-OmniFocus-Settings.jpg">
+<meta name="twitter:title" content="Targeted OmniFocus Templates With Workflow">
+<meta name="twitter:url" content="http://joebuhlig.com/targeted-omnifocus-templates-with-workflow/">
+<meta name="twitter:description" content="I’ve been impressed by the speed of the Omni Group’s release cycles lately. It’s obvious they are hard at work on the automation methods for both iOS and mac...">
+<meta name="twitter:image:src" content="http://joebuhlig.com/assets/posts/targeted-omnifocus-templates-with-workflow.jpg">
 <!-- Javascript -->
 <script src="/assets/js/jquery-1.11.3.min.js"></script>
 <script src="/assets/js/main.js"></script>
@@ -211,89 +211,41 @@
 <div class="post-wrapper">
 	<article class="post">
 		
-		<img class="featured-image" src="/assets/posts/Choosing-OmniFocus-Settings.jpg" />
+		<img class="featured-image" src="/assets/posts/targeted-omnifocus-templates-with-workflow.jpg" />
 		
 		<header class="post-header">
-			<h1 class="post-title">Choosing OmniFocus Settings </h1>
+			<h1 class="post-title">Targeted OmniFocus Templates With Workflow </h1>
 			<p class="post-meta">
 				
-Mar 28, 2016 • Joe Buhlig • ~6  mins • <a href="/tag/omnifocus">omnifocus</a> 
+Sep 26, 2016 • Joe Buhlig • ~1  min • <a href="/tag/omnifocus">omnifocus</a>,  <a href="/tag/workflow">workflow</a> 
 
 			</p>
 		</header>
 		<div class="article">
-			<p>No application setup is complete without tweaking the settings to your liking. This is the power (and struggle) of OmniFocus. Some of the available options make drastic changes while others lead to subtleties you may not notice.
+			<p>I’ve been impressed by the speed of the Omni Group’s release cycles lately. It’s obvious they are hard at work on the automation methods for both iOS and macOS. One of these recent releases introduced the ability to create new projects within a specific folder on iOS.
 <!--more--></p>
 
-<p>I use the Mac version of OmniFocus as the “home base” of my setup. I make most of my changes there and let them sync to iOS. There are a few settings specific to mobile, but the majority of the following options will be dedicated to OmniFocus 2 for Mac.</p>
+<p>It’s pretty straight-forward. You use the <code class="highlighter-rouge">/paste</code> URL as before but replace <code class="highlighter-rouge">target=projects</code> with <code class="highlighter-rouge">target=/folder/FOLDERNAME</code>, so you now get something like this:</p>
 
-<h2 id="general">General</h2>
+<p><code class="highlighter-rouge">omnifocus:///paste?target=/folder/Articles&amp;content=TASKPAPERCONTENT</code></p>
 
-<p><img class="center-image post-image-small" src="/assets/posts_extra/choosing_omnifocus_settings/General_Preferences.jpg" /></p>
+<p>This opens a lot of doors, but I prefer to keep things simple by using a single Workflow. This new Workflow takes a text file in DropBox (containing a taskpaper template), replaces any placeholders (using this format: <code class="highlighter-rouge">«PLACEHOLDER»</code>), and places the new project in the folder you choose from the menu.</p>
 
-<p>One of the most powerful advantages of high resolution screens is the ability to condense information and see the full context of the current task. The more you can see at once the easier it is to understand what’s going on. That’s one thing I love about being able to adjust the text size in OmniFocus. Try to make it as small as possible while still being able to read it. If you can see every task assigned to a project when you’re reviewing it, you can make a clearer decision about it.</p>
+<p>You can <a href="https://workflow.is/workflows/86f951099b6d40fcacfe7b0e4ab41d65">get this Workflow here</a>.</p>
 
-<p>It can be painful when vital keyboard shortcuts change on you. Muscle memory is not overcome without a number of frustrating mistakes. There were a number of simple keystrokes in OmniFocus 1 ingrained in my fingers that were changed in OmniFocus 2. You can revert to the old way by using the <em>Classic Mode</em> for outlining, but when applications make changes on this scale, it’s typically for a good reason and I try to bite the bullet and change with them. It’s always possible that the old way will be dropped entirely in the future. To save myself trouble later on, I use the <em>Modern Mode</em> for outlining. And to be honest, after switching it does make a lot of sense.</p>
+<p>If you look through the steps, you’ll see an action that looks like this:</p>
 
-<p>The <em>Quick Entry Shortcut</em> and the <em>Clippings Shortcut</em> are both settings you should tweak to your liking. I use a combination of the Spacebar and other modifier keys to invoke most blank capture and search mechanisms. So in my case I use Control + Option + Space to pull up the <em>Quick Entry Dialog</em>. If I’m capturing selected text or existing data, I use Command + Shift and a letter to indicate the program I want the data to land in. In this case, I use Command + Shift + O for the <em>Clippings Shortcut</em>.</p>
+<center><img class="post-image-mini" src="http://joebuhlig.com/assets/posts_extra/targeted-omnifocus-templates-with-workflow/workflow-targets.png" /></center>
 
-<h2 id="organization">Organization</h2>
+<p>These are the selectable targets in the Workflow. You’ll want to alter these to fit your structure. Just pay attention to the text and variable assignment under each choice and be sure to copy that format.</p>
 
-<p><img class="center-image post-image-small" src="/assets/posts_extra/choosing_omnifocus_settings/Organization_Preferences.jpg" /></p>
-
-<p>I highly recommend cleaning up items only when they have both a Project and a Context. This means new tasks only leave your inbox when they have both of these assigned; any other scenario leaves the task at risk of not being clearly defined. Even if there needs to be a placeholder context or project, it’s still better than making a partial decision about the task. Let this setting push you to be as clear as you can.</p>
-
-<p>You have an option for doing this cleanup process automatically (as soon as the criteria is met) or when you change views or perspectives. I’ve found that it really depends on how you like to work with tasks. If you like to see completed tasks sitting there with a checkmark, set this to <em>When changing views</em>. But if you’re like me and you want your list to shrink as you check things off, set it to <em>Immediately</em>.</p>
-
-<p>Do you have a tendency to create new projects already thought out with a series of tasks that must be completed in a set order? Or do you tend to add tasks as you think of them and most of your projects don’t follow a set pattern? In the case of the former, you will likely want all your new projects to start off as sequential. I fall into the latter category and prefer them to start as parallel. That allows me to keep adding tasks to the project and have them show up on my context lists immediately.</p>
-
-<p>The last option here is for showing the projects and groups in your context lists. This is mostly preference. If you have a task group assigned to @Computer, that group will show up in your Computer context list. Personally, I feel that this adds clutter to my list, so I leave this unchecked.</p>
-
-<h2 id="layout">Layout</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/choosing_omnifocus_settings/Layout_Preferences.jpg" /></p>
-
-<p>Remember what I said about data density? I think there’s a lot of value in condensed formats. Seeing as much information as I can at one time helps me understand the situation better. So I prefer to use the <em>Custom Columns</em>  or <em>Fluid</em> layouts. You can see the exact columns I’m using in the screenshot. Those specific columns help me make the best decision on the next task to work on.</p>
-
-<h2 id="dates--times">Dates &amp; Times</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/choosing_omnifocus_settings/Date_Time_Preferences.jpg" /></p>
-
-<p>When do you want tasks to be marked as “Due Soon?” When you mark a task with a due date, when does that task show a yellow indicator? This really depends on how quickly your tasks come and go and how long it takes to complete them. In my case those combined criteria lead me to a five day lead time. I want an indicator when something is due in five days or less.</p>
-
-<p>The next three settings are about default times. You’ll want to set these in a way that makes sense based on your daily schedule. When I defer a task I want it to show up the morning of the date I set, so I use midnight as the default defer time. I typically go to bed around 9pm, so I make sure tasks are completed by then if they are due. Finally, I want to make sure every project is reviewed weekly. In rare cases, I’ll adjust a project to go further out but the vast majority of my projects need a weekly look.</p>
-
-<h2 id="notifications">Notifications</h2>
-
-<p>In 99% of cases, I turn off notifications from apps on my devices. There are very few alerts important enough to warrant a change in direction, but OmniFocus is an exception. If OmniFocus notifies me, I need to know about it. It is an indicator that I missed something and it needs to be dealt with immediately. I can’t afford to let those slide.</p>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/choosing_omnifocus_settings/Notification_Preferences.jpg" /></p>
-
-<p>To help with getting my attention, OmniFocus has the ability to use “soft” alerts. These are the dock icon badge and perspective highlights. I use both to indicate when I have tasks that are due soon or flagged. I rely on my phone for these because I prefer a single place for alerts and since my phone is always with me, it makes sense as the central hub.</p>
-
-<p>When I do get alerts, I want them to be important. I avoid due dates on my tasks as much as I can so when I see a badge icon or get a notification, it has some weight behind it. To maintain that importance, I limit alerts to tasks that are due in some way.</p>
-
-<p>I don’t use it on my Mac nearly as much as my phone, but I really like having my Dashboard (flagged and due tasks) in my Today view. It’s nice to see this list with a single swipe.</p>
-
-<p>I’ve never been a big fan of putting my tasks on the calendar. That may work for you, but I’ve never found a way to do that without creating my nemesis: clutter.</p>
-
-<h2 id="synchronization">Synchronization</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/choosing_omnifocus_settings/Synchronization_Preferences.jpg" /></p>
-
-<p>You can get fancy with how you sync your data but I prefer to trust the Omni Group. They know their data better than I do, so I stick with their service to move the data around.</p>
-
-<h2 id="update">Update</h2>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/choosing_omnifocus_settings/Update_Preferences.jpg" /></p>
-
-<p>It’s good to get new features and bug fixes, so I enable checking for daily updates. I know that some folks prefer not to send information back to companies, and in some cases I might do the same. But the Omni Group has gained my trust and I want to help them continue to build a quality product. So in this case, I opt to send them anonymous data.</p>
+<p>In the end, this allows me to pinpoint where I want my templated projects to land within OmniFocus without needing to manually move it after creation.</p>
 
 		</div>
 		
 		<div class="page-navigation">
-			<a class="prev-page" href="/a-record-of-completed-tasks/">&laquo; A Record of Completed Tasks</a>
-			<a class="next-page" href="/30/">30: Decision Analysis Paralysis &raquo;</a>
+			<a class="prev-page" href="/using-gmail-permalinks/">&laquo; Using Gmail Permalinks [Video]</a>
+			<a class="next-page" href=""> &raquo;</a>
 		</div>
 	</article>
 
@@ -338,12 +290,6 @@ Mar 28, 2016 • Joe Buhlig • ~6  mins • <a href="/tag/omnifocus">omnifocus<
 	<div class="sidebar-segment related-posts">
 		<h2>Related Articles</h2>
       		<div class="related-post clear">
-      			<a href="/targeted-omnifocus-templates-with-workflow/"><h3>Targeted OmniFocus Templates With Workflow</h3></a>
-      			<p><p>I’ve been impressed by the speed of the Omni Group’s release cycles lately. It’s obvious they are hard at work on the automation methods for both iOS and macOS. One of these recent releases introduced the ability to create new projects within a specific folder on iOS.</p>
-
-</p>
-      		</div>
-      		<div class="related-post clear">
       			<a href="/introducing-the-new-working-with-omnifocus/"><h3>Introducing The New Working With OmniFocus</h3></a>
       			<p><p>Working With OmniFocus has been recreated in video format!  It’s now available on the new dedicated website: <a href="https://workingwithomnifocus.com">workingwithomnifocus.com</a>.</p>
 
@@ -352,6 +298,12 @@ Mar 28, 2016 • Joe Buhlig • ~6  mins • <a href="/tag/omnifocus">omnifocus<
       		<div class="related-post clear">
       			<a href="/moving-omnifocus-scripts-to-ios/"><h3>Moving OmniFocus Scripts To iOS</h3></a>
       			<p><p>I have been hesitant to adopt the <a href="https://discourse.omnigroup.com/t/implementation-details-for-omnifocus-2-14-automation/24179?u=joebuhlig">new automation methods in OmniFocus</a> for iOS. The abilities of the new URL Scheme are exciting but there’s still quite a bit missing from the structure as it stands.</p>
+
+</p>
+      		</div>
+      		<div class="related-post clear">
+      			<a href="/updates-for-working-with-omnifocus/"><h3>Updates For Working With OmniFocus</h3></a>
+      			<p><p>It’s been about nine months since I released <em>Working With OmniFocus</em>. A lot has happened in that time and my systems around OmniFocus have morphed quite a bit. Throw in a pile of learning accrued from other projects and I have decided to make some significant changes to the book.</p>
 
 </p>
       		</div>
@@ -380,7 +332,7 @@ Mar 28, 2016 • Joe Buhlig • ~6  mins • <a href="/tag/omnifocus">omnifocus<
 	<div id='discourse-comments'></div>
 	<script type="text/javascript">
 	  DiscourseEmbed = { discourseUrl: 'http://discussion.joebuhlig.com/',
-	                     discourseEmbedUrl: 'http://joebuhlig.com/choosing-omnifocus-settings/' };
+	                     discourseEmbedUrl: 'http://joebuhlig.com/targeted-omnifocus-templates-with-workflow/' };
 
 	  (function() {
 	    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
