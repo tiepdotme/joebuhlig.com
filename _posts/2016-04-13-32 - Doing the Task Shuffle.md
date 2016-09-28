@@ -4,7 +4,7 @@ date:   2016-04-13
 categories: podcast
 tags:
 - ideas
-- task-management
+- tasks
 permalink: /32/
 image: /assets/posts/Doing-the-Task-Shuffle.jpg
 podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ032.mp3

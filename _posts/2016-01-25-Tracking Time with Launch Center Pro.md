@@ -5,7 +5,7 @@ categories: blog
 tags:
 - apps
 - ifttt
-- launch-center-pro
+- launch-center
 permalink: /tracking-time-with-launch-center-pro/
 image: /assets/posts/Tracking-time-with-launch-center-pro.jpg
 ---

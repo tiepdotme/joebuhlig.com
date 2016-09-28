@@ -4,7 +4,7 @@ date:   2016-03-30
 categories: podcast
 tags:
 - contexts
-- task-management
+- tasks
 permalink: /30/
 image: /assets/posts/Decision-Analysis-Paralysis.jpg
 podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ030.mp3

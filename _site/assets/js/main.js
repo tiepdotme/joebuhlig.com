@@ -34,10 +34,11 @@ $(document).ready(function(){
 				jsonRetrieved = true;
 	        	var request = $.ajax({
 	        		method: "GET",
-	        		url: '/post-list'
+	        		url: '/assets/js/all-posts.json'
 	        	});
 	        	request.success(function (data) {
 					postList = $('.feed-item', '<div>' + data + '</div>');
+					postList = data.all_posts;
 					appendFeedContent();
 				});
 				request.fail(function(data){
@@ -72,8 +73,10 @@ $(document).ready(function(){
 });
 
 function appendFeedContent(){
-	$('.posts').append(postList[nextFeedPost]);
-	nextFeedPost++;
+	if (postList[nextFeedPost]){
+		$('.posts').append($('<div>' + postList[nextFeedPost] + '</div>').text());
+		nextFeedPost++;
+	}
 	triggered = false;
 }
 function displayImages(loc){

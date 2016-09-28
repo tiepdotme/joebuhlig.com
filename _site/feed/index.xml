@@ -14,15 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<<<<<<< HEAD
-<lastBuildDate>Mon, 26 Sep 2016 08:03:13 -0500</lastBuildDate>
-=======
-<lastBuildDate>Tue, 27 Sep 2016 13:30:43 -0500</lastBuildDate>
->>>>>>> master
+<lastBuildDate>Wed, 28 Sep 2016 13:55:05 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[10: Start With Why by Simon Sinek [Bookworm]]]></title>
+    <link>http://joebuhlig.com/10-start-with-why-by-simon-sinek/</link>
+    <pubDate>Wed, 28 Sep 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/10-start-with-why-by-simon-sinek/</guid>
+    <description>
+        <![CDATA[This week Mike and Joe talk about the value of finding a “why” in everything we do and what happens when companies start with “how” or “what.”
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This week Mike and Joe talk about the value of finding a “why” in everything we do and what happens when companies start with “how” or “what.”
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Targeted OmniFocus Templates With Workflow]]></title>
@@ -558,29 +577,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>Everything above is about creating new tasks. In the world of data, we often refer to CRUD - Create, Read, Update, Delete. It’s shorthand for the four ways you can work with information. You can make new data - Create. You can get existing data - Read. You can change or edit existing data - Update. And you can destroy the data - Delete. If you have the ability to do all four of these, you are able to do anything you want with the database.</p>
 
 <p>If we overlay those four methods on top of the new OmniFocus URLs, we see only the first (Create) as a possibility. So we’re still limited in what we can do on iOS. It’s also why I’m not able to move <a href="https://github.com/joebuhlig/OFScripts">all of my scripts</a> to iOS. It simply isn’t possible. Given the support for AppleScripting that the Omni Group shows, I can imagine it is only a matter of time before the RUD of CRUD makes it to iOS.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[6: The More Of Less by Joshua Becker [Bookworm]]]></title>
-    <link>http://joebuhlig.com/6-the-more-of-less-by-joshua-becker/</link>
-    <pubDate>Wed, 03 Aug 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/6-the-more-of-less-by-joshua-becker/</guid>
-    <description>
-        <![CDATA[This week Mike and Joe talk about cutting back and simplifying life with Joshua Becker’s book The More Of Less.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This week Mike and Joe talk about cutting back and simplifying life with Joshua Becker’s book <em>The More Of Less</em>.
-<!--more--></p>
 ]]>
     </content:encoded>
 </item>
