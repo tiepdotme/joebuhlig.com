@@ -878,6 +878,24 @@
 }
 
 /**
+ * Ads
+*/
+
+.ad-img, .ad-text{
+    max-width: 300px;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 12px;
+    padding: 10px;
+}
+
+.ad-text a {
+    color: initial;
+}
+
+
+/**
  * Dark Theme
 */
 html.dark{
@@ -900,7 +918,7 @@ html.dark{
         color: #eeeeee;
         border-bottom: 1px solid #eeeeee;
     }
-    #carbonads .carbon-text {
+    #carbonads .carbon-text, .ad-text a {
         color: #eeeeee;
     }
 

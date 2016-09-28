@@ -886,6 +886,20 @@ table {
     display: block; }
 
 /**
+ * Ads
+*/
+.ad-img, .ad-text {
+  max-width: 300px;
+  text-align: left;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 12px;
+  padding: 10px; }
+
+.ad-text a {
+  color: initial; }
+
+/**
  * Dark Theme
 */
 html.dark body {
@@ -900,7 +914,7 @@ html.dark .sidebar-segment {
 html.dark .sidebar h2 {
   color: #eeeeee;
   border-bottom: 1px solid #eeeeee; }
-html.dark #carbonads .carbon-text {
+html.dark #carbonads .carbon-text, html.dark .ad-text a {
   color: #eeeeee; }
 html.dark .bookworm path {
   fill: #97B9CC; }
