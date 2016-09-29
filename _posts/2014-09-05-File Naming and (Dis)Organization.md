@@ -28,7 +28,9 @@ I wanted something that would easily follow me to any OS. I also wanted to use s
 
 I spent a long time brainstorming this piece. It needed to be simple and scalable. But I also wanted it to work in conjunction with my folder system. Here’s an example of what I came up with:
 
-    Refx_14BL22_File Naming Examples_20140820_063420.pages
+{% highlight text %}
+Refx_14BL22_File Naming Examples_20140820_063420.pages
+{% endhighlight %}
 
 That looks like a mess! Let me decode:
 
@@ -52,7 +54,9 @@ I always add a date and sometimes add the time to the file name. The format of i
 
 In the end, I get a filename that looks like this:
 
-     tagx_PROJCODE_Key Words_DATE_TIME.ext
+{% highlight text %}
+tagx_PROJCODE_Key Words_DATE_TIME.ext
+{% endhighlight %}
 
 I wanted to make it easy for myself to name my files. So I created a TextExpander snippet for naming files with and without project codes. I also have a snippet that creates the date/time stamp for me. Between the two, it’s really easy for me to name files.
 

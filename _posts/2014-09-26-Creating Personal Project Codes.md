@@ -14,7 +14,9 @@ Last week I wrote about [managing information for projects](http://joebuhlig.com
 
 As a quick refresher, here’s what my codes look like:
 
-     14HC13
+{% highlight text %}
+14HC13
+{% endhighlight %}
 
 There are three portions of the code — “14”, “HC”, and “13."
 
@@ -70,7 +72,34 @@ As far as I know, TextExpander doesn’t have a good way to auto-increment numbe
 
 I created the initial file using Xcode and at the moment it looks like this: 
 
-{% gist joebuhlig/130472766bc2ff5726fd %}
+{% highlight xml %}
+<plist version="1.0">
+  <dict>
+    <key>Blog</key>
+    <string>14BL26</string>
+    <key>Church</key>
+    <string>14CH00</string>
+    <key>Father</key>
+    <string>14FA01</string>
+    <key>Friend</key>
+    <string>14FR00</string>
+    <key>HouseCar</key>
+    <string>14HC05</string>
+    <key>Husband</key>
+    <string>14HU05</string>
+    <key>JoeBuhlig</key>
+    <string>14ME15</string>
+    <key>SonBrother</key>
+    <string>14SB00</string>
+    <key>Spiritual</key>
+    <string>14SP03</string>
+    <key>Woodworking</key>
+    <string>14WW00</string>
+    <key>Work</key>
+    <string>14WK16</string>
+  </dict>
+</plist>
+{% endhighlight %}
 
 I store this file in DropBox since I use multiple computers and don’t always know which one I will need to create the code.
 
@@ -78,7 +107,29 @@ I store this file in DropBox since I use multiple computers and don’t always k
 
 Here’s a look at the AppleScript in the House/Car TextExpander snippet:
 
-{% gist joebuhlig/8226fc344b6bf5da6945 %}
+{% highlight applescript %}
+set thePList to "Users:JoeBuhlig:Dropbox:pList:Project_Codes.plist"
+set thePListPath to POSIX path of thePList
+tell application "System Events"
+    tell property list file thePListPath
+        tell contents
+            set pcode to value of property list item "HouseCar"
+            set yr to text -2 thru -1 of ("00" & (year of (current date))) as number
+            set y to text -6 thru -5 of pcode as number
+            set inc to text -2 thru -1 of pcode as number
+            if (yr > y) then
+                set inc to 1
+            else
+                set inc to inc + 1
+            end if
+            set inc to text -2 thru -1 of ("00" & inc)
+            set newcode to yr & "HC" & inc as string
+            set value of property list item "HouseCar" to newcode
+        end tell
+    end tell
+end tell
+return newcode
+{% endhighlight %}
 
 It goes to the .plist file and gets the current project code. It then parses out the last two characters and increments it by one unless we’re in a new new year. At the beginning of each year, it will reset to “01” and change the first two characters to match the new year. It then writes the code back to the .plist file for next time and pastes in the new code. It just looks more complicated than it really is :)
 

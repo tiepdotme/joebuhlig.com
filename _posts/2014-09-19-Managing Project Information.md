@@ -37,7 +37,9 @@ The idea is simple. Append a project code to the name of every project in Omnifo
 
 For me, the codes look like this:
 
-     14HC13
+{% highlight text %}
+14HC13
+{% endhighlight %}
 
 Decoded, the “14” is for the year 2014\. “HC” stands for House/Car. It’s a 2 character indicator for the area of responsibility in my life. I have 11, but a few of those are “WK” for work, “HU” for husband, “BL” for this blog, and “FR” for friend. The last two characters in the code is an auto-incrementing number. I use a [TextExpander](http://smilesoftware.com/TextExpander/index.html) snippet to create my codes and it automatically increases this number by one every time I create a new one. I’m writing a post on this snippet to come out next week.
 

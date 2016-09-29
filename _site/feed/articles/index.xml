@@ -14,11 +14,75 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 27 Sep 2016 13:30:43 -0500</lastBuildDate>
+<lastBuildDate>Thu, 29 Sep 2016 13:06:45 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Zen & The Art of Work]]></title>
+    <link>http://joebuhlig.com/zen-the-art-of-work/</link>
+    <pubDate>Thu, 29 Sep 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[reviews]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/zen-the-art-of-work/</guid>
+    <description>
+        <![CDATA[I’ve always admired the thought and intentionality that Kourosh Dini applies to his methods of working and developing structures that help him accomplish his tasks. So I was excited when he gave me the opportunity to go through his video course, Zen &amp; The Art of Work, prior to its...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/zen-the-art-of-work.jpg" /><p>I’ve always admired the thought and intentionality that Kourosh Dini applies to his methods of working and developing structures that help him accomplish his tasks. So I was excited when he gave me the opportunity to go through his video course, <a href="https://gumroad.com/a/753349747"><em>Zen &amp; The Art of Work</em></a>, prior to its launch. I must say that I think this is his best work to date.
+<!--more--></p>
+
+<p>Dini has a reputation for writing in-depth, thought-provoking books and those books were instrumental in guiding me to develop my own processes. But he’s now taking another step in the creation of video modules that illustrate what I would call a combination of <em>Deep Work</em> and <em>Getting Things Done</em>.</p>
+
+<p>I’ve been a practitioner of GTD for a long time and a recent convert to the concept of Deep Work sessions. Dini is able to use visual representations in conjunction with practical examples of how these concepts work together in real life scenarios. Because of this, <em>Zen &amp; The Art of Work</em> is one of (if not the) best demonstrations of how these principles can lead to the calm, intentional practice of getting work done that matters.</p>
+
+<p>I have to confess that I was surprised by the number of takeaways I had after completing the course. Some are simple, almost obvious. Others were completely new to me:</p>
+
+<ul>
+  <li>Pause before going onto the next task.</li>
+</ul>
+
+<p>I have a habit of just working down a list. A simple pause between tasks can help me be more intentional about what I’m doing. It becomes a way to prevent any haphazard ways of working.</p>
+
+<ul>
+  <li>Be with the work.</li>
+</ul>
+
+<p>Like most information workers, I deal with almost constant desire to procrastinate. Dini introduced me to this idea of just being in the presence of the work to be completed and doing nothing else. And I can tell you that the amount of self-control necessary to start the work, once you put yourself in the presence of the work, is much less with this practice in place.</p>
+
+<ul>
+  <li>Designing work sessions.</li>
+</ul>
+
+<p>I had never thought about work being done in sessions prior to reading <em>Deep Work</em>. I had loosely practiced this but never intentionally. Dini is able to carefully articulate how work sessions can be initiated and focused in a way that sets you up for following through on your intentions. He gave me a clarity about sessions that I had been seeking.</p>
+
+<ul>
+  <li>Process inboxes after each session.</li>
+</ul>
+
+<p>In the past I’ve been consistent in clearing my inboxes every morning. But Dini suggests clearing them at the end of every work session. This is mostly due to his recommendations on how to leverage the power of an inbox while in the middle of a session, but it has me clearing “in” more often each day. And the mental freedom that has come with it has been surprising. It is certainly a practice I intend to maintain.</p>
+
+<ul>
+  <li>Dini’s music is excellent for work sessions.</li>
+</ul>
+
+<p>As part of the course you get a bonus album of Dini’s music. I have long been searching for soothing music that is suited for my writing time and have yet to discover anything as perfectly suited as this album. I’ve known Kourosh composes songs for a while but for some reason I’ve never listened in the past.</p>
+
+<p><a href="https://gumroad.com/a/753349747"><em>Zen &amp; The Art of Work</em></a> is an excellent course for those looking to be intentional with the work they do. It’s perfectly suited for newcomers to the productivity space and will be at the top of my list of recommendations for where to start. But it’s also a great resource for those who’ve been at it for a while. The real world examples are invaluable and Dini can easily demonstrate how to implement these concepts. I highly recommended this course.</p>
+
+<p>For more information on the course, you can visit <a href="http://www.zenandtheartofwork.com">zenandtheartofwork.com</a>.</p>
+
+<p><small><strong>Disclaimer:</strong> I was given a free copy of the course for this review and it includes affiliate links. I can honestly say my opinion of the course hasn’t been colored by this fact, but regardless, it’s something I felt you should know.</small></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Targeted OmniFocus Templates With Workflow]]></title>
@@ -9351,9 +9415,7 @@ end tell</pre></noscript>
 
 <p>As a quick refresher, here’s what my codes look like:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code> 14HC13
-</code></pre>
-</div>
+<figure class="highlight"><pre><code class="language-text" data-lang="text">14HC13</code></pre></figure>
 
 <p>There are three portions of the code — “14”, “HC”, and “13.”</p>
 
@@ -9413,33 +9475,32 @@ end tell</pre></noscript>
 
 <p>I created the initial file using Xcode and at the moment it looks like this:</p>
 
-<noscript><pre>&lt;plist version=&quot;1.0&quot;&gt;
-  &lt;dict&gt;
-    &lt;key&gt;Blog&lt;/key&gt;
-    &lt;string&gt;14BL26&lt;/string&gt;
-    &lt;key&gt;Church&lt;/key&gt;
-    &lt;string&gt;14CH00&lt;/string&gt;
-    &lt;key&gt;Father&lt;/key&gt;
-    &lt;string&gt;14FA01&lt;/string&gt;
-    &lt;key&gt;Friend&lt;/key&gt;
-    &lt;string&gt;14FR00&lt;/string&gt;
-    &lt;key&gt;HouseCar&lt;/key&gt;
-    &lt;string&gt;14HC05&lt;/string&gt;
-    &lt;key&gt;Husband&lt;/key&gt;
-    &lt;string&gt;14HU05&lt;/string&gt;
-    &lt;key&gt;JoeBuhlig&lt;/key&gt;
-    &lt;string&gt;14ME15&lt;/string&gt;
-    &lt;key&gt;SonBrother&lt;/key&gt;
-    &lt;string&gt;14SB00&lt;/string&gt;
-    &lt;key&gt;Spiritual&lt;/key&gt;
-    &lt;string&gt;14SP03&lt;/string&gt;
-    &lt;key&gt;Woodworking&lt;/key&gt;
-    &lt;string&gt;14WW00&lt;/string&gt;
-    &lt;key&gt;Work&lt;/key&gt;
-    &lt;string&gt;14WK16&lt;/string&gt;
-  &lt;/dict&gt;
-&lt;/plist&gt;</pre></noscript>
-<script src="https://gist.github.com/joebuhlig/130472766bc2ff5726fd.js"> </script>
+<figure class="highlight"><pre><code class="language-xml" data-lang="xml"><span class="nt">&lt;plist</span> <span class="na">version=</span><span class="s">"1.0"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;dict&gt;</span>
+    <span class="nt">&lt;key&gt;</span>Blog<span class="nt">&lt;/key&gt;</span>
+    <span class="nt">&lt;string&gt;</span>14BL26<span class="nt">&lt;/string&gt;</span>
+    <span class="nt">&lt;key&gt;</span>Church<span class="nt">&lt;/key&gt;</span>
+    <span class="nt">&lt;string&gt;</span>14CH00<span class="nt">&lt;/string&gt;</span>
+    <span class="nt">&lt;key&gt;</span>Father<span class="nt">&lt;/key&gt;</span>
+    <span class="nt">&lt;string&gt;</span>14FA01<span class="nt">&lt;/string&gt;</span>
+    <span class="nt">&lt;key&gt;</span>Friend<span class="nt">&lt;/key&gt;</span>
+    <span class="nt">&lt;string&gt;</span>14FR00<span class="nt">&lt;/string&gt;</span>
+    <span class="nt">&lt;key&gt;</span>HouseCar<span class="nt">&lt;/key&gt;</span>
+    <span class="nt">&lt;string&gt;</span>14HC05<span class="nt">&lt;/string&gt;</span>
+    <span class="nt">&lt;key&gt;</span>Husband<span class="nt">&lt;/key&gt;</span>
+    <span class="nt">&lt;string&gt;</span>14HU05<span class="nt">&lt;/string&gt;</span>
+    <span class="nt">&lt;key&gt;</span>JoeBuhlig<span class="nt">&lt;/key&gt;</span>
+    <span class="nt">&lt;string&gt;</span>14ME15<span class="nt">&lt;/string&gt;</span>
+    <span class="nt">&lt;key&gt;</span>SonBrother<span class="nt">&lt;/key&gt;</span>
+    <span class="nt">&lt;string&gt;</span>14SB00<span class="nt">&lt;/string&gt;</span>
+    <span class="nt">&lt;key&gt;</span>Spiritual<span class="nt">&lt;/key&gt;</span>
+    <span class="nt">&lt;string&gt;</span>14SP03<span class="nt">&lt;/string&gt;</span>
+    <span class="nt">&lt;key&gt;</span>Woodworking<span class="nt">&lt;/key&gt;</span>
+    <span class="nt">&lt;string&gt;</span>14WW00<span class="nt">&lt;/string&gt;</span>
+    <span class="nt">&lt;key&gt;</span>Work<span class="nt">&lt;/key&gt;</span>
+    <span class="nt">&lt;string&gt;</span>14WK16<span class="nt">&lt;/string&gt;</span>
+  <span class="nt">&lt;/dict&gt;</span>
+<span class="nt">&lt;/plist&gt;</span></code></pre></figure>
 
 <p>I store this file in DropBox since I use multiple computers and don’t always know which one I will need to create the code.</p>
 
@@ -9447,28 +9508,27 @@ end tell</pre></noscript>
 
 <p>Here’s a look at the AppleScript in the House/Car TextExpander snippet:</p>
 
-<noscript><pre>set thePList to &quot;Users:JoeBuhlig:Dropbox:pList:Project_Codes.plist&quot;
-set thePListPath to POSIX path of thePList
-tell application &quot;System Events&quot;
-	tell property list file thePListPath
-		tell contents
-			set pcode to value of property list item &quot;HouseCar&quot;
-			set yr to text -2 thru -1 of (&quot;00&quot; &amp; (year of (current date))) as number
-			set y to text -6 thru -5 of pcode as number
-			set inc to text -2 thru -1 of pcode as number
-			if (yr &gt; y) then
-				set inc to 1
-			else
-				set inc to inc + 1
-			end if
-			set inc to text -2 thru -1 of (&quot;00&quot; &amp; inc)
-			set newcode to yr &amp; &quot;HC&quot; &amp; inc as string
-			set value of property list item &quot;HouseCar&quot; to newcode
-		end tell
-	end tell
-end tell
-return newcode</pre></noscript>
-<script src="https://gist.github.com/joebuhlig/8226fc344b6bf5da6945.js"> </script>
+<figure class="highlight"><pre><code class="language-applescript" data-lang="applescript"><span class="k">set</span><span class="w"> </span><span class="nv">thePList</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="s2">"Users:JoeBuhlig:Dropbox:pList:Project_Codes.plist"</span><span class="w">
+</span><span class="k">set</span><span class="w"> </span><span class="nv">thePListPath</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="nv">POSIX</span><span class="w"> </span><span class="na">path</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="nv">thePList</span><span class="w">
+</span><span class="k">tell</span><span class="w"> </span><span class="nb">application</span><span class="w"> </span><span class="s2">"System Events"</span><span class="w">
+    </span><span class="k">tell</span><span class="w"> </span><span class="k">property</span><span class="w"> </span><span class="nv">list</span><span class="w"> </span><span class="nv">file</span><span class="w"> </span><span class="nv">thePListPath</span><span class="w">
+        </span><span class="k">tell</span><span class="w"> </span><span class="na">contents</span><span class="w">
+            </span><span class="k">set</span><span class="w"> </span><span class="nv">pcode</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="nv">value</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="k">property</span><span class="w"> </span><span class="nv">list</span><span class="w"> </span><span class="nb">item</span><span class="w"> </span><span class="s2">"HouseCar"</span><span class="w">
+            </span><span class="k">set</span><span class="w"> </span><span class="nv">yr</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="nb">text</span><span class="w"> </span><span class="o">-</span><span class="mi">2</span><span class="w"> </span><span class="nb">thru</span><span class="w"> </span><span class="o">-</span><span class="mi">1</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="p">(</span><span class="s2">"00"</span><span class="w"> </span><span class="o">&amp;</span><span class="w"> </span><span class="p">(</span><span class="nb">year</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="p">(</span><span class="nb">current date</span><span class="p">)))</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nv">number</span><span class="w">
+            </span><span class="k">set</span><span class="w"> </span><span class="nv">y</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="nb">text</span><span class="w"> </span><span class="o">-</span><span class="mi">6</span><span class="w"> </span><span class="nb">thru</span><span class="w"> </span><span class="o">-</span><span class="mi">5</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="nv">pcode</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nv">number</span><span class="w">
+            </span><span class="k">set</span><span class="w"> </span><span class="nv">inc</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="nb">text</span><span class="w"> </span><span class="o">-</span><span class="mi">2</span><span class="w"> </span><span class="nb">thru</span><span class="w"> </span><span class="o">-</span><span class="mi">1</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="nv">pcode</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nv">number</span><span class="w">
+            </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="nv">yr</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="nv">y</span><span class="p">)</span><span class="w"> </span><span class="k">then</span><span class="w">
+                </span><span class="k">set</span><span class="w"> </span><span class="nv">inc</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="mi">1</span><span class="w">
+            </span><span class="k">else</span><span class="w">
+                </span><span class="k">set</span><span class="w"> </span><span class="nv">inc</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="nv">inc</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mi">1</span><span class="w">
+            </span><span class="k">end</span><span class="w"> </span><span class="k">if</span><span class="w">
+            </span><span class="k">set</span><span class="w"> </span><span class="nv">inc</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="nb">text</span><span class="w"> </span><span class="o">-</span><span class="mi">2</span><span class="w"> </span><span class="nb">thru</span><span class="w"> </span><span class="o">-</span><span class="mi">1</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="p">(</span><span class="s2">"00"</span><span class="w"> </span><span class="o">&amp;</span><span class="w"> </span><span class="nv">inc</span><span class="p">)</span><span class="w">
+            </span><span class="k">set</span><span class="w"> </span><span class="nv">newcode</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="nv">yr</span><span class="w"> </span><span class="o">&amp;</span><span class="w"> </span><span class="s2">"HC"</span><span class="w"> </span><span class="o">&amp;</span><span class="w"> </span><span class="nv">inc</span><span class="w"> </span><span class="k">as </span><span class="nc">string</span><span class="w">
+            </span><span class="k">set</span><span class="w"> </span><span class="nv">value</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="k">property</span><span class="w"> </span><span class="nv">list</span><span class="w"> </span><span class="nb">item</span><span class="w"> </span><span class="s2">"HouseCar"</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="nv">newcode</span><span class="w">
+        </span><span class="k">end</span><span class="w"> </span><span class="k">tell</span><span class="w">
+    </span><span class="k">end</span><span class="w"> </span><span class="k">tell</span><span class="w">
+</span><span class="k">end</span><span class="w"> </span><span class="k">tell</span><span class="w">
+</span><span class="k">return</span><span class="w"> </span><span class="nv">newcode</span></code></pre></figure>
 
 <p>It goes to the .plist file and gets the current project code. It then parses out the last two characters and increments it by one unless we’re in a new new year. At the beginning of each year, it will reset to “01” and change the first two characters to match the new year. It then writes the code back to the .plist file for next time and pastes in the new code. It just looks more complicated than it really is :)</p>
 
@@ -9527,9 +9587,7 @@ return newcode</pre></noscript>
 
 <p>For me, the codes look like this:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code> 14HC13
-</code></pre>
-</div>
+<figure class="highlight"><pre><code class="language-text" data-lang="text">14HC13</code></pre></figure>
 
 <p>Decoded, the “14” is for the year 2014. “HC” stands for House/Car. It’s a 2 character indicator for the area of responsibility in my life. I have 11, but a few of those are “WK” for work, “HU” for husband, “BL” for this blog, and “FR” for friend. The last two characters in the code is an auto-incrementing number. I use a <a href="http://smilesoftware.com/TextExpander/index.html">TextExpander</a> snippet to create my codes and it automatically increases this number by one every time I create a new one. I’m writing a post on this snippet to come out next week.</p>
 
@@ -9657,9 +9715,7 @@ return newcode</pre></noscript>
 
 <p>I spent a long time brainstorming this piece. It needed to be simple and scalable. But I also wanted it to work in conjunction with my folder system. Here’s an example of what I came up with:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>Refx_14BL22_File Naming Examples_20140820_063420.pages
-</code></pre>
-</div>
+<figure class="highlight"><pre><code class="language-text" data-lang="text">Refx_14BL22_File Naming Examples_20140820_063420.pages</code></pre></figure>
 
 <p>That looks like a mess! Let me decode:</p>
 
@@ -9683,9 +9739,7 @@ return newcode</pre></noscript>
 
 <p>In the end, I get a filename that looks like this:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code> tagx_PROJCODE_Key Words_DATE_TIME.ext
-</code></pre>
-</div>
+<figure class="highlight"><pre><code class="language-text" data-lang="text">tagx_PROJCODE_Key Words_DATE_TIME.ext</code></pre></figure>
 
 <p>I wanted to make it easy for myself to name my files. So I created a TextExpander snippet for naming files with and without project codes. I also have a snippet that creates the date/time stamp for me. Between the two, it’s really easy for me to name files.</p>
 
