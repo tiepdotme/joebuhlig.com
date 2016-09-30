@@ -14,7 +14,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
+<<<<<<< HEAD
 <lastBuildDate>Thu, 29 Sep 2016 21:41:18 -0500</lastBuildDate>
+=======
+<lastBuildDate>Wed, 28 Sep 2016 14:15:17 -0500</lastBuildDate>
+>>>>>>> new-theme
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -991,16 +995,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <guid isPermaLink="true">http://joebuhlig.com/an-open-letter-to-productivity/</guid>
     <description>
-        <![CDATA[My friend,
-
-We’ve come a long way since we met five years ago.
-
-]]>
+        <![CDATA[My friend, We’ve come a long way since we met five years ago. And I cannot thank you enough for the clarity and direction you’ve given me through the multiple transitions and big decisions I have faced in recent years. Without the systems and tricks you’ve taught me, I would...]]>
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/an-open-letter-to-productivity.jpeg" /><p>My friend,</p>
 
-<p>We’ve come a long way since we met five years ago.<!--more--> And I cannot thank you enough for the clarity and direction you’ve given me through the multiple transitions and big decisions I have faced in recent years. Without the systems and tricks you’ve taught me, I would accomplish much less and fall short of numerous goals. For that, I am grateful.</p>
+<p>We’ve come a long way since we met five years ago. And I cannot thank you enough for the clarity and direction you’ve given me through the multiple transitions and big decisions I have faced in recent years. Without the systems and tricks you’ve taught me, I would accomplish much less and fall short of numerous goals. For that, I am grateful.
+<!--more--></p>
 
 <p>I know I don’t always stick to the structure you’ve helped me build, but you’re always there when I realize I’ve stepped away. I know that if I trust the guidelines and follow them, my days are efficient and invigorating; and that makes me want to keep going and do more. It reveals my ability to do something great.</p>
 
@@ -1509,7 +1510,7 @@ We’ve come a long way since we met five years ago.
     <category><![CDATA[blog]]></category>
 
 
-    <category><![CDATA[task-management]]></category>
+    <category><![CDATA[tasks]]></category>
 
     <guid isPermaLink="true">http://joebuhlig.com/alternating-types-of-tasks/</guid>
     <description>
@@ -3594,7 +3595,7 @@ $("table").tablesorter();
 
     <category><![CDATA[ifttt]]></category>
 
-    <category><![CDATA[launch-center-pro]]></category>
+    <category><![CDATA[launch-center]]></category>
 
     <guid isPermaLink="true">http://joebuhlig.com/tracking-time-with-launch-center-pro/</guid>
     <description>
@@ -5274,7 +5275,7 @@ xof = OmniFocus</code></pre></figure>
 
     <category><![CDATA[piwik]]></category>
 
-    <category><![CDATA[web development]]></category>
+    <category><![CDATA[development]]></category>
 
     <guid isPermaLink="true">http://joebuhlig.com/from-wordpress-google-to-jekyll-piwik/</guid>
     <description>

@@ -3,7 +3,7 @@ title:  "Alternating Types of Tasks"
 date:   2016-05-16
 categories: blog
 tags:
-- task-management
+- tasks
 permalink: /alternating-types-of-tasks/
 image: /assets/posts/alternating-types-of-tasks.jpeg
 ---

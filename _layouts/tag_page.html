@@ -4,4 +4,9 @@ layout: default
 <h1>{{ page.tag }}</h1>
 {% for post in page.posts %}
 	{% include content_feed.html post=post %}
+    {% if forloop.index == 1 %}
+    	{% include carbon_ad.html %}
+	{% elsif forloop.index == 4 %}
+		{% include working_with_omnifocus.html %}
+    {% endif %}
 {% endfor %}

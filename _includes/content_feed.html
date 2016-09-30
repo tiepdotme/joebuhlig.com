@@ -1,15 +1,23 @@
 {% assign author = site.data.authors[post.author] %}
 <div class="feed-item">{% assign link = post.url %}{% if post.external %}{% assign link = post.external %}{% endif %}
-	<div class="feed-pic">
-		<a href="{{ post.url }}">
-			<img class="hidden{% if post.categories contains 'bookworm' %} bookworm{% endif %}" src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== data-src="{{ post.image }}" />
-		</a>
-	</div>
-	<div class="feed-title">
-		<a href="{{ link }}"><h3>{{ post.title }} {% if post.external %}&rarr;{% endif %}</h3></a>
-	</div>
 	<div class="feed-meta">
 		{% include post_meta.html article=post author=author %}
 	</div>
-	<div class="feed-excerpt">{{ post.excerpt }}</div>
+	<div class="feed-content-wrapper">
+		<div class="feed-icon">
+			{% include post_icon.html post=post %}
+		</div>
+		<div class="feed-content">
+			<div class="feed-title">
+				<a href="{{ link }}"><h3>{{ post.title }} {% if post.external %}&rarr;{% endif %}</h3></a>
+			</div>
+			<div class="feed-meta-mobile">{% include post_meta_mobile.html article=post author=author %}</div>
+			<div class="feed-excerpt">{{ post.excerpt }}</div>
+		</div>
+	</div>
+	<div class="feed-pic">
+		<a href="{{ link }}">
+			<img class="hidden" src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== data-src="{{ post.image }}" />
+		</a>
+	</div>
 </div>

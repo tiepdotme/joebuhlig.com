@@ -5,7 +5,7 @@ categories: blog
 tags:
 - jekyll
 - piwik
-- web development
+- development
 permalink: /from-wordpress-google-to-jekyll-piwik/
 image: /assets/posts/From-Wordpress-Google-to-Jekyll-Piwik.jpg
 ---

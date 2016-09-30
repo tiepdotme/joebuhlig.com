@@ -12,7 +12,7 @@ layout: default
 		<img class="featured-image" src="{{ page.image }}" />
 		{% endif %}
 		<header class="post-header">
-			<h1 class="post-title">{% if page.external %}<a href="{{ page.external }}">{% endif %}{{ page.title }} {% if page.external %}&rarr;</a>{% endif %}</h1>
+			<h1 class="post-title"><span class="post-icon">{% include post_icon.html post=page %}</span>{% if page.external %}<a href="{{ page.external }}">{% endif %}{{ page.title }} {% if page.external %}&rarr;</a>{% endif %}</h1>
 			<p class="post-meta">
 				{% include post_meta.html article=page author=author%}
 			</p>
@@ -24,8 +24,8 @@ layout: default
 			{% include podcast_player.html %}
 		{% endif %}
 		<div class="page-navigation">
-			<a class="prev-page" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-			<a class="next-page" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+			{% if page.previous %}<a class="prev-page" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>{% endif %}
+			{% if page.next %}<a class="next-page" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>{% endif %}
 		</div>
 	</article>
 
