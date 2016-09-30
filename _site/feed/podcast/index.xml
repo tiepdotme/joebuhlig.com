@@ -14,11 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="http://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
 <link>http://joebuhlig.com</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<<<<<<< HEAD
-<lastBuildDate>Thu, 29 Sep 2016 21:41:18 -0500</lastBuildDate>
-=======
-<lastBuildDate>Wed, 28 Sep 2016 14:15:17 -0500</lastBuildDate>
->>>>>>> new-theme
+<lastBuildDate>Fri, 30 Sep 2016 05:28:46 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>

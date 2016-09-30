@@ -14,18 +14,45 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<<<<<<< HEAD
-<lastBuildDate>Thu, 29 Sep 2016 21:41:18 -0500</lastBuildDate>
-=======
-<lastBuildDate>Wed, 28 Sep 2016 14:15:17 -0500</lastBuildDate>
->>>>>>> new-theme
+<lastBuildDate>Fri, 30 Sep 2016 05:28:46 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
 
 <item>
-<<<<<<< HEAD
+    <title><![CDATA[Time For a Refresh]]></title>
+    <link>http://joebuhlig.com/time-for-a-refresh/</link>
+    <pubDate>Fri, 30 Sep 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[development]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/time-for-a-refresh/</guid>
+    <description>
+        <![CDATA[This past weekend my wife was gone on a retreat. That meant I took care of our girls on my own. They go to bed about an hour and a half before I do, and like any self-respecting web developer with an aging web design, I took advantage of the...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/time-for-a-refresh.jpg" /><p>This past weekend my wife was gone on a retreat. That meant I took care of our girls on my own. They go to bed about an hour and a half before I do, and like any self-respecting web developer with an aging web design, I took advantage of the extra free time and made some major changes to the look and feel of my home on the web.
+<!--more--></p>
+
+<p>The biggest change here are the layouts of the header and article feeds. Headers are always a challenge because you want them to be unique but they need to follow intuitive interface standards. This one took me 20+ iterations to get right and to feel good about. In the end, I wanted it to be simple to understand and easy to find what you’re looking for.</p>
+
+<p>Compared to the article feed layout, the header was simple. I went through 40+ versions of the layout, colors, and metadata to show. I know that there are a lot of factors that I personally look at when deciding to read an article. And I understand the frustration of not being able to find that one piece of data you need to get the context of the post. So I did my best to call out the date, tags, and length of each post so it’s easy to get the background of the article before you jump in.</p>
+
+<p>To go along with the look and feel is the new ability to use a dark or light theme. I stole this idea from Federico Viticci over on <a href="https://www.macstories.net">MacStories</a>. I love his implementation of it and built my own version. Since it’s my blog and I’m a huge fan of dark themes, I made the dark theme default. You can switch back to the light theme with the theme toggle in the header. Though, I’m not sure why you would do that.</p>
+
+<p>The last change worth noting is search. I moved over to <a href="http://lunrjs.com/">lunar.js</a> to calculate the results for the search. This is primarily due to my use of <a href="http://jekyllrb.com/">Jekyll</a> as a site generator. Lunar makes it a lot easier since I don’t have any server-side methods I can use to generate the search results. You can use the search box in the header or by visiting the <a href="/search">dedicated search page</a>.</p>
+
+<p>Overall, I’m really happy with this new setup and excited to share with you. But I’m very aware that redesigns like this often come with unexpected bugs. If you find an issue, please let me know about it in the <a href="#discourse-comments">discussion below</a>.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
     <title><![CDATA[Zen & The Art of Work]]></title>
     <link>http://joebuhlig.com/zen-the-art-of-work/</link>
     <pubDate>Thu, 29 Sep 2016 00:00:00 -0500</pubDate>
@@ -90,8 +117,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 
 <item>
-=======
->>>>>>> new-theme
     <title><![CDATA[10: Start With Why by Simon Sinek [Bookworm]]]></title>
     <link>http://joebuhlig.com/10-start-with-why-by-simon-sinek/</link>
     <pubDate>Wed, 28 Sep 2016 00:00:00 -0500</pubDate>
@@ -580,81 +605,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </content:encoded>
 </item>
 
-<item>
-    <title><![CDATA[Woodworking Versus Websites]]></title>
-    <link>http://joebuhlig.com/woodworking-versus-websites/</link>
-    <pubDate>Mon, 08 Aug 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[development]]></category>
-
-    <category><![CDATA[woodworking]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/woodworking-versus-websites/</guid>
-    <description>
-        <![CDATA[One of the most difficult aspects of building websites or doing knowledge work full-time is the lack of motivation and pride that typically comes from physically seeing the work of your hands. Yes, it is possible to achieve this sense of accomplishment when working purely with information and computers, but...]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/woodworking-versus-websites.jpeg" /><p>One of the most difficult aspects of building websites or doing knowledge work full-time is the lack of motivation and pride that typically comes from physically seeing the work of your hands. Yes, it is possible to achieve this sense of accomplishment when working purely with information and computers, but it’s far from natural.
-<!--more--></p>
-
-<p>Looking at my own life, I compare it to woodworking. When I build a piece of furniture I rarely need a to-do list for it. And (given available time) I don’t struggle with getting to work on it like I do a bug-fix. I know that I can go to the woodshop, see my current progress, immediately determine what comes next, and get to work. And when I’m done, there is a innate joy that comes from having built the piece or at least made progress on it.</p>
-
-<p>But when it comes to websites, it’s a different story. I need a list to know where I left off. And I have to develop tricks and rituals to motivate me to get to work. Even after I’m done with the build I need to reflect on my work and put it in perspective to understand its value and develop pride in my work.</p>
-
-<p>The weird part of this is that I really enjoy both. But I do think there’s value in understanding the feelings and mechanics that come with working as a craftsman. If they can be applied to knowledge work, I think there is a drive and enjoyment we can achieve that has typically been reserved for those working with their hands.</p>
-]]>
-    </content:encoded>
-</item>
-
-<<<<<<< HEAD
-=======
-<item>
-    <title><![CDATA[Moving OmniFocus Scripts To iOS]]></title>
-    <link>http://joebuhlig.com/moving-omnifocus-scripts-to-ios/</link>
-    <pubDate>Fri, 05 Aug 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[applescripts]]></category>
-
-    <category><![CDATA[omnifocus]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/moving-omnifocus-scripts-to-ios/</guid>
-    <description>
-        <![CDATA[I have been hesitant to adopt the new automation methods in OmniFocus for iOS. The abilities of the new URL Scheme are exciting but there’s still quite a bit missing from the structure as it stands.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/moving-omnifocus-scripts-to-ios.jpeg" /><p>I have been hesitant to adopt the <a href="https://discourse.omnigroup.com/t/implementation-details-for-omnifocus-2-14-automation/24179?u=joebuhlig">new automation methods in OmniFocus</a> for iOS. The abilities of the new URL Scheme are exciting but there’s still quite a bit missing from the structure as it stands.
-<!--more--></p>
-
-<p>The main piece I found missing was the “autosave” parameter to the <code class="highlighter-rouge">/add</code> URL. My current structure uses the <a href="https://github.com/joebuhlig/OFScripts/tree/master/Auto-Parser">Auto-Parser</a> which allows Drafts to send tasks to the app without the need to confirm or edit an item. Thankfully, the Omni Group introduced this feature recently and I can now add items directly to OmniFocus on iOS and come back to Drafts without any extra steps. Here’s the URL I’m using to add new Blog Post Ideas:</p>
-
-<p><code class="highlighter-rouge">omnifocus://x-callback-url/add?x-success=drafts4://&amp;name=[[title]]&amp;note=[[body]]&amp;project=Blog%20Post%20Ideas&amp;context=Running&amp;autosave=true</code></p>
-
-<p>The <code class="highlighter-rouge">/paste</code> URL is a different story. Combined with Editorial or Workflow, this thing is awesome! It allows me to port two of the AppleScripts I use over to iOS.</p>
-
-<p>The obvious one here is templates. <a href="https://discourse.omnigroup.com/t/automation-in-omnifocus-2-14-released-2016-04-26/23985?u=joebuhlig">Ken Case shared an Editorial workflow</a> that takes a template project in Taskpaper format and adds it to OmniFocus. I’m using his workflow unedited and found it really easy to recreate my templates on iOS. Navigate to the project you want to use as a template, tap the Share button, and copy it. In Editorial I simply pasted the project into a new Taskpaper file and I’m set. All I have to do is open the template and run the workflow.</p>
-
-<p>The other script I moved over was the <a href="http://joebuhlig.com/reading-books-on-a-schedule/">“Read Book Tasks” script</a>. This was a complete rebuild of the code in Workflow. Using it on iOS is the same as running the script on a Mac. Run the workflow, answer the prompts, and you get a sub-project for the tasks added to your inbox.</p>
-
-<p><a href="https://workflow.is/workflows/cece509a6fd6477d8d9e479f3f5df184">OF Book Tasks - Workflow</a></p>
-
-<p>Everything above is about creating new tasks. In the world of data, we often refer to CRUD - Create, Read, Update, Delete. It’s shorthand for the four ways you can work with information. You can make new data - Create. You can get existing data - Read. You can change or edit existing data - Update. And you can destroy the data - Delete. If you have the ability to do all four of these, you are able to do anything you want with the database.</p>
-
-<p>If we overlay those four methods on top of the new OmniFocus URLs, we see only the first (Create) as a possibility. So we’re still limited in what we can do on iOS. It’s also why I’m not able to move <a href="https://github.com/joebuhlig/OFScripts">all of my scripts</a> to iOS. It simply isn’t possible. Given the support for AppleScripting that the Omni Group shows, I can imagine it is only a matter of time before the RUD of CRUD makes it to iOS.</p>
-]]>
-    </content:encoded>
-</item>
-
->>>>>>> new-theme
 
 </channel>
 
