@@ -14,11 +14,53 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 30 Sep 2016 06:45:15 -0500</lastBuildDate>
+<lastBuildDate>Thu, 06 Oct 2016 14:49:32 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Multiple Lines in Drafts to Multiple Tasks in OmniFocus]]></title>
+    <link>http://joebuhlig.com/multiple-lines-in-drafts-to-multiple-tasks-in-omnifocus/</link>
+    <pubDate>Mon, 03 Oct 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[drafts]]></category>
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/multiple-lines-in-drafts-to-multiple-tasks-in-omnifocus/</guid>
+    <description>
+        <![CDATA[One piece missing in my Drafts actions arsenal was the ability to create a single draft with multiple tasks and send them all to OmniFocus via the new URL schemes. This isn’t something I use often but there are times when it would be useful and can be the difference...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/multiple-lines-in-drafts-to-multiple-tasks-in-omnifocus.jpg" /><p>One piece missing in my Drafts actions arsenal was the ability to create a single draft with multiple tasks and send them all to OmniFocus via the new URL schemes. This isn’t something I use often but there are times when it would be useful and can be the difference between capturing everything and missing a vital thought.
+<!--more--></p>
+
+<p>So here we are. I made one. You can <a href="x-drafts4://x-callback-url/import_action?v=2&amp;tintColor=%5B%0A%20%200.451%2C%0A%20%200.29%2C%0A%20%200.553%0A%5D&amp;shouldConfirm=0&amp;logLevel=1&amp;uuid=5E08F0B3-C571-4996-A264-85A42A72C277&amp;disposition=2&amp;actionSteps=%5B%0A%20%20%7B%0A%20%20%20%20%22scriptText%22%20%3A%20%22%5C%2F%5C%2F%20Script%20steps%20run%20short%20Javascripts%5Cn%5C%2F%5C%2F%20For%20documentation%20and%20examples%2C%20visit%3A%5Cn%5C%2F%5C%2F%20http%3A%5C%2F%5C%2Fhelp.agiletortoise.com%5Cn%5Cnvar%20text%20%3D%20%5C%22%5C%22%3B%5Cnvar%20tasks%20%3D%20draft.content.split%28%5C%22%5C%5Cn%5C%22%29%3B%5Cnfor%20%28i%20in%20tasks%29%20%7B%5Cntext%20%2B%3D%20encodeURIComponent%28%5C%22-%20%5C%22%20%2B%20tasks%5Bi%5D%20%2B%20%5C%22%5C%5Cn%5C%22%29%3B%5Cn%7D%3B%5Cn%5Cndraft.defineTag%28%5C%22OFTasks%5C%22%2C%20text%29%3B%22%2C%0A%20%20%20%20%22actionStepType%22%20%3A%20%22Script%22%0A%20%20%7D%2C%0A%20%20%7B%0A%20%20%20%20%22actionStepType%22%20%3A%20%22URL%22%2C%0A%20%20%20%20%22urlTemplate%22%20%3A%20%22omnifocus%3A%5C%2F%5C%2F%5C%2Fpaste%3Ftarget%3Dinbox%26content%3D%5B%5BOFTasks%5D%5D%22%2C%0A%20%20%20%20%22useSafariViewController%22%20%3A%20false%2C%0A%20%20%20%20%22encodeTags%22%20%3A%20false%0A%20%20%7D%0A%5D&amp;description=&amp;modifiedAt=2016-09-28%2020%3A21%3A37%20%2B0000&amp;name=OmniFocus%20-%20Multiple&amp;iconImageName=action_reminder">install it here</a>.</p>
+
+<p>For those interested, it uses a JavaScript step that breaks each line of the draft apart and reassembles them in taskpaper format. This new string is stored in a new tag that can be used in the URL step.</p>
+
+<p>Here’s what the JavaScript looks like:</p>
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">text</span> <span class="o">=</span> <span class="s2">""</span><span class="p">;</span>
+<span class="kd">var</span> <span class="nx">tasks</span> <span class="o">=</span> <span class="nx">draft</span><span class="p">.</span><span class="nx">content</span><span class="p">.</span><span class="nx">split</span><span class="p">(</span><span class="s2">"\n"</span><span class="p">);</span>
+<span class="k">for</span> <span class="p">(</span><span class="nx">i</span> <span class="k">in</span> <span class="nx">tasks</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nx">text</span> <span class="o">+=</span> <span class="nb">encodeURIComponent</span><span class="p">(</span><span class="s2">"- "</span> <span class="o">+</span> <span class="nx">tasks</span><span class="p">[</span><span class="nx">i</span><span class="p">]</span> <span class="o">+</span> <span class="s2">"\n"</span><span class="p">);</span>
+<span class="p">};</span>
+
+<span class="nx">draft</span><span class="p">.</span><span class="nx">defineTag</span><span class="p">(</span><span class="s2">"OFTasks"</span><span class="p">,</span> <span class="nx">text</span><span class="p">);</span></code></pre></figure>
+
+<p>And here’s the URL step:</p>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text">omnifocus:///paste?target=inbox&amp;content=[[OFTasks]]</code></pre></figure>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Time For a Refresh]]></title>
