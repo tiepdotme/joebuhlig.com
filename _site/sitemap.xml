@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/fear-of-the-weekly-review/</loc>
+    <lastmod>2016-10-10T00:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/changing-prices-on-everything/</loc>
+    <lastmod>2016-10-07T00:00:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/multiple-lines-in-drafts-to-multiple-tasks-in-omnifocus/</loc>
     <lastmod>2016-10-03T00:00:00-05:00</lastmod>
   </url>
@@ -1241,6 +1249,9 @@
   <url>
     <loc>http://joebuhlig.com/tag/internet/</loc>
   </url>
+  <url>
+    <loc>http://joebuhlig.com/tag/pricing/</loc>
+  </url>
     <url>
       <loc>http://joebuhlig.com/put-distractions-place/</loc>
     </url>
@@ -1885,5 +1896,11 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/multiple-lines-in-drafts-to-multiple-tasks-in-omnifocus/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/changing-prices-on-everything/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/fear-of-the-weekly-review/</loc>
     </url>
 </urlset>
