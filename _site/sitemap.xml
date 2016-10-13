@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://joebuhlig.com/11-the-innovators-dilemma-by-clayton-m-christensen/</loc>
+    <lastmod>2016-10-12T00:00:00-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://joebuhlig.com/fear-of-the-weekly-review/</loc>
     <lastmod>2016-10-10T00:00:00-05:00</lastmod>
   </url>
@@ -884,22 +888,7 @@
     <loc>http://joebuhlig.com/500.html</loc>
   </url>
   <url>
-    <loc>http://joebuhlig.com/guest/thanks/</loc>
-  </url>
-  <url>
-    <loc>http://joebuhlig.com/contact/thanks/</loc>
-  </url>
-  <url>
-    <loc>http://joebuhlig.com/</loc>
-  </url>
-  <url>
-    <loc>http://joebuhlig.com/contact/</loc>
-  </url>
-  <url>
-    <loc>http://joebuhlig.com/guest/</loc>
-  </url>
-  <url>
-    <loc>http://joebuhlig.com/articles/</loc>
+    <loc>http://joebuhlig.com/newsletter/confirm/</loc>
   </url>
   <url>
     <loc>http://joebuhlig.com/newsletter/thank-you/</loc>
@@ -917,10 +906,25 @@
     <loc>http://joebuhlig.com/whaddyaknowjoe/</loc>
   </url>
   <url>
-    <loc>http://joebuhlig.com/about/</loc>
+    <loc>http://joebuhlig.com/</loc>
   </url>
   <url>
-    <loc>http://joebuhlig.com/newsletter/confirm/</loc>
+    <loc>http://joebuhlig.com/articles/</loc>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/contact/thanks/</loc>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/contact/</loc>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/guest/thanks/</loc>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/guest/</loc>
+  </url>
+  <url>
+    <loc>http://joebuhlig.com/about/</loc>
   </url>
   <url>
     <loc>http://joebuhlig.com/tag/distractions/</loc>
@@ -1902,5 +1906,8 @@
     </url>
     <url>
       <loc>http://joebuhlig.com/fear-of-the-weekly-review/</loc>
+    </url>
+    <url>
+      <loc>http://joebuhlig.com/11-the-innovators-dilemma-by-clayton-m-christensen/</loc>
     </url>
 </urlset>

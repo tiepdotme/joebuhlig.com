@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 10 Oct 2016 14:46:11 -0500</lastBuildDate>
+<lastBuildDate>Thu, 13 Oct 2016 17:08:09 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[11: The Innovator’s Dilemma by Clayton M. Christensen [Bookworm]]]></title>
+    <link>http://joebuhlig.com/11-the-innovators-dilemma-by-clayton-m-christensen/</link>
+    <pubDate>Wed, 12 Oct 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/11-the-innovators-dilemma-by-clayton-m-christensen/</guid>
+    <description>
+        <![CDATA[Mike almost put this one down. The business principles discussed are vital but the book itself was a challenge.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Mike almost put this one down. The business principles discussed are vital but the book itself was a challenge.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Fear of the Weekly Review]]></title>
@@ -559,29 +582,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>Quick note: if you’ve previously purchased the book, check your email. There’s a present waiting for you there. If you haven’t bought the book, you can still get it as part of the video series. I’m keeping it simple and throwing it all into one package.</p>
 
 <p>Go check out <a href="https://workingwithomnifocus.com">the new website</a>! There are a handful of freebies there even if you’re not planning to buy.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[8: The Power of Full Engagement by Jim Loehr, Tony Schwartz [Bookworm]]]></title>
-    <link>http://joebuhlig.com/8-the-power-of-full-engagement-by-jim-loehr-tony-schwartz/</link>
-    <pubDate>Wed, 31 Aug 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/8-the-power-of-full-engagement-by-jim-loehr-tony-schwartz/</guid>
-    <description>
-        <![CDATA[When you step out beyond time management you land in the world of energy management. It’s a simple concept that is drastically different for everyone embarking on the journey.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>When you step out beyond time management you land in the world of energy management. It’s a simple concept that is drastically different for everyone embarking on the journey.
-<!--more--></p>
 ]]>
     </content:encoded>
 </item>
