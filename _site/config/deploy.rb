@@ -1,5 +1,5 @@
 # config valid only for current version of Capistrano
-lock '3.4.0'
+lock '3.4.1'
 
 set :application, 'joebuhlig_com'
 set :repo_url, 'git@github.com:joebuhlig/joebuhlig_com.git'
@@ -39,17 +39,4 @@ set :keep_releases, 5
 
 namespace :deploy do
 
-	task :default do
-		transaction do
-			update_jekyll
-		end
-	end
-
-	desc 'Run jekyll to update site before uploading'
-	task :update_jekyll do
-	# clear existing _site
-	# build site using jekyll
-	# remove Capistrano stuff from build
-	%x(rm -rf _site/* && jekyll build && rm _site/Capfile && rm -rf _site/config)
-	end
 end

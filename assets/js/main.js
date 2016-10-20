@@ -59,6 +59,7 @@ $(document).ready(function(){
 		e.preventDefault();
 		$(this).fadeOut(100);
 		$(".right-nav .search-form").slideDown(300);
+		$(".right-nav .search-form .search-box").focus();
 	});
 	$(".theme-toggle").click(function(e){
 		e.preventDefault();

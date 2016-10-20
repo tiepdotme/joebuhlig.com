@@ -14,11 +14,122 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 13 Oct 2016 17:08:09 -0500</lastBuildDate>
+<lastBuildDate>Thu, 20 Oct 2016 15:58:43 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Digging Into Alfred Remote]]></title>
+    <link>http://joebuhlig.com/digging-into-alfred-remote/</link>
+    <pubDate>Mon, 17 Oct 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[alfred]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/digging-into-alfred-remote/</guid>
+    <description>
+        <![CDATA[Alfred is a tool I use hundreds of times a day without realizing it. I’m not sure why it took me so long to pick up Alfred Remote for my phone, but I’m now seeing the potential for some really advanced triggering for my Mac.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/digging-into-alfred-remote.jpg" /><p>Alfred is a tool I use hundreds of times a day without realizing it. I’m not sure why it took me so long to pick up <a href="https://itunes.apple.com/us/app/alfred-remote/id927944141?mt=8&amp;at=1l3vnyQ">Alfred Remote</a> for my phone, but I’m now seeing the potential for some really advanced triggering for my Mac.
+<!--more--></p>
+
+<p>I’ve written before about my use of Alfred for <a href="http://joebuhlig.com/mac-navigation/">navigating applications on my Mac</a>. Remote takes it another step by allowing me to show/hide a program from my phone. At first, I was concerned there might be a bit of lag in activating the action but that fear was immediately eradicated. It’s an instant switch and often happens before my eyes make it back to the Mac.</p>
+
+<p>As an app switcher, Remote is awesome. And given different pages of actions, I can set up different work modes since different tasks require different apps. Take podcasting as an example. Keeping my audio programs and notes a tap away makes recording seamless. But I don’t use some of those applications at any other time, so I keep that set up as a different page in Remote.</p>
+
+<p>This app launching structure is invaluable for webinars and screencasting. It drives me crazy when I watch someone’s screen and they need to search for an open document or program. Or if I’m recording a screencast, this allows me to eliminate the need for fades across screens and lets me jump right into the next window.</p>
+
+<p>Outside of app switching, I use Remote for opening sites I have bookmarked and my most frequent file folders. This works the same way as app launching. Remote opens them immediately on the Mac.</p>
+
+<p>Where I think Remote has power that I have yet to realize is in scripting. I do this with Spotify to get a play/pause button but that’s as far as I’ve gotten. It’s possible to create some sophisticated workflows that can then be launched from Remote. This means you could run some OmniFocus AppleScripts, hide unwanted apps, open other apps, empty the trash, and more with a single tap. Again, I haven’t gone this route yet, but I can see a lot of potential for Remote that I hadn’t considered.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Converting Drafts Text to Title Case]]></title>
+    <link>http://joebuhlig.com/converting-drafts-text-to-title-case/</link>
+    <pubDate>Fri, 14 Oct 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[drafts]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/converting-drafts-text-to-title-case/</guid>
+    <description>
+        <![CDATA[Drafts is easily one of the most used apps on my phone. To me, it is the pinnacle of resistance-free digital capture. If I look through my list of processed drafts, the most common forms of text I capture are content ideas and book suggestions. This tells me I read,...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/converting-drafts-text-to-title-case.jpg" /><p>Drafts is easily one of the most used apps on my phone. To me, it is the pinnacle of resistance-free digital capture. If I look through my list of processed drafts, the most common forms of text I capture are content ideas and book suggestions. This tells me I read, write, and record a lot. 
+<!--more--></p>
+
+<p>I like my placeholders for these new ideas to be uniform. In this case that means each content idea - whether it’s a blog post idea or a new video - is captured as the title I would use for the content itself.</p>
+
+<p>But let’s be serious, I hate hitting the shift key at the beginning of every new word and I’m terrible at remembering which words should be capitalized and which should remain lowercase.</p>
+
+<p>Knowing the power of Drafts, I asked if it were possible for my capture tool to handle this for me. That question led me to <a href="http://leancrew.com/all-this/2015/06/title-case-in-drafts/">an article about title case</a> and JavaScript by the always excellent Dr. Drang.</p>
+
+<p>Using his script as a base, this is what I landed on:</p>
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">small</span> <span class="o">=</span> <span class="s2">"(a|an|and|as|at|but|by|en|for|if|in|of|on|or|the|to|v[.]?|via|vs[.]?)"</span><span class="p">;</span>
+    <span class="kd">var</span> <span class="nx">punct</span> <span class="o">=</span> <span class="s2">"([!\"#$%&amp;'()*+,./:;&lt;=&gt;?@[\\\\\\]^_`{|}~-]*)"</span><span class="p">;</span>
+  
+    <span class="k">this</span><span class="p">.</span><span class="nx">titleCaps</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">title</span><span class="p">){</span>
+        <span class="kd">var</span> <span class="nx">parts</span> <span class="o">=</span> <span class="p">[],</span> <span class="nx">split</span> <span class="o">=</span> <span class="sr">/</span><span class="se">[</span><span class="sr">:.;?!</span><span class="se">]</span><span class="sr"> |</span><span class="se">(?:</span><span class="sr"> |^</span><span class="se">)[</span><span class="sr">"Ò</span><span class="se">]</span><span class="sr">/g</span><span class="p">,</span> <span class="nx">index</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+        
+        <span class="k">while</span> <span class="p">(</span><span class="kc">true</span><span class="p">)</span> <span class="p">{</span>
+            <span class="kd">var</span> <span class="nx">m</span> <span class="o">=</span> <span class="nx">split</span><span class="p">.</span><span class="nx">exec</span><span class="p">(</span><span class="nx">title</span><span class="p">);</span>
+
+            <span class="nx">parts</span><span class="p">.</span><span class="nx">push</span><span class="p">(</span> <span class="nx">title</span><span class="p">.</span><span class="nx">substring</span><span class="p">(</span><span class="nx">index</span><span class="p">,</span> <span class="nx">m</span> <span class="p">?</span> <span class="nx">m</span><span class="p">.</span><span class="nx">index</span> <span class="p">:</span> <span class="nx">title</span><span class="p">.</span><span class="nx">length</span><span class="p">)</span>
+                <span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="sr">/</span><span class="se">\b([</span><span class="sr">A-Za-z</span><span class="se">][</span><span class="sr">a-z.'Õ</span><span class="se">]</span><span class="sr">*</span><span class="se">)\b</span><span class="sr">/g</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">all</span><span class="p">){</span>
+                    <span class="k">return</span> <span class="sr">/</span><span class="se">[</span><span class="sr">A-Za-z</span><span class="se">]\.[</span><span class="sr">A-Za-z</span><span class="se">]</span><span class="sr">/</span><span class="p">.</span><span class="nx">test</span><span class="p">(</span><span class="nx">all</span><span class="p">)</span> <span class="p">?</span> <span class="nx">all</span> <span class="p">:</span> <span class="nx">upper</span><span class="p">(</span><span class="nx">all</span><span class="p">);</span>
+                <span class="p">})</span>
+                <span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="nb">RegExp</span><span class="p">(</span><span class="s2">"\\b"</span> <span class="o">+</span> <span class="nx">small</span> <span class="o">+</span> <span class="s2">"\\b"</span><span class="p">,</span> <span class="s2">"ig"</span><span class="p">),</span> <span class="nx">lower</span><span class="p">)</span>
+                <span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="nb">RegExp</span><span class="p">(</span><span class="s2">"^"</span> <span class="o">+</span> <span class="nx">punct</span> <span class="o">+</span> <span class="nx">small</span> <span class="o">+</span> <span class="s2">"\\b"</span><span class="p">,</span> <span class="s2">"ig"</span><span class="p">),</span> <span class="kd">function</span><span class="p">(</span><span class="nx">all</span><span class="p">,</span> <span class="nx">punct</span><span class="p">,</span> <span class="nx">word</span><span class="p">){</span>
+                    <span class="k">return</span> <span class="nx">punct</span> <span class="o">+</span> <span class="nx">upper</span><span class="p">(</span><span class="nx">word</span><span class="p">);</span>
+                <span class="p">})</span>
+                <span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="nb">RegExp</span><span class="p">(</span><span class="s2">"\\b"</span> <span class="o">+</span> <span class="nx">small</span> <span class="o">+</span> <span class="nx">punct</span> <span class="o">+</span> <span class="s2">"$"</span><span class="p">,</span> <span class="s2">"ig"</span><span class="p">),</span> <span class="nx">upper</span><span class="p">));</span>
+            
+            <span class="nx">index</span> <span class="o">=</span> <span class="nx">split</span><span class="p">.</span><span class="nx">lastIndex</span><span class="p">;</span>
+            
+            <span class="k">if</span> <span class="p">(</span> <span class="nx">m</span> <span class="p">)</span> <span class="nx">parts</span><span class="p">.</span><span class="nx">push</span><span class="p">(</span> <span class="nx">m</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="p">);</span>
+            <span class="k">else</span> <span class="k">break</span><span class="p">;</span>
+        <span class="p">}</span>
+        
+        <span class="k">return</span> <span class="nx">parts</span><span class="p">.</span><span class="nx">join</span><span class="p">(</span><span class="s2">""</span><span class="p">).</span><span class="nx">replace</span><span class="p">(</span><span class="sr">/ V</span><span class="se">(</span><span class="sr">s</span><span class="se">?)\.</span><span class="sr"> /ig</span><span class="p">,</span> <span class="s2">" v$1. "</span><span class="p">)</span>
+            <span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="sr">/</span><span class="se">([</span><span class="sr">'Õ</span><span class="se">])</span><span class="sr">S</span><span class="se">\b</span><span class="sr">/ig</span><span class="p">,</span> <span class="s2">"$1s"</span><span class="p">)</span>
+            <span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="sr">/</span><span class="se">\b(</span><span class="sr">AT&amp;T|Q&amp;A</span><span class="se">)\b</span><span class="sr">/ig</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">all</span><span class="p">){</span>
+                <span class="k">return</span> <span class="nx">all</span><span class="p">.</span><span class="nx">toUpperCase</span><span class="p">();</span>
+            <span class="p">});</span>
+    <span class="p">};</span>
+    
+    <span class="kd">function</span> <span class="nx">lower</span><span class="p">(</span><span class="nx">word</span><span class="p">){</span>
+        <span class="k">return</span> <span class="nx">word</span><span class="p">.</span><span class="nx">toLowerCase</span><span class="p">();</span>
+    <span class="p">}</span>
+    
+    <span class="kd">function</span> <span class="nx">upper</span><span class="p">(</span><span class="nx">word</span><span class="p">){</span>
+      <span class="k">return</span> <span class="nx">word</span><span class="p">.</span><span class="nx">substr</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">).</span><span class="nx">toUpperCase</span><span class="p">()</span> <span class="o">+</span> <span class="nx">word</span><span class="p">.</span><span class="nx">substr</span><span class="p">(</span><span class="mi">1</span><span class="p">);</span>
+    <span class="p">}</span>
+
+<span class="nx">draft</span><span class="p">.</span><span class="nx">content</span> <span class="o">=</span> <span class="nx">titleCaps</span><span class="p">(</span><span class="nx">draft</span><span class="p">.</span><span class="nx">content</span><span class="p">);</span>
+<span class="nx">commit</span><span class="p">(</span><span class="nx">draft</span><span class="p">);</span></code></pre></figure>
+
+<p>To install it, <a href="x-drafts4://x-callback-url/import_action?v=2&amp;tintColor=%5B%0A%0A%5D&amp;shouldConfirm=0&amp;logLevel=1&amp;uuid=FB119A8F-ED30-4CE9-8A5A-CFBC5DE8147D&amp;disposition=0&amp;actionSteps=%5B%0A%20%20%7B%0A%20%20%20%20%22scriptText%22%20%3A%20%22%5C%2F%5C%2F%20Script%20steps%20run%20short%20Javascripts%5Cn%5C%2F%5C%2F%20For%20documentation%20and%20examples%2C%20visit%3A%5Cn%5C%2F%5C%2F%20http%3A%5C%2F%5C%2Fhelp.agiletortoise.com%5Cn%5Cnvar%20small%20%3D%20%5C%22%28a%7Can%7Cand%7Cas%7Cat%7Cbut%7Cby%7Cen%7Cfor%7Cif%7Cin%7Cof%7Con%7Cor%7Cthe%7Cto%7Cv%5B.%5D%3F%7Cvia%7Cvs%5B.%5D%3F%29%5C%22%3B%5Cn%5Ctvar%20punct%20%3D%20%5C%22%28%5B%21%5C%5C%5C%22%23%24%25%26%27%28%29%2A%2B%2C.%5C%2F%3A%3B%3C%3D%3E%3F%40%5B%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5C%5D%5E_%60%7B%7C%7D~-%5D%2A%29%5C%22%3B%5Cn%20%20%5Cn%5Ctthis.titleCaps%20%3D%20function%28title%29%7B%5Cn%5Ct%5Ctvar%20parts%20%3D%20%5B%5D%2C%20split%20%3D%20%5C%2F%5B%3A.%3B%3F%21%5D%20%7C%28%3F%3A%20%7C%5E%29%5B%5C%22%C3%92%5D%5C%2Fg%2C%20index%20%3D%200%3B%5Cn%5Ct%5Ct%5Cn%5Ct%5Ctwhile%20%28true%29%20%7B%5Cn%5Ct%5Ct%5Ctvar%20m%20%3D%20split.exec%28title%29%3B%5Cn%5Cn%5Ct%5Ct%5Ctparts.push%28%20title.substring%28index%2C%20m%20%3F%20m.index%20%3A%20title.length%29%5Cn%5Ct%5Ct%5Ct%5Ct.replace%28%5C%2F%5C%5Cb%28%5BA-Za-z%5D%5Ba-z.%27%C3%95%5D%2A%29%5C%5Cb%5C%2Fg%2C%20function%28all%29%7B%5Cn%5Ct%5Ct%5Ct%5Ct%5Ctreturn%20%5C%2F%5BA-Za-z%5D%5C%5C.%5BA-Za-z%5D%5C%2F.test%28all%29%20%3F%20all%20%3A%20upper%28all%29%3B%5Cn%5Ct%5Ct%5Ct%5Ct%7D%29%5Cn%5Ct%5Ct%5Ct%5Ct.replace%28RegExp%28%5C%22%5C%5C%5C%5Cb%5C%22%20%2B%20small%20%2B%20%5C%22%5C%5C%5C%5Cb%5C%22%2C%20%5C%22ig%5C%22%29%2C%20lower%29%5Cn%5Ct%5Ct%5Ct%5Ct.replace%28RegExp%28%5C%22%5E%5C%22%20%2B%20punct%20%2B%20small%20%2B%20%5C%22%5C%5C%5C%5Cb%5C%22%2C%20%5C%22ig%5C%22%29%2C%20function%28all%2C%20punct%2C%20word%29%7B%5Cn%5Ct%5Ct%5Ct%5Ct%5Ctreturn%20punct%20%2B%20upper%28word%29%3B%5Cn%5Ct%5Ct%5Ct%5Ct%7D%29%5Cn%5Ct%5Ct%5Ct%5Ct.replace%28RegExp%28%5C%22%5C%5C%5C%5Cb%5C%22%20%2B%20small%20%2B%20punct%20%2B%20%5C%22%24%5C%22%2C%20%5C%22ig%5C%22%29%2C%20upper%29%29%3B%5Cn%5Ct%5Ct%5Ct%5Cn%5Ct%5Ct%5Ctindex%20%3D%20split.lastIndex%3B%5Cn%5Ct%5Ct%5Ct%5Cn%5Ct%5Ct%5Ctif%20%28%20m%20%29%20parts.push%28%20m%5B0%5D%20%29%3B%5Cn%5Ct%5Ct%5Ctelse%20break%3B%5Cn%5Ct%5Ct%7D%5Cn%5Ct%5Ct%5Cn%5Ct%5Ctreturn%20parts.join%28%5C%22%5C%22%29.replace%28%5C%2F%20V%28s%3F%29%5C%5C.%20%5C%2Fig%2C%20%5C%22%20v%241.%20%5C%22%29%5Cn%5Ct%5Ct%5Ct.replace%28%5C%2F%28%5B%27%C3%95%5D%29S%5C%5Cb%5C%2Fig%2C%20%5C%22%241s%5C%22%29%5Cn%5Ct%5Ct%5Ct.replace%28%5C%2F%5C%5Cb%28AT%26T%7CQ%26A%29%5C%5Cb%5C%2Fig%2C%20function%28all%29%7B%5Cn%5Ct%5Ct%5Ct%5Ctreturn%20all.toUpperCase%28%29%3B%5Cn%5Ct%5Ct%5Ct%7D%29%3B%5Cn%5Ct%7D%3B%5Cn%20%20%20%20%5Cn%5Ctfunction%20lower%28word%29%7B%5Cn%5Ct%5Ctreturn%20word.toLowerCase%28%29%3B%5Cn%5Ct%7D%5Cn%20%20%20%20%5Cn%5Ctfunction%20upper%28word%29%7B%5Cn%5Ct%20%20return%20word.substr%280%2C1%29.toUpperCase%28%29%20%2B%20word.substr%281%29%3B%5Cn%5Ct%7D%5Cn%5Cndraft.content%20%3D%20titleCaps%28draft.content%29%3B%5Cncommit%28draft%29%3B%5Cn%22%2C%0A%20%20%20%20%22actionStepType%22%20%3A%20%22Script%22%0A%20%20%7D%0A%5D&amp;description=&amp;modifiedAt=2016-10-13%2014%3A03%3A20%20%2B0000&amp;name=Title%20Case&amp;iconImageName=action_script">click here</a>.</p>
+
+<p>From a practical standpoint, I set this up as an action key so I can use it easily. Now, all I do is type the idea, hit TI above the keyboard, and then action it off to where belongs.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Fear of the Weekly Review]]></title>
@@ -3769,7 +3880,7 @@ $("table").tablesorter();
 
 <p>In LCP, I set up a different action for each activity I want to record. Each action uses the same url scheme to send the data on to Google. Here’s what it looks like:</p>
 
-<p><code class="highlighter-rouge">launch://ifttt/trigger?name=&amp;value1=&amp;value2=&amp;value3=[prompt-num:Time in Mins]&amp;value4=[prompt:Notes]</code></p>
+<figure class="highlight"><pre><code class="language-text" data-lang="text">launch://ifttt/trigger?name=&amp;value1=&amp;value2=&amp;value3=[prompt-num:Time in Mins]&amp;value4=[prompt:Notes]</code></pre></figure>
 
 <p>The <code class="highlighter-rouge">name</code> parameter will always be the same: the Trigger Name in the IFTTT recipe. In this case, I’m passing my own name as <code class="highlighter-rouge">value1</code> because this particular action is for recording development work I do for myself. The last three values record the activity type, amount of time I spent on the task, and any notes I want to enter about it.</p>
 
@@ -5247,17 +5358,17 @@ xof = OmniFocus</code></pre></figure>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/base/WorkingWithOmniFocus-Small.png" /><p>In the two days before this book launched I checked off 387 tasks in OmniFocus. And there’s no other tool I’d rather do it with.
 <!--more--></p>
 
-<h2 id="get-working-with-omnifocushttptoolsjoebuhligcomworking-with-omnifocus"><a href="http://tools.joebuhlig.com/working-with-omnifocus/">Get Working with OmniFocus</a></h2>
+<p>##<a href="http://tools.joebuhlig.com/working-with-omnifocus/">Get Working with OmniFocus</a></p>
 
 <p>It’s been down to the wire, but it’s finally here - <em>Working with OmniFocus</em>. A book that takes you through my entire system. It’s not for someone looking for a how-to manual for OmniFocus, but for those looking to understand the deeper concepts and nuances of the tool.</p>
 
 <p>I’m super excited that it’s finally here! I’ve spent most of my editing time trying to make sure that it’s packed full of details and examples. The more real I can be with you, the better you can understand how it works.</p>
 
-<h2 id="affiliate-sign-uphttptoolsjoebuhligcomaffiliates"><a href="http://tools.joebuhlig.com/affiliates/">Affiliate Sign Up</a></h2>
+<p>##<a href="http://tools.joebuhlig.com/affiliates/">Affiliate Sign Up</a></p>
 
 <p>If you’ve read the book and want to share it with others, why not make money while you’re at it? You can <a href="http://tools.joebuhlig.com/affiliates/">sign up</a> to be an affiliate and get paid when others make a purchase using your link.</p>
 
-<h2 id="discuss-the-bookhttpswwwredditcomrjoebuhligcomments3rhediworkingwithomnifocus"><a href="https://www.reddit.com/r/joebuhlig/comments/3rhedi/working_with_omnifocus/">Discuss the Book</a></h2>
+<p>##<a href="https://www.reddit.com/r/joebuhlig/comments/3rhedi/working_with_omnifocus/">Discuss the Book</a></p>
 
 <p>I made a consolidated place for us to chat about the book. Most of the time that discussion is more helpful in public. And the quickest, easiest way I know to do that is with Reddit. I have a Subreddit (<a href="https://www.reddit.com/r/joebuhlig/">/r/joebuhlig</a>) where I’ve posted the link to the book. Let’s discuss it there - <a href="https://www.reddit.com/r/joebuhlig/comments/3rhedi/working_with_omnifocus/">Reddit Discussion</a>.</p>
 ]]>

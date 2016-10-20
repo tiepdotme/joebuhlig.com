@@ -36,7 +36,9 @@ To collect the data I'm using a single recipe in [IFTTT](https://ifttt.com). It 
 
 In LCP, I set up a different action for each activity I want to record. Each action uses the same url scheme to send the data on to Google. Here's what it looks like:
 
-`launch://ifttt/trigger?name={{TimeTracking}}&value1={{Joe Buhlig}}&value2={{Development}}&value3=[prompt-num:Time in Mins]&value4=[prompt:Notes]`
+{% highlight text %}
+launch://ifttt/trigger?name={{TimeTracking}}&value1={{Joe Buhlig}}&value2={{Development}}&value3=[prompt-num:Time in Mins]&value4=[prompt:Notes]
+{% endhighlight %}
 
 The `name` parameter will always be the same: the Trigger Name in the IFTTT recipe. In this case, I'm passing my own name as `value1` because this particular action is for recording development work I do for myself. The last three values record the activity type, amount of time I spent on the task, and any notes I want to enter about it.
 
