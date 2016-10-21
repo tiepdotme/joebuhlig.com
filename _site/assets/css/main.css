@@ -150,7 +150,8 @@ table {
   table td, table th {
     padding: 2px 5px; }
   table tbody tr:nth-child(odd) {
-    background-color: #EEEEEE; }
+    background-color: #EEEEEE;
+    color: #333; }
   table .header {
     cursor: pointer; }
 

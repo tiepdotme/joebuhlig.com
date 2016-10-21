@@ -23,7 +23,7 @@ layout: default
         "category": "{{ post.category | xml_escape }}",
         "content": {{ post.content | strip_html | strip_newlines | jsonify }},
         "url": "{{ post.url | xml_escape }}",
-        "feed": '{{ feed | strip_newlines | xml_escape }}'
+        "feed": '{{ feed | escape | strip_newlines }}'
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}
