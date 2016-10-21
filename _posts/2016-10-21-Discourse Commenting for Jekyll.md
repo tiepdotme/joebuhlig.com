@@ -18,6 +18,7 @@ There are a number of reasons I chose Discourse, but suffice it to say that I ju
 Assuming you have an instance of Discourse running (not the purpose of this post) and you are an admin on said instance, you add the host site as an allowed host in the Discourse settings (Customize → Embedding). That will generate the code you need to embed on each page you want commenting enabled. You'll have to change the embed URL within the code to match the canonical URL of the page it's embedded on. This is what it looks like originally:
 
 {% highlight html %}
+{% raw %}
 <div id='discourse-comments'></div>
 <script type="text/javascript">
   DiscourseEmbed = { discourseUrl: 'http://discussion.joebuhlig.com/',
@@ -29,6 +30,7 @@ Assuming you have an instance of Discourse running (not the purpose of this post
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
   })();
 </script>
+{% endraw %}
 {% endhighlight %}
 
 ## The Jekyll Side
@@ -36,6 +38,7 @@ Assuming you have an instance of Discourse running (not the purpose of this post
 This can't get more basic. Paste the code from Discourse to the bottom of the post layout in Jekyll. After I make the edit for the embed URL, this is what the code looks like:
 
 {% highlight html %}
+{% raw %}
 <div id='discourse-comments'></div>
 <script type="text/javascript">
   DiscourseEmbed = { discourseUrl: 'http://discussion.joebuhlig.com/',
@@ -47,6 +50,7 @@ This can't get more basic. Paste the code from Discourse to the bottom of the po
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
   })();
 </script>
+{% endraw %}
 {% endhighlight %}
 
 ## Development Tweaks
