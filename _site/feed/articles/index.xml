@@ -14,11 +14,45 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 21 Oct 2016 09:12:35 -0500</lastBuildDate>
+<lastBuildDate>Tue, 25 Oct 2016 14:20:03 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Checking In on Dvorak]]></title>
+    <link>http://joebuhlig.com/checking-in-on-dvorak/</link>
+    <pubDate>Mon, 24 Oct 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[dvorak]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/checking-in-on-dvorak/</guid>
+    <description>
+        <![CDATA[It’s been about 10 months since I switched to Dvorak. It’s been at least six months since I’ve written about it. In that six months, I have continued to make improvements but I’ve also noticed an interesting tidbit about my relationship with QWERTY.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/checking-in-on-dvorak.jpeg" /><p>It’s been about 10 months since I <a href="http://joebuhlig.com/dvorak-transition/">switched to Dvorak</a>. It’s been at least six months since I’ve <a href="http://joebuhlig.com/is-dvorak-worth-it/">written about it</a>. In that six months, I have continued to make improvements but I’ve also noticed an interesting tidbit about my relationship with QWERTY.
+<!--more--></p>
+
+<p>First, I’m loving Dvorak. I didn’t have RSI issues beforehand but I can tell there’s less strain on my fingers now. I have no solid numbers on it but I like knowing I can feel the difference. And given the large amount of time I keep my finger tips on keys every day, I can’t help but think this is smart in the long-term.</p>
+
+<p>As for typing speed, I’m still climbing. I’m currently sitting at 118 words a minute. I keep thinking it will plateau but though the rate of increase has slowed significantly, it is still moving upward. I’m guessing it will peak somewhere around 125.</p>
+
+<p>As expected, my QWERTY speed has dropped but lately it’s been holding steady at about 40 words a minute. By my standards that’s pretty terrible, but considering I rarely use QWERTY and am not trying to maintain it, I’m fine with that number. It’s still high enough that I don’t appear to be a complete fool when I use it. At least most of the time.</p>
+
+<p>But here’s the catch: I can’t think about it too hard. If I just type, it works out great no matter which layout I’m on. But if I’m on QWERTY and I try to be intentional about the keys and focus on them, it all comes crumbling down. I have to watch my hands and really work at it.</p>
+
+<p>Overall, I’m still really happy I made the switch. There are some difficulties with being “not normal” but to me it’s worth it. I can deal with the slight setbacks for the sake of the benefits.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Discourse Commenting for Jekyll]]></title>
