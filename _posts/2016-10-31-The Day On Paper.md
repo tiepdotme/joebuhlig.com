@@ -18,7 +18,7 @@ But planning the day out in my digital calendar doesn't work. I've tried it mult
 
 I've talked about this in multiple places, but I find great value in planning each minute ahead of time. I list the date at the top and the hours down the side. While reviewing my calendar and Dashboard, I decide what I will do at each point in the day. This usually happens at night when I'm shutting down the house and prepping for bed.
 
-<img class="center-image post-image-small" src="/assets/posts_extra/the-day-on-paper/daily-time-budget.jpg" />
+<img class="center-image post-image-small" src="http://joebuhlig.com/assets/posts_extra/the-day-on-paper/daily-time-budget.jpg" />
 
 ## Three Things
 
