@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 25 Oct 2016 14:20:03 -0500</lastBuildDate>
+<lastBuildDate>Thu, 27 Oct 2016 17:16:54 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[12: The Productivity Project by Chris Bailey [Bookworm]]]></title>
+    <link>http://joebuhlig.com/12-the-productivity-project-by-chris-bailey/</link>
+    <pubDate>Wed, 26 Oct 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/12-the-productivity-project-by-chris-bailey/</guid>
+    <description>
+        <![CDATA[Mike and Joe get a breath of fresh air with a book on productivity. There are a lot of tips here that they’ve both practiced for years but learned a lot regardless.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Mike and Joe get a breath of fresh air with a book on productivity. There are a lot of tips here that they’ve both practiced for years but learned a lot regardless.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Checking In on Dvorak]]></title>
@@ -593,44 +616,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>When I read reviews or hear comparisons of new email apps, I’m usually left asking “why?” Why are all these extra features necessary? Why is everyone trying to solve the “email problem?” The extra bells and whistles won’t make your decisions for you. It won’t write your responses for you. That’s up to you.</p>
 
 <p>We all get email. Some of us get a lot more than others. And if you feel you have an email problem, <em>you</em> need to do something about it. The issue isn’t the app. Don’t complicate matters looking for a third party app. Keep it dead simple and own your decisions. You’ll feel a lot better in the end.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Building Systems You Won't Use]]></title>
-    <link>http://joebuhlig.com/building-systems-you-wont-use/</link>
-    <pubDate>Fri, 16 Sep 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[systems]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/building-systems-you-wont-use/</guid>
-    <description>
-        <![CDATA[I’m always looking for a way to automate a process or develop a structure that removes steps from a frequently repeated task. That’s to be expected since I enjoy the world of productivity and do a fair amount of development.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/building-systems-you-wont-use.jpeg" /><p>I’m always looking for a way to automate a process or develop a structure that removes steps from a frequently repeated task. That’s to be expected since I enjoy the world of productivity and do a fair amount of development.
-<!--more--></p>
-
-<p>But building new systems to increase efficiency and accomplish new actions used to be relegated to the Mac or PC. You can write scripts and code there that do really sophisticated tasks. The only limit is your imagination and time devoted to it.</p>
-
-<p>With the creation of apps such as <a href="https://itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8&amp;at=1l3vnyQ">Workflow</a>, <a href="https://itunes.apple.com/us/app/launch-center-pro-shortcut/id532016360?mt=8&amp;at=1l3vnyQ">Launch Center Pro</a>, and <a href="https://itunes.apple.com/us/app/editorial/id673907758?mt=8&amp;at=1l3vnyQ">Editorial</a>, the system building process has more or less made its way onto iOS. And I leverage these heavily in my daily iPhone use.</p>
-
-<p>Although this ability comes with a plethora of benefits, it also comes with a very large downside: <em>time consumption</em>.</p>
-
-<p>My general rule of thumb for development and systems building is “if you can think it, you can build it.” If you have an idea for a script or a new system, you can generally make it happen given enough time and resources. Yes, there are occasions that this assumption falls down, but in my experience it generally holds true.</p>
-
-<p>If you combine this assumption with the flexibility, ease, and novelty of an app like Workflow, it’s easy to find yourself looking for ways to use it. “It has so much power, I should use it for <strong>__</strong><em>__</em>.” And new workflows are fun to build, so you get to “work” on a new process that will help you later.</p>
-
-<p>The trouble is that it’s time-consuming to build these new systems and since we utilize an app just because we can, we end up building things that serve no real purpose in our daily activities. It’s cool that you can turn a series of pictures into a GIF but how often do you need to do that? Is it really necessary to spend time building these out if you’re only going to use it a couple times, if ever?</p>
-
-<p>My point is this: don’t waste time building new systems just because you can or you think there might be a use for it. Determine the need up front and then get to work. Make sure it has a necessary and legitimate use before you spend time creating it.</p>
 ]]>
     </content:encoded>
 </item>
