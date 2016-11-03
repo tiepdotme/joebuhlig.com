@@ -14,11 +14,101 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 27 Oct 2016 17:18:01 -0500</lastBuildDate>
+<lastBuildDate>Thu, 03 Nov 2016 16:04:11 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[The Day On Paper]]></title>
+    <link>http://joebuhlig.com/the-day-on-paper/</link>
+    <pubDate>Mon, 31 Oct 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[analog]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/the-day-on-paper/</guid>
+    <description>
+        <![CDATA[I have tried numerous methods of managing my daily tasks digitally. But no matter the tool or the method, I am unable to replicate the clarity and motivation that comes from using pen and paper to plan and reflect on my day.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/the-day-on-paper.jpeg" /><p>I have tried numerous methods of managing my daily tasks digitally. But no matter the tool or the method, I am unable to replicate the clarity and motivation that comes from using pen and paper to plan and reflect on my day.
+<!--more--></p>
+
+<p>Don’t misunderstand. I still rely on digital tools heavily for everything beyond today. OmniFocus and my calendar play a big part in helping me determine what each day looks like. And my <a href="http://joebuhlig.com/the-omnifocus-dashboard/">Dashboard</a> is vital to the execution process.</p>
+
+<p>But planning the day out in my digital calendar doesn’t work. I’ve tried it multiple times. There’s something motivating and more permanent involved in pen and paper. I can’t drag-and-drop a commitment to a different time of day when I used pen. And the longer I commit my plan to paper, the more I’ve learned about myself when the day is done. This learning process has shown me a need for putting three separate portions of my day on paper.</p>
+
+<h2 id="budgeting-my-time">Budgeting My Time</h2>
+
+<p>I’ve talked about this in multiple places, but I find great value in planning each minute ahead of time. I list the date at the top and the hours down the side. While reviewing my calendar and Dashboard, I decide what I will do at each point in the day. This usually happens at night when I’m shutting down the house and prepping for bed.</p>
+
+<p><img class="center-image post-image-small" src="http://joebuhlig.com/assets/posts_extra/the-day-on-paper/daily-time-budget.jpg" /></p>
+
+<h2 id="three-things">Three Things</h2>
+
+<p>To the right of my schedule and on the same page, I write down the three things I need to get done that day (or if I’m doing it the night before, the next day). Above all else, these are my goals to complete. Having no more than three means I can easily recall them throughout the day. Committing to no less than three means I’m not taking it easy. Sometimes I draw a line under them and list a few nice-to-haves, but those are ancillary and I try not to touch them until my three are complete.</p>
+
+<h2 id="journal-entry">Journal Entry</h2>
+
+<p>My schedule for the day and my three things go on the left side of the fold in <a href="http://joebuhlig.com/analog-writing-organization/">my notebook</a>. The right side is for my reflection journal at the end of the day. Some people have a list of prompts they use for journal entry. That’s too much for me. I look at my commitments left of the fold as compared to what I accomplished and write about how I did. Did I check everything off or come up short? It’s the daily comparison of intentions to execution that keeps me coming back to pen and paper.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Behind The Scenes Of Working With Omnifocus]]></title>
+    <link>http://joebuhlig.com/behind-the-scenes-of-working-with-omnifocus/</link>
+    <pubDate>Fri, 28 Oct 2016 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[omnifocus]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/behind-the-scenes-of-working-with-omnifocus/</guid>
+    <description>
+        <![CDATA[More often than not, I find myself surprised by the questions I get after releasing a new script or product. After releasing Working With OmniFocus I received more emails about how the site is set up then I did about the course itself. It’s apparent to me that this is...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/behind-the-scenes-of-working-with-omnifocus.jpg" /><p>More often than not, I find myself surprised by the questions I get after releasing a new script or product. After releasing <a href="https://workingwithomnifocus.com">Working With OmniFocus</a> I received more emails about how the site is set up then I did about the course itself. It’s apparent to me that this is something different that others are interested in. So here’s how I did it.
+<!--more--></p>
+
+<h2 id="wordpress">WordPress</h2>
+
+<p>The core is WordPress. It’s fast and easy to set up and I knew going this route would open a lot of doors to existing code. I could build the thing myself, but never in the same amount of time. There’s a lot of flexibility in WordPress and I’m very familiar with it.</p>
+
+<h2 id="a-small-orange">A Small Orange</h2>
+
+<p>Anytime I build a new WordPress site, I turn to <a href="https://asmallorange.com/">A Small Orange</a> for the hosting. I can run my own server through <a href="https://m.do.co/c/b0f9f06b6067">Digital Ocean</a> but the peace of mind from handing it off is worth it to me. And frankly, the set up time is much faster and more painless with ASO. Throw in fast, quality support and I’m sold.</p>
+
+<h2 id="paid-memberships-pro">Paid Memberships Pro</h2>
+
+<p>The membership mechanism I prefer is <a href="https://www.paidmembershipspro.com/">Paid Memberships Pro</a>. I like the single, yearly cost of PMPro and the extreme flexibility made possible by their add-ons and codebase. It takes care of my restricted content, payment gateways, the affiliate program, and email newsletter. And buying their annual license allows me to use it across an unlimited number of sites, which is great for building multiple online courses.</p>
+
+<h2 id="theme-my-login">Theme My Login</h2>
+
+<p>I don’t know why more sites don’t use <a href="https://wordpress.org/plugins/theme-my-login/">Theme My Login</a>. It seems very unprofessional to me when I am presented with the standard WordPress login screen on your site. TML fixes that and it’s free. Use it.</p>
+
+<h2 id="vimeo">Vimeo</h2>
+
+<p>I chose <a href="https://vimeo.com">Vimeo</a> for hosting the videos themselves for two main reasons: embedding control and their player API. I don’t want the videos discoverable anywhere but on my site. That’s how I can make it a paid course. And the API is what allows me to check for the amount of a video that’s been watched by the user, which is important for VimPosts.</p>
+
+<h2 id="wp-vimposts">WP VimPosts</h2>
+
+<p>This is the part most folks ask about. VimPosts is a WordPress plugin I wrote specifically for Working With OmniFocus. It’s what allows me to embed the Vimeo video by adding only the ID number to the WordPress post. It uses the Vimeo player API to decide when to mark a video as “watched” and gives the user the ability to manually trigger “watched” as well. It also creates a shortcode I can use within a WordPress page for creating a list of videos like you <a href="https://workingwithomnifocus.com/list/">see here</a>.</p>
+
+<p>Currently, this plugin is dependent on the Working With OmniFocus website and will break anywhere else. But in my work on Working With Alfred, I plan to make it a standalone plugin. If you’re interested in staying up with the development process, <a href="https://github.com/joebuhlig/wp-vimposts">I have it on GitHub</a>. I have some new features planned for it and have considered making it available as a premium plugin but I’m currently undecided. If it’s something you’re interested in using, let me know in the comments below.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Checking In on Dvorak]]></title>
