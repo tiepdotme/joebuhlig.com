@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 08 Nov 2016 11:00:25 -0600</lastBuildDate>
+<lastBuildDate>Thu, 10 Nov 2016 16:02:16 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[13: Managing Oneself by Peter Drucker [Bookworm]]]></title>
+    <link>http://joebuhlig.com/13-managing-oneself-by-peter-drucker/</link>
+    <pubDate>Wed, 09 Nov 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/13-managing-oneself-by-peter-drucker/</guid>
+    <description>
+        <![CDATA[One of the most valuable tasks you can begin is the development of your self-awareness. This week Mike and Joe delve into the questions posed by Peter Drucker that prompt you to learn how to manage yourself.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>One of the most valuable tasks you can begin is the development of your self-awareness. This week Mike and Joe delve into the questions posed by Peter Drucker that prompt you to learn how to manage yourself.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[A Roller Coaster Relationship With Books]]></title>
@@ -583,70 +606,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>The last change worth noting is search. I moved over to <a href="http://lunrjs.com/">lunar.js</a> to calculate the results for the search. This is primarily due to my use of <a href="http://jekyllrb.com/">Jekyll</a> as a site generator. Lunar makes it a lot easier since I don’t have any server-side methods I can use to generate the search results. You can use the search box in the header or by visiting the <a href="/search">dedicated search page</a>.</p>
 
 <p>Overall, I’m really happy with this new setup and excited to share with you. But I’m very aware that redesigns like this often come with unexpected bugs. If you find an issue, please let me know about it in the <a href="#discourse-comments">discussion below</a>.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Zen & The Art of Work]]></title>
-    <link>http://joebuhlig.com/zen-the-art-of-work/</link>
-    <pubDate>Thu, 29 Sep 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[reviews]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/zen-the-art-of-work/</guid>
-    <description>
-        <![CDATA[I’ve always admired the thought and intentionality that Kourosh Dini applies to his methods of working and developing structures that help him accomplish his tasks. So I was excited when he gave me the opportunity to go through his video course, Zen &amp; The Art of Work, prior to its...]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/zen-the-art-of-work.jpg" /><p>I’ve always admired the thought and intentionality that Kourosh Dini applies to his methods of working and developing structures that help him accomplish his tasks. So I was excited when he gave me the opportunity to go through his video course, <a href="https://gumroad.com/a/753349747"><em>Zen &amp; The Art of Work</em></a>, prior to its launch. I must say that I think this is his best work to date.
-<!--more--></p>
-
-<p>Dini has a reputation for writing in-depth, thought-provoking books and those books were instrumental in guiding me to develop my own processes. But he’s now taking another step in the creation of video modules that illustrate what I would call a combination of <em>Deep Work</em> and <em>Getting Things Done</em>.</p>
-
-<p>I’ve been a practitioner of GTD for a long time and a recent convert to the concept of Deep Work sessions. Dini is able to use visual representations in conjunction with practical examples of how these concepts work together in real life scenarios. Because of this, <em>Zen &amp; The Art of Work</em> is one of (if not the) best demonstrations of how these principles can lead to the calm, intentional practice of getting work done that matters.</p>
-
-<p>I have to confess that I was surprised by the number of takeaways I had after completing the course. Some are simple, almost obvious. Others were completely new to me:</p>
-
-<ul>
-  <li>Pause before going onto the next task.</li>
-</ul>
-
-<p>I have a habit of just working down a list. A simple pause between tasks can help me be more intentional about what I’m doing. It becomes a way to prevent any haphazard ways of working.</p>
-
-<ul>
-  <li>Be with the work.</li>
-</ul>
-
-<p>Like most information workers, I deal with almost constant desire to procrastinate. Dini introduced me to this idea of just being in the presence of the work to be completed and doing nothing else. And I can tell you that the amount of self-control necessary to start the work, once you put yourself in the presence of the work, is much less with this practice in place.</p>
-
-<ul>
-  <li>Designing work sessions.</li>
-</ul>
-
-<p>I had never thought about work being done in sessions prior to reading <em>Deep Work</em>. I had loosely practiced this but never intentionally. Dini is able to carefully articulate how work sessions can be initiated and focused in a way that sets you up for following through on your intentions. He gave me a clarity about sessions that I had been seeking.</p>
-
-<ul>
-  <li>Process inboxes after each session.</li>
-</ul>
-
-<p>In the past I’ve been consistent in clearing my inboxes every morning. But Dini suggests clearing them at the end of every work session. This is mostly due to his recommendations on how to leverage the power of an inbox while in the middle of a session, but it has me clearing “in” more often each day. And the mental freedom that has come with it has been surprising. It is certainly a practice I intend to maintain.</p>
-
-<ul>
-  <li>Dini’s music is excellent for work sessions.</li>
-</ul>
-
-<p>As part of the course you get a bonus album of Dini’s music. I have long been searching for soothing music that is suited for my writing time and have yet to discover anything as perfectly suited as this album. I’ve known Kourosh composes songs for a while but for some reason I’ve never listened in the past.</p>
-
-<p><a href="https://gumroad.com/a/753349747"><em>Zen &amp; The Art of Work</em></a> is an excellent course for those looking to be intentional with the work they do. It’s perfectly suited for newcomers to the productivity space and will be at the top of my list of recommendations for where to start. But it’s also a great resource for those who’ve been at it for a while. The real world examples are invaluable and Dini can easily demonstrate how to implement these concepts. I highly recommended this course.</p>
-
-<p>For more information on the course, you can visit <a href="http://www.zenandtheartofwork.com">zenandtheartofwork.com</a>.</p>
-
-<p><small><strong>Disclaimer:</strong> I was given a free copy of the course for this review and it includes affiliate links. I can honestly say my opinion of the course hasn’t been colored by this fact, but regardless, it’s something I felt you should know.</small></p>
 ]]>
     </content:encoded>
 </item>
