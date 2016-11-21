@@ -14,11 +14,96 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 17 Nov 2016 15:22:03 -0600</lastBuildDate>
+<lastBuildDate>Mon, 21 Nov 2016 05:28:54 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Hybrid Productivity]]></title>
+    <link>http://joebuhlig.com/hybrid-productivity/</link>
+    <pubDate>Mon, 21 Nov 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[productivity]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/hybrid-productivity/</guid>
+    <description>
+        <![CDATA[There’s a common misconception in the productivity world that when you develop a new process or system it needs to be entirely digital or entirely analog. Or the more common version of this dilemma: to work toward the use of a single database for your tasks. That may be nice,...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/hybrid-productivity.jpg" /><p>There’s a common misconception in the productivity world that when you develop a new process or system it needs to be entirely digital or entirely analog. Or the more common version of this dilemma: to work toward the use of a single database for your tasks. That may be nice, but it’s far from necessary.
+<!--more--></p>
+
+<p>In one week, I join the staff of our local church as Director of IT. As a part of that role, there needs to be a way to track the projects I have going on at the church. A handful of other folks will also be participating in the collection of those projects, as well as taking ownership of them.</p>
+
+<p>For this reason (and many others), I set up a <a href="http://discourse.org">Discourse forum</a> to help me manage the work I do at the church. I can try to duplicate tasks and projects across Discourse and OmniFocus, but why? Yes, this creates two systems to maintain but they serve completely separate purposes. They need to be broken up.</p>
+
+<p>The key here lies in boundaries and hard lines. OmniFocus manages the work I personally need to do and Discourse will track the work I need to do at the church. But this only works if I treat the church as its own context. I work off of Discourse when I am “on the clock.” I shut it off when I’m on my own time.</p>
+
+<p>The same process works with digital tools combined with analog. As long as there are clear lines where one drops off and the other picks up, all is well. It’s when you try to mix systems, duplicate tasks, and create sync methods that issues arise and unnecessary problems surface. It’s okay to use multiple systems.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Auto-Archiving Emails in Gmail]]></title>
+    <link>http://joebuhlig.com/autoarchiving-emails-in-gmail/</link>
+    <pubDate>Fri, 18 Nov 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[email]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/autoarchiving-emails-in-gmail/</guid>
+    <description>
+        <![CDATA[In the midst of reading for Bookworm, I discovered my habit of quickly checking my email throughout the day. It’s a simple habit on the surface, but try to break it and you’ll find that willpower alone may not be enough to win.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/autoarchiving-emails-in-gmail.jpeg" /><p>In the midst of reading for <a href="http://bookworm.fm">Bookworm</a>, I discovered my habit of quickly checking my email throughout the day. It’s a simple habit on the surface, but try to break it and you’ll find that willpower alone may not be enough to win.
+<!--more--></p>
+
+<p>I set out to create resistance to checking my email from my phone. I can remove it entirely but I have legitimate scenarios that dictate the checking of email on the go. Since I can’t remove it, I decided to force difficulties when opening an email in any scenario.</p>
+
+<p>Instead of removing email on my phone, I wrote a Google Apps Script that moves any read message in my inbox to the archive. And it does so once every minute. It’s basic and seems to not accomplish much since the messages end up in my archive anyway. But what if I need to reply? What if I need to act on that email? If I open it and don’t reply immediately or don’t capture in some way, it’s gone. Not completely, but it’s moved out of sight. And I will likely drop the ball since there is no placeholder in my inbox. That by itself is enough to keep me from opening mails on my phone. I can’t have them disappear.</p>
+
+<p>I should warn you that if you decide to set this up, it will be frustrating at first. I failed immediately and checked my email shortly after installing the script. I saw a message I wanted to read but knew I couldn’t touch it or it would be gone since I didn’t have time to act on it. I spent a lot of time trying to get around this setup and quickly found that I couldn’t check a mail without a lot of extra steps. It’s a lot easier to not check it at all.</p>
+
+<p><strong>Warning: Before going further, make sure read messages are ready to be archived. They will be moved.</strong></p>
+
+<p>To set this up you need to go to your Google Drive and created a new Google Apps Script. Here’s the code to paste into that script:</p>
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">function</span> <span class="nx">autoArchiveGmail</span><span class="p">()</span> <span class="p">{</span>
+    <span class="kd">var</span> <span class="nx">threads</span> <span class="o">=</span> <span class="nx">GmailApp</span><span class="p">.</span><span class="nx">search</span><span class="p">(</span><span class="s1">'label:inbox is:read'</span><span class="p">);</span>
+    <span class="k">for</span> <span class="p">(</span><span class="kd">var</span> <span class="nx">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="nx">threads</span><span class="p">.</span><span class="nx">length</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+        <span class="nx">threads</span><span class="p">[</span><span class="nx">i</span><span class="p">].</span><span class="nx">moveToArchive</span><span class="p">();</span>
+    <span class="p">}</span>
+<span class="p">}</span></code></pre></figure>
+
+<p>To run it the first time, click the debugger icon and give the script access to your Gmail:</p>
+
+<p><img class="center-image post-image-small" src="http://joebuhlig.com/assets/posts_extra/autoarchiving-emails-in-gmail/debugger.jpg" /></p>
+
+<p><img class="center-image post-image-small" src="http://joebuhlig.com/assets/posts_extra/autoarchiving-emails-in-gmail/permissions.jpg" /></p>
+
+<p>Once the script is in place, set up a new trigger for it:</p>
+
+<p><img class="center-image post-image-small" src="http://joebuhlig.com/assets/posts_extra/autoarchiving-emails-in-gmail/trigger_menu.jpg" /></p>
+
+<p><img class="center-image post-image-large" src="http://joebuhlig.com/assets/posts_extra/autoarchiving-emails-in-gmail/trigger.jpg" /></p>
+
+<p>I wish you all the best in checking email from your phone.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Food and Productivity (From a Farm Boy)]]></title>
@@ -542,72 +627,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <content:encoded>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Mike almost put this one down. The business principles discussed are vital but the book itself was a challenge.
 <!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Fear of the Weekly Review]]></title>
-    <link>http://joebuhlig.com/fear-of-the-weekly-review/</link>
-    <pubDate>Mon, 10 Oct 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[reviews]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/fear-of-the-weekly-review/</guid>
-    <description>
-        <![CDATA[I’m all about reviews. I think their value greatly outweighs the time involved and energy expended. Most of the time it’s easy for me to initiate a review and step through its checklist, but there are days when I see a weekly review coming up on the calendar and start...]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/fear-of-the-weekly-review.jpeg" /><p>I’m all about reviews. I think their value greatly outweighs the time involved and energy expended. Most of the time it’s easy for me to initiate a review and step through its checklist, but there are days when I see a weekly review coming up on the calendar and start dreading it immediately.
-<!--more--></p>
-
-<p>It’s simple really. My dread is rooted in fear, which is a bit odd to say at first. There is a large group of GTDers who find no value in a weekly review and they often cite their hatred for the practice and the amount of time necessary to complete it. Or they do a smaller, broken up version of a weekly review on a daily basis because it’s overwhelming to do it all it once. But if you look at all of these cases through the lens of fear, you can see surprising similarities.</p>
-
-<p>When I start to fear the weekly review, it’s often because I fell short of my goals for the week, feel overloaded, have to say “no” to projects I love, or haven’t done my due diligence to empty my mind. Doing a weekly review will force me to do un-fun work and make decisions I don’t want to make. But when I’ve achieved my weekly goals and faithfully captured my ideas, I look forward to the review because I know it will validate my success.</p>
-
-<p>When GTDers (myself included) choose to put off the weekly review, it’s often due to fear of what we’ll learn as opposed to time constraints. If it’s valuable, we’ll make time for it. I would even argue that the weekly review is what allows you to trust your system and the foundation of its successful use.</p>
-
-<p>If you’ve sworn off the weekly review or broken it down into smaller daily pieces, why is that? Is there a fear of what you’ll see? Can you trust the system if you don’t regularly validate its accuracy? When do you step back and look at the overall picture of your commitments?</p>
-
-<p>If you’re like me, the times when you fear the weekly review are the times it’s the most important to complete.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Changing Prices On… Everything]]></title>
-    <link>http://joebuhlig.com/changing-prices-on-everything/</link>
-    <pubDate>Fri, 07 Oct 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[pricing]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/changing-prices-on-everything/</guid>
-    <description>
-        <![CDATA[One of my most hated tasks is setting the price for a new product. It’s painful and it seems like I can never get it right. The bright side is that I’ve been able to learn a lot in the process and that has led me to a price simplification,...]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/changing-prices-on-everything.jpeg" /><p>One of my most hated tasks is setting the price for a new product. It’s painful and it seems like I can never get it right. The bright side is that I’ve been able to learn a lot in the process and that has led me to a price simplification, effective immediately.
-<!--more--></p>
-
-<p>Let’s start with the popular one, <a href="https://workingwithomnifocus.com"><em>Working With OmniFocus</em></a>. When I originally released it as a book, it was $17 at launch and moved to $22 dollars a week later. This worked well from a financial standpoint but it led to a number of emails from folks who missed the early discount. I have no issues with people asking about it, but it took time I wasn’t expecting to give. And from a long term business stance, it also means that potential buyers may hold off on making a purchase thinking the price may come down again in the future. As opposed to playing these discount games, I’d rather it be set and consistent.</p>
-
-<p>When <em>Working With OmniFocus</em> moved to a video course it seemed logical to me (and friends in the business) that raising the price to $37 was easily justified if not a little low. That may be true if I’m trying to make it a more exclusive membership, but I’m not. I would rather it be in the hands of more people and have a broader impact. Following basic supply and demand principles, that means the current price needs to be reconsidered.</p>
-
-<p><a href="https://workingwithideas.co"><em>Working With Ideas</em></a> was plagued with many of the same issues. It was a lot more intensive to develop and after consulting others who have done something similar, I landed on $72. Again, this creates the feeling of exclusivity that I’m <em>not</em> shooting for. Especially considering I’ve left it at the introductory price due to a lack of interest.</p>
-
-<p>And then there’s Working With Alfred. This one is extremely new on the horizon and has a long way to go yet. But the pricing discussion for this one is the same. Where should it land and how can I price it to be accessible to a large number of users while covering my costs?</p>
-
-<p>One thing I’ve learned in my pricing adventure is that I love simplicity and consistency. I also place value in reaching higher numbers of people with the resources I create. So that means I want to bring everything to a uniform price, preferably at the lower end of my comfort zone. Based on my experience and trusting my intuition, that leads me to $17 for each.</p>
-
-<p>So effective today, <em>Working With OmniFocus</em> and <em>Working With Ideas</em> are each <strong>$17</strong>. And I’m no longer doing discounts or release pricing. It’s also means that when Working With Alfred is released it’ll be $17 as well. I’m keeping it simple and dependable.</p>
 ]]>
     </content:encoded>
 </item>
