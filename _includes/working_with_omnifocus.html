@@ -1,7 +1,7 @@
 <div class="feed-item ad">
 	<div class="ad-img">
 		<a href="https://workingwithomnifocus.com">
-			<img src="/assets/base/wwo_ad.jpg" />
+			<img src="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/base/wwo_ad.jpg?v={{ site.version }}" />
 		</a>
 	</div>
 	<div class="ad-text">

@@ -35,7 +35,7 @@
 		<h2>Working with OmniFocus</h2>
 		<div class="callout-book-cover">
 			<a href="http://tools.joebuhlig.com/working-with-omnifocus/">
-				<img class="callout-image" src="/assets/base/WorkingWithOmniFocus-Small.png" />
+				<img class="callout-image" src="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/base/WorkingWithOmniFocus-Small.png?v={{ site.version }}" />
 			</a>
 		</div>
 		<blockquote style="border: 0px; text-align:center;">Stop searching for the right way to use OmniFocus. There isn’t one.</blockquote>

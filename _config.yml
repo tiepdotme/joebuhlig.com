@@ -9,6 +9,8 @@ author: joe_buhlig
 copyright: Copyright © Joe Buhlig 2016 • All Rights Reserved
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://joebuhlig.com" # the base hostname & protocol for your site
+cdn_url: http://cdn.joebuhlig.com
+version: 1
 twitter_username: joebuhlig
 github_username:  joebuhlig
 tumblr_username: joebuhlig

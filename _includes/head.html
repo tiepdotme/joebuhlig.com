@@ -9,23 +9,22 @@
 <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 <!-- Stylesheets -->
-<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/css/main.css?v={{ site.version }}">
 <!-- Feeds -->
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed" | prepend: site.url }}" />
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Articles Only" href="{{ "/feed/articles" | prepend: site.url }}" />
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Podcast Only" href="{{ "/feed/podcast" | prepend: site.url }}" />
-<!-- Fonts -->
-<link href="http://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet" type="text/css">
+
 <!-- Favicons and icons -->
 
-<link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/base/apple-touch-icon.png?v=XBrNAby3Gx" | prepend: site.url }}">
-<link rel="icon" type="image/png" href="{{ "/assets/base/favicon-32x32.png?v=XBrNAby3Gx" | prepend: site.url }}" sizes="32x32">
-<link rel="icon" type="image/png" href="{{ "/assets/base/favicon-16x16.png?v=XBrNAby3Gx" | prepend: site.url }}" sizes="16x16">
-<link rel="manifest" href="{{ "/assets/base/manifest.json?v=XBrNAby3Gx" | prepend: site.url }}">
-<link rel="mask-icon" href="{{ "/assets/base/safari-pinned-tab.svg?v=XBrNAby3Gx" | prepend: site.url }}" color="#7cba01">
-<link rel="shortcut icon" href="{{ "/assets/base/favicon.ico?v=XBrNAby3Gx" | prepend: site.url }}">
-<meta name="msapplication-config" content="{{ "/assets/base/browserconfig.xml?v=XBrNAby3Gx" | prepend: site.url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/base/apple-touch-icon.png?v={{ site.version }}">
+<link rel="icon" type="image/png" href="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/base/favicon-32x32.png?v={{ site.version }}" sizes="32x32">
+<link rel="icon" type="image/png" href="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/base/favicon-16x16.png?v={{ site.version }}" sizes="16x16">
+<link rel="manifest" href="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/base/manifest.json?v={{ site.version }}">
+<link rel="mask-icon" href="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/base/safari-pinned-tab.svg?v={{ site.version }}" color="#7cba01">
+<link rel="shortcut icon" href="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/base/favicon.ico?v={{ site.version }}">
+<meta name="msapplication-config" content="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/base/browserconfig.xml?v={{ site.version }}">
 <meta name="theme-color" content="#333333">
 <!-- Open Graph tags -->
 <meta content="{{ site.title }}" property="og:site_name">
@@ -36,7 +35,7 @@
 {% if page.url %}<meta content="{{ site.url }}{{ page.url }}" property="og:url">{% endif %}
 {% if page.date %}<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
 <meta content="{{ site.url }}/about/" property="article:author">{% endif %}
-{% if page.image %}<meta content="{{ site.url }}{{ page.image }}" property="og:image">{% else %}<meta content="{{ site.url }}/assets/base/header_tree.png" property="og:image">{% endif %}
+{% if page.image %}<meta content="{{ site.url }}{{ page.image }}" property="og:image">{% else %}<meta content="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/base/apple-touch-icon.png?v={{ site.version }}" property="og:image">{% endif %}
 {% if page.categories %}{% for category in page.categories limit:1 %}<meta content="{{ category }}" property="article:section">{% endfor %}{% endif %}
 {% if page.tags %}{% for tag in page.tags %}<meta content="{{ tag }}" property="article:tag">{% endfor %}{% endif %}
 <!-- Twitter Cards -->
@@ -46,8 +45,8 @@
 {% if page.title %}<meta name="twitter:title" content="{{ page.title }}">{% else %}<meta name="twitter:title" content="{{ site.title }}">{% endif %}
 {% if page.url %}<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">{% endif %}
 <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-{% if page.image %}<meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">{% else %}<meta name="twitter:image:src" content="{{ site.url }}/assets/base/header_tree.png">{% endif %}
+{% if page.image %}<meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">{% else %}<meta name="twitter:image:src" content="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/base/apple-touch-icon.png?v={{ site.version }}">{% endif %}
 <!-- Javascript -->
-<script src="{{ "/assets/js/jquery-1.11.3.min.js" }}"></script>
-<script src="{{ "/assets/js/main.js" }}"></script>
+<script src="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/js/jquery-1.11.3.min.js"></script>
+<script src="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/js/main.js?v={{ site.version }}"></script>
 </head>
