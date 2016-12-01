@@ -14,11 +14,103 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 24 Nov 2016 07:11:34 -0600</lastBuildDate>
+<lastBuildDate>Thu, 01 Dec 2016 16:18:57 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Creating Custom Web Searches in Alfred]]></title>
+    <link>http://joebuhlig.com/creating-custom-web-searches-in-alfred/</link>
+    <pubDate>Mon, 28 Nov 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[alfred]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/creating-custom-web-searches-in-alfred/</guid>
+    <description>
+        <![CDATA[Searching is one of the most technically complicated processes to build and yet the simplest to use. And it’s almost universally accepted that every website has a way to search the entirety of their content. Connect this with the ability to search websites directly from Alfred and you can create...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/creating-custom-web-searches-in-alfred.jpg" /><p>Searching is one of the most technically complicated processes to build and yet the simplest to use. And it’s almost universally accepted that every website has a way to search the entirety of their content. Connect this with the ability to search websites directly from Alfred and you can create a one-stop shop for searching all your favorite sites.
+<!--more--></p>
+
+<p>Alfred can do searches in Google and many other websites out-of-the-box. But if you notice yourself searching a specific website repeatedly, it makes sense to set up a custom search within Alfred. If you continually repeat this process, you’ll end up using Alfred for all your searches instead of going through the multiple steps required to open a site, find the search bar, and type your query.</p>
+
+<p>To set up a new custom search, you first need to know how the site handles search queries from a URL standpoint. For joebuhlig.com, this is what that looks like:</p>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text">http://joebuhlig.com/search/?q=</code></pre></figure>
+
+<p>Once you have that information, open Alfred preferences, go to Features, then Web Search. At the bottom-right you’ll see “Add Custom Search.” From there, simply fill out the details you want for the search. Here’s the full example for this site:</p>
+
+<p><img class="center-image post-image-medium" src="http://cdn.joebuhlig.com/assets/posts_extra/creating-custom-web-searches-in-alfred/alfred-custom-search.jpg" /></p>
+
+<p>To make it even easier, you can <a href="alfred://customsearch/Search%20joebuhlig.com%20for%20%7Bquery%7D/joe/utf8/nospace/http%3A%2F%2Fjoebuhlig.com%2Fsearch%2F%3Fq%3D%7Bquery%7D">click here to install it directly</a>.</p>
+
+<p>Using this search is quite simple. Invoke Alfred, type “joe” followed by your query. It’ll look like this:</p>
+
+<p><img class="center-image post-image-large" src="http://cdn.joebuhlig.com/assets/posts_extra/creating-custom-web-searches-in-alfred/alfred-search.jpg" /></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Using Discourse for IT]]></title>
+    <link>http://joebuhlig.com/using-discourse-for-it/</link>
+    <pubDate>Fri, 25 Nov 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[communication]]></category>
+
+    <category><![CDATA[discourse]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/using-discourse-for-it/</guid>
+    <description>
+        <![CDATA[I’m a fan of Discourse. That should come without surprise at this point. As a fan, it’s natural for me to see the potential for Discourse to solve communication problems and create selective visibility within an organization. So it was easy for me to gravitate toward it for the IT...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/using-discourse-for-it.jpeg" /><p>I’m a fan of <a href="http://discourse.org">Discourse</a>. That should come without surprise at this point. As a fan, it’s natural for me to see the potential for Discourse to solve communication problems and create selective visibility within an organization. So it was easy for me to gravitate toward it for the IT communication structure at my church.
+<!--more--></p>
+
+<p>To the best of my knowledge, there are four areas that need to be clearly conveyed and accessible to those I support: technology needs, how tos, structural upgrades, and technical documentation. In my case, I have two groups of people to work with: staff members and tech volunteers. The staff needs to share their support requests and have access to the knowledgebase, while the tech team handles the infrastructure and documentation.</p>
+
+<p>In Discourse, this translates quite well. I can create four topic categories (Support, How To, Infrastructure, and Documentation), and two user groups (<code class="highlighter-rouge">staff_members</code> and <code class="highlighter-rouge">tech_team</code>).  Distinguishing by user groups, I can restrict access as needed in each category.</p>
+
+<p>In my case, there are some end users that will likely struggle if I require them to use Discourse directly. I don’t say this to be mean but to acknowledge that their strengths are outside of computer systems. Understanding this, I take advantage of the email-in feature of Discourse as well as reply-via-email.</p>
+
+<p>My users can send an email to the system and have it handled automatically. Whether it’s a new ticket or a reply to a support update, they can interact solely from their email. Outside of setting up their accounts, they never have to access the system directly. They can stick to what they know: email.</p>
+
+<p>Here’s a breakdown of how each category is used:</p>
+
+<h2 id="support">Support</h2>
+
+<p>This is used primarily for issues and support tickets. Both the staff and tech team can access it and users can send an email into this category. When one of these is completed, I simply close the topic.</p>
+
+<h2 id="how-to">How To</h2>
+
+<p>These topics are checklists or videos explaining how to accomplish a specific task within our building and structures. These can range from website updates to installing printer drivers. Again, this is viewable by both staff and the tech team, but currently I have it restricted so only I can create new topics. I want to vet these before they’re posted.</p>
+
+<h2 id="infrastructure">Infrastructure</h2>
+
+<p>Only the tech team can use this one. It’s designed to capture and discuss system upgrades and migrations as well as the little things we need in order to improve the reliability and functionality of our hardware and software. I think of it as a technical version of the support category.</p>
+
+<h2 id="documentation">Documentation</h2>
+
+<p>Again, this is tech team only. And most of these topics are wiki-fied so that team members can update them as changes are made. These can be descriptions of VLANs or they may list the base computers we use when a replacement is needed. Anything that helps describe the infrastructure so that others can step in should go here.</p>
+
+<p>I’m aware that there are a lot of software options available that are specifically designed for these purposes. And the number of communication methods is endless. But after having worked with and for multiple companies, I’ve seen the pros and cons of using many of them. In most cases the IT team ends up hacking them together to do what they want. Or worse, they lose track of a request in the stream of posts.</p>
+
+<p>What I love about Discourse is its flexibility and configurability. I can dial up or down individual pieces and even allow end-users to avoid it entirely. Telling my staff members that they simply need to send email is tremendously more effective than training how to navigate a new piece of software.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Hybrid Productivity]]></title>
