@@ -14,11 +14,153 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 01 Dec 2016 16:18:57 -0600</lastBuildDate>
+<lastBuildDate>Wed, 07 Dec 2016 06:21:32 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[15: BrainChains by Theo Compernolle [Bookworm]]]></title>
+    <link>http://joebuhlig.com/15-brainchains-by-theo-compernolle/</link>
+    <pubDate>Wed, 07 Dec 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/15-brainchains-by-theo-compernolle/</guid>
+    <description>
+        <![CDATA[BrainChains was a listener recommendation that taught Mike and Joe a lot about how technology affects our minds. From attention to focus, it’s all covered.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>BrainChains was a listener recommendation that taught Mike and Joe a lot about how technology affects our minds. From attention to focus, it’s all covered.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[Using a Cloudfront CDN for Jekyll Without S3]]></title>
+    <link>http://joebuhlig.com/using-a-cloudfront-cdn-for-jekyll-without-s3/</link>
+    <pubDate>Mon, 05 Dec 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[jekyll]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/using-a-cloudfront-cdn-for-jekyll-without-s3/</guid>
+    <description>
+        <![CDATA[On occasion I find myself with a sliver of free time. And it seems inevitable that I use it to tinker with this site. Given my latest obsession with page load speeds, this time I directed my attention towards the implementation of a CDN.
+
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/using-a-cloudfront-cdn-for-jekyll-without-s3.jpg" /><p>On occasion I find myself with a sliver of free time. And it seems inevitable that I use it to tinker with this site. Given my latest obsession with page load speeds, this time I directed my attention towards the implementation of a CDN.
+<!--more--></p>
+
+<p>This is an idea I stole from Brett Terpstra who has an <a href="http://brettterpstra.com/2014/02/21/a-jekyll-cdn-with-cloudfront/">article about his method</a> of doing the same. My case has some slight differences and if you do a search for how to use Cloudfront with Jekyll, you’ll be hard-pressed to find an explanation of how to do it without using S3 for your hosting. Which is why I felt compelled to share my process with you.</p>
+
+<p>I chose <a href="https://aws.amazon.com/cloudfront/">Cloudfront</a> because I’m a fan of <a href="https://aws.amazon.com">AWS</a> (Amazon Web Services) and they are fairly cheap in comparison to the other big names in industry. I’ve worked with AWS enough in the past to trust it. But here’s how I set up Cloudfront to work with Jekyll:</p>
+
+<h2 id="setting-up-cloudfront">Setting Up Cloudfront</h2>
+
+<p>Once you have an account with AWS, open Cloudfront from the management console and create a new web distribution. There are only three settings I changed from the default.</p>
+
+<p><strong>Origin Domain Name</strong> - This is your site homepage. I entered <code class="highlighter-rouge">joebuhlig.com</code></p>
+
+<p><strong>Origin ID</strong> - This is merely a description you want for the origin. I used <code class="highlighter-rouge">joebuhlig.com Resources</code>.</p>
+
+<p><strong>Alternate Domain Names</strong> - This becomes the new base URL you’ll use to serve the files from Cloudfront. I was very original and used <code class="highlighter-rouge">cdn.joebuhlig.com</code> for this.</p>
+
+<p>With the settings in place and the distribution created, you’ll be given a domain name for your distribution that looks similar to this: <code class="highlighter-rouge">abcdefg123456.cloudfront.net</code> We’ll use this to set up our DNS record.</p>
+
+<h2 id="setting-up-dns">Setting Up DNS</h2>
+
+<p>I’m not going into each registrar here, but the idea is to create a CNAME record on your domain with the host as your subdomain (in my case <code class="highlighter-rouge">cdn</code>) and the target as the domain name given for your distribution in the previous step (<code class="highlighter-rouge">abcdefg123456.cloudfront.net</code>).</p>
+
+<p>You want to give this some time to populate and to allow AWS to do its magic. I left it alone and went to work on converting the URLs within Jekyll to accommodate the new CDN URL: <code class="highlighter-rouge">cdn.joebuhlig.com</code>.</p>
+
+<h2 id="setting-up-jekyll">Setting Up Jekyll</h2>
+
+<p>As a Jekyll user, you are probably familiar with using the Liquid tag <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">site.url</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code>. That variable is coming from the <code class="highlighter-rouge">_config.yml</code> file and we simply want to add <code class="highlighter-rouge">cdn_url</code> to it. Mine looks like this:</p>
+
+<figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="s">baseurl</span><span class="pi">:</span> <span class="s2">"</span><span class="s">"</span>
+<span class="s">url</span><span class="pi">:</span> <span class="s2">"</span><span class="s">http://joebuhlig.com"</span>
+<span class="s">cdn_url</span><span class="pi">:</span> <span class="s">http://cdn.joebuhlig.com</span></code></pre></figure>
+
+<p>With <code class="highlighter-rouge">cdn_url</code> in place, you need to go through your static files and image references and change the base URL from a relative reference or <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">site.url</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code> to <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">site.cdn_url</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code> instead. I recommend previewing this before you deploy it just to make sure it’s working correctly and that Cloudfront is fully up and running. You can also test this by navigating to the base <code class="highlighter-rouge">cdn_url</code> itself and check if a copy of your site is available. If not, you need to wait for the DNS changes to populate.</p>
+
+<h2 id="jekyll-development">Jekyll Development</h2>
+
+<p>A problem you’ll quickly run into is doing development of CSS and JS when your assets are being served from a CDN. In my workflow I run two commands: <code class="highlighter-rouge">jekyll s --future</code> to test and preview my site and <code class="highlighter-rouge">JEKYLL_ENV=production jekyll b</code> for a production build right before deployment. This allows me to use the Liquid variable <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">jekyll.environment</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code> to test if I am in production, like so:</p>
+
+<p><code class="highlighter-rouge"><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">if</span><span class="w"> </span><span class="err">jekyll.environment</span><span class="w"> </span><span class="err">==</span><span class="w"> </span><span class="err">'production'</span><span class="w"> </span><span class="err">%</span><span class="p">}{</span><span class="err">{</span><span class="w"> </span><span class="err">site.cdn_url</span><span class="w"> </span><span class="p">}</span><span class="err">}</span><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">endif</span><span class="w"> </span><span class="err">%</span><span class="p">}</span></code></p>
+
+<p>If you use this in conjunction with the <code class="highlighter-rouge">cdn_url</code>, it means that when I’m building for production, the <code class="highlighter-rouge">cdn_url</code> is added and empty if it’s for development. I’m left with relative and local URLs in development and the full CDN URL in production.</p>
+
+<h2 id="cache-busting">Cache Busting</h2>
+
+<p>The last step here is adding a version number to the static assets that change fairly frequently. There are a number of ways to do this but I prefer the tried-and-true query string: <code class="highlighter-rouge">main.css?v=5</code></p>
+
+<p>Just like the <code class="highlighter-rouge">cdn_url</code>, I added <code class="highlighter-rouge">version: 1</code> to my <code class="highlighter-rouge">_config.yml</code> file. That allows me to append any asset URL to look like this: <code class="highlighter-rouge">/assets/main.css?v={{ site.version}}</code> When used at the same time as the <code class="highlighter-rouge">cdn_url</code>, I’m left with this:</p>
+
+<p><code class="highlighter-rouge"><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">if</span><span class="w"> </span><span class="err">jekyll.environment</span><span class="w"> </span><span class="err">==</span><span class="w"> </span><span class="err">'production'</span><span class="w"> </span><span class="err">%</span><span class="p">}{</span><span class="err">{</span><span class="w"> </span><span class="err">site.cdn_url</span><span class="w"> </span><span class="p">}</span><span class="err">}</span><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">endif</span><span class="w"> </span><span class="err">%</span><span class="p">}</span><span class="err">/assets/css/main.css?v=</span><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">site.version</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code></p>
+
+<p>Now, I’m lazy and don’t want to manually increment this version number every time I want to bust the cache so I again <a href="http://brettterpstra.com/2013/03/05/site-versioning-with-jekyll/">stole a page from Brett Terpstra’s book</a> and wrote a rake task to do it for me:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">desc</span> <span class="s2">"Bump version number"</span>
+<span class="n">task</span> <span class="ss">:bump</span> <span class="k">do</span>
+    <span class="n">content</span> <span class="o">=</span> <span class="no">IO</span><span class="p">.</span><span class="nf">read</span><span class="p">(</span><span class="s1">'_config.yml'</span><span class="p">)</span>
+    <span class="n">content</span><span class="p">.</span><span class="nf">sub!</span><span class="p">(</span><span class="sr">/^version: (\d+)$/</span><span class="p">)</span> <span class="p">{</span><span class="o">|</span><span class="n">v</span><span class="o">|</span>
+        <span class="n">ver</span> <span class="o">=</span> <span class="vg">$1</span><span class="p">.</span><span class="nf">next</span>
+        <span class="nb">puts</span> <span class="s2">"At version </span><span class="si">#{</span><span class="n">ver</span><span class="si">}</span><span class="s2">"</span>
+        <span class="s2">"version: </span><span class="si">#{</span><span class="n">ver</span><span class="si">}</span><span class="s2">"</span>
+    <span class="p">}</span>
+    <span class="no">File</span><span class="p">.</span><span class="nf">open</span><span class="p">(</span><span class="s1">'_config.yml'</span><span class="p">,</span><span class="s1">'w'</span><span class="p">)</span> <span class="k">do</span> <span class="o">|</span><span class="n">f</span><span class="o">|</span>
+        <span class="n">f</span><span class="p">.</span><span class="nf">write</span> <span class="n">content</span>
+    <span class="k">end</span>
+<span class="k">end</span></code></pre></figure>
+
+<p>Now all I need to do is run <code class="highlighter-rouge">rake bump</code> after I’ve edited static files and it will take care of the rest.</p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[A Baby Time Checklist]]></title>
+    <link>http://joebuhlig.com/a-baby-time-checklist/</link>
+    <pubDate>Fri, 02 Dec 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[checklists]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/a-baby-time-checklist/</guid>
+    <description>
+        <![CDATA[As I write this, my wife and I are expecting our third baby girl to join us within the next week. I wish I could say there is nothing but pure excitement in our house, but as anyone who has kids knows, there are a number of things to do...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/a-baby-time-checklist.jpg" /><p>As I write this, my wife and I are expecting our third baby girl to join us within the next week. I wish I could say there is nothing but pure excitement in our house, but as anyone who has kids knows, there are a number of things to do once you know it is “time.” Depending on your situation, which you can’t predetermine, you may not have much time to accomplish everything and get out the door, so most of us put together a checklist to help us remember.
+<!--more--></p>
+
+<p>I use checklists all the time. They are a prominent fixture in my life and it is inevitable that others see me using or creating them. In most cases there is one of two responses: an agreement that the checklist is helpful or a joke about its worthlessness for them.</p>
+
+<p>But despite the reaction, I know I’ll stick by my list. I’m all too aware of the shortcomings of my memory. Even if I remember an item the first 50 times through, eventually it becomes second nature and I’ll be unable to recall if I completed a task or just think I did. It’s much like trying to remember if you closed the garage door. You’ve done it so many times that the task is automatic and there’s nothing to trigger your memory to indicate that you actually did it this time. So you’re left wondering if it happened at all, or turning around to make sure it’s shut.</p>
+
+<p>In the case of going into labor, I want my focus to be on helping my wife. But I still need to make sure all bags are in the car, the hospital is aware that we are coming, that someone is home to watch our girls, and on and on. The situation could be one of extreme urgency (at least to me) and yet I want and need to be attentive to my wife. Thus, a checklist to spell out these mundane but important tasks.</p>
+
+<p>I have a list of things to do that kicks off the moment my wife starts having contractions. It doesn’t make me a robot, it gives my mind the freedom to be attentive to situational needs without worrying about what comes next. The potential for urgency and stress is high. In that moment I want to be there for my wife and not wandering the house trying to make sure I have everything in place. This checklist is far from impersonal. It allows me to be present.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Creating Custom Web Searches in Alfred]]></title>
@@ -473,141 +615,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>This is the part most folks ask about. VimPosts is a WordPress plugin I wrote specifically for Working With OmniFocus. It’s what allows me to embed the Vimeo video by adding only the ID number to the WordPress post. It uses the Vimeo player API to decide when to mark a video as “watched” and gives the user the ability to manually trigger “watched” as well. It also creates a shortcode I can use within a WordPress page for creating a list of videos like you <a href="https://workingwithomnifocus.com/list/">see here</a>.</p>
 
 <p>Currently, this plugin is dependent on the Working With OmniFocus website and will break anywhere else. But in my work on Working With Alfred, I plan to make it a standalone plugin. If you’re interested in staying up with the development process, <a href="https://github.com/joebuhlig/wp-vimposts">I have it on GitHub</a>. I have some new features planned for it and have considered making it available as a premium plugin but I’m currently undecided. If it’s something you’re interested in using, let me know in the comments below.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[12: The Productivity Project by Chris Bailey [Bookworm]]]></title>
-    <link>http://joebuhlig.com/12-the-productivity-project-by-chris-bailey/</link>
-    <pubDate>Wed, 26 Oct 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/12-the-productivity-project-by-chris-bailey/</guid>
-    <description>
-        <![CDATA[Mike and Joe get a breath of fresh air with a book on productivity. There are a lot of tips here that they’ve both practiced for years but learned a lot regardless.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Mike and Joe get a breath of fresh air with a book on productivity. There are a lot of tips here that they’ve both practiced for years but learned a lot regardless.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Checking In on Dvorak]]></title>
-    <link>http://joebuhlig.com/checking-in-on-dvorak/</link>
-    <pubDate>Mon, 24 Oct 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[dvorak]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/checking-in-on-dvorak/</guid>
-    <description>
-        <![CDATA[It’s been about 10 months since I switched to Dvorak. It’s been at least six months since I’ve written about it. In that six months, I have continued to make improvements but I’ve also noticed an interesting tidbit about my relationship with QWERTY.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/checking-in-on-dvorak.jpeg" /><p>It’s been about 10 months since I <a href="http://joebuhlig.com/dvorak-transition/">switched to Dvorak</a>. It’s been at least six months since I’ve <a href="http://joebuhlig.com/is-dvorak-worth-it/">written about it</a>. In that six months, I have continued to make improvements but I’ve also noticed an interesting tidbit about my relationship with QWERTY.
-<!--more--></p>
-
-<p>First, I’m loving Dvorak. I didn’t have RSI issues beforehand but I can tell there’s less strain on my fingers now. I have no solid numbers on it but I like knowing I can feel the difference. And given the large amount of time I keep my finger tips on keys every day, I can’t help but think this is smart in the long-term.</p>
-
-<p>As for typing speed, I’m still climbing. I’m currently sitting at 118 words a minute. I keep thinking it will plateau but though the rate of increase has slowed significantly, it is still moving upward. I’m guessing it will peak somewhere around 125.</p>
-
-<p>As expected, my QWERTY speed has dropped but lately it’s been holding steady at about 40 words a minute. By my standards that’s pretty terrible, but considering I rarely use QWERTY and am not trying to maintain it, I’m fine with that number. It’s still high enough that I don’t appear to be a complete fool when I use it. At least most of the time.</p>
-
-<p>But here’s the catch: I can’t think about it too hard. If I just type, it works out great no matter which layout I’m on. But if I’m on QWERTY and I try to be intentional about the keys and focus on them, it all comes crumbling down. I have to watch my hands and really work at it.</p>
-
-<p>Overall, I’m still really happy I made the switch. There are some difficulties with being “not normal” but to me it’s worth it. I can deal with the slight setbacks for the sake of the benefits.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Discourse Commenting for Jekyll]]></title>
-    <link>http://joebuhlig.com/discourse-commenting-for-jekyll/</link>
-    <pubDate>Fri, 21 Oct 2016 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[discourse]]></category>
-
-    <category><![CDATA[jekyll]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/discourse-commenting-for-jekyll/</guid>
-    <description>
-        <![CDATA[For years, Disqus has been the commenting platform of choice. It’s what I used when my site was on WordPress. When I switched to a static site generated by Jekyll, I pulled commenting entirely. But given the topics I write about, comments can be quite helpful and I realize that...]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/discourse-commenting-for-jekyll.jpg" /><p>For years, Disqus has been the commenting platform of choice. It’s what I used when my site was on WordPress. When I switched to a static site generated by <a href="http://jekyllrb.com/">Jekyll</a>, I pulled commenting entirely. But given the topics I write about, comments can be quite helpful and I realize that was a mistake. So I brought them back with the help of <a href="http://www.discourse.org/">Discourse</a>.
-<!--more--></p>
-
-<p>There are a number of reasons I chose Discourse, but suffice it to say that I just like it better than the alternatives, which are actually few in number for static sites. I have a unique way of doing the embed process that I thought other Jekyll users might find helpful.</p>
-
-<h2 id="the-discourse-side">The Discourse Side</h2>
-
-<p>Assuming you have an instance of Discourse running (not the purpose of this post) and you are an admin on said instance, you add the host site as an allowed host in the Discourse settings (Customize → Embedding). That will generate the code you need to embed on each page you want commenting enabled. You’ll have to change the embed URL within the code to match the canonical URL of the page it’s embedded on. This is what it looks like originally:</p>
-
-<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">'discourse-comments'</span><span class="nt">&gt;&lt;/div&gt;</span>
-<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"text/javascript"</span><span class="nt">&gt;</span>
-  <span class="nx">DiscourseEmbed</span> <span class="o">=</span> <span class="p">{</span> <span class="na">discourseUrl</span><span class="p">:</span> <span class="s1">'http://discussion.joebuhlig.com/'</span><span class="p">,</span>
-                     <span class="na">discourseEmbedUrl</span><span class="p">:</span> <span class="s1">'REPLACE_ME'</span> <span class="p">};</span>
-
-  <span class="p">(</span><span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
-    <span class="kd">var</span> <span class="nx">d</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="s1">'script'</span><span class="p">);</span> <span class="nx">d</span><span class="p">.</span><span class="nx">type</span> <span class="o">=</span> <span class="s1">'text/javascript'</span><span class="p">;</span> <span class="nx">d</span><span class="p">.</span><span class="nx">async</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
-    <span class="nx">d</span><span class="p">.</span><span class="nx">src</span> <span class="o">=</span> <span class="nx">DiscourseEmbed</span><span class="p">.</span><span class="nx">discourseUrl</span> <span class="o">+</span> <span class="s1">'javascripts/embed.js'</span><span class="p">;</span>
-    <span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="s1">'head'</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span> <span class="o">||</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="s1">'body'</span><span class="p">)[</span><span class="mi">0</span><span class="p">]).</span><span class="nx">appendChild</span><span class="p">(</span><span class="nx">d</span><span class="p">);</span>
-  <span class="p">})();</span>
-<span class="nt">&lt;/script&gt;</span></code></pre></figure>
-
-<h2 id="the-jekyll-side">The Jekyll Side</h2>
-
-<p>This can’t get more basic. Paste the code from Discourse to the bottom of the post layout in Jekyll. After I make the edit for the embed URL, this is what the code looks like:</p>
-
-<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">'discourse-comments'</span><span class="nt">&gt;&lt;/div&gt;</span>
-<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"text/javascript"</span><span class="nt">&gt;</span>
-  <span class="nx">DiscourseEmbed</span> <span class="o">=</span> <span class="p">{</span> <span class="na">discourseUrl</span><span class="p">:</span> <span class="s1">'http://discussion.joebuhlig.com/'</span><span class="p">,</span>
-                     <span class="na">discourseEmbedUrl</span><span class="p">:</span> <span class="s1">'{{site.url}}{{page.url}}'</span> <span class="p">};</span>
-
-  <span class="p">(</span><span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
-    <span class="kd">var</span> <span class="nx">d</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="s1">'script'</span><span class="p">);</span> <span class="nx">d</span><span class="p">.</span><span class="nx">type</span> <span class="o">=</span> <span class="s1">'text/javascript'</span><span class="p">;</span> <span class="nx">d</span><span class="p">.</span><span class="nx">async</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
-    <span class="nx">d</span><span class="p">.</span><span class="nx">src</span> <span class="o">=</span> <span class="nx">DiscourseEmbed</span><span class="p">.</span><span class="nx">discourseUrl</span> <span class="o">+</span> <span class="s1">'javascripts/embed.js'</span><span class="p">;</span>
-    <span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="s1">'head'</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span> <span class="o">||</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="s1">'body'</span><span class="p">)[</span><span class="mi">0</span><span class="p">]).</span><span class="nx">appendChild</span><span class="p">(</span><span class="nx">d</span><span class="p">);</span>
-  <span class="p">})();</span>
-<span class="nt">&lt;/script&gt;</span></code></pre></figure>
-
-<h2 id="development-tweaks">Development Tweaks</h2>
-
-<p>Every change I make to the site is previewed before deployment. Each post is reviewed as well. So it’s quite normal for me to run <code class="highlighter-rouge">jekyll s --future</code>. But I don’t want any issues with the embed code when I’m in my development environment, so I tell Jekyll to only add the embed code when the site is being created for production:</p>
-
-<figure class="highlight"><pre><code class="language-html" data-lang="html">{% if jekyll.environment == "production" %}
-<span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">'discourse-comments'</span><span class="nt">&gt;&lt;/div&gt;</span>
-<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"text/javascript"</span><span class="nt">&gt;</span>
-  <span class="nx">DiscourseEmbed</span> <span class="o">=</span> <span class="p">{</span> <span class="na">discourseUrl</span><span class="p">:</span> <span class="s1">'http://discussion.joebuhlig.com/'</span><span class="p">,</span>
-                     <span class="na">discourseEmbedUrl</span><span class="p">:</span> <span class="s1">'{{site.url}}{{page.url}}'</span> <span class="p">};</span>
-
-  <span class="p">(</span><span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
-    <span class="kd">var</span> <span class="nx">d</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="s1">'script'</span><span class="p">);</span> <span class="nx">d</span><span class="p">.</span><span class="nx">type</span> <span class="o">=</span> <span class="s1">'text/javascript'</span><span class="p">;</span> <span class="nx">d</span><span class="p">.</span><span class="nx">async</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
-    <span class="nx">d</span><span class="p">.</span><span class="nx">src</span> <span class="o">=</span> <span class="nx">DiscourseEmbed</span><span class="p">.</span><span class="nx">discourseUrl</span> <span class="o">+</span> <span class="s1">'javascripts/embed.js'</span><span class="p">;</span>
-    <span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="s1">'head'</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span> <span class="o">||</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="s1">'body'</span><span class="p">)[</span><span class="mi">0</span><span class="p">]).</span><span class="nx">appendChild</span><span class="p">(</span><span class="nx">d</span><span class="p">);</span>
-  <span class="p">})();</span>
-<span class="nt">&lt;/script&gt;</span>
-{% endif %}</code></pre></figure>
-
-<p>Now when I’m ready to deploy my changes I run <code class="highlighter-rouge">JEKYLL_ENV=production jekyll b</code>. That sets the environment variable to production instead of development and means the embed code is only included when I’m building the site for real. I use the same trick for my Piwik tracking code. It keeps my external dependencies from creating issues while I am developing.</p>
 ]]>
     </content:encoded>
 </item>
