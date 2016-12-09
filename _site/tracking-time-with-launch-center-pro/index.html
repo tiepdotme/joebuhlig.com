@@ -242,7 +242,7 @@
 			<p>Lately I’ve been tracking my time and starting to correlate it with dollars earned. The idea is to help me decide which types of work are the most valuable. This is a look at how I’m doing the time tracking portion using <a href="http://contrast.co/launch-center-pro/">Launch Center Pro</a>.
 <!--more--></p>
 
-<h2 id="google-sheet">1. Google Sheet</h2>
+<h2 id="1-google-sheet">1. Google Sheet</h2>
 
 <p>The data needs to live somewhere and I’m comfortable with Google Drive. So I created a new sheet with five columns:</p>
 
@@ -258,17 +258,17 @@
 
 <p>It also helps me determine the types of work that are the highest paying. Doing a similar roll-up by activity will tell me if my time is better spent coding or consulting. But I have to be careful, because the answers can be a bit misleading. Writing articles for this site shows a zero for profit, but I know that writing is what brings people to my site. And in turn, that leads to sales elsewhere. So my conclusions are a judgment call, but it is helpful to have the data in front of me.</p>
 
-<h2 id="ifttt">2. IFTTT</h2>
+<h2 id="2-ifttt">2. IFTTT</h2>
 
 <p>To collect the data I’m using a single recipe in <a href="https://ifttt.com">IFTTT</a>. It adds a row to the Google Sheet each time the LCP action is triggered. By passing different parameters to the recipe, I alter the data that is entered into the spreadsheet.</p>
 
 <p><a href="https://ifttt.com/view_embed_recipe/375147-time-tracking" target="_blank" class="embed_recipe embed_recipe-l_13" id="embed_recipe-375147"><img src="https://ifttt.com/recipe_embed_img/375147" alt="IFTTT Recipe: Time Tracking connects launch-center to google-drive" width="370px" style="max-width:100%" /></a><script async="" type="text/javascript" src="//ifttt.com/assets/embed_recipe.js"></script></p>
 
-<h2 id="launch-center-pro">3. Launch Center Pro</h2>
+<h2 id="3-launch-center-pro">3. Launch Center Pro</h2>
 
 <p>In LCP, I set up a different action for each activity I want to record. Each action uses the same url scheme to send the data on to Google. Here’s what it looks like:</p>
 
-<figure class="highlight"><pre><code class="language-text" data-lang="text">launch://ifttt/trigger?name=&amp;value1=&amp;value2=&amp;value3=[prompt-num:Time in Mins]&amp;value4=[prompt:Notes]</code></pre></figure>
+<figure class="highlight"><pre><code class="language-text" data-lang="text">launch://ifttt/trigger?name={{TimeTracking}}&amp;value1={{Joe Buhlig}}&amp;value2={{Development}}&amp;value3=[prompt-num:Time in Mins]&amp;value4=[prompt:Notes]</code></pre></figure>
 
 <p>The <code class="highlighter-rouge">name</code> parameter will always be the same: the Trigger Name in the IFTTT recipe. In this case, I’m passing my own name as <code class="highlighter-rouge">value1</code> because this particular action is for recording development work I do for myself. The last three values record the activity type, amount of time I spent on the task, and any notes I want to enter about it.</p>
 

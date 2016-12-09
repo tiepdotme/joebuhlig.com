@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 09 Dec 2016 14:05:10 -0600</lastBuildDate>
+<lastBuildDate>Fri, 09 Dec 2016 15:42:55 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -1148,7 +1148,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <p>But then I remembered Drafts has its own URL scheme that allows you to import actions. So I embarked on a journey to create my 30+ actions in bulk. I likely spent more time working this out than it would have taken me to just edit each one by hand, but now I have a trick to share with you. You’re welcome.</p>
 
-<h2 id="manually-create-a-template">1. Manually create a template</h2>
+<h2 id="1-manually-create-a-template">1. Manually create a template</h2>
 
 <p>You first need a template to work with. Create one action that the rest of your actions will be modeled after. In my case, it looked like this:</p>
 
@@ -1156,7 +1156,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <img class="post-image-mini" src="/assets/posts_extra/creating-drafts-actions-in-bulk/template-steps.png" />
 <img class="post-image-mini" src="/assets/posts_extra/creating-drafts-actions-in-bulk/template-url-step.png" /></p>
 
-<h2 id="copy-the-action">2. Copy the action</h2>
+<h2 id="2-copy-the-action">2. Copy the action</h2>
 
 <p>After your template action has been created, open it up and use the Share Sheet to copy it. This copies the import action URL for the Drafts action that we’ll dissect.</p>
 
@@ -1167,37 +1167,37 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <p><code class="highlighter-rouge">x-drafts4://x-callback-url/import_action?v=2&amp;tintColor=%5B%0A%20%200.451,%0A%20%200.29,%0A%20%200.553%0A%5D&amp;shouldConfirm=0&amp;logLevel=1&amp;uuid=0E3E5B59-15B5-4010-8E8C-C9A69EE0CA88&amp;disposition=2&amp;actionSteps=%5B%0A%20%20%7B%0A%20%20%20%20%22actionStepType%22%20:%20%22URL%22,%0A%20%20%20%20%22urlTemplate%22%20:%20%22omnifocus:%5C/%5C/x-callback-url%5C/add?x-success=drafts4:%5C/%5C/&amp;name=%5B%5Btitle%5D%5D&amp;note=%5B%5Bbody%5D%5D&amp;project=Bulk%20Actions%20Template&amp;context=Running&amp;autosave=true%22,%0A%20%20%20%20%22useSafariViewController%22%20:%20false,%0A%20%20%20%20%22encodeTags%22%20:%20true%0A%20%20%7D%0A%5D&amp;description=&amp;modifiedAt=2016-09-07%2012:02:42%20+0000&amp;name=Bulk%20Actions%20Template&amp;iconImageName=429-checkmark2</code></p>
 
-<h2 id="transfer-to-numbers-or-excel">3. Transfer to Numbers or Excel</h2>
+<h2 id="3-transfer-to-numbers-or-excel">3. Transfer to Numbers or Excel</h2>
 
 <p>You need to get this copied URL into a spreadsheet. I did mine on the Mac so I also needed to transfer it across devices. We’ll use the spreadsheet to create new URLs in bulk.</p>
 
 <p><img src="/assets/posts_extra/creating-drafts-actions-in-bulk/spreadsheet.png" alt="Spreadsheet" /></p>
 
-<h2 id="create-a-list-of-new-actions">4. Create a list of new actions</h2>
+<h2 id="4-create-a-list-of-new-actions">4. Create a list of new actions</h2>
 
 <p>You need a list of the new actions. Specifically, you need a list of the text that changes in the URLs. This will be used to create the new import links.</p>
 
 <p><img src="/assets/posts_extra/creating-drafts-actions-in-bulk/spreadsheet-list.png" alt="Spreadsheet List" /></p>
 
-<h2 id="break-up-the-url-template">5. Break up the URL template</h2>
+<h2 id="5-break-up-the-url-template">5. Break up the URL template</h2>
 
 <p>This really depends on the complexity of your Drafts actions but you need to look through your URL template and break it into the pieces that stay the same across all the new links. You want to remove the text that changes and keep the remaining pieces in separate cells in the spreadsheet. This makes our lives much simpler when we start putting it all back together.</p>
 
 <p><img src="/assets/posts_extra/creating-drafts-actions-in-bulk/spreadsheet-url-breakup.png" alt="Spreadsheet Breakup" /></p>
 
-<h2 id="format-the-replacement-text">6. Format the replacement text</h2>
+<h2 id="6-format-the-replacement-text">6. Format the replacement text</h2>
 
 <p>In my case, the URL template used a project name that matched the name of the action. So I created one format to the right of my list that handles both cases. Just pay attention to how your template looks and make sure your new text matches the original format.</p>
 
 <p><img src="/assets/posts_extra/creating-drafts-actions-in-bulk/spreadsheet-substitute.png" alt="Spreadsheet Substitute" /></p>
 
-<h2 id="create-the-new-urls">7. Create the new URLs</h2>
+<h2 id="7-create-the-new-urls">7. Create the new URLs</h2>
 
 <p>Once the template is broken apart and the replacement text has been formatted, we can concatenate all the pieces back together to create our new URLs.</p>
 
 <p><img src="/assets/posts_extra/creating-drafts-actions-in-bulk/spreadsheet-new-urls.png" alt="Spreadsheet New URLs" /></p>
 
-<h2 id="transfer-to-ios-and-import">8. Transfer to iOS and import</h2>
+<h2 id="8-transfer-to-ios-and-import">8. Transfer to iOS and import</h2>
 
 <p>Select all those new URLs, copy them, and transfer them to iOS. I just pasted them into a text file that syncs via DropBox and opened it in Editorial. Then it’s just a matter of tapping the link to add each action to Drafts.</p>
 
@@ -4260,7 +4260,7 @@ $("table").tablesorter();
 
 <p>There are three main types of information I find myself capturing:</p>
 
-<h3 id="web-pages">1. Web Pages</h3>
+<h3 id="1-web-pages">1. Web Pages</h3>
 
 <p>Sometimes I want to come back to a website because it’s interesting; sometimes the design of the site intrigues me; other times I’m just gathering a bunch of research for a project. In all cases, I need to be able to save the webpage for later and I need to be able to do it from the Mac <em>and</em> iOS.</p>
 
@@ -4268,13 +4268,13 @@ $("table").tablesorter();
 
 <p>From iOS, I was a bit stumped on this. I was trying to use Workflow to pull it off and kept thinking about ways to convert html to a PDF. But I couldn’t get it to work right, and it seemed jumbled. Eventually I took a step back to think (which is what I usually need to do when things start looking muddled) and deduced that I simply wanted a way to share a PDF to DropBox. Then I remembered the “Save to DropBox” button in the Share Sheet. Hold on to your hats: It turns out that <em>this will convert the web page to a searchable PDF for you.</em> I was pretty darn excited to figure that out.</p>
 
-<h3 id="images">2. Images</h3>
+<h3 id="2-images">2. Images</h3>
 
 <p>Most pictures I collect are done through my phone. I used to send pictures to my Mac using AirDrop and then move them to DropBox later. But when I discovered the “Save to DropBox” trick, those issues were gone. It saves an image directly to DropBox.</p>
 
 <p>If I do take a screenshot with my Mac, I save it to the inbox or put it where it belongs right away, depending on what I’m doing. Working with images on the Mac in this way isn’t much different than how I was using Evernote. They simply land in a new place.</p>
 
-<h3 id="text">3. Text</h3>
+<h3 id="3-text">3. Text</h3>
 
 <p>If I’m grabbing a quick note on something, it starts in nvALT (which is synced with DropBox). If it’s an article or something longer, it goes into a Sublime Text project (also synced with DropBox). In either case, I can access the text from my phone in Editorial.</p>
 
@@ -4530,7 +4530,7 @@ $("table").tablesorter();
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/Tracking-time-with-launch-center-pro.jpg" /><p>Lately I’ve been tracking my time and starting to correlate it with dollars earned. The idea is to help me decide which types of work are the most valuable. This is a look at how I’m doing the time tracking portion using <a href="http://contrast.co/launch-center-pro/">Launch Center Pro</a>.
 <!--more--></p>
 
-<h2 id="google-sheet">1. Google Sheet</h2>
+<h2 id="1-google-sheet">1. Google Sheet</h2>
 
 <p>The data needs to live somewhere and I’m comfortable with Google Drive. So I created a new sheet with five columns:</p>
 
@@ -4546,17 +4546,17 @@ $("table").tablesorter();
 
 <p>It also helps me determine the types of work that are the highest paying. Doing a similar roll-up by activity will tell me if my time is better spent coding or consulting. But I have to be careful, because the answers can be a bit misleading. Writing articles for this site shows a zero for profit, but I know that writing is what brings people to my site. And in turn, that leads to sales elsewhere. So my conclusions are a judgment call, but it is helpful to have the data in front of me.</p>
 
-<h2 id="ifttt">2. IFTTT</h2>
+<h2 id="2-ifttt">2. IFTTT</h2>
 
 <p>To collect the data I’m using a single recipe in <a href="https://ifttt.com">IFTTT</a>. It adds a row to the Google Sheet each time the LCP action is triggered. By passing different parameters to the recipe, I alter the data that is entered into the spreadsheet.</p>
 
 <p><a href="https://ifttt.com/view_embed_recipe/375147-time-tracking" target="_blank" class="embed_recipe embed_recipe-l_13" id="embed_recipe-375147"><img src="https://ifttt.com/recipe_embed_img/375147" alt="IFTTT Recipe: Time Tracking connects launch-center to google-drive" width="370px" style="max-width:100%" /></a><script async="" type="text/javascript" src="//ifttt.com/assets/embed_recipe.js"></script></p>
 
-<h2 id="launch-center-pro">3. Launch Center Pro</h2>
+<h2 id="3-launch-center-pro">3. Launch Center Pro</h2>
 
 <p>In LCP, I set up a different action for each activity I want to record. Each action uses the same url scheme to send the data on to Google. Here’s what it looks like:</p>
 
-<figure class="highlight"><pre><code class="language-text" data-lang="text">launch://ifttt/trigger?name=&amp;value1=&amp;value2=&amp;value3=[prompt-num:Time in Mins]&amp;value4=[prompt:Notes]</code></pre></figure>
+<figure class="highlight"><pre><code class="language-text" data-lang="text">launch://ifttt/trigger?name={{TimeTracking}}&amp;value1={{Joe Buhlig}}&amp;value2={{Development}}&amp;value3=[prompt-num:Time in Mins]&amp;value4=[prompt:Notes]</code></pre></figure>
 
 <p>The <code class="highlighter-rouge">name</code> parameter will always be the same: the Trigger Name in the IFTTT recipe. In this case, I’m passing my own name as <code class="highlighter-rouge">value1</code> because this particular action is for recording development work I do for myself. The last three values record the activity type, amount of time I spent on the task, and any notes I want to enter about it.</p>
 
@@ -5490,7 +5490,7 @@ $("table").tablesorter();
 
 <p>When you include all of the data points, you can see a big difference. Your perception of the first is that the pace is picking up fast. The second chart shows that the rate of increase is normalized.</p>
 
-<h2 id="d">3D</h2>
+<h2 id="3d">3D</h2>
 
 <p><img class="center-image post-image-small" src="/assets/posts_extra/Bad Bar Charts/3d.jpg" /></p>
 
@@ -5909,15 +5909,15 @@ xof = OmniFocus</code></pre></figure>
 
 <p>There’s a lot of research behind building habits, but it doesn’t have to apply only to good habits. Understanding this cycle can help break bad habits as well. Break one of the steps and the habit stops.</p>
 
-<h3 id="trigger">1. Trigger</h3>
+<h3 id="1-trigger">1. Trigger</h3>
 
 <p>I love helping. Finding ways to solve problems for others will motivate me to work all day, every day. The downside is that I will sometimes go looking for problems that need to be solved. I primarily look for these problems in my own systems and tools, so the trigger is simply wondering if someone found an issue or has a question.</p>
 
-<h3 id="reaction">2. Reaction</h3>
+<h3 id="2-reaction">2. Reaction</h3>
 
 <p>My reaction to this trigger is to solve the problem or look for a problem. Whenever I wonder if there is a problem that needs solved or I think that a question might have popped up, I check the various places where a problem or question could arise. In my case, that’s mostly Twitter, Reddit, or email.</p>
 
-<h3 id="treat">3. Treat</h3>
+<h3 id="3-treat">3. Treat</h3>
 
 <p>Much like our dog gets treats when he does a trick, I get a treat when I solve a problem or answer a question. People tend to say thank you or show appreciation when you help out and that small incentive makes me want to keep helping. The trigger has been set off again.</p>
 
@@ -6526,7 +6526,7 @@ xof = OmniFocus</code></pre></figure>
 
 <p>The developer in me recognized the issue and immediately went to GitHub for versioning and merging updates. It has made the process really easy for me and for my editor. I don’t want her worrying about the delivery mechanism on top of all the editing. Here’s how I set it all up:</p>
 
-<h2 id="spanspanthe-setupthe-setup"><a href="#the-setup"><span></span></a>The setup</h2>
+<h2 id="the-setup"><a href="#the-setup"><span></span></a>The setup</h2>
 
 <p>If you have experience with GitHub, this will all be second nature. If you don’t, I recommend looking at <a href="https://guides.github.com/activities/hello-world/">this article</a> to get a feel for the terminology and flow of Git.</p>
 
@@ -6536,7 +6536,7 @@ xof = OmniFocus</code></pre></figure>
 
 <p>That’s all there was to do, create a new folder and turn it into a repository. I should mention that if you’re inviting someone as a collaborator in the repository, you should keep this outside of DropBox. It can create a lot of issues with syncing. GitHub even warns you about it. I can get away with it because I’m the only one involved and it’s a local repository. Keeping it on DropBox allows me to view and edit files from my iPhone, and I like having that option.</p>
 
-<h2 id="spanspan1-drafting1-drafting"><a href="#1-drafting"><span></span></a>1. Drafting</h2>
+<h2 id="1-drafting"><a href="#1-drafting"><span></span></a>1. Drafting</h2>
 
 <p>I work off of the master branch in the repository and make all of my commits there. For example, I’ll write my first draft of an article and then commit it. I then review and edit that draft and commit my own edits.</p>
 
@@ -6548,11 +6548,11 @@ xof = OmniFocus</code></pre></figure>
 
 <p>The second portion of the commit summary is the type of writing I was doing - Articlex, Bookx, Podcastx, Websitex. Those are pretty self-explanatory.</p>
 
-<h2 id="spanspan2-send-to-editor2-send-to-editor"><a href="#2-send-to-editor"><span></span></a>2. Send to editor</h2>
+<h2 id="2-send-to-editor"><a href="#2-send-to-editor"><span></span></a>2. Send to editor</h2>
 
 <p>When I’m happy with what I’ve written and have the edits committed, I make a copy of the file and paste it into a DropBox folder I share with my editor. She is then able to do anything she wants to the file. I make sure she knows I’ll find every character that changes when she’s done.</p>
 
-<h2 id="spanspan3-reviewing-changes3-reviewing-changes"><a href="#3-reviewing-changes"><span></span></a>3. Reviewing changes</h2>
+<h2 id="3-reviewing-changes"><a href="#3-reviewing-changes"><span></span></a>3. Reviewing changes</h2>
 
 <p>When I’m notified that she’s done editing the piece, I create a branch off of the master branch. I simply name the new branch after the article or chapter that I’ll be reviewing.</p>
 
@@ -6562,7 +6562,7 @@ xof = OmniFocus</code></pre></figure>
 
 <p>When I’ve finished reviewing the changes and making my final edits, I commit the edited file to my newly created branch and then merge the new branch into the master. I could probably do this from the master branch but it just feels weird bringing someone else’s changes directly into the main structure. I prefer not to hear the neurotic developer in me screaming.</p>
 
-<h2 id="spanspantrackingtracking"><a href="#tracking"><span></span></a>Tracking</h2>
+<h2 id="tracking"><a href="#tracking"><span></span></a>Tracking</h2>
 
 <p>Something I’ve wanted to do with my writing for a while is track how many words I’ve written each day. Thankfully, using GitHub makes it possible to pull this off. It’s really technical, so I would say <strong>this part is for the power users</strong>.</p>
 
@@ -6622,15 +6622,15 @@ fi</pre></noscript>
 
 <p>From a high-level view, here’s what happens:</p>
 
-<h2 id="spanspan1-when-you-log-in1-when-you-log-in"><a href="#1-when-you-log-in"><span></span></a>1. When you log in</h2>
+<h2 id="1-when-you-log-in"><a href="#1-when-you-log-in"><span></span></a>1. When you log in</h2>
 
 <p>The launch agent starts running when you log into your account. That’s all a launch agent does. It is a process that runs at log in. It can either run once or on intervals in the background. In this case, it runs at a specified interval.</p>
 
-<h2 id="spanspan2-run-applescript2-run-applescript"><a href="#2-run-applescript"><span></span></a>2. Run AppleScript</h2>
+<h2 id="2-run-applescript"><a href="#2-run-applescript"><span></span></a>2. Run AppleScript</h2>
 
 <p>The launch agent is set up to run an AppleScript. It runs first when when you log in and continues to run on an interval afterwards.</p>
 
-<h2 id="spanspan3-parse-your-omnifocus-inbox3-parse-your-omnifocus-inbox"><a href="#3-parse-your-omnifocus-inbox"><span></span></a>3. Parse your OmniFocus inbox</h2>
+<h2 id="3-parse-your-omnifocus-inbox"><a href="#3-parse-your-omnifocus-inbox"><span></span></a>3. Parse your OmniFocus inbox</h2>
 
 <p>The AppleScript takes your OmniFocus inbox and parses any tasks that start with “–“. You can learn how to create the parsing strings in <a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">my original post</a>.</p>
 
@@ -6679,7 +6679,7 @@ fi</pre></noscript>
 
 <p>I mentioned the app <a href="https://workflow.is">Workflow</a> (<a href="https://geo.itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8&amp;at=1l3vnyQ">iTunes</a>) on my <a href="http://macsparky.com/blog/2015/7/home-screens-joe-buhlig">home screen post</a> for MacSparky’s site. It’s a tool that I continue finding more uses for. In this case, I found a way to search the source code of an article to find all the potential Twitter handles on the page.</p>
 
-<h2 id="spanspancaveatscaveats"><a href="#caveats"><span></span></a>Caveats</h2>
+<h2 id="caveats"><a href="#caveats"><span></span></a>Caveats</h2>
 
 <p>Making this happen was easier than I was expecting, but there are a few caveats you should be aware of <strong>before using this</strong>:</p>
 
@@ -6691,7 +6691,7 @@ fi</pre></noscript>
 
 <p>If there’s a handle on the page, the workflow usually finds them. But there are instances where I know that a handle is in the article and it still doesn’t find it. I haven’t been able to track down why, but it’s infrequent enough that I don’t worry about it.</p>
 
-<h2 id="spanspanhow-it-workshow-it-works"><a href="#how-it-works"><span></span></a>How it works</h2>
+<h2 id="how-it-works"><a href="#how-it-works"><span></span></a>How it works</h2>
 
 <p>You can <a href="https://workflow.is/workflows/6ba3ee1f5f7d4be7bfbe5ed867848662">find the workflow here</a>, but here’s the process:</p>
 
@@ -6711,7 +6711,7 @@ fi</pre></noscript>
 
 <p>The last step is to create the string of text that will be passed to the share sheet. It uses the expanded URL from the beginning and the handle you selected to create the string. You can alter this for yours if you like a different format.</p>
 
-<h2 id="spanspanusing-the-workflowusing-the-workflow"><a href="#using-the-workflow"><span></span></a>Using the workflow</h2>
+<h2 id="using-the-workflow"><a href="#using-the-workflow"><span></span></a>Using the workflow</h2>
 
 <p>When you find an article you want to share, invoke the share sheet and hit Run Workflow. Select this workflow and wait for it to ask which Twitter handle to use. Once you’ve selected one, the share sheet will pop up again and you can pick your method of sharing. It will dump the created share string into the application. All you have to do is add your comment to the beginning of the string. Poof!</p>
 
@@ -6754,37 +6754,37 @@ fi</pre></noscript>
 
 <p>Over time, I’ve fine-tuned the extra buttons and found them to be incredibly useful in every day use. Outside of the typical left/right click, here’s how I have it set up:</p>
 
-<h2 id="spanspan1-mission-control1-mission-control"><a href="#1-mission-control"><span></span></a>1. Mission Control</h2>
+<h2 id="1-mission-control"><a href="#1-mission-control"><span></span></a>1. Mission Control</h2>
 
 <p><img class="center-image post-image-medium" src="/assets/posts_extra/MOUS9-MissionControl.png" /></p>
 
 <p>I like using the three finger swipe gesture on the trackpad to invoke Mission Control, but when I have my computer sitting on boxes (because I’m too cheap for a stand right now) I can’t use it. So I have the center button set to trigger Mission Control.</p>
 
-<h2 id="spanspan2-copypaste2-copypaste"><a href="#2-copypaste"><span></span></a>2. Copy/Paste</h2>
+<h2 id="2-copypaste"><a href="#2-copypaste"><span></span></a>2. Copy/Paste</h2>
 
 <p><img class="center-image post-image-medium" src="/assets/posts_extra/MOUS9-CopyPaste.png" /></p>
 
 <p>When working with data or code, I’m often selecting cells or text, copying, selecting a different location, and pasting it in. It’s typically mouse heavy work, but switching back to the keyboard for the copy/paste steps. By setting the scroll wheel clicks to copy/paste, I can do all of it right from the mouse.</p>
 
-<h2 id="spanspan3-playpause3-playpause"><a href="#3-playpause"><span></span></a>3. Play/Pause</h2>
+<h2 id="3-playpause"><a href="#3-playpause"><span></span></a>3. Play/Pause</h2>
 
 <p><img class="center-image post-image-medium" src="/assets/posts_extra/MOUS9-PlayPause.png" /></p>
 
 <p>I get a fair number of phone calls and watch a number of how-to videos on YouTube. That means I’m hitting pause on my music quite a bit throughout the day. It’s something I want to be able to do fast, so I programmed the wing button to toggle play/pause on whatever I’m listening to.</p>
 
-<h2 id="spanspan4-horizontal-scrolling4-horizontal-scrolling"><a href="#4-horizontal-scrolling"><span></span></a>4. Horizontal Scrolling</h2>
+<h2 id="4-horizontal-scrolling"><a href="#4-horizontal-scrolling"><span></span></a>4. Horizontal Scrolling</h2>
 
 <p><img class="center-image post-image-medium" src="/assets/posts_extra/MOUS9-HorizontalScroll.png" /></p>
 
 <p>With a second scroll wheel it made sense to set it up for horizontal scrolling. I wasn’t sure I would use it. But after having it available, I found myself using it on spreadsheets and websites quite a bit. It’s definitely nice to have.</p>
 
-<h2 id="spanspan5-nextprevious-tab5-nextprevious-tab"><a href="#5-nextprevious-tab"><span></span></a>5. Next/Previous Tab</h2>
+<h2 id="5-nextprevious-tab"><a href="#5-nextprevious-tab"><span></span></a>5. Next/Previous Tab</h2>
 
 <p><img class="center-image post-image-medium" src="/assets/posts_extra/MOUS9-NextPrevTab.png" /></p>
 
 <p>I have a lot of browser tabs open when I’m doing development work or research for an article. It can get a little ridiculous. I can have 30 tabs going at once. Control + Tab is my friend, but I find my hand on the mouse a lot when I’m looking through webpages. I set up the side buttons to navigate forward and backward through the tabs so I can cycle through them faster.</p>
 
-<h2 id="spanspan6-back6-back"><a href="#6-back"><span></span></a>6. Back</h2>
+<h2 id="6-back"><a href="#6-back"><span></span></a>6. Back</h2>
 
 <p><img class="center-image post-image-medium" src="/assets/posts_extra/MOUS9-Back.png" /></p>
 
@@ -6829,23 +6829,23 @@ fi</pre></noscript>
 
 <p>So here’s the first five apps I installed on the new MBP, in order of installation:</p>
 
-<h2 id="spanspandropboxdropbox"><a href="#dropbox"><span></span></a>DropBox</h2>
+<h2 id="dropbox"><a href="#dropbox"><span></span></a>DropBox</h2>
 
 <p>If an app allows me to sync my data using DropBox, that’s what I use. DropBox holds so much data for other apps that I want to have the data available before I install the app itself. It’s vital to pulling in settings, data, and files that I use to customize my computer.</p>
 
-<h2 id="spanspan1password1password"><a href="#1password"><span></span></a>1Password</h2>
+<h2 id="1password"><a href="#1password"><span></span></a>1Password</h2>
 
 <p>I sync my 1Password data via DropBox. So once DropBox was installed, I could install 1Password. Since 1Password stores all of my software licenses and passwords, it’s vital to have it in place before I install anything else on a new computer. It makes the login and license key entry process tolerable for the remainder of the setup.</p>
 
-<h2 id="spanspantextexpandertextexpander"><a href="#textexpander"><span></span></a>TextExpander</h2>
+<h2 id="textexpander"><a href="#textexpander"><span></span></a>TextExpander</h2>
 
 <p>TextExpander does a lot of work for me. One of its primary uses is filling in forms with my email addresses. When doing computer setup, you end up typing your email address constantly. I wasn’t about to go through the login processes without it. And again, my TextExpander data is being synced via DropBox.</p>
 
-<h2 id="spanspanomnifocusomnifocus"><a href="#omnifocus"><span></span></a>OmniFocus</h2>
+<h2 id="omnifocus"><a href="#omnifocus"><span></span></a>OmniFocus</h2>
 
 <p>I don’t use DropBox for OmniFocus, but I do need to be able to use the Quick Entry of OmniFocus to capture tasks. This is especially true when setting up a new computer. I just knew I would be installing one app and remember that I wanted to change some settings in another. I needed to have OmniFocus available to capture the new stuff.</p>
 
-<h2 id="spanspanalfredalfred"><a href="#alfred"><span></span></a>Alfred</h2>
+<h2 id="alfred"><a href="#alfred"><span></span></a>Alfred</h2>
 
 <p>Alfred is my preference in keyboard launchers. I have some workflows and keyboard commands set up to bring my most common programs to the front. For everything else, I invoke Alfred, start typing the name of the app, and hit enter. This saves me a lot of clicks when I have a bunch of new apps to open up.</p>
 
@@ -6878,7 +6878,7 @@ fi</pre></noscript>
 
 <!--more-->
 
-<h2 id="spanspanmy-computer-usesmy-computer-uses"><a href="#my-computer-uses"><span></span></a>My computer uses</h2>
+<h2 id="my-computer-uses"><a href="#my-computer-uses"><span></span></a>My computer uses</h2>
 
 <p>These debates are worthless if you don’t understand the purpose of the machines. Someone who lives in email all day has no real use for a fully upgraded Mac Pro. Unless, of course, they just really like the Mac Pro, have $10,000 to blow, and like watching 18 YouTube videos at once on three 2k monitors. Then it makes perfect sense.</p>
 
@@ -6888,7 +6888,7 @@ fi</pre></noscript>
 
 <p>Here’s the breakdown of the two computers:</p>
 
-<h2 id="spanspanthe-macbook-air-mid-2013the-macbook-air-mid-2013"><a href="#the-macbook-air-mid-2013"><span></span></a>The MacBook Air (mid-2013)</h2>
+<h2 id="the-macbook-air-mid-2013"><a href="#the-macbook-air-mid-2013"><span></span></a>The MacBook Air (mid-2013)</h2>
 
 <ul>
   <li>Screen: 13 inch</li>
@@ -6898,7 +6898,7 @@ fi</pre></noscript>
   <li>Model: A1466</li>
 </ul>
 
-<h2 id="spanspanthe-macbook-pro-early-2015the-macbook-pro-early-2015"><a href="#the-macbook-pro-early-2015"><span></span></a>The MacBook Pro (early-2015)</h2>
+<h2 id="the-macbook-pro-early-2015"><a href="#the-macbook-pro-early-2015"><span></span></a>The MacBook Pro (early-2015)</h2>
 
 <ul>
   <li>Screen: 13 inch (retina)</li>
@@ -6908,13 +6908,13 @@ fi</pre></noscript>
   <li>Model: A1502</li>
 </ul>
 
-<h2 id="spanspandowngraded-hard-drivedowngraded-hard-drive"><a href="#downgraded-hard-drive"><span></span></a>Downgraded hard drive?</h2>
+<h2 id="downgraded-hard-drive"><a href="#downgraded-hard-drive"><span></span></a>Downgraded hard drive?</h2>
 
 <p>All of the numbers either go up and stay the same except the hard drive. Some of my reasoning for that is price. SSDs are still pretty expensive and I already have 5 TBs of external hard drives that are grossly underused. I don’t need more storage right now.</p>
 
 <p>I did some diagnostics on the MBA and found that if I pulled the Parallels/Windows process from the machine, I would have been using about 125 GB on the hard drive. I also never shifted files from the internal hard drive. So the shift to a much smaller hard drive was easy to justify for me. I could easily use <a href="http://www.noodlesoft.com/hazel.php">Hazel</a> to help me keep the MBP clean and keep cold-storage files on an external.</p>
 
-<h3 id="spanspan1-screen-resolution1-screen-resolution"><a href="#1-screen-resolution"><span></span></a>1. Screen Resolution</h3>
+<h3 id="1-screen-resolution"><a href="#1-screen-resolution"><span></span></a>1. Screen Resolution</h3>
 
 <p>I hadn’t looked at a retina display before I bought the MBP. I had read enough reviews from people that swear by it and say they’re ruined once they’ve used one. Listen to them. They are absolutely right. You can’t go back.</p>
 
@@ -6922,7 +6922,7 @@ fi</pre></noscript>
 
 <p>It’s easy to say that the retina display is amazing. I don’t think anyone will argue with that. Is it worth the extra money for a MBP right now? If you’re doing development or design of any kind, the retina display is a must.</p>
 
-<h3 id="spanspan2-weight2-weight"><a href="#2-weight"><span></span></a>2. Weight</h3>
+<h3 id="2-weight"><a href="#2-weight"><span></span></a>2. Weight</h3>
 
 <p>I didn’t notice this at first, but I know a number of people complain about it - the weight of the MBP vs the MBA. There’s about one pound difference between them.</p>
 
@@ -6930,7 +6930,7 @@ fi</pre></noscript>
 
 <p>The MBP is solid. It doesn’t pick the front of the computer up off the table when I try to open it with one hand. I really like that. It just feels like it’ll last forever and will take more abuse than the MBA. I just need to remember not to take advantage of that.</p>
 
-<h3 id="spanspan3-keyboard3-keyboard"><a href="#3-keyboard"><span></span></a>3. Keyboard</h3>
+<h3 id="3-keyboard"><a href="#3-keyboard"><span></span></a>3. Keyboard</h3>
 
 <p>Ok, someone tell me I’m wrong here, but there’s a different keyboard in the MBP. It’s not super clicky, but it’s not real light either. I didn’t care for how light the response was on the MBA and I’ve always felt the Apple Bluetooth keyboards were too much. But the MBP has a nice balance between the two.</p>
 
@@ -6938,7 +6938,7 @@ fi</pre></noscript>
 
 <p>At this point, I’m splitting hairs. There’s only a very slight difference between the two that I can feel. So slight, that it has zero effect on my typing speed and ability. I’m just saying that I prefer the keyboard on the MBP to the external.</p>
 
-<h2 id="spanspanpost-mortempost-mortem"><a href="#post-mortem"><span></span></a>Post-mortem</h2>
+<h2 id="post-mortem"><a href="#post-mortem"><span></span></a>Post-mortem</h2>
 
 <p>I’m pretty stoked about having the MBP over the MBA. I know I’ll need to clear the hard drive more diligently, but that’s easy enough. Everything else says I made the right decision.</p>
 ]]>
@@ -6974,19 +6974,19 @@ fi</pre></noscript>
 
 <p>I recently tried this again to see if there were new options that met my criteria, but I came up short. It seems the <a href="https://www.omnigroup.com/">OmniGroup</a> is the only team thinking detailed enough to fit my needs.</p>
 
-<h2 id="spanspandesigndesign"><a href="#design"><span></span></a>Design</h2>
+<h2 id="design"><a href="#design"><span></span></a>Design</h2>
 
 <p>I’ve done enough UI/UX design and development to realize that the OmniFocus interface is pretty sophisticated. You can tell that every line and every pixel is in place for a reason. They’ve thought it through enough to get the interface out of the way and let you work. That’s tough to pull off.</p>
 
 <p>If the design (what it looks like <em>and</em> how you use it) of an application isn’t simple, appealing, and highly functioning, I delete it. I know that there are enough options out there that I’ll find what I’m looking for or I’ll build it myself.</p>
 
-<h2 id="spanspantrusttrust"><a href="#trust"><span></span></a>Trust</h2>
+<h2 id="trust"><a href="#trust"><span></span></a>Trust</h2>
 
 <p>I have to know that my data is safe. If I’m developing a web application, the action steps to complete it cannot disappear. And they cannot duplicate. I can’t worry about my task lists <em>and</em> the task itself.</p>
 
 <p>I’ve never had problems with one of OmniGroup’s products and I don’t hear of many (if any) data issues that aren’t user-induced. If they introduce a product or feature, it just works.</p>
 
-<h2 id="spanspandefer-datesdefer-dates"><a href="#defer-dates"><span></span></a>Defer dates</h2>
+<h2 id="defer-dates"><a href="#defer-dates"><span></span></a>Defer dates</h2>
 
 <p>This is a big sticking point that no other app handles correctly and a lot of OmniFocus users mention as a selling point. It’s like a snooze button for tasks. I need to be able to put tasks off until later. Let me give you a date and time of when I want to see that task again.</p>
 
@@ -6996,11 +6996,11 @@ fi</pre></noscript>
 
 <p>OmniFocus is the only application I’ve found that handles this. And it does it beautifully.</p>
 
-<h2 id="spanspanproject-planningproject-planning"><a href="#project-planning"><span></span></a>Project planning</h2>
+<h2 id="project-planning"><a href="#project-planning"><span></span></a>Project planning</h2>
 
 <p>The ability to edit tasks by project and also by context seems simple. But I was amazed by the number of GTD-centric apps that don’t have this. It’s one of the foundations of the framework. I need a list of projects with the next action for each, and every action must have a context. Conclusion: I need to see tasks by project <em>and</em> by context.</p>
 
-<h2 id="spanspanapplescriptapplescript"><a href="#applescript"><span></span></a>AppleScript</h2>
+<h2 id="applescript"><a href="#applescript"><span></span></a>AppleScript</h2>
 
 <p>I do a lot of customization and automation. And my task manager is not exempt. I need it to integrate with everything I do on my Mac. From automatically parsing tasks to adding tasks, it needs to fit in.</p>
 
@@ -7037,7 +7037,7 @@ fi</pre></noscript>
 
 <p>I’m fascinated by the gear that people carry. So I thought I’d share what I keep with me when I hit the road. Everything is either in the backpack, in my pockets, or on my wrist.</p>
 
-<h2 id="spanspanthe-gearthe-gear"><a href="#the-gear"><span></span></a>The gear</h2>
+<h2 id="the-gear"><a href="#the-gear"><span></span></a>The gear</h2>
 
 <p><a href="/assets/posts_extra/My-Mobile-Office-Labeled.jpg"><img class="center-image post-image-large" src="/assets/posts_extra/My-Mobile-Office-Labeled.jpg" /></a></p>
 
@@ -7083,7 +7083,7 @@ fi</pre></noscript>
   <li>Chapstick</li>
 </ol>
 
-<h2 id="spanspana-walk-througha-walk-through"><a href="#a-walk-through"><span></span></a>A walk-through</h2>
+<h2 id="a-walk-through"><a href="#a-walk-through"><span></span></a>A walk-through</h2>
 
 <p><a href="https://www.youtube.com/watch?v=9IW5Qq4uKXQ">Watch on YouTube</a></p>
 <iframe width="1000" height="562" src="https://www.youtube.com/embed/9IW5Qq4uKXQ?html5=1" frameborder="0" allowfullscreen=""></iframe>
@@ -7113,7 +7113,7 @@ fi</pre></noscript>
 
 <!--more-->
 
-<h2 id="spanspantraditional-goal-settingtraditional-goal-setting"><a href="#traditional-goal-setting"><span></span></a>Traditional goal-setting</h2>
+<h2 id="traditional-goal-setting"><a href="#traditional-goal-setting"><span></span></a>Traditional goal-setting</h2>
 
 <p>In the past, I’ve set personal and professional goals annually using the <a href="https://en.wikipedia.org/wiki/SMART_criteria">SMART</a> method. It gave me a sense of pride. I knew I was on a path to do some big things. And that was great motivation at the onset of the year.</p>
 
@@ -7121,33 +7121,33 @@ fi</pre></noscript>
 
 <p>By the end of the year, my goals looked nothing like the originals. And in most cases, I failed to hit them. Year after year of the same process finally frustrated me enough to stop and think about the foundation of goal-setting.</p>
 
-<h2 id="spanspanthe-alternativethe-alternative"><a href="#the-alternative"><span></span></a>The alternative</h2>
+<h2 id="the-alternative"><a href="#the-alternative"><span></span></a>The alternative</h2>
 
 <p>I reflected on my inability to complete goals and looked for patterns. It turned out that every three months I was trying to re-imagine my goals for the year. I was setting goals quarterly, but didn’t consider altering their deadlines to reflect the changes. If I’m naturally setting goals quarterly, why not embrace it?</p>
 
 <p>I’m just starting this journey, but here’s why I think this could work:</p>
 
-<h3 id="spanspan1-not-too-long1-not-too-long"><a href="#1-not-too-long"><span></span></a>1. Not too long</h3>
+<h3 id="1-not-too-long"><a href="#1-not-too-long"><span></span></a>1. Not too long</h3>
 
 <p>Life happens too fast for annual goals. Circumstances and mindsets can change quickly and a year is too long. I found myself waiting for the year to end so that I could start something new. Why wait if I’ve abandoned or completed my original goal?</p>
 
 <p>Moving to a shorter time period allows me to accept my three month cycle.</p>
 
-<h3 id="spanspan2-shiny-new-object-motivation2-shiny-new-object-motivation"><a href="#2-shiny-new-object-motivation"><span></span></a>2. Shiny new object motivation</h3>
+<h3 id="2-shiny-new-object-motivation"><a href="#2-shiny-new-object-motivation"><span></span></a>2. Shiny new object motivation</h3>
 
 <p>I can take advantage of my excitement at the onset. I’m usually pretty stoked to get started on new goals. If I’m planning more frequently, I can use the early motivation to accomplish things faster and gain focus.</p>
 
-<h3 id="spanspan3-success-cycle3-success-cycle"><a href="#3-success-cycle"><span></span></a>3. Success cycle</h3>
+<h3 id="3-success-cycle"><a href="#3-success-cycle"><span></span></a>3. Success cycle</h3>
 
 <p>I’m lacking the drive that comes from successfully reaching a goal. When I achieve a goal, I get excited and want to do more. By using shorter periods, I have more opportunities for success and can create a cycle of winning.</p>
 
-<h2 id="spanspanmy-planmy-plan"><a href="#my-plan"><span></span></a>My plan</h2>
+<h2 id="my-plan"><a href="#my-plan"><span></span></a>My plan</h2>
 
 <p>I’m just coming to this idea and haven’t tested it… at all. It’s a journey that I’ll do my best to share. My plan for the next week is to set goals for the next 3 months, share as many of them as I can with you, and let you know how it goes.</p>
 
 <p>That’s the goal anyway.</p>
 
-<h3 id="spanspanreferencesreferences"><a href="#references"><span></span></a>References</h3>
+<h3 id="references"><a href="#references"><span></span></a>References</h3>
 
 <ol>
   <li><a href="http://www.fastcompany.com/3040289/why-90-day-goals-are-better-than-year-long-ones">Why 90-Day Goals Are Better Than Year-Long Ones</a> - Fast Company</li>
@@ -7186,7 +7186,7 @@ fi</pre></noscript>
 
 <p>But routines don’t necessarily motivate me throughout the day. They may keep me on track, but they’re often draining and mundane. And no fun at all. To prevent burnout, some of those tasks need to be enjoyable. Ultimately, it comes down to the difference between routines and rituals.</p>
 
-<h2 id="spanspanroutineroutine"><a href="#routine"><span></span></a>Routine</h2>
+<h2 id="routine"><a href="#routine"><span></span></a>Routine</h2>
 
 <p>I think of routines as checklists or a structure in which I act. It can be a list of things I do in the morning or the process of getting my kids down for bed. In either case, there is a series of tasks that I do consistently and in the same order.</p>
 
@@ -7194,13 +7194,13 @@ fi</pre></noscript>
 
 <p>Common routines: preparing work for the day, mowing the lawn, bedtimes.</p>
 
-<h2 id="spanspanritualritual"><a href="#ritual"><span></span></a>Ritual</h2>
+<h2 id="ritual"><a href="#ritual"><span></span></a>Ritual</h2>
 
 <p>Rituals are similar to routines since they are also a series of tasks that are completed in the same order. But a ritual’s intent is to provide energy and enjoyment along with structure. A ritual is a carefully selected process that has a positive side effect outside of the task being completed.</p>
 
 <p>Common rituals: meditation, daily walk, reading a book.</p>
 
-<h2 id="spanspanfrom-routine-to-ritualfrom-routine-to-ritual"><a href="#from-routine-to-ritual"><span></span></a>From routine to ritual</h2>
+<h2 id="from-routine-to-ritual"><a href="#from-routine-to-ritual"><span></span></a>From routine to ritual</h2>
 
 <p>I’ve taken detailed notes by hand in meetings for a while. I never enjoyed it. I kept trying to collect the notes digitally, but it never felt fluid enough.</p>
 
@@ -7208,7 +7208,7 @@ fi</pre></noscript>
 
 <p>There is a balance to be found with routine and ritual. We’ll always have routines that we need to do. But there’s a lot of value in finding routines, (or at least parts of routines), that we can turn into rituals.</p>
 
-<h3 id="spanspanreferencesreferences"><a href="#references"><span></span></a>References</h3>
+<h3 id="references"><a href="#references"><span></span></a>References</h3>
 
 <p><a href="http://www.brainpickings.org/2015/02/13/routine-ritual-anne-lamott-stitches/">The Difference Between Routine and Ritual: How to Master the Balancing Act of Controlling Chaos and Finding Magic in the Mundane</a> - Brain Pickings<br />
 <a href="http://www.theemotionmachine.com/routines-vs-rituals">The Difference Between Routines vs. Rituals</a> - The Emotion Machine<br />
@@ -7245,63 +7245,63 @@ fi</pre></noscript>
 
 <p>I’ve found that with the vast amount of information that floods my mind every day, I’m better off using an external system to keep it all straight. I can’t trust my mind so I need help remembering. Enter TheBrain.</p>
 
-<h2 id="spanspanwhat-is-thebrainwhat-is-thebrain"><a href="#what-is-thebrain"><span></span></a>What is TheBrain?</h2>
+<h2 id="what-is-thebrain"><a href="#what-is-thebrain"><span></span></a>What is TheBrain?</h2>
 
 <p><a href="http://www.thebrain.com/">TheBrain</a> is mind-mapping software on steroids. It allows you to create Thoughts (think of these as nodes in mind-mapping) that are linked in multiple places. A single Thought can have multiple parents, multiple children, and multiple “jump” Thoughts. The Jump Thoughts are the oddballs and also where the magic happens. I found it hard to understand until I saw an example, so I recommend taking a quick look at <a href="http://jerrysbrain.com">Jerry’s Brain</a>.</p>
 
 <p><strong>Jump Thought Example</strong>: Sam lives in Utah. Sam is not the United States, so he’s not Utah’s parent. He’s also not a city of Utah, so he’s not a child. But I still want Sam connected to Utah. So I add Sam as a Jump Thought to Utah. Now when I’m looking at the Thought for Sam, I can see Utah. And when I’m looking at the Thought for Utah, I can see Sam.</p>
 
-<h2 id="spanspanusesuses"><a href="#uses"><span></span></a>Uses</h2>
+<h2 id="uses"><a href="#uses"><span></span></a>Uses</h2>
 
-<h3 id="spanspan1-contacts1-contacts"><a href="#1-contacts"><span></span></a>1. Contacts</h3>
+<h3 id="1-contacts"><a href="#1-contacts"><span></span></a>1. Contacts</h3>
 
 <p>This isn’t an address book as much as a connection book. TheBrain makes it possible to create connections between people and concepts, ideas, and locations. The power of this comes with the review process later. Before I meet with someone, I’ll pull up TheBrain to see what connections I have with them. It helps me remember that Jill is a homeschooler who likes fountain pens even if I haven’t seen Jill in a year or two. And if I’m honest, it makes small talk for an introvert easier.</p>
 
-<h3 id="spanspan2-concepts2-concepts"><a href="#2-concepts"><span></span></a>2. Concepts</h3>
+<h3 id="2-concepts"><a href="#2-concepts"><span></span></a>2. Concepts</h3>
 
 <p>These are ideas or systems that I enjoy or participate in - developing intuition, dash/plus note-taking, GTD, etc… If I keep these in TheBrain, I can make connections to other people, tools, and locations, but I can also see a list of my favorite concepts. It’s interesting how many new ideas I get when I see these side by side.</p>
 
-<h3 id="spanspan3-service-providers3-service-providers"><a href="#3-service-providers"><span></span></a>3. Service Providers</h3>
+<h3 id="3-service-providers"><a href="#3-service-providers"><span></span></a>3. Service Providers</h3>
 
 <p>How handy would it be to see all of the mechanics that you know? How about all of the physicians or lawyers? That’s exactly what this does. When I have work done or have someone recommended, I put them here.</p>
 
-<h3 id="spanspan4-interests4-interests"><a href="#4-interests"><span></span></a>4. Interests</h3>
+<h3 id="4-interests"><a href="#4-interests"><span></span></a>4. Interests</h3>
 
 <p>This is similar to concepts, but it’s more about specific things - fountains pens, homeschooling, scotch, espresso. Again, I can use these to make connections elsewhere.</p>
 
-<h3 id="spanspan5-autobiography5-autobiography"><a href="#5-autobiography"><span></span></a>5. Autobiography</h3>
+<h3 id="5-autobiography"><a href="#5-autobiography"><span></span></a>5. Autobiography</h3>
 
 <p>Sometimes I forget when an event in my life happened. So I’ve started logging big events in TheBrain. I have Child Thoughts under this for Education, Hobbies, and Timeline. The first two are easy, but the last is the most helpful. If an event happens that I want to log, I put it here under the appropriate date. I can add notes about it but I can also give it Jump Thoughts for the location, any people involved, or anything else that I may want to recall. It’s nice to know who helped me out when I was doing <a href="http://joebuhlig.com/a-chaotic-week-with-gtd/">foundation work on my house</a>.</p>
 
-<h3 id="spanspan6-locations6-locations"><a href="#6-locations"><span></span></a>6. Locations</h3>
+<h3 id="6-locations"><a href="#6-locations"><span></span></a>6. Locations</h3>
 
 <p>I travel regularly and I’m reaching a point where it’s hard to remember who I’ve met and where. I also like seeing what I’ve done in different places. So I add locations here as I need and use them as Jump Thoughts elsewhere. Having them collected in one place makes it easy to see all the things I’ve done or know about a place.</p>
 
-<h3 id="spanspan7-tools7-tools"><a href="#7-tools"><span></span></a>7. Tools</h3>
+<h3 id="7-tools"><a href="#7-tools"><span></span></a>7. Tools</h3>
 
 <p>These are mostly apps that I use. I sometimes like to see what concepts or interests are connected to these apps. I can also connect these to contacts that use them as well. It’s fun to ask someone how their use of Evernote has changed over the last two years when you haven’t seen them. It usually sparks a fun, geeky conversation.</p>
 
-<h3 id="spanspan8-influentials8-influentials"><a href="#8-influentials"><span></span></a>8. Influentials</h3>
+<h3 id="8-influentials"><a href="#8-influentials"><span></span></a>8. Influentials</h3>
 
 <p>These are people that have had a big impact on me in some way. They’ve been mentors, confidants, or all-around wise people that I enjoy being around. If I have an opportunity to be around these people, I will take it every time I can.</p>
 
-<h2 id="spanspanguidelinesguidelines"><a href="#guidelines"><span></span></a>Guidelines</h2>
+<h2 id="guidelines"><a href="#guidelines"><span></span></a>Guidelines</h2>
 
 <p>There isn’t a list of best practices anywhere on how to use TheBrain (that I’ve found) and I certainly wouldn’t tell you that there’s a bad way to use it. But here are a few pointers:</p>
 
-<h3 id="spanspan1-single-brain1-single-brain"><a href="#1-single-brain"><span></span></a>1. Single Brain</h3>
+<h3 id="1-single-brain"><a href="#1-single-brain"><span></span></a>1. Single Brain</h3>
 
 <p>I can have multiple Brains! But it’s not a good idea. I tried it once and found that I was switching a lot. It’s easier to create a new branch off the Home Thought and work from there. It also allows you to create more connections in the long run.</p>
 
-<h3 id="spanspan2-using-jump-thoughts2-using-jump-thoughts"><a href="#2-using-jump-thoughts"><span></span></a>2. Using Jump Thoughts</h3>
+<h3 id="2-using-jump-thoughts"><a href="#2-using-jump-thoughts"><span></span></a>2. Using Jump Thoughts</h3>
 
 <p>Be very clear on what is a Parent Thought and what is a Child Thought. Everything else is a Jump Thought. States or regions are children of countries. People can be parents of concepts (ex. David Allen and GTD). But a coworker may be a Jump Thought of a concept. They aren’t the creator of the concept and it would seem silly to have someone as a child of a concept. Create a Jump Thought for the relationship in order to see the connection later.</p>
 
-<h3 id="spanspan3-leverage-notes3-leverage-notes"><a href="#3-leverage-notes"><span></span></a>3. Leverage Notes</h3>
+<h3 id="3-leverage-notes"><a href="#3-leverage-notes"><span></span></a>3. Leverage Notes</h3>
 
 <p>This is especially useful if you have contacts in your Brain. Use the notes field to capture someone’s background or to take notes on your last conversation with them. Use them as they’re intended - for taking notes.</p>
 
-<h3 id="spanspan4-orphaned-thoughts4-orphaned-thoughts"><a href="#4-orphaned-thoughts"><span></span></a>4. Orphaned Thoughts</h3>
+<h3 id="4-orphaned-thoughts"><a href="#4-orphaned-thoughts"><span></span></a>4. Orphaned Thoughts</h3>
 
 <p>Don’t be afraid to have Thoughts out there without a Parent or Child Thought. If you start to create a connection in the future, the search mechanism will still show them and you can continue building connections off of them.</p>
 ]]>
@@ -7332,7 +7332,7 @@ fi</pre></noscript>
 
 <p>And there are a lot of conventional ways that you see Evernote being used - packing lists, research, household item photos, journaling, and many others. But I want to share a few ways I use Evernote that I haven’t see elsewhere on the web.</p>
 
-<h2 id="spanspansocial-media-loggingsocial-media-logging"><a href="#social-media-logging"><span></span></a>Social Media Logging</h2>
+<h2 id="social-media-logging"><a href="#social-media-logging"><span></span></a>Social Media Logging</h2>
 
 <p>I have a handful of rules in <a href="https://ifttt.com/">IFTTT</a> that automatically create notes in Evernote when a new post, favorite, or like happens on social media. I’m often wanting to go back to something I saw on Vimeo or Instagram and can’t find it. If I favorited a photo in Instagram, I know that it’s easier to find it in Evernote than to go searching the depths of the Instagram feed.</p>
 
@@ -7340,7 +7340,7 @@ fi</pre></noscript>
 
 <p>Evernote tags: twitterx, tumblrx, linkedinx, instagramx, vimeox, youtubex, facebookx</p>
 
-<h2 id="spanspanpresentationspresentations"><a href="#presentations"><span></span></a>Presentations</h2>
+<h2 id="presentations"><a href="#presentations"><span></span></a>Presentations</h2>
 
 <p>I’m not talking about research or random ideas for presentations here. I’m talking about the presentations themselves. PowerPoint can create decent presentations and Keynote does a fair job as well. But the clean view of an Evernote presentation is tough to beat.</p>
 
@@ -7348,19 +7348,19 @@ fi</pre></noscript>
 
 <p>Evernote tags: presentationx, wipx (I remove wipx after I’ve presented it.)</p>
 
-<h2 id="spanspanarticle-historyarticle-history"><a href="#article-history"><span></span></a>Article History</h2>
+<h2 id="article-history"><a href="#article-history"><span></span></a>Article History</h2>
 
 <p>I’ve written about this one in the past, but you can <a href="http://joebuhlig.com/saving-full-articles-in-evernote-from-rss/">automatically save articles</a> you’ve read in Evernote through Pocket. I read a life-altering article about how to cuddle with a puppy and now I can’t find it. Creating a history of articles you’ve read ensures that you’ll never forget how to cuddle puppies.</p>
 
 <p>Evernote tags: articlex</p>
 
-<h2 id="spanspankudoskudos"><a href="#kudos"><span></span></a>Kudos</h2>
+<h2 id="kudos"><a href="#kudos"><span></span></a>Kudos</h2>
 
 <p>You need to start this one! Any time someone praises something I’ve done or thanks me for helping them, I add it to Evernote. You never know when a bad day will come along and you need a pick-me-up.</p>
 
 <p>Evernote tags: kudox</p>
 
-<h2 id="spanspanrating-databasesrating-databases"><a href="#rating-databases"><span></span></a>Rating Databases</h2>
+<h2 id="rating-databases"><a href="#rating-databases"><span></span></a>Rating Databases</h2>
 
 <p>This is similar to what a lot of people use Evernote for, but I add a twist to it. I collect pictures of scotch bottles, wine bottles, bags of coffee, and even restaurant signs. But I make sure I write a few notes about the item and tag it with a rating. That allows me to do a search like “restaurantx excellentx Atlanta” to find excellent restaurants I’ve been to in Atlanta.</p>
 
@@ -7395,41 +7395,41 @@ fi</pre></noscript>
 
 <!--more-->
 
-<h2 id="spanspandraftsdrafts"><a href="#drafts"><span></span></a>Drafts</h2>
+<h2 id="drafts"><a href="#drafts"><span></span></a>Drafts</h2>
 
 <p>Most articles start as a small idea for me. I always capture these with my iPhone and <a href="http://agiletortoise.com/drafts/">Drafts</a>. Even if I originally captured the idea on a note card, I’ll enter it into Drafts. From there, they auto-magically end up on a <a href="http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/">Someday/Maybe list in OmniFocus</a>. I’m lazy so I had to make it happen without any intervention.</p>
 
-<h2 id="spanspanomnifocusomnifocus"><a href="#omnifocus"><span></span></a>OmniFocus</h2>
+<h2 id="omnifocus"><a href="#omnifocus"><span></span></a>OmniFocus</h2>
 
 <p>When I’m deciding what articles to write, I review my Blog Post Ideas list in <a href="https://www.omnigroup.com/omnifocus">OmniFocus</a> for inspiration. When I’ve decided which idea gets to move forward, I turn that task into a project using a template project. This ensures that I complete all the steps necessary to get a blog post out the door.</p>
 
-<h2 id="spanspansublime-textsublime-text"><a href="#sublime-text"><span></span></a>Sublime Text</h2>
+<h2 id="sublime-text"><a href="#sublime-text"><span></span></a>Sublime Text</h2>
 
 <p><a href="http://www.sublimetext.com/">Sublime Text 3</a> is my writing environment of choice. I use it for writing code at work. It has a lot of features that I don’t use for writing articles, but the extensibility and full-screen writing are really nice.</p>
 
 <p>I write primarily in Markdown and to give Sublime more abilities, I extended it to create my custom setup. You need to install the <a href="https://packagecontrol.io/installation">Package Installer</a> to get these, but here are the packages I use within Sublime:</p>
 
-<h3 id="spanspan1-markdownediting1-markdowneditinghttpspackagecontroliopackagesmarkdownediting"><a href="#1-markdownediting"><span></span></a>1. <a href="https://packagecontrol.io/packages/MarkdownEditing">MarkdownEditing</a></h3>
+<h3 id="1-markdownediting"><a href="#1-markdownediting"><span></span></a>1. <a href="https://packagecontrol.io/packages/MarkdownEditing">MarkdownEditing</a></h3>
 
 <p>This gives you special macros, themes, and other tools that make it easier to write Markdown in Sublime. Adding missing link labels, running LINT, and switching list types are just a few of the tools you get.</p>
 
-<h3 id="spanspan2-markdown-preview2-markdown-previewhttpspackagecontroliopackagesmarkdown20preview"><a href="#2-markdown-preview"><span></span></a>2. <a href="https://packagecontrol.io/packages/Markdown%20Preview">Markdown Preview</a></h3>
+<h3 id="2-markdown-preview"><a href="#2-markdown-preview"><span></span></a>2. <a href="https://packagecontrol.io/packages/Markdown%20Preview">Markdown Preview</a></h3>
 
 <p>When I’m done with my article, I run a command to copy the HTML to my clipboard using Markdown Preview. This package also allows you to export it to a file or preview the article in a browser. I never preview Markdown. It’s rarely different than what I was thinking. I know HTML and write it a lot. If something is wrong at the end, I’ll tweak the raw code.</p>
 
-<h3 id="spanspan3-monokai-extended3-monokai-extendedhttpspackagecontroliopackagesmonokai20extended"><a href="#3-monokai-extended"><span></span></a>3. <a href="https://packagecontrol.io/packages/Monokai%20Extended">Monokai Extended</a></h3>
+<h3 id="3-monokai-extended"><a href="#3-monokai-extended"><span></span></a>3. <a href="https://packagecontrol.io/packages/Monokai%20Extended">Monokai Extended</a></h3>
 
 <p>Every time an application introduces a Dark or Night Mode, I use it. I don’t like staring at a light bulb all day so I try to minimize the amount of whitespace on a screen and turn it into grayspace. Monokai Extended is a syntax highlighter and color theme that works really well for me and allows me to get that Dark Mode I want.</p>
 
-<h3 id="spanspan4-wordcount4-wordcounthttpspackagecontroliopackageswordcount"><a href="#4-wordcount"><span></span></a>4. <a href="https://packagecontrol.io/packages/WordCount">WordCount</a></h3>
+<h3 id="4-wordcount"><a href="#4-wordcount"><span></span></a>4. <a href="https://packagecontrol.io/packages/WordCount">WordCount</a></h3>
 
 <p>I like to know how long my articles are. So I installed this little package that gives me a live word count as I’m typing. But I usually write in Distraction-Free Mode within Sublime Text which removes the ability to see all menu and status bars. So, it’s apparently not that important.</p>
 
-<h2 id="spanspaneditorialeditorial"><a href="#editorial"><span></span></a>Editorial</h2>
+<h2 id="editorial"><a href="#editorial"><span></span></a>Editorial</h2>
 
 <p>Once in a while I’m away from my computer and I have an idea for an article I’m in the middle of. In that case, I use <a href="http://omz-software.com/editorial/">Editorial</a> to edit text files on my iPhone or iPad.</p>
 
-<h2 id="spanspanwordpresswordpress"><a href="#wordpress"><span></span></a>WordPress</h2>
+<h2 id="wordpress"><a href="#wordpress"><span></span></a>WordPress</h2>
 
 <p>When it’s all done, I copy the HTML for an article in Sublime Text and paste it into WordPress. If I want to do anything special to the code, I do it there. Otherwise, I’m simply checking the preview for the article and preparing the plane for takeoff.</p>
 ]]>
@@ -7462,9 +7462,9 @@ fi</pre></noscript>
 
 <p>Maybe I’m just bad at being realistic with goals and make them too big. I break them down each month and week to make sure I’m making progress but I miss them about 75% of the time. That means I’m creating a long string of failures. As a recovering perfectionist, this is paralyzing.</p>
 
-<h2 id="spanspanmy-issues-with-goalsmy-issues-with-goals"><a href="#my-issues-with-goals"><span></span></a>My issues with goals</h2>
+<h2 id="my-issues-with-goals"><a href="#my-issues-with-goals"><span></span></a>My issues with goals</h2>
 
-<h3 id="spanspan1-circumstances1-circumstances"><a href="#1-circumstances"><span></span></a>1. Circumstances</h3>
+<h3 id="1-circumstances"><a href="#1-circumstances"><span></span></a>1. Circumstances</h3>
 
 <p>I had great intentions when I started the year and I felt that I was on a good path. And I was…for a few months. But simple things happen that have a ripple effect.</p>
 
@@ -7472,23 +7472,23 @@ fi</pre></noscript>
 
 <p>I found myself tweaking my goals (and feeling guilty about it) every time I had something come up that would alter the course. So… why am I setting them to begin with if I’m changing them all year long?</p>
 
-<h3 id="spanspan2-time2-time"><a href="#2-time"><span></span></a>2. Time</h3>
+<h3 id="2-time"><a href="#2-time"><span></span></a>2. Time</h3>
 
 <p>The traditional time span for goals is a year. At work, performance reviews are typically based on the goals that were set for the year. And then there are New Year’s Resolutions (no comment). In most scenarios I’ve come across, goals revolve around a year.</p>
 
 <p>Maybe I just have a lot going on or I work in a space that moves quickly, but a year is too long. Ideas and technology move faster than a year and by the time I get 6 months in, there’s a new best practice, software update, or an unexpected roadblock that changes what I’m doing.</p>
 
-<h3 id="spanspan3-stress3-stress"><a href="#3-stress"><span></span></a>3. Stress</h3>
+<h3 id="3-stress"><a href="#3-stress"><span></span></a>3. Stress</h3>
 
 <p>Goals are stress-inducing. And we now know that <a href="http://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend">stress is a killer</a>. I don’t want my goals to kill me. That might be extreme, but you get my point. I want to hit my goals. “Write them down and they will come true!” I see this everywhere. Well, guess what? I wrote them down. I reviewed them daily. And all they did was make me worry about why I can’t keep up with them and wonder why I keep failing.</p>
 
-<h3 id="spanspan4-vague4-vague"><a href="#4-vague"><span></span></a>4. Vague</h3>
+<h3 id="4-vague"><a href="#4-vague"><span></span></a>4. Vague</h3>
 
 <p>Because the time frame is typically too large on goals, I tend to make them as vague as possible. I intuitively realized that the circumstances would change and wrote them with a lot of flexibility in order to hit them.</p>
 
 <p>But this poses another question: how do you know if you hit it or not? If it’s too vague to know whether you’ve hit your goal or not, what’s the point?</p>
 
-<h2 id="spanspancreating-guidescreating-guides"><a href="#creating-guides"><span></span></a>Creating guides</h2>
+<h2 id="creating-guides"><a href="#creating-guides"><span></span></a>Creating guides</h2>
 
 <p>The yearly, monthly, and weekly goal cycle just wasn’t cutting it for me. Luckily, I ran across <a href="http://shawnblanc.net">Shawn Blanc’s</a> concept of three Most Important Goals each day. I’ve tweaked it for me, but the concept is to write down things that you want to achieve every day and not worry about the long-term. If you achieve these every day, you will naturally chip away at the long-term goal.</p>
 
@@ -7496,7 +7496,7 @@ fi</pre></noscript>
 
 <p>Here’s what I came up with:</p>
 
-<h3 id="spanspanpersonallypersonally"><a href="#personally"><span></span></a>Personally</h3>
+<h3 id="personally"><a href="#personally"><span></span></a>Personally</h3>
 
 <ol>
   <li>Read a book</li>
@@ -7504,7 +7504,7 @@ fi</pre></noscript>
   <li>Learn something new</li>
 </ol>
 
-<h3 id="spanspanfamilyfamily"><a href="#family"><span></span></a>Family</h3>
+<h3 id="family"><a href="#family"><span></span></a>Family</h3>
 
 <ol>
   <li>Encourage and serve my wife</li>
@@ -7512,7 +7512,7 @@ fi</pre></noscript>
   <li>Spend time with my girls and give them my full attention (no phone)</li>
 </ol>
 
-<h3 id="spanspanworkwork"><a href="#work"><span></span></a>Work</h3>
+<h3 id="work"><a href="#work"><span></span></a>Work</h3>
 
 <ol>
   <li>Make progress on an important project</li>
@@ -7522,11 +7522,11 @@ fi</pre></noscript>
 
 <p>These are extremely flexible. I’ve found that if I miss one of these in a given day, I don’t worry about it as much. I know that I have tomorrow to pick it up again. I haven’t lost an entire year if I fail and I end up with a longer string of successes over failures.</p>
 
-<h2 id="spanspana-place-for-goalsa-place-for-goals"><a href="#a-place-for-goals"><span></span></a>A place for goals</h2>
+<h2 id="a-place-for-goals"><a href="#a-place-for-goals"><span></span></a>A place for goals</h2>
 
 <p>I think goals <em>can</em> be good. They help us set direction. They show us our aspirations. And they’re good for communicating our intentions to others. But there’s something to be said for your state of being when you have goals in place. If it works for you, go for it! But if it stresses you out, know that it’s ok to give them up and put guides in place.</p>
 
-<h3 id="spanspanreferencesreferences"><a href="#references"><span></span></a>References:</h3>
+<h3 id="references"><a href="#references"><span></span></a>References:</h3>
 
 <ol>
   <li><a href="https://blog.bufferapp.com/why-having-no-goals-in-our-lives-might-make-us-happier-and-more-successful">The case for having no goals in your life: Why it might lead to more success and happiness - Buffer</a></li>
@@ -7560,45 +7560,45 @@ fi</pre></noscript>
 
 <!--more-->
 
-<h2 id="spanspaninboxinbox"><a href="#inbox"><span></span></a>Inbox</h2>
+<h2 id="inbox"><a href="#inbox"><span></span></a>Inbox</h2>
 
 <p>I keep my Inbox available as I often want to empty it. If I’m getting ready to focus on a project for a couple hours or just got off a call, I need to process things immediately so my pinball brain can go in a straight line for a while. Easy access to my inbox makes <a href="http://joebuhlig.com/getting-things-done-clarify/">clarification</a> easier.</p>
 
-<h2 id="spanspancontextscontexts"><a href="#contexts"><span></span></a>Contexts</h2>
+<h2 id="contexts"><a href="#contexts"><span></span></a>Contexts</h2>
 
 <p>Here’s the obvious one. I need it to be easy to <a href="http://joebuhlig.com/gtd-contexts-proactive-vs-reactive/">choose a context</a> to work on. Most of the time, I’m using my phone to work through my <a href="http://joebuhlig.com/my-morning-routine/">morning routine</a>. At other times when I find myself on a plane or waiting for someone, I can use this as a way to find tasks to do.</p>
 
-<h2 id="spanspanprojectsprojects"><a href="#projects"><span></span></a>Projects</h2>
+<h2 id="projects"><a href="#projects"><span></span></a>Projects</h2>
 
 <p>I don’t go in here often, but it’s enough that I wanted it on the home screen. Weird, I know. There are instances when I want to look at a specific project and I’m away from my computer. It also just feels intuitive to have it there.</p>
 
-<h2 id="spanspandashboarddashboard"><a href="#dashboard"><span></span></a>Dashboard</h2>
+<h2 id="dashboard"><a href="#dashboard"><span></span></a>Dashboard</h2>
 
 <p>Here’s where I spend most of my time. This is a custom perspective that shows all of my Due or Flagged tasks. I decide on these the night before by going through my contexts and flagging the items that <em>need</em> to get done the next day. You can see a play-by-play of <a href="http://joebuhlig.com/a-chaotic-week-with-gtd/">how this works here</a>.</p>
 
-<h2 id="spanspannearbynearby"><a href="#nearby"><span></span></a>Nearby</h2>
+<h2 id="nearby"><a href="#nearby"><span></span></a>Nearby</h2>
 
 <p>I use this more than I thought I would. If I’m in a store of some kind, I’ll check this and look across all of my geotagged lists. It helps me figure out if there’s another errand I need to run while I’m out, like “buy ice cream.” Though I’m not sure why I don’t put <em>buy ice cream</em> on all of these lists. You can never be too careful with your ice cream supply.</p>
 
-<h2 id="spanspanneutralizeneutralize"><a href="#neutralize"><span></span></a>Neutralize</h2>
+<h2 id="neutralize"><a href="#neutralize"><span></span></a>Neutralize</h2>
 
 <p>This is another custom perspective that was inspired by Kourosh Dini at <a href="http://www.usingomnifocus.com">Using OmniFocus</a>. There are some tasks that need to be done repeatedly in order to keep your world stable. It can be little things like refill printer paper, clean the desk, water the plants, etc… I have these in a Single Actions list and use a custom perspective to make them easy to find. I try to clear this list every day.</p>
 
-<h2 id="spanspanforecastforecast"><a href="#forecast"><span></span></a>Forecast</h2>
+<h2 id="forecast"><a href="#forecast"><span></span></a>Forecast</h2>
 
 <p>I don’t use this often because I don’t usually use due dates. But if I’m in a conversation with someone and they ask what I have going on in the next few days, this is one place I go to determine the answer. “What is Joe working on?” I don’t know, but I can find out.</p>
 
-<h2 id="spanspaniphoneiphone"><a href="#iphone"><span></span></a>iPhone</h2>
+<h2 id="iphone"><a href="#iphone"><span></span></a>iPhone</h2>
 
 <p>This is another custom perspective that I use frequently. It’s a combination of @Any Device and @Communicate. Those are the contexts I can work on from my iPhone. If I get through Dashboard and Neutralize, this is where I go when I’m on my phone.</p>
 
 <p>PS. I keep this same setup on my iPad as well. I don’t want two different setups. But instead of iPhone I have one for iPad.</p>
 
-<h2 id="spanspanreviewreview"><a href="#review"><span></span></a>Review</h2>
+<h2 id="review"><a href="#review"><span></span></a>Review</h2>
 
 <p>I only use this on my phone when I’m traveling. If I see a number in the box, I’ll go into Review and look things over to keep me up to date.</p>
 
-<h2 id="spanspanbeckybecky"><a href="#becky"><span></span></a>Becky</h2>
+<h2 id="becky"><a href="#becky"><span></span></a>Becky</h2>
 
 <p>This is a custom perspective that is based on a search for “Becky.” It’s really handy to go here right before I get off work to see if there’s anything I need to talk about or work on with my wife.</p>
 ]]>
@@ -7627,7 +7627,7 @@ fi</pre></noscript>
 
 <!--more-->
 
-<h2 id="spanspanbackgroundbackground"><a href="#background"><span></span></a>Background</h2>
+<h2 id="background"><a href="#background"><span></span></a>Background</h2>
 
 <p>Last Spring our lower level family room had water in it. We had some hard rains and the water managed to work its way into the house. After many failed attempts to fix it from above ground, we decided to dig up a portion of the foundation to fix the root of the problem. This project was the main contributor to the chaos, but there were a few things that came up at work as well.</p>
 
@@ -7635,7 +7635,7 @@ fi</pre></noscript>
 
 <p><img class="center-image" src="/assets/posts_extra/OmniFocus-Dashboard.png" /></p>
 
-<h2 id="spanspanmondaymonday"><a href="#monday"><span></span></a>Monday</h2>
+<h2 id="monday"><a href="#monday"><span></span></a>Monday</h2>
 
 <p>I started off Monday by sleeping in a bit. I got up at 5:45 as opposed to <a href="http://joebuhlig.com/why-getting-up-early/">my normal 5 am</a>. I was coming off of a cold and wanted to make sure I had it beat.</p>
 
@@ -7649,7 +7649,7 @@ fi</pre></noscript>
 
 <p>Before I went to bed at 9:30 I did my typical <a href="http://joebuhlig.com/my-evening-routine/">evening routine</a>. Tomorrow I would move the hostas from around the house and start digging up the problem area of the foundation. Again, I flagged these two and deferred them until after work the next day. I also saw that I had expense reports due at work, so I set aside time for them.</p>
 
-<h2 id="spanspantuesdaytuesday"><a href="#tuesday"><span></span></a>Tuesday</h2>
+<h2 id="tuesday"><a href="#tuesday"><span></span></a>Tuesday</h2>
 
 <p>Since I was going to start digging up the foundation that afternoon using only my trusty garden shovel, I slept in until 5:30. I knew what was coming.</p>
 
@@ -7665,7 +7665,7 @@ fi</pre></noscript>
 
 <p>I set up my Dashboard for Wednesday that evening and went to bed around 9:30.</p>
 
-<h2 id="spanspanwednesdaywednesday"><a href="#wednesday"><span></span></a>Wednesday</h2>
+<h2 id="wednesday"><a href="#wednesday"><span></span></a>Wednesday</h2>
 
 <p>On Wednesday I was up at my normal time of 5 am. The morning routine was normal except that I spent 30 minutes running a shovel. It was during that time that I officially decided that I needed help. I wrote it down on my hPDA.</p>
 
@@ -7683,7 +7683,7 @@ fi</pre></noscript>
 
 <p>Using my hPDA, I wrote down some of the high-level needs for the project and then kept digging. During my evening routine, I took those high-level needs and turned them into a list of materials needed and re-wrote most of the action steps for the project. Bed time came late at 9:50pm.</p>
 
-<h2 id="spanspanthursdaythursday"><a href="#thursday"><span></span></a>Thursday</h2>
+<h2 id="thursday"><a href="#thursday"><span></span></a>Thursday</h2>
 
 <p>The 5 am alarm was hard to swallow on Thursday. I was tired. But I got out of bed anyway. I made breakfast and my Dashboard showed that I needed to keep digging that morning. Part of the new plan involved the expansion of the current hole.</p>
 
@@ -7699,7 +7699,7 @@ fi</pre></noscript>
 
 <p>At this point, my back really didn’t like me. I sat down to plan for the next day and I wasn’t sure I’d get back up again. But during my review, I decided to take a day off from the foundation work and recover. I needed to pick up a few more supplies and my in-laws were coming to visit so I wanted to take time for them as well. Bedtime came late again at about 10 pm.</p>
 
-<h2 id="spanspanfridayfriday"><a href="#friday"><span></span></a>Friday</h2>
+<h2 id="friday"><a href="#friday"><span></span></a>Friday</h2>
 
 <p>Once again, I was up at 5 am. After my normal morning routine was completed I jumped into work for the day. I had a number of meetings and wanted to finish early so I could spend some time with my in-laws. I worked on my Dashboard and managed to complete it before the girls woke up around 8.</p>
 
@@ -7713,7 +7713,7 @@ fi</pre></noscript>
 
 <p>That evening when I did my routine, I made the alterations to the project and put together the plan for Saturday. We would paint the rubber membrane on the wall and cut the hole for the new sump. It was a late one at 10:45 before I made it to bed.</p>
 
-<h2 id="spanspansaturdaysaturday"><a href="#saturday"><span></span></a>Saturday</h2>
+<h2 id="saturday"><a href="#saturday"><span></span></a>Saturday</h2>
 
 <p>On Saturday morning I was up at 5 am. I did my morning routine and then loaded some materials I needed to return into the truck. By the time I had done all of that, the house was starting to wake up.</p>
 
@@ -7727,7 +7727,7 @@ fi</pre></noscript>
 
 <p>That night I checked off a bunch of the items on my list for this project. I refer to my list as needed, but with a physical project like this I usually know what comes next. The list is to ensure I don’t forget something. I planned to finish installing the sump pump on Sunday. I don’t normally do work like that on a Sunday as I simply need a break at least once a week, but I had the help and wanted to take advantage of it. Bed time came around 9:30 that night.</p>
 
-<h2 id="spanspansundaysunday"><a href="#sunday"><span></span></a>Sunday</h2>
+<h2 id="sunday"><a href="#sunday"><span></span></a>Sunday</h2>
 
 <p>I was up at 5 am on Sunday. I did my normal morning routine, but added in a <a href="http://joebuhlig.com/getting-things-done-reflect/">Weekly Review</a>. I really needed to go through everything. It would help me reset and be ready for the week ahead. I knew there would be a number of things on my mind that I was unaware of so I decided to work through <a href="http://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf">David Allen’s trigger list</a>. Sure enough, I added a bunch of tasks to OmniFocus.</p>
 
@@ -7737,7 +7737,7 @@ fi</pre></noscript>
 
 <p>My in-laws left after the pump was installed. All we did that evening was play with the girls.</p>
 
-<h2 id="spanspantake-awaystake-aways"><a href="#take-aways"><span></span></a>Take-aways</h2>
+<h2 id="take-aways"><a href="#take-aways"><span></span></a>Take-aways</h2>
 
 <ol>
   <li>
@@ -7795,23 +7795,23 @@ fi</pre></noscript>
 
 <p>The time between tasks isn’t the only time to reclaim. When I started looking, I found a number of transitions stealing time from me:</p>
 
-<h3 id="between-tasks">1.  Between tasks</h3>
+<h3 id="1--between-tasks">1.  Between tasks</h3>
 
 <p>When you complete a task, how long does it take to make the decision to start the next one?</p>
 
-<h3 id="between-contexts">2.  Between contexts</h3>
+<h3 id="2--between-contexts">2.  Between contexts</h3>
 
 <p>When you <a href="http://joebuhlig.com/gtd-contexts-proactive-vs-reactive/">decide to change</a> your environment do you notice right away and start working on the next list or do you take your time switching?</p>
 
-<h3 id="between-projects">3.  Between projects</h3>
+<h3 id="3--between-projects">3.  Between projects</h3>
 
 <p>When you complete a project it’s good to take a break, but not too long of a break. It’s easy to delay starting the next thing.</p>
 
-<h3 id="making-decisions">4.  Making decisions</h3>
+<h3 id="4--making-decisions">4.  Making decisions</h3>
 
 <p>Sometimes it’s good to take your time deciding. In most cases, though, you need to trust your intuition and just make up your mind.</p>
 
-<h3 id="waiting-periods">5.  Waiting periods</h3>
+<h3 id="5--waiting-periods">5.  Waiting periods</h3>
 
 <p>Anytime you find yourself waiting on someone or something, can you do a quick task? It’s good to stop and smell the roses, but if you’re looking for time this is an easy place to find it.</p>
 
@@ -7856,7 +7856,7 @@ fi</pre></noscript>
 
 <p>I made a decision that I was going to stick with this one. I can easily go start a new thing. Staying focused on something for an extended amount of time isn’t one of my strengths.</p>
 
-<h2 id="spanspanwhat-ive-learned-about-focuswhat-ive-learned-about-focus"><a href="#what-ive-learned-about-focus"><span></span></a>What I’ve learned about focus</h2>
+<h2 id="what-ive-learned-about-focus"><a href="#what-ive-learned-about-focus"><span></span></a>What I’ve learned about focus</h2>
 
 <p>The brain is a muscle. Focus is <a href="https://blog.bufferapp.com/the-science-of-focus-and-how-to-improve-your-attention-span">controlled by your brain</a>. If you put a load on a muscle and let it recover, it will come back stronger. Focus works the same way.</p>
 
@@ -7864,43 +7864,43 @@ fi</pre></noscript>
 
 <p>This is exactly what I did with my writing. I made sure that I had time every morning for writing. At first, I was only getting a few sentences down - I couldn’t stay on task much longer. Over time, I was able to finish a paragraph or two. And now I’m able to outline a post and write the majority of a first draft in a single morning.</p>
 
-<h2 id="spanspanways-to-flex-the-focus-muscleways-to-flex-the-focus-muscle"><a href="#ways-to-flex-the-focus-muscle"><span></span></a>Ways to flex the focus muscle</h2>
+<h2 id="ways-to-flex-the-focus-muscle"><a href="#ways-to-flex-the-focus-muscle"><span></span></a>Ways to flex the focus muscle</h2>
 
 <p>My journey of writing is one example within a specific arena. You could apply that method to anything you want to improve.</p>
 
 <p>I did some research a while back and found that these three methods work well with increasing my ability to focus:</p>
 
-<h3 id="meditation">1.  Meditation</h3>
+<h3 id="1--meditation">1.  Meditation</h3>
 
 <p>Every morning, I take 10 minutes to just sit. I try not to think - literally. The intent is to sit in silence and not think about what happened yesterday or what’s getting ready to happen today. It’s so hard to do this and most days I spend 8 out of those 10 minutes thinking about something. That’s ok. As long as I’m getting better at letting thoughts go, I’m good with it.</p>
 
-<h3 id="hang-out-in-nature">2.  Hang out in nature</h3>
+<h3 id="2--hang-out-in-nature">2.  Hang out in nature</h3>
 
 <p>Going for a walk through town doesn’t count. The intent here is to be in nature without having to pay attention to anything specific. It’s amazing how little your brain has to work to go for a walk through the woods or plant a garden. There’s so much to take in that your nagging thoughts tend to fade.</p>
 
-<h3 id="set-a-timer">3.  Set a timer</h3>
+<h3 id="3--set-a-timer">3.  Set a timer</h3>
 
 <p>I don’t do this a lot, but it helps when I need it. There are days when I’m just tired and easily distracted. It’s those days that I use a timer. The timer is usually set for 30 minutes and the plan is to work on a single task or project until the timer goes off. After those 30 minutes I take a break and do whatever I want. It’s a lot easier to build focus when I know there’s playtime coming.</p>
 
-<h2 id="spanspantaking-breakstaking-breaks"><a href="#taking-breaks"><span></span></a>Taking breaks</h2>
+<h2 id="taking-breaks"><a href="#taking-breaks"><span></span></a>Taking breaks</h2>
 
 <p>Athletes take breaks in order to recover from a workout. You need to do the same thing with your brain. Runners can’t sprint for 4 hours straight. You need to make sure that you have time to let your mind wander and jump from thing to thing.</p>
 
-<h2 id="spanspanareas-where-focus-mattersareas-where-focus-matters"><a href="#areas-where-focus-matters"><span></span></a>Areas where focus matters</h2>
+<h2 id="areas-where-focus-matters"><a href="#areas-where-focus-matters"><span></span></a>Areas where focus matters</h2>
 
-<h3 id="personal">1.  Personal</h3>
+<h3 id="1--personal">1.  Personal</h3>
 
 <p>You’ll always have things that you wish you did for yourself. Whether it’s reading a book, exercise, or even taking classes. In any of those cases, you need to stay focused on your goal as opposed to spending time on Facebook. Unless that’s your goal… (in which case you should read <a href="http://joebuhlig.com/the-internet-separation-layer/">this</a>)</p>
 
-<h3 id="home">2.  Home</h3>
+<h3 id="2--home">2.  Home</h3>
 
 <p>I’m bad at this one. I love to start new projects around the house. But I’m terrible at finishing them before I start another. I need to focus on one or two projects at a time and stick with them until I’m done.</p>
 
-<h3 id="business">3.  Business</h3>
+<h3 id="3--business">3.  Business</h3>
 
 <p>Similar to the home, businesses need to stay focused on the products and services that they want to deliver. Expanding too far and doing too much means a potential loss in quality to the customer.</p>
 
-<h3 id="relationships">4.  Relationships</h3>
+<h3 id="4--relationships">4.  Relationships</h3>
 
 <p>We can only maintain so many relationships. Decide on the ones that matter to you and build into those. Focus on the friendships that build you up and that you enjoy. This doesn’t mean you can forgo all the others, but you can’t have a close friendship with everyone.</p>
 
@@ -9592,21 +9592,21 @@ end tell</pre></noscript>
 
 <p>Having the motivation to complete the action is up to you, but choosing the task is easy. Here are four criteria for making the decision:</p>
 
-<h2 id="context">1. Context</h2>
+<h2 id="1-context">1. Context</h2>
 
 <p>Based on your current location and the tools at your disposal, what actions are you able to complete? There’s no point in looking at the work you need to do at the office if you’re at home.</p>
 
 <p>If you’ve <a href="http://joebuhlig.com/getting-things-done-clarify/">set up your next action lists</a>, look at the list you’ve created for the context that you’re in. That will show you the actions that are possible to complete right now.</p>
 
-<h2 id="time">2. Time</h2>
+<h2 id="2-time">2. Time</h2>
 
 <p>Once you have the inventory of what you <em>can</em> work on, think about how much time you have. Don’t start a 30 minute report if you have 10 minutes before your next meeting.</p>
 
-<h2 id="energy">3. Energy</h2>
+<h2 id="3-energy">3. Energy</h2>
 
 <p>Is it morning and you’re full of energy? Or did you just finish a big meeting and you’re drained? Take this into account when choosing the task to work on. Don’t take on an intense project when you’re brain-dead and can’t think straight. Do some mundane tasks that will keep the ball rolling, but don’t take a lot of brain power. Save the high energy tasks for another time. Or better yet, learn to <a href="http://joebuhlig.com/power-full-engagement-book-review/">manage your energy levels</a>.</p>
 
-<h2 id="priority">4. Priority</h2>
+<h2 id="4-priority">4. Priority</h2>
 
 <p>What’s most important right now? You’ll likely need to trust your intuition here. After seeing what you’re able to work on and weighing the time and energy you have, trust your gut on which task to work on. You’ll know.</p>
 
@@ -9664,27 +9664,27 @@ end tell</pre></noscript>
 
 <p>David Allen recommends at least a single Weekly Review. I do <a href="http://joebuhlig.com/gaining-perspective-daily-review/">a daily review</a> as well as weekly, monthly, and yearly, but the core of GTD revolves around a weekly version. So once a week, you should schedule some time with yourself to walk through the following items:</p>
 
-<h2 id="bring-yourself-up-to-date">1. Bring yourself up to date</h2>
+<h2 id="1-bring-yourself-up-to-date">1. Bring yourself up to date</h2>
 
 <p>Clear out all of your inboxes and put all of your stuff in <a href="http://joebuhlig.com/getting-things-done-clarify/">the appropriate buckets</a>.</p>
 
-<h2 id="review-next-action-lists">2. Review Next Action Lists</h2>
+<h2 id="2-review-next-action-lists">2. Review Next Action Lists</h2>
 
 <p>Go through all of your action lists and decide what you’re going to work on this week. Try to be realistic. Our minds always like to give us more than we can handle.</p>
 
-<h2 id="review-the-calendar">3. Review the calendar</h2>
+<h2 id="3-review-the-calendar">3. Review the calendar</h2>
 
 <p>Look over last week’s calendar and the calendar for the upcoming weeks. This will help you see potential areas of improvement and plan for upcoming events.</p>
 
-<h2 id="review-waiting-for-list">4. Review @Waiting For List</h2>
+<h2 id="4-review-waiting-for-list">4. Review @Waiting For List</h2>
 
 <p>Looking at the list of items you’re waiting for can help you decide if there is anything you need to follow up on.</p>
 
-<h2 id="review-projects-list">5. Review Projects List</h2>
+<h2 id="5-review-projects-list">5. Review Projects List</h2>
 
 <p>How far along are each of your projects? Do you have at least one action assigned to each project you’re working on? Are there any actions to add or check off? Are there any projects that you can mark as completed?</p>
 
-<h2 id="review-somedaymaybe-lists">6. Review Someday/Maybe Lists</h2>
+<h2 id="6-review-somedaymaybe-lists">6. Review Someday/Maybe Lists</h2>
 
 <p>If you have some bandwidth available, review these lists for projects you could make active in your system.</p>
 
@@ -9826,27 +9826,27 @@ end tell</pre></noscript>
 
 <p>There are eight places that you can put these items. To help visualize this, here is a <a href="http://gettingthingsdone.com/wp-content/uploads/2014/10/workflow_map.pdf">link to the workflow map</a> from David Allen that shows the process. Here are the eight buckets:</p>
 
-<h3 id="trash">1. Trash</h3>
+<h3 id="1-trash">1. Trash</h3>
 
 <p>Throw it out. Honestly, if you’re never going to do anything with it and you don’t need it for reference, get rid of it. There’s no need for it to stick around and clutter things up.</p>
 
-<h3 id="somedaymaybe">2. Someday/Maybe</h3>
+<h3 id="2-somedaymaybe">2. Someday/Maybe</h3>
 
 <p>You wrote down the name of a book you want to read, an app you want to try, or a business deal you might want to make in the future. They’re items that you want to keep track of but don’t have time for right now. Keep Someday/Maybe lists of those items. You’ll want to come back to them when you have the bandwidth later on.</p>
 
-<h3 id="tickler">3. Tickler</h3>
+<h3 id="3-tickler">3. Tickler</h3>
 
 <p>A tickler helps you remember something that you want to make a decision on or use at a later time. There’s a concert in the local park that you might want to attend, but you’re not sure. You need a way to record that item and have it come back to you at a time when you can make a better decision. Or you may have information like a hotel confirmation that you don’t need to see until check-in. The tickler is a way to do this.</p>
 
-<h3 id="reference">4. Reference</h3>
+<h3 id="4-reference">4. Reference</h3>
 
 <p>There are always items that we need to hold on to indefinitely. Manuals, house closing papers, statements, confirmations, etc… You need some way to keep track of it all. Create a place where you can store this information and do it in <a href="http://joebuhlig.com/file-naming-disorganization/">a way that makes it easy to find</a> what you’re after.</p>
 
-<h3 id="waiting-for">5. Waiting For</h3>
+<h3 id="5-waiting-for">5. Waiting For</h3>
 
 <p>I’ve found this to be an important bucket. It’s a list of all the items that you are waiting to happen. You might be waiting on a package to arrive or you need a coworker to complete a task. Keep a list of the things you’re waiting for.</p>
 
-<h3 id="next-action-lists">6. Next Action lists</h3>
+<h3 id="6-next-action-lists">6. Next Action lists</h3>
 
 <p>This is the big one. A large portion of the stuff you’ll right down are actions you need to take. You <em>have</em> to put them on lists that you’ll work from. And those lists are based on <em>contexts</em>.</p>
 
@@ -9861,11 +9861,11 @@ end tell</pre></noscript>
   <li>Mom - a list of things you need to talk to mom about.</li>
 </ol>
 
-<h3 id="calendar">7. Calendar</h3>
+<h3 id="7-calendar">7. Calendar</h3>
 
 <p>The calendar is something that most of us have used for a long time. But what do you put on it? The only thing you should really put on your calendar are items that you’re committed to doing at a specific time in the day. To-dos that don’t have a time associated with them need to be on your Next Action lists. Keep your calendar true to your commitments. It becomes the hard landscape that you follow for the day.</p>
 
-<h3 id="project-list">8. Project List</h3>
+<h3 id="8-project-list">8. Project List</h3>
 
 <p>Keep a list of the projects you’re working on. Remember, a project is defined by having two or more actions in order to complete it. Even changing a light bulb could be a project if you need to buy the light bulb and then replace it. That’s two steps and would be called a project.</p>
 
@@ -9875,17 +9875,17 @@ end tell</pre></noscript>
 
 <p>The nice thing about the Clarify step in the workflow is that it has it’s own process to help you decide what to do with the stuff in your inboxes. It becomes intuitive over time, but starting out I found myself referring to this <a href="http://gettingthingsdone.com/wp-content/uploads/2014/10/workflow_map.pdf">workflow map</a> a lot. Here are the four questions to ask yourself when deciding where to put each item:</p>
 
-<h3 id="what-is-it">1. What is it?</h3>
+<h3 id="1-what-is-it">1. What is it?</h3>
 
 <p>Go to your inbox and pick the first item. What is it? Sounds like a simple question, but it’s sometimes harder to decide than you think. Is it a manual, a random thought, or a business idea? You can’t decide what to do with it if you don’t know what it is.</p>
 
-<h3 id="is-it-actionable">2. Is it actionable?</h3>
+<h3 id="2-is-it-actionable">2. Is it actionable?</h3>
 
 <p>Is it something you need act on? If not, do you need to hold on to it? If the answer is no, trash it. If you need to keep it but don’t need to act on it right away, you can put it on a Someday/Maybe list for later, store it in your Reference system, or add it to your Tickler.</p>
 
 <p>If it <em>is</em> something you need to act on soon, what’s the next action?</p>
 
-<h3 id="whats-the-next-action">3. What’s the next action?</h3>
+<h3 id="3-whats-the-next-action">3. What’s the next action?</h3>
 
 <p>By asking the simple question, “What comes next?” we’re changing the noun into a verb. We’re taking “New furnace” and turning it into “Google reviews for a new furnace.” What is the next physical thing you need to do in order to make progress on it?</p>
 
@@ -9893,7 +9893,7 @@ end tell</pre></noscript>
 
 <p>Pro tip: Try asking this question at the end of meetings or at the end of a conversation with someone. It can change the pace of your work and provide a lot of clarity.</p>
 
-<h3 id="do-it-delegate-it-or-defer-it">4. Do it, delegate it, or defer it?</h3>
+<h3 id="4-do-it-delegate-it-or-defer-it">4. Do it, delegate it, or defer it?</h3>
 
 <p>With the next action decided, you have three options — do it, delegate it, or defer it.</p>
 
@@ -10288,21 +10288,21 @@ end tell</pre></noscript>
 
 <p>Here are some examples of rituals that I’ve put in place:</p>
 
-<h3 id="morning-routine">1. Morning routine</h3>
+<h3 id="1-morning-routine">1. Morning routine</h3>
 
 <p>I’ve created a ritual that starts the moment I wake up. I quickly dress and grab breakfast. I spend some time reading my Bible and then head to the woodshop for a bit. Then I write for an hour and about the time I’m finished Cutie decides it’s time to tackle the day. If she’s still sleeping, I start in on my <a href="http://joebuhlig.com/choosing-3-important-tasks-day/">3 most important tasks</a> for the day. When she wakes up, I change a diaper, get breakfast ready for her, and get second breakfast (plus coffee) for myself.</p>
 
 <p>I do my best writing first thing in the morning. If I don’t spend time in the woodshop in the morning, I won’t make time for it elsewhere. If I do these two energizing rituals in the morning, I’ve got a great feeling about the day already and I’m ready to be super productive.</p>
 
-<h3 id="email">2. Email</h3>
+<h3 id="2-email">2. Email</h3>
 
 <p>I’ve written about my <a href="http://joebuhlig.com/escaping-corporate-email-habit/">escape from the corporate email habit</a> before. The book goes into email quite a bit and I’ve read numerous articles about the dangers of checking email constantly. Yes, there are jobs that require you to be on email all day, but I don’t have one of those. I typically check email twice a day — 9am and 3pm. Email can easily derail my day and drastically cut the amount of work I can complete. It’s an energy drain for me. So I limit the energy I spend on it by putting these timed rituals in place.</p>
 
-<h3 id="personalwork-transitions">3. Personal/Work Transitions</h3>
+<h3 id="3-personalwork-transitions">3. Personal/Work Transitions</h3>
 
 <p>This one has always been hard for me and I don’t expect it to get much easier. The “going to work” and “coming home” transitions create problems for most. You have to switch your brain from thinking about work to thinking about personal or vice versa. I’ve found that if I do something unrelated to either and do it consistently, my brain knows what comes next. This makes the transition easier. I also know that I place a high value in learning. So I watch a TED talk between my work day and the time when I “head home” — or go upstairs. It makes a great separation point that is consistent and I can count on.</p>
 
-<h3 id="cycling">4. Cycling</h3>
+<h3 id="4-cycling">4. Cycling</h3>
 
 <p>I’ve taken on cycling as a mode of exercise. It’s something that I enjoy, but haven’t spent a lot of time with. I now try to get on the bike at least three times a week. I usually take Cutie with me in a pull-behind cart. It adds a little resistance for a great workout and it gives Becky some time to herself as well.</p>
 
@@ -10552,45 +10552,45 @@ end tell</pre></noscript>
 
 <h2 id="pros">Pros</h2>
 
-<h3 id="activity-monitor">1. Activity Monitor</h3>
+<h3 id="1-activity-monitor">1. Activity Monitor</h3>
 
 <p>I’ve been debating a <a href="https://jawbone.com/up">Jawbone</a> or a <a href="http://www.fitbit.com/flex">FitBit</a> for quite some time. Having an activity-tracking device built into my watch that perfectly integrates with my Apple ecosystem would be perfect! I’m starting to get into cycling and this would make the data collection much easier.</p>
 
-<h3 id="directions">2. Directions</h3>
+<h3 id="2-directions">2. Directions</h3>
 
 <p>Many of us are using our phones for directions. It would be nice to have them on my wrist for easy access while I’m driving or walking. It simply adds a convenience factor.</p>
 
-<h3 id="new-communication-methods">3. New Communication Methods</h3>
+<h3 id="3-new-communication-methods">3. New Communication Methods</h3>
 
 <p>With the new drawing, tapping, and heartbeat messages available, styles of communication can change. And that’s kind of cool.</p>
 
-<h3 id="wallet">4. Wallet</h3>
+<h3 id="4-wallet">4. Wallet</h3>
 
 <p>Using <a href="http://www.apple.com/apple-pay/">Apple Pay</a>, you can pay for things using <a href="http://en.wikipedia.org/wiki/Near_field_communication">NFC</a> through your watch. It makes transactions easier.</p>
 
-<h3 id="remote">5. Remote</h3>
+<h3 id="5-remote">5. Remote</h3>
 
 <p>We use an Apple TV for Netflix and streaming video from my iPad. Controlling the TV from my watch would keep me from reaching for the remote. Because we all know that might kill me.</p>
 
 <h2 id="cons">Cons</h2>
 
-<h3 id="big-distraction">1. Big Distraction</h3>
+<h3 id="1-big-distraction">1. Big Distraction</h3>
 
 <p>It seems I’d be able to do a lot and do it quickly from Apple Watch. Although that can be perceived as a great thing, it would be <a href="http://joebuhlig.com/put-distractions-place/">distracting</a>. I can too easily see myself ignoring my family when my watch vibrates.</p>
 
-<h3 id="increased-screen-time">2. Increased Screen Time</h3>
+<h3 id="2-increased-screen-time">2. Increased Screen Time</h3>
 
 <p>It’s right there on my wrist. It’s a screen in front of me the moment I want it. Screen time will only go up if it’s that easy.</p>
 
-<h3 id="always-available">3. Always Available</h3>
+<h3 id="3-always-available">3. Always Available</h3>
 
 <p>It brings <em>all</em> of our communication methods right to my wrist. That means that if someone calls, emails, texts, tweets, or facebooks me in any way, I have it front of me immediately. I’m not ok with that.</p>
 
-<h3 id="wallet-1">4. Wallet</h3>
+<h3 id="4-wallet-1">4. Wallet</h3>
 
 <p>Since your watch becomes a wallet, it’s way too easy to buy things we don’t need. Just saying. If anything, go back to cash and cut the credit cards.</p>
 
-<h3 id="fear-of-breaking-it">5. Fear of Breaking it</h3>
+<h3 id="5-fear-of-breaking-it">5. Fear of Breaking it</h3>
 
 <p>I have a woodshop that I enjoy spending time in. I also do a lot of handyman projects around the house. I can’t help but think that the times when I’m being active (and want to track it) that I’ll be prone to breaking a $350 watch!</p>
 
@@ -10777,19 +10777,19 @@ end tell</pre></noscript>
 
 <p>Here’s the new 4-step process:</p>
 
-<h2 id="collect">1. Collect</h2>
+<h2 id="1-collect">1. Collect</h2>
 
 <p>The process starts by actively thinking through an idea or holding a meeting. I have information come to me or I generate it through mind maps, drawing on a whiteboard, or something to get the ideas out of my head.</p>
 
-<h2 id="process">2. Process</h2>
+<h2 id="2-process">2. Process</h2>
 
 <p>Once I have the information collected, I process it. If it’s from a meeting, I’ll look through my meeting notes and formulate my opinions and thoughts about what was discussed. If it’s an active thinking session, I’ll look over what I made in the process and do the same.</p>
 
-<h2 id="communicate">3. Communicate</h2>
+<h2 id="3-communicate">3. Communicate</h2>
 
 <p>Here’s the added step: once I’ve processed the information and have my opinions and thoughts put together, I write an email or set up a call to go over it. I make sure to include the actions that I’m planning when I do this.</p>
 
-<h2 id="act">4. Act</h2>
+<h2 id="4-act">4. Act</h2>
 
 <p>After I’ve communicated my thoughts and action plan, I start working on it. I work to complete the actions I laid out. Since I already shared the plan, I also have accountability to get it done in the time frame I laid out.</p>
 
@@ -10826,23 +10826,23 @@ end tell</pre></noscript>
 
 <p>Here are 4 questions to ask when you hear those cringe-inducing phrases:</p>
 
-<h2 id="has-the-technology-changed">1. Has the technology changed?</h2>
+<h2 id="1-has-the-technology-changed">1. Has the technology changed?</h2>
 
 <p>The tools at our disposal change every day. New apps or devices are always being created. And chances are that one of them will help you become more effective or efficient in some way.</p>
 
 <p>Adopting new technology can sometimes prevent negative thoughts by customers. If you walked into a doctor’s office and heard the secretary using a typewriter, what would you think? Would you wonder if they were up on the latest ways of treating patients? If they haven’t adopted a computer for paperwork yet, can you trust that they will know what’s happened in medicine in the last 20 years?</p>
 
-<h2 id="are-the-people-different">2. Are the people different?</h2>
+<h2 id="2-are-the-people-different">2. Are the people different?</h2>
 
 <p>Sometimes a system or service is built around the people involved and the skill-sets they bring to the table. If the people change, the current systems might not make sense anymore. Or maybe you have new eyes on the process. They’ll have a new perspective that helps them see it differently.</p>
 
-<h2 id="is-it-relevant">3. Is it relevant?</h2>
+<h2 id="3-is-it-relevant">3. Is it relevant?</h2>
 
 <p>Does the process or tool still accomplish its goal? Should you be doing it at all? Sometimes we work to put a system in place and it treats us well. But over time it becomes unnecessary. It doesn’t provide value anymore.</p>
 
 <p>Data duplication is the most common form I’ve seen of this one. If you’re entering information into one system and then copying it into another, chances are that one of the two needs to disappear.</p>
 
-<h2 id="has-the-purpose-changed">4. Has the purpose changed?</h2>
+<h2 id="4-has-the-purpose-changed">4. Has the purpose changed?</h2>
 
 <p>Has your business changed? Do you find yourself trying to make an old tool work with your new goal? Maybe you’re trying to make something work when you should really step back and look at the overall process. It’s good to stick with tools that you know. But when you’re spending a lot of time working to make a tool work, you might need to re-evaluate the tool. I had to do this when I <a href="http://joebuhlig.com/getting-started-task-management/">switched from Evernote to Omnifocus</a> for task management. It took a couple weeks to switch, but it has been well worth the time.</p>
 ]]>
@@ -10881,7 +10881,7 @@ end tell</pre></noscript>
 
 <p>I tried to find productivity tricks to help me accomplish more during the day, but it never worked. The cycle continued.</p>
 
-<h2 id="mits">3 MITs</h2>
+<h2 id="3-mits">3 MITs</h2>
 
 <p>Thankfully, I ran across an article by Leo Babauta of <a href="http://www.zenhabits.net">Zen Habits</a>. It was about <a href="http://zenhabits.net/purpose-your-day-most-important-task/">picking your 3 MITs</a> or Most Important Tasks for the day. It’s a simple concept. Choose 3 things that you want to complete that day and focus on those. If you do nothing else all day, you still completed the most important things you needed to do.</p>
 
@@ -10938,19 +10938,19 @@ end tell</pre></noscript>
 
 <p>Here are the main facets of task management you’re looking to put in place:</p>
 
-<h2 id="collect">1. Collect</h2>
+<h2 id="1-collect">1. Collect</h2>
 
 <p>You need a way to grab ideas or tasks when they come to you. And you need it with you all the time. ALL THE TIME. I can’t emphasize that enough. You never know when you’ll remember something or have an idea. I use <a href="https://itunes.apple.com/us/app/drafts-quickly-capture-notes/id502385074?mt=8&amp;uo=4&amp;at=1l3vnyQ">Drafts</a> on the iPhone or my <a href="http://joebuhlig.com/what-is-an-hpda-and-how-do-i-use-it/">hPDA</a>. I always have one or both of these on me.</p>
 
 <p><img class="center-image post-image-medium" src="/assets/posts_extra/Getting-Started-with-Task-Management-hPDA-Drafts.jpg" /></p>
 
-<h2 id="keep-lists">2. Keep Lists</h2>
+<h2 id="2-keep-lists">2. Keep Lists</h2>
 
 <p>Once you have things collected you need to organize them into lists. OmniFocus makes it easy to keep a list of tasks for each project. I can also assign a <em>context</em> for each task. That allows me to view that task from the project list and a context view. The context view makes it easy to group my tasks by the tools in front of me or circumstances I’m in. For example, I can view the tasks from all my projects that I can do when I’m Offline. Here’s a <a href="http://joebuhlig.com/omnifocus-setup-workflow/">more detailed view</a> of how I do it.</p>
 
 <p><img class="center-image post-image-medium" src="/assets/posts_extra/Getting-Started-with-Task-Management-ProjectContextA.jpg" /></p>
 
-<h2 id="review-your-lists">3. Review your lists</h2>
+<h2 id="3-review-your-lists">3. Review your lists</h2>
 
 <p>The whole thing falls apart if you don’t look at it regularly. I do both a weekly and a <a href="http://joebuhlig.com/omnifocus-setup-workflow/">daily review</a>. My goal is to make sure I have everything up to date and determine actions for any stalled projects.</p>
 
@@ -10958,13 +10958,13 @@ end tell</pre></noscript>
 
 <p><img class="center-image post-image-medium" src="/assets/posts_extra/Getting-Started-with-Task-Management-Review.jpg" /></p>
 
-<h2 id="mits">4. 3 MITs</h2>
+<h2 id="4-3-mits">4. 3 MITs</h2>
 
 <p>MIT is short for Most Important Task. Every day, decide what 3 tasks are the most important for you to complete that day. This is key to creating a list for you to work on. If you select more than three for the day you’ll quickly feel overwhelmed at the start of your day and disappointed at the end of the day if and when you fail to complete them all (zero fun). Stick with 3 and try to check them off in the morning. If the rest of the day is lost, at least you’ll have completed the 3 most important items for the day.</p>
 
 <p><img class="center-image post-image-medium" src="/assets/posts_extra/Getting-Started-with-Task-Management-Forecast.jpg" /></p>
 
-<h2 id="waiting-list">5. Waiting List</h2>
+<h2 id="5-waiting-list">5. Waiting List</h2>
 
 <p>I’m also bad about tracking things others are working on that relate to me. Create a list where you track the actions or items that you’re waiting for. That can be a package to be delivered or a report to be turned in or even a meeting agenda item. These are items that you need to keep an eye on, but aren’t the one responsible for completing.</p>
 
@@ -11447,7 +11447,7 @@ end tell</pre></noscript>
 
 <p>This little victory over my phone taught me that I need to separate more often. I get to experience things a bit differently when I <a href="https://www.youtube.com/watch?v=Z7dLU6fk9QY">look up</a> from it. Here are 4 steps I’m taking to help create more balance:</p>
 
-<h2 id="internet-free-sundays">1. Internet-free Sundays</h2>
+<h2 id="1-internet-free-sundays">1. Internet-free Sundays</h2>
 
 <p>One day a week, I’m going to make an attempt to shut down the data on my phone and turn off the wifi on all my devices.</p>
 
@@ -11455,17 +11455,17 @@ end tell</pre></noscript>
 
 <p>To be honest, this one scares me. The “what if” monster is screaming in my head. If it was easy and simple, I would have done it already. But that doesn’t mean it won’t pay off in the end.</p>
 
-<h2 id="leave-my-phone-in-the-office-over-lunch">2. Leave my phone in the office over lunch</h2>
+<h2 id="2-leave-my-phone-in-the-office-over-lunch">2. Leave my phone in the office over lunch</h2>
 
 <p>Since I work from home, I enjoy lunch with my family most days. I usually take my phone with me when I head upstairs. No more. I’m leaving it in the office unless I’m expecting a call from a client. If I need to collect an idea or a to-do, I’ll write it in my <a href="http://en.wikipedia.org/wiki/Hipster_PDA">hPDA</a>. That’s much less intrusive than opening an app to write something down. It’s less distracting too.</p>
 
-<h2 id="do-not-disturb-during-play-time">3. “Do Not Disturb” during play time</h2>
+<h2 id="3-do-not-disturb-during-play-time">3. “Do Not Disturb” during play time</h2>
 
 <p>I really enjoy play time with Cutie. We have a blast! To keep my phone from being a distraction and help me focus on her, I’m going to start enabling DND mode beforehand. I don’t want <em>anything</em> to distract me during that time… unless it’s my wife asking me to kill a bug for her. Bugs make life stand still.</p>
 
 <p>I’m choosing DND mode over Airplane mode because I may still need to take phone calls from important people (mostly family) during those times. The “what if” monster keeps showing up and reminding me of potential emergencies.</p>
 
-<h2 id="device-free-after-830">4. Device-free after 8:30</h2>
+<h2 id="4-device-free-after-830">4. Device-free after 8:30</h2>
 
 <p>This one will be hard for me. I like to browse through feeds and read articles at night. But that usually means I’m not reading my book or having a conversation with my wife. Both of which have greater value to me than RSS feeds.</p>
 

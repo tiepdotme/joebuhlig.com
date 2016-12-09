@@ -244,7 +244,7 @@
 
 <p>But then I remembered Drafts has its own URL scheme that allows you to import actions. So I embarked on a journey to create my 30+ actions in bulk. I likely spent more time working this out than it would have taken me to just edit each one by hand, but now I have a trick to share with you. You’re welcome.</p>
 
-<h2 id="manually-create-a-template">1. Manually create a template</h2>
+<h2 id="1-manually-create-a-template">1. Manually create a template</h2>
 
 <p>You first need a template to work with. Create one action that the rest of your actions will be modeled after. In my case, it looked like this:</p>
 
@@ -252,7 +252,7 @@
 <img class="post-image-mini" src="/assets/posts_extra/creating-drafts-actions-in-bulk/template-steps.png" />
 <img class="post-image-mini" src="/assets/posts_extra/creating-drafts-actions-in-bulk/template-url-step.png" /></p>
 
-<h2 id="copy-the-action">2. Copy the action</h2>
+<h2 id="2-copy-the-action">2. Copy the action</h2>
 
 <p>After your template action has been created, open it up and use the Share Sheet to copy it. This copies the import action URL for the Drafts action that we’ll dissect.</p>
 
@@ -263,37 +263,37 @@
 
 <p><code class="highlighter-rouge">x-drafts4://x-callback-url/import_action?v=2&amp;tintColor=%5B%0A%20%200.451,%0A%20%200.29,%0A%20%200.553%0A%5D&amp;shouldConfirm=0&amp;logLevel=1&amp;uuid=0E3E5B59-15B5-4010-8E8C-C9A69EE0CA88&amp;disposition=2&amp;actionSteps=%5B%0A%20%20%7B%0A%20%20%20%20%22actionStepType%22%20:%20%22URL%22,%0A%20%20%20%20%22urlTemplate%22%20:%20%22omnifocus:%5C/%5C/x-callback-url%5C/add?x-success=drafts4:%5C/%5C/&amp;name=%5B%5Btitle%5D%5D&amp;note=%5B%5Bbody%5D%5D&amp;project=Bulk%20Actions%20Template&amp;context=Running&amp;autosave=true%22,%0A%20%20%20%20%22useSafariViewController%22%20:%20false,%0A%20%20%20%20%22encodeTags%22%20:%20true%0A%20%20%7D%0A%5D&amp;description=&amp;modifiedAt=2016-09-07%2012:02:42%20+0000&amp;name=Bulk%20Actions%20Template&amp;iconImageName=429-checkmark2</code></p>
 
-<h2 id="transfer-to-numbers-or-excel">3. Transfer to Numbers or Excel</h2>
+<h2 id="3-transfer-to-numbers-or-excel">3. Transfer to Numbers or Excel</h2>
 
 <p>You need to get this copied URL into a spreadsheet. I did mine on the Mac so I also needed to transfer it across devices. We’ll use the spreadsheet to create new URLs in bulk.</p>
 
 <p><img src="/assets/posts_extra/creating-drafts-actions-in-bulk/spreadsheet.png" alt="Spreadsheet" /></p>
 
-<h2 id="create-a-list-of-new-actions">4. Create a list of new actions</h2>
+<h2 id="4-create-a-list-of-new-actions">4. Create a list of new actions</h2>
 
 <p>You need a list of the new actions. Specifically, you need a list of the text that changes in the URLs. This will be used to create the new import links.</p>
 
 <p><img src="/assets/posts_extra/creating-drafts-actions-in-bulk/spreadsheet-list.png" alt="Spreadsheet List" /></p>
 
-<h2 id="break-up-the-url-template">5. Break up the URL template</h2>
+<h2 id="5-break-up-the-url-template">5. Break up the URL template</h2>
 
 <p>This really depends on the complexity of your Drafts actions but you need to look through your URL template and break it into the pieces that stay the same across all the new links. You want to remove the text that changes and keep the remaining pieces in separate cells in the spreadsheet. This makes our lives much simpler when we start putting it all back together.</p>
 
 <p><img src="/assets/posts_extra/creating-drafts-actions-in-bulk/spreadsheet-url-breakup.png" alt="Spreadsheet Breakup" /></p>
 
-<h2 id="format-the-replacement-text">6. Format the replacement text</h2>
+<h2 id="6-format-the-replacement-text">6. Format the replacement text</h2>
 
 <p>In my case, the URL template used a project name that matched the name of the action. So I created one format to the right of my list that handles both cases. Just pay attention to how your template looks and make sure your new text matches the original format.</p>
 
 <p><img src="/assets/posts_extra/creating-drafts-actions-in-bulk/spreadsheet-substitute.png" alt="Spreadsheet Substitute" /></p>
 
-<h2 id="create-the-new-urls">7. Create the new URLs</h2>
+<h2 id="7-create-the-new-urls">7. Create the new URLs</h2>
 
 <p>Once the template is broken apart and the replacement text has been formatted, we can concatenate all the pieces back together to create our new URLs.</p>
 
 <p><img src="/assets/posts_extra/creating-drafts-actions-in-bulk/spreadsheet-new-urls.png" alt="Spreadsheet New URLs" /></p>
 
-<h2 id="transfer-to-ios-and-import">8. Transfer to iOS and import</h2>
+<h2 id="8-transfer-to-ios-and-import">8. Transfer to iOS and import</h2>
 
 <p>Select all those new URLs, copy them, and transfer them to iOS. I just pasted them into a text file that syncs via DropBox and opened it in Editorial. Then it’s just a matter of tapping the link to add each action to Drafts.</p>
 

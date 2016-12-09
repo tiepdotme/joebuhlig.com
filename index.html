@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="posts" id="home">
-	{% for post in site.posts | limit:20 %}
+	{% for post in site.posts limit:20 %}
 	    {% include content_feed.html post=post %}
 	    {% if forloop.index == 1 %}
 	    	{% include carbon_ad.html %}
