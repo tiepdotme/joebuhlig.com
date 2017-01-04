@@ -14,11 +14,71 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 09 Dec 2016 15:42:55 -0600</lastBuildDate>
+<lastBuildDate>Wed, 04 Jan 2017 07:31:57 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Top Five Books From 2016]]></title>
+    <link>http://joebuhlig.com/top-five-books-from-2016/</link>
+    <pubDate>Mon, 12 Dec 2016 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[books]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/top-five-books-from-2016/</guid>
+    <description>
+        <![CDATA[In the past I’ve wanted to be a reader and yet never picked up a book. But that changed when I said yes to Bookworm. Since then I’ve read 16 books for Bookworm and four more on my own. And I’m on pace to read three more by year’s end....]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/top-five-books-from-2016.jpg" /><p>In the past I’ve wanted to be a reader and yet never picked up a book. But that changed when I said yes to <a href="http://bookworm.fm">Bookworm</a>. Since then I’ve read 16 books for Bookworm and four more on my own. And I’m on pace to read three more by year’s end.
+<!--more--></p>
+
+<p>I was recently reflecting on the year and began thumbing through my growing collection of finished books. It was then that I realized I have a few favorites. So I figured why not share them with you? Here are my top five:</p>
+
+<h2 id="deep-work-by-cal-newport">Deep Work by Cal Newport</h2>
+
+<p><a href="http://bookworm.fm/7/">Bookworm</a> - <a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=sr_1_1?tag=joebuhlig-20">Amazon</a></p>
+
+<p>I’ve known the value of setting aside dedicated work sessions for a while. But it wasn’t until I read Deep Work and discussed it with Mike that the importance of disconnection and extended focus on a task fully struck me. It is within those times that my most valuable work emerges. Newport does an excellent job explaining the how and why behind deep work sessions.</p>
+
+<h2 id="the-war-of-art-by-stephen-pressfield">The War of Art by Stephen Pressfield</h2>
+
+<p><a href="http://bookworm.fm/3/">Bookworm</a> - <a href="https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/ref=sr_1_1?tag=joebuhlig-20">Amazon</a></p>
+
+<p>Regardless of whether we realize or confess it, we are all creative in some way. The degree of creativity within us varies, of course, but it’s there. The trouble is fighting the voice in our mind that tells us not to create and keeps us from doing unique work. Pressfield calls this Resistance and he carefully picks apart the tactics Resistance uses to stop us. I consider this a must-read for anyone who is a maker or who uses knowledge to do their work.</p>
+
+<h2 id="daring-greatly-by-brené-brown">Daring Greatly By Brené Brown</h2>
+
+<p><a href="http://bookworm.fm/9/">Bookworm</a> - <a href="https://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms/dp/1592408419/ref=sr_1_1?tag=joebuhlig-20">Amazon</a></p>
+
+<p>Being vulnerable is not something most of us do voluntarily. And for some of us it invokes fear. The last thing on our minds is being open, honest, and willing to endure rejection. But as Brown points out, that is exactly what we must do in order to achieve and build meaningful relationships. It’s also the key ingredient to accomplishing the big and the impactful. It helps us take a chance and do something important.</p>
+
+<h2 id="managing-oneself-by-peter-drucker">Managing Oneself By Peter Drucker</h2>
+
+<p><a href="http://bookworm.fm/13/">Bookworm</a> - <a href="https://www.amazon.com/Managing-Oneself-Harvard-Business-Classics/dp/142212312X/ref=sr_1_1?tag=joebuhlig-20">Amazon</a></p>
+
+<p>Over the last two years I’ve been on a journey of self-awareness. The value of understanding myself, how I think, and what makes me a good worker is invaluable. Despite having started this adventure previously, Drucker drives the point home in this quick read. It’s packed full of insights that will make you slow down and process the words. This book changed my view of myself and helped me ask the necessary questions that prompted a plethora of personal insight.</p>
+
+<h2 id="the-checklist-manifesto-by-atul-gawande">The Checklist Manifesto By Atul Gawande</h2>
+
+<p><a href="http://bookworm.fm/16/">Bookworm</a> - <a href="https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000?tag=joebuhlig-20">Amazon</a></p>
+
+<p>I’ve been a list maker for years. I know they have a lot of value, but I had never realized why they help and their importance in everyday projects until I read this story by Gawande. As a surgeon, he explains his journey and continual discoveries that led him to the creation of a “safe surgery” checklist. It’s the process and the volume of stories that reveal the power of the simple checklist.</p>
+
+<h2 id="bonus-gods-smuggler-by-brother-andrew">Bonus: God’s Smuggler By Brother Andrew</h2>
+
+<p><a href="https://www.amazon.com/Gods-Smuggler-Brother-Andrew/dp/0800796853/ref=la_B000APEW2M_1_1?tag=joebuhlig-20">Amazon</a></p>
+
+<p>Brother Andrew has quite a story about his life of taking Bibles behind the <a href="https://en.wikipedia.org/wiki/Iron_Curtain">Iron Curtain</a>. It’s one of encouragement and brings with it motivation and a call to action for the Christian. I highly recommend it to anyone interested in a story about the power of the Bible.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Time Tracker With Running Status]]></title>
