@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 04 Jan 2017 07:31:57 -0600</lastBuildDate>
+<lastBuildDate>Wed, 11 Jan 2017 07:09:10 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[17: QBQ! The Question Behind The Question by John Miller [Bookworm]]]></title>
+    <link>http://joebuhlig.com/17-qbq-the-question-behind-the-question-by-john-miller/</link>
+    <pubDate>Wed, 11 Jan 2017 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/17-qbq-the-question-behind-the-question-by-john-miller/</guid>
+    <description>
+        <![CDATA[It may not be your fault, but you can take responsibility for it. Mike and Joe discuss the role of personal accountability in our lives and asking ourselves better questions.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>It may not be your fault, but you can take responsibility for it. Mike and Joe discuss the role of personal accountability in our lives and asking ourselves better questions.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[16: The Checklist Manifesto by Atul Gawande [Bookworm]]]></title>
@@ -574,44 +597,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <content:encoded>
         <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>One of the most valuable tasks you can begin is the development of your self-awareness. This week Mike and Joe delve into the questions posed by Peter Drucker that prompt you to learn how to manage yourself.
 <!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[A Roller Coaster Relationship With Books]]></title>
-    <link>http://joebuhlig.com/a-roller-coaster-relationship-with-books/</link>
-    <pubDate>Mon, 07 Nov 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[books]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/a-roller-coaster-relationship-with-books/</guid>
-    <description>
-        <![CDATA[I was an avid reader in grade school. Any program the school put in place to encourage kids to read, I completed as fast as I could. That trend continued until I made it to junior high.
-
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/a-roller-coaster-relationship-with-books.jpeg" /><p>I was an avid reader in grade school. Any program the school put in place to encourage kids to read, I completed as fast as I could. That trend continued until I made it to junior high.
-<!--more--></p>
-
-<p>It wasn’t that I didn’t have time, but my rationale and purpose for reading changed. In grade school, I was encouraged to read but it wasn’t a requirement. In junior high, it became homework. Books were selected for me and I hated it. Maybe it was the timing or maybe it was my rebellious side showing its face, but either way I avoided reading as much as possible.</p>
-
-<p>This avoidance continued until late in high school, and the only reason I read a couple books then was because my English teacher assigned books I had a genuine interest in. I can only say this having reflective hindsight. At the time I would say it was due to me liking the teacher. So, as you can guess, it didn’t stick. At the end of high school and early in college I still found myself getting clever at finding book summaries and honing my ability to skim the book for the high points.</p>
-
-<p>Oddly enough, I’ve always enjoyed having finished a book, when I <em>actually</em> read it. That’s a common thread with me; I enjoy the results of hard work but struggle to convince myself to do it. This certainly held true with reading books. I enjoyed being able to talk about a book I had read but didn’t want to start another one. Talk about a weird paradox.</p>
-
-<p>After college I read about a book per year. Because I was no longer reading as homework, I again found pleasure in the reading itself. I could enjoy reading what I wanted, but still didn’t see it as something worth making into a habit.</p>
-
-<p>And then there’s <a href="http://bookworm.fm">Bookworm</a>. An endeavor that has forced me into a reading habit. Bookworm took me from finishing roughly a book each year to completing a book every two weeks. And that has led to reading an extra book between some shows, which means I often read a book each week. This is easily the most reading I’ve done in my life.</p>
-
-<p>Bookworm (and my new habit of carrying a book with me everywhere) has given me a chance to discuss the reading of books more frequently and it seems most folks I run into want to read more but don’t make the time for it.</p>
-
-<p>My point is this: I haven’t always been a reader. It’s something I’ve grown into over time. I can tell you that if you aspire to read a book every week, you’ll likely struggle if you don’t currently read at least one every year. Going 0 to 100 rarely works. Instead, find a page count you can read every day. Even if it’s only one page every day, you’ll end up finishing a book and a half each year. If you can do five pages, you’ll land at about eight books a year. It doesn’t take much to start a habit that quickly compounds itself. Start small and be consistent; let it build over time.</p>
 ]]>
     </content:encoded>
 </item>
