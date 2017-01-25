@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 11 Jan 2017 07:09:10 -0600</lastBuildDate>
+<lastBuildDate>Wed, 25 Jan 2017 09:52:21 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[18: Decisive by Chip Heath, Dan Heath [Bookworm]]]></title>
+    <link>http://joebuhlig.com/18-decisive-by-chip-heath-dan-heath/</link>
+    <pubDate>Wed, 25 Jan 2017 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://joebuhlig.com/18-decisive-by-chip-heath-dan-heath/</guid>
+    <description>
+        <![CDATA[A new baby, a continuing morning phone addiction, and learning how to make better decisions. It’s all covered in this week’s episode.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>A new baby, a continuing morning phone addiction, and learning how to make better decisions. It’s all covered in this week’s episode.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[17: QBQ! The Question Behind The Question by John Miller [Bookworm]]]></title>
@@ -574,29 +597,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>Here’s the problem with these scenarios: they leave me feeling like I should say or do something because unspoken expectations have been placed on me. I’m expected to go along with a conversation I don’t agree with. I’m expected to maximize my time perfectly every day. I’m expected to utilize every app or tool to its fullest potential.</p>
 
 <p>These are all things I <em>should</em> do. And when I stop long enough to notice when a “should” has been placed on me, I often find myself asking why. Why should I do this thing? “Because Joe expects it” or “because I paid decent money for this app” aren’t always the best answers. It’s taken time (and I’m still learning) to put a stop to the “should” that is placed on me and gain the confidence to think for myself.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[13: Managing Oneself by Peter Drucker [Bookworm]]]></title>
-    <link>http://joebuhlig.com/13-managing-oneself-by-peter-drucker/</link>
-    <pubDate>Wed, 09 Nov 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/13-managing-oneself-by-peter-drucker/</guid>
-    <description>
-        <![CDATA[One of the most valuable tasks you can begin is the development of your self-awareness. This week Mike and Joe delve into the questions posed by Peter Drucker that prompt you to learn how to manage yourself.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>One of the most valuable tasks you can begin is the development of your self-awareness. This week Mike and Joe delve into the questions posed by Peter Drucker that prompt you to learn how to manage yourself.
-<!--more--></p>
 ]]>
     </content:encoded>
 </item>
