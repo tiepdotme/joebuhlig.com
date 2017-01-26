@@ -10,11 +10,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <channel>
 <title>Joe Buhlig</title>
-<atom:link href="http://joebuhlig.com/feed/" rel="self" type="application/rss+xml" />
-<link>http://joebuhlig.com</link>
+<atom:link href="https://joebuhlig.com/feed/" rel="self" type="application/rss+xml" />
+<link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 26 Jan 2017 09:38:58 -0600</lastBuildDate>
+<lastBuildDate>Thu, 26 Jan 2017 10:43:24 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -22,7 +22,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[18: Decisive by Chip Heath, Dan Heath [Bookworm]]]></title>
-    <link>http://joebuhlig.com/18-decisive-by-chip-heath-dan-heath/</link>
+    <link>https://joebuhlig.com/18-decisive-by-chip-heath-dan-heath/</link>
     <pubDate>Wed, 25 Jan 2017 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -31,13 +31,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">http://joebuhlig.com/18-decisive-by-chip-heath-dan-heath/</guid>
+    <guid isPermaLink="true">https://joebuhlig.com/18-decisive-by-chip-heath-dan-heath/</guid>
     <description>
         <![CDATA[A new baby, a continuing morning phone addiction, and learning how to make better decisions. It’s all covered in this week’s episode.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>A new baby, a continuing morning phone addiction, and learning how to make better decisions. It’s all covered in this week’s episode.
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>A new baby, a continuing morning phone addiction, and learning how to make better decisions. It’s all covered in this week’s episode.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -45,7 +45,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[17: QBQ! The Question Behind The Question by John Miller [Bookworm]]]></title>
-    <link>http://joebuhlig.com/17-qbq-the-question-behind-the-question-by-john-miller/</link>
+    <link>https://joebuhlig.com/17-qbq-the-question-behind-the-question-by-john-miller/</link>
     <pubDate>Wed, 11 Jan 2017 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -54,13 +54,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">http://joebuhlig.com/17-qbq-the-question-behind-the-question-by-john-miller/</guid>
+    <guid isPermaLink="true">https://joebuhlig.com/17-qbq-the-question-behind-the-question-by-john-miller/</guid>
     <description>
         <![CDATA[It may not be your fault, but you can take responsibility for it. Mike and Joe discuss the role of personal accountability in our lives and asking ourselves better questions.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>It may not be your fault, but you can take responsibility for it. Mike and Joe discuss the role of personal accountability in our lives and asking ourselves better questions.
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>It may not be your fault, but you can take responsibility for it. Mike and Joe discuss the role of personal accountability in our lives and asking ourselves better questions.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -68,7 +68,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[16: The Checklist Manifesto by Atul Gawande [Bookworm]]]></title>
-    <link>http://joebuhlig.com/16-the-checklist-manifesto-by-atul-gawande/</link>
+    <link>https://joebuhlig.com/16-the-checklist-manifesto-by-atul-gawande/</link>
     <pubDate>Wed, 04 Jan 2017 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -77,13 +77,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">http://joebuhlig.com/16-the-checklist-manifesto-by-atul-gawande/</guid>
+    <guid isPermaLink="true">https://joebuhlig.com/16-the-checklist-manifesto-by-atul-gawande/</guid>
     <description>
         <![CDATA[Mike loves his coffee and he’s trying to drag Joe along. But that still doesn’t stop them from talking checklists and the power they hold.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Mike loves his coffee and he’s trying to drag Joe along. But that still doesn’t stop them from talking checklists and the power they hold.
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Mike loves his coffee and he’s trying to drag Joe along. But that still doesn’t stop them from talking checklists and the power they hold.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -91,7 +91,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[Top Five Books From 2016]]></title>
-    <link>http://joebuhlig.com/top-five-books-from-2016/</link>
+    <link>https://joebuhlig.com/top-five-books-from-2016/</link>
     <pubDate>Mon, 12 Dec 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -100,12 +100,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[books]]></category>
 
-    <guid isPermaLink="true">http://joebuhlig.com/top-five-books-from-2016/</guid>
+    <guid isPermaLink="true">https://joebuhlig.com/top-five-books-from-2016/</guid>
     <description>
         <![CDATA[In the past I’ve wanted to be a reader and yet never picked up a book. But that changed when I said yes to Bookworm. Since then I’ve read 16 books for Bookworm and four more on my own. And I’m on pace to read three more by year’s end....]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/top-five-books-from-2016.jpg" /><p>In the past I’ve wanted to be a reader and yet never picked up a book. But that changed when I said yes to <a href="http://bookworm.fm">Bookworm</a>. Since then I’ve read 16 books for Bookworm and four more on my own. And I’m on pace to read three more by year’s end.
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/top-five-books-from-2016.jpg" /><p>In the past I’ve wanted to be a reader and yet never picked up a book. But that changed when I said yes to <a href="http://bookworm.fm">Bookworm</a>. Since then I’ve read 16 books for Bookworm and four more on my own. And I’m on pace to read three more by year’s end.
 <!--more--></p>
 
 <p>I was recently reflecting on the year and began thumbing through my growing collection of finished books. It was then that I realized I have a few favorites. So I figured why not share them with you? Here are my top five:</p>
@@ -151,7 +151,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[Time Tracker With Running Status]]></title>
-    <link>http://joebuhlig.com/time-tracker-with-running-status/</link>
+    <link>https://joebuhlig.com/time-tracker-with-running-status/</link>
     <pubDate>Fri, 09 Dec 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -160,12 +160,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[time]]></category>
 
-    <guid isPermaLink="true">http://joebuhlig.com/time-tracker-with-running-status/</guid>
+    <guid isPermaLink="true">https://joebuhlig.com/time-tracker-with-running-status/</guid>
     <description>
         <![CDATA[I’ve been tracking where I spend my time for a while now. In the majority of cases it has been purely for personal use and decision-making, but since I have now taken a part time IT position, I need to know exactly how many hours I spend on the job...]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/time-tracker-with-running-status.jpg" /><p>I’ve been tracking where I spend my time for a while now. In the majority of cases it has been purely for personal use and decision-making, but since I have now taken a part time IT position, I need to know exactly how many hours I spend on the job and calculate whether or not I’ve met my expected quota for the week.
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/time-tracker-with-running-status.jpg" /><p>I’ve been tracking where I spend my time for a while now. In the majority of cases it has been purely for personal use and decision-making, but since I have now taken a part time IT position, I need to know exactly how many hours I spend on the job and calculate whether or not I’ve met my expected quota for the week.
 <!--more--></p>
 
 <p>In theory, it’s simple. I work 20 hours a week as Director of IT at my church. But how do I know if I’m under or over my allotted time? I could go off a feeling, but I’m certain I’ll always be wrong in my estimate.</p>
@@ -185,7 +185,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[15: BrainChains by Theo Compernolle [Bookworm]]]></title>
-    <link>http://joebuhlig.com/15-brainchains-by-theo-compernolle/</link>
+    <link>https://joebuhlig.com/15-brainchains-by-theo-compernolle/</link>
     <pubDate>Wed, 07 Dec 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -194,13 +194,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">http://joebuhlig.com/15-brainchains-by-theo-compernolle/</guid>
+    <guid isPermaLink="true">https://joebuhlig.com/15-brainchains-by-theo-compernolle/</guid>
     <description>
         <![CDATA[BrainChains was a listener recommendation that taught Mike and Joe a lot about how technology affects our minds. From attention to focus, it’s all covered.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>BrainChains was a listener recommendation that taught Mike and Joe a lot about how technology affects our minds. From attention to focus, it’s all covered.
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>BrainChains was a listener recommendation that taught Mike and Joe a lot about how technology affects our minds. From attention to focus, it’s all covered.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -208,7 +208,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[Using a Cloudfront CDN for Jekyll Without S3]]></title>
-    <link>http://joebuhlig.com/using-a-cloudfront-cdn-for-jekyll-without-s3/</link>
+    <link>https://joebuhlig.com/using-a-cloudfront-cdn-for-jekyll-without-s3/</link>
     <pubDate>Mon, 05 Dec 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -217,14 +217,14 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[jekyll]]></category>
 
-    <guid isPermaLink="true">http://joebuhlig.com/using-a-cloudfront-cdn-for-jekyll-without-s3/</guid>
+    <guid isPermaLink="true">https://joebuhlig.com/using-a-cloudfront-cdn-for-jekyll-without-s3/</guid>
     <description>
         <![CDATA[On occasion I find myself with a sliver of free time. And it seems inevitable that I use it to tinker with this site. Given my latest obsession with page load speeds, this time I directed my attention towards the implementation of a CDN.
 
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/using-a-cloudfront-cdn-for-jekyll-without-s3.jpg" /><p>On occasion I find myself with a sliver of free time. And it seems inevitable that I use it to tinker with this site. Given my latest obsession with page load speeds, this time I directed my attention towards the implementation of a CDN.
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/using-a-cloudfront-cdn-for-jekyll-without-s3.jpg" /><p>On occasion I find myself with a sliver of free time. And it seems inevitable that I use it to tinker with this site. Given my latest obsession with page load speeds, this time I directed my attention towards the implementation of a CDN.
 <!--more--></p>
 
 <p>This is an idea I stole from Brett Terpstra who has an <a href="http://brettterpstra.com/2014/02/21/a-jekyll-cdn-with-cloudfront/">article about his method</a> of doing the same. My case has some slight differences and if you do a search for how to use Cloudfront with Jekyll, you’ll be hard-pressed to find an explanation of how to do it without using S3 for your hosting. Which is why I felt compelled to share my process with you.</p>
@@ -297,7 +297,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[A Baby Time Checklist]]></title>
-    <link>http://joebuhlig.com/a-baby-time-checklist/</link>
+    <link>https://joebuhlig.com/a-baby-time-checklist/</link>
     <pubDate>Fri, 02 Dec 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -306,12 +306,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[checklists]]></category>
 
-    <guid isPermaLink="true">http://joebuhlig.com/a-baby-time-checklist/</guid>
+    <guid isPermaLink="true">https://joebuhlig.com/a-baby-time-checklist/</guid>
     <description>
         <![CDATA[As I write this, my wife and I are expecting our third baby girl to join us within the next week. I wish I could say there is nothing but pure excitement in our house, but as anyone who has kids knows, there are a number of things to do...]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/a-baby-time-checklist.jpg" /><p>As I write this, my wife and I are expecting our third baby girl to join us within the next week. I wish I could say there is nothing but pure excitement in our house, but as anyone who has kids knows, there are a number of things to do once you know it is “time.” Depending on your situation, which you can’t predetermine, you may not have much time to accomplish everything and get out the door, so most of us put together a checklist to help us remember.
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/a-baby-time-checklist.jpg" /><p>As I write this, my wife and I are expecting our third baby girl to join us within the next week. I wish I could say there is nothing but pure excitement in our house, but as anyone who has kids knows, there are a number of things to do once you know it is “time.” Depending on your situation, which you can’t predetermine, you may not have much time to accomplish everything and get out the door, so most of us put together a checklist to help us remember.
 <!--more--></p>
 
 <p>I use checklists all the time. They are a prominent fixture in my life and it is inevitable that others see me using or creating them. In most cases there is one of two responses: an agreement that the checklist is helpful or a joke about its worthlessness for them.</p>
@@ -327,7 +327,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[Creating Custom Web Searches in Alfred]]></title>
-    <link>http://joebuhlig.com/creating-custom-web-searches-in-alfred/</link>
+    <link>https://joebuhlig.com/creating-custom-web-searches-in-alfred/</link>
     <pubDate>Mon, 28 Nov 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -336,12 +336,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[alfred]]></category>
 
-    <guid isPermaLink="true">http://joebuhlig.com/creating-custom-web-searches-in-alfred/</guid>
+    <guid isPermaLink="true">https://joebuhlig.com/creating-custom-web-searches-in-alfred/</guid>
     <description>
         <![CDATA[Searching is one of the most technically complicated processes to build and yet the simplest to use. And it’s almost universally accepted that every website has a way to search the entirety of their content. Connect this with the ability to search websites directly from Alfred and you can create...]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/creating-custom-web-searches-in-alfred.jpg" /><p>Searching is one of the most technically complicated processes to build and yet the simplest to use. And it’s almost universally accepted that every website has a way to search the entirety of their content. Connect this with the ability to search websites directly from Alfred and you can create a one-stop shop for searching all your favorite sites.
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/creating-custom-web-searches-in-alfred.jpg" /><p>Searching is one of the most technically complicated processes to build and yet the simplest to use. And it’s almost universally accepted that every website has a way to search the entirety of their content. Connect this with the ability to search websites directly from Alfred and you can create a one-stop shop for searching all your favorite sites.
 <!--more--></p>
 
 <p>Alfred can do searches in Google and many other websites out-of-the-box. But if you notice yourself searching a specific website repeatedly, it makes sense to set up a custom search within Alfred. If you continually repeat this process, you’ll end up using Alfred for all your searches instead of going through the multiple steps required to open a site, find the search bar, and type your query.</p>
@@ -352,20 +352,20 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <p>Once you have that information, open Alfred preferences, go to Features, then Web Search. At the bottom-right you’ll see “Add Custom Search.” From there, simply fill out the details you want for the search. Here’s the full example for this site:</p>
 
-<p><img class="center-image post-image-medium" src="http://cdn.joebuhlig.com/assets/posts_extra/creating-custom-web-searches-in-alfred/alfred-custom-search.jpg" /></p>
+<p><img class="center-image post-image-medium" src="https://cdn.joebuhlig.com/assets/posts_extra/creating-custom-web-searches-in-alfred/alfred-custom-search.jpg" /></p>
 
 <p>To make it even easier, you can <a href="alfred://customsearch/Search%20joebuhlig.com%20for%20%7Bquery%7D/joe/utf8/nospace/http%3A%2F%2Fjoebuhlig.com%2Fsearch%2F%3Fq%3D%7Bquery%7D">click here to install it directly</a>.</p>
 
 <p>Using this search is quite simple. Invoke Alfred, type “joe” followed by your query. It’ll look like this:</p>
 
-<p><img class="center-image post-image-large" src="http://cdn.joebuhlig.com/assets/posts_extra/creating-custom-web-searches-in-alfred/alfred-search.jpg" /></p>
+<p><img class="center-image post-image-large" src="https://cdn.joebuhlig.com/assets/posts_extra/creating-custom-web-searches-in-alfred/alfred-search.jpg" /></p>
 ]]>
     </content:encoded>
 </item>
 
 <item>
     <title><![CDATA[Using Discourse for IT]]></title>
-    <link>http://joebuhlig.com/using-discourse-for-it/</link>
+    <link>https://joebuhlig.com/using-discourse-for-it/</link>
     <pubDate>Fri, 25 Nov 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -376,12 +376,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[discourse]]></category>
 
-    <guid isPermaLink="true">http://joebuhlig.com/using-discourse-for-it/</guid>
+    <guid isPermaLink="true">https://joebuhlig.com/using-discourse-for-it/</guid>
     <description>
         <![CDATA[I’m a fan of Discourse. That should come without surprise at this point. As a fan, it’s natural for me to see the potential for Discourse to solve communication problems and create selective visibility within an organization. So it was easy for me to gravitate toward it for the IT...]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/using-discourse-for-it.jpeg" /><p>I’m a fan of <a href="http://discourse.org">Discourse</a>. That should come without surprise at this point. As a fan, it’s natural for me to see the potential for Discourse to solve communication problems and create selective visibility within an organization. So it was easy for me to gravitate toward it for the IT communication structure at my church.
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/using-discourse-for-it.jpeg" /><p>I’m a fan of <a href="http://discourse.org">Discourse</a>. That should come without surprise at this point. As a fan, it’s natural for me to see the potential for Discourse to solve communication problems and create selective visibility within an organization. So it was easy for me to gravitate toward it for the IT communication structure at my church.
 <!--more--></p>
 
 <p>To the best of my knowledge, there are four areas that need to be clearly conveyed and accessible to those I support: technology needs, how tos, structural upgrades, and technical documentation. In my case, I have two groups of people to work with: staff members and tech volunteers. The staff needs to share their support requests and have access to the knowledgebase, while the tech team handles the infrastructure and documentation.</p>
@@ -419,7 +419,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[14: The 12 Week Year by Brian Moran, Michael Lennington [Bookworm]]]></title>
-    <link>http://joebuhlig.com/14-the-12-week-year-by-brian-moran-michael-lennington/</link>
+    <link>https://joebuhlig.com/14-the-12-week-year-by-brian-moran-michael-lennington/</link>
     <pubDate>Wed, 23 Nov 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -428,13 +428,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">http://joebuhlig.com/14-the-12-week-year-by-brian-moran-michael-lennington/</guid>
+    <guid isPermaLink="true">https://joebuhlig.com/14-the-12-week-year-by-brian-moran-michael-lennington/</guid>
     <description>
         <![CDATA[If you’re looking for a way to set goals and achieve a year’s worth of work in 12 weeks, then The 12 Week Year is an excellent choice and structure to try.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>If you’re looking for a way to set goals and achieve a year’s worth of work in 12 weeks, then The 12 Week Year is an excellent choice and structure to try.
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>If you’re looking for a way to set goals and achieve a year’s worth of work in 12 weeks, then The 12 Week Year is an excellent choice and structure to try.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -442,7 +442,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[Hybrid Productivity]]></title>
-    <link>http://joebuhlig.com/hybrid-productivity/</link>
+    <link>https://joebuhlig.com/hybrid-productivity/</link>
     <pubDate>Mon, 21 Nov 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -451,12 +451,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[productivity]]></category>
 
-    <guid isPermaLink="true">http://joebuhlig.com/hybrid-productivity/</guid>
+    <guid isPermaLink="true">https://joebuhlig.com/hybrid-productivity/</guid>
     <description>
         <![CDATA[There’s a common misconception in the productivity world that when you develop a new process or system it needs to be entirely digital or entirely analog. Or the more common version of this dilemma: to work toward the use of a single database for your tasks. That may be nice,...]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/hybrid-productivity.jpg" /><p>There’s a common misconception in the productivity world that when you develop a new process or system it needs to be entirely digital or entirely analog. Or the more common version of this dilemma: to work toward the use of a single database for your tasks. That may be nice, but it’s far from necessary.
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/hybrid-productivity.jpg" /><p>There’s a common misconception in the productivity world that when you develop a new process or system it needs to be entirely digital or entirely analog. Or the more common version of this dilemma: to work toward the use of a single database for your tasks. That may be nice, but it’s far from necessary.
 <!--more--></p>
 
 <p>In one week, I join the staff of our local church as Director of IT. As a part of that role, there needs to be a way to track the projects I have going on at the church. A handful of other folks will also be participating in the collection of those projects, as well as taking ownership of them.</p>
@@ -472,7 +472,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[Auto-Archiving Emails in Gmail]]></title>
-    <link>http://joebuhlig.com/autoarchiving-emails-in-gmail/</link>
+    <link>https://joebuhlig.com/autoarchiving-emails-in-gmail/</link>
     <pubDate>Fri, 18 Nov 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -481,14 +481,14 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[email]]></category>
 
-    <guid isPermaLink="true">http://joebuhlig.com/autoarchiving-emails-in-gmail/</guid>
+    <guid isPermaLink="true">https://joebuhlig.com/autoarchiving-emails-in-gmail/</guid>
     <description>
         <![CDATA[In the midst of reading for Bookworm, I discovered my habit of quickly checking my email throughout the day. It’s a simple habit on the surface, but try to break it and you’ll find that willpower alone may not be enough to win.
 
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/autoarchiving-emails-in-gmail.jpeg" /><p>In the midst of reading for <a href="http://bookworm.fm">Bookworm</a>, I discovered my habit of quickly checking my email throughout the day. It’s a simple habit on the surface, but try to break it and you’ll find that willpower alone may not be enough to win.
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/autoarchiving-emails-in-gmail.jpeg" /><p>In the midst of reading for <a href="http://bookworm.fm">Bookworm</a>, I discovered my habit of quickly checking my email throughout the day. It’s a simple habit on the surface, but try to break it and you’ll find that willpower alone may not be enough to win.
 <!--more--></p>
 
 <p>I set out to create resistance to checking my email from my phone. I can remove it entirely but I have legitimate scenarios that dictate the checking of email on the go. Since I can’t remove it, I decided to force difficulties when opening an email in any scenario.</p>
@@ -527,7 +527,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[Food and Productivity (From a Farm Boy)]]></title>
-    <link>http://joebuhlig.com/food-and-productivity-from-a-farm-boy/</link>
+    <link>https://joebuhlig.com/food-and-productivity-from-a-farm-boy/</link>
     <pubDate>Mon, 14 Nov 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -536,12 +536,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[food]]></category>
 
-    <guid isPermaLink="true">http://joebuhlig.com/food-and-productivity-from-a-farm-boy/</guid>
+    <guid isPermaLink="true">https://joebuhlig.com/food-and-productivity-from-a-farm-boy/</guid>
     <description>
         <![CDATA[We all need to eat. The consequences of rejecting that fact are far from pleasant and none of us would argue this reality. The problem comes when choosing which foods to consume. It’s not enough that our supermarkets are overflowing and options are endless; we have corporate marketing schemes, dietary...]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/food-and-productivity-from-a-farm-boy.jpeg" /><p>We all need to eat. The consequences of rejecting that fact are far from pleasant and none of us would argue this reality. The problem comes when choosing which foods to consume. It’s not enough that our supermarkets are overflowing and options are endless; we have corporate marketing schemes, dietary standards, and fear mongering to battle.
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/food-and-productivity-from-a-farm-boy.jpeg" /><p>We all need to eat. The consequences of rejecting that fact are far from pleasant and none of us would argue this reality. The problem comes when choosing which foods to consume. It’s not enough that our supermarkets are overflowing and options are endless; we have corporate marketing schemes, dietary standards, and fear mongering to battle.
 <!--more--></p>
 
 <p>I was raised on a large crop farm and I have worked with, for, and around farmers and agricultural companies my entire life. In my journey I’ve helped raise crops and animals, develop new seed varieties and hybrids, and aided the marketing efforts of all the above. I understand what goes on behind the scenes of our food system quite well. And it’s this understanding that has given me clarity in choosing what to eat.</p>
@@ -571,7 +571,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[Stop The Should]]></title>
-    <link>http://joebuhlig.com/stop-the-should/</link>
+    <link>https://joebuhlig.com/stop-the-should/</link>
     <pubDate>Fri, 11 Nov 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -582,12 +582,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[fear]]></category>
 
-    <guid isPermaLink="true">http://joebuhlig.com/stop-the-should/</guid>
+    <guid isPermaLink="true">https://joebuhlig.com/stop-the-should/</guid>
     <description>
         <![CDATA[One of the strongest fears I grapple with is that of rejection. Like most, I want people to appreciate the work I do and me as a person. My struggle develops when I sense a dislike or underappreciation directed towards me in some way. Red flags start flying and I...]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="http://joebuhlig.com/assets/posts/stop-the-should.jpeg" /><p>One of the strongest fears I grapple with is that of rejection. Like most, I want people to appreciate the work I do and me as a person. My struggle develops when I sense a dislike or underappreciation directed towards me in some way. Red flags start flying and I find myself searching for ways to get out of the scenario.
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/stop-the-should.jpeg" /><p>One of the strongest fears I grapple with is that of rejection. Like most, I want people to appreciate the work I do and me as a person. My struggle develops when I sense a dislike or underappreciation directed towards me in some way. Red flags start flying and I find myself searching for ways to get out of the scenario.
 <!--more--></p>
 
 <p>Over time, I’ve learned who to trust and when. And although I rarely follow through on my thoughts about running away, I still have this nagging sense about what is expected of me. Instead of acting on my fear, I try to weigh it and pay attention to what the other person expects me to do.</p>
