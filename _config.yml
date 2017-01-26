@@ -8,8 +8,8 @@ description: > # this means to ignore newlines until "baseurl:"
 author: joe_buhlig
 copyright: Copyright © Joe Buhlig 2016 • All Rights Reserved
 baseurl: ""
-url: "https://joebuhlig.com"
-cdn_url: https://cdn.joebuhlig.com
+url: "http://joebuhlig.com"
+cdn_url: http://cdn.joebuhlig.com
 version: 1
 twitter_username: joebuhlig
 github_username:  joebuhlig
