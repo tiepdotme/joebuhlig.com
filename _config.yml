@@ -10,7 +10,8 @@ copyright: Copyright © Joe Buhlig 2016 • All Rights Reserved
 baseurl: ""
 url: "https://joebuhlig.com"
 cdn_url: https://cdn.joebuhlig.com
-version: 1
+enforce_ssl: joebuhlig.com
+version: 2
 twitter_username: joebuhlig
 github_username:  joebuhlig
 tumblr_username: joebuhlig
