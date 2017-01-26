@@ -1,3 +1,4 @@
 Redirect 301 /category/podcast /whaddyaknowjoe
 Redirect 301 /podcast /whaddyaknowjoe
 Redirect 301 /omnifocus https://tools.joebuhlig.com/working-with-omnifocus/
+Redirect 301 /thisisatest https://github.com
