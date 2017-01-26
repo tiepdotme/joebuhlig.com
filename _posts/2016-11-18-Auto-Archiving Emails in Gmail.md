@@ -32,14 +32,14 @@ function autoArchiveGmail() {
 
 To run it the first time, click the debugger icon and give the script access to your Gmail:
 
-<img class="center-image post-image-small" src="http://joebuhlig.com/assets/posts_extra/autoarchiving-emails-in-gmail/debugger.jpg" />
+<img class="center-image post-image-small" src="https://joebuhlig.com/assets/posts_extra/autoarchiving-emails-in-gmail/debugger.jpg" />
 
-<img class="center-image post-image-small" src="http://joebuhlig.com/assets/posts_extra/autoarchiving-emails-in-gmail/permissions.jpg" />
+<img class="center-image post-image-small" src="https://joebuhlig.com/assets/posts_extra/autoarchiving-emails-in-gmail/permissions.jpg" />
 
 Once the script is in place, set up a new trigger for it:
 
-<img class="center-image post-image-small" src="http://joebuhlig.com/assets/posts_extra/autoarchiving-emails-in-gmail/trigger_menu.jpg" />
+<img class="center-image post-image-small" src="https://joebuhlig.com/assets/posts_extra/autoarchiving-emails-in-gmail/trigger_menu.jpg" />
 
-<img class="center-image post-image-large" src="http://joebuhlig.com/assets/posts_extra/autoarchiving-emails-in-gmail/trigger.jpg" />
+<img class="center-image post-image-large" src="https://joebuhlig.com/assets/posts_extra/autoarchiving-emails-in-gmail/trigger.jpg" />
 
 I wish you all the best in checking email from your phone.

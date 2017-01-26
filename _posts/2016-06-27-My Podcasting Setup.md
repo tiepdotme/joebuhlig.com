@@ -21,7 +21,7 @@ I did a lot of research on beginners microphones before I started podcasting and
 - [Rode Popfilter](https://www.amazon.com/SM6-Shock-Mount-Integrated-Shield/dp/B004DE1K5S/ref=sr_1_1?tag=joebuhlig-20)
 - [V-MODA Crossfade Headphones](https://www.amazon.com/V-MODA-Crossfade-Over-Ear-Noise-Isolating-Headphone/dp/B003BYRGLI/ref=sr_1_8?tag=joebuhlig-20)
 
-<img class="center-image post-image-medium" src="http://joebuhlig.com/assets/posts_extra/my-podcasting-setup/rode-podcaster.jpeg" />
+<img class="center-image post-image-medium" src="https://joebuhlig.com/assets/posts_extra/my-podcasting-setup/rode-podcaster.jpeg" />
 
 ## Software
 

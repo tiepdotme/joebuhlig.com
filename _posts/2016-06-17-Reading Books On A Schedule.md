@@ -21,7 +21,7 @@ But there is a flaw in this design that I discovered early on. My procrastinatio
 
 Each time I start a new book, I create a new OmniFocus project for it. I have a series of tasks I complete after finishing a book. Since this project already exists, I took it to another level and added a "Read Book" group with subtasks for each day's reading. With that group flagged, I know what today's expected page count is by looking at [my Dashboard](http://joebuhlig.com/the-omnifocus-dashboard/).
 
-<img class="center-image post-image-medium" src="http://joebuhlig.com/assets/posts_extra/reading-books-on-a-schedule/read-book-group.png" />
+<img class="center-image post-image-medium" src="https://joebuhlig.com/assets/posts_extra/reading-books-on-a-schedule/read-book-group.png" />
 
 But reading a book every two weeks means I create these tasks quite frequently. And you can't expect me to do that manually every time, can you? A new script was in order.
 

@@ -22,7 +22,7 @@ You can [get this Workflow here](https://workflow.is/workflows/86f951099b6d40fca
 
 If you look through the steps, you'll see an action that looks like this:
 
-<center><img class="post-image-mini" src="http://joebuhlig.com/assets/posts_extra/targeted-omnifocus-templates-with-workflow/workflow-targets.png" /></center>
+<center><img class="post-image-mini" src="https://joebuhlig.com/assets/posts_extra/targeted-omnifocus-templates-with-workflow/workflow-targets.png" /></center>
 
 These are the selectable targets in the Workflow. You'll want to alter these to fit your structure. Just pay attention to the text and variable assignment under each choice and be sure to copy that format.
 
