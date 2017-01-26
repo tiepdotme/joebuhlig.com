@@ -7,6 +7,7 @@ tags:
 - visualization
 permalink: /the-importance-of-data-visualizations/
 image: /assets/posts/The-Importance-of-Data-Visualization.jpg
+pre_https: true
 ---
 It's easy to present data in a summarized table, but what about turning it into a data visualization?
 <!--more-->

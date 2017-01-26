@@ -6,6 +6,7 @@ tags:
 - budget
 permalink: /budgeting-and-irregular-expenses/
 image: /assets/posts/Budgeting-and-Irregular-Expenses.jpg
+pre_https: true
 ---
 You're cruising along and your bank account is looking good. But then, surprise! You get the bill for your car insurance premium and everything is out the window.
 <!--more-->

@@ -11,6 +11,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ030.mp3
 podcast_file_size: 22.3 MB
 podcast_duration: "23:05"
 podcast_length: 22347157
+pre_https: true
 ---
 When you have a large amount of data available, it's easy to be paralyzed in making a decision about how to analyze it. The same is true when you have a lot of tasks and little clarity.
 <!--more-->

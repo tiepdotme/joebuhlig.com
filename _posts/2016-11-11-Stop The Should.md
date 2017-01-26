@@ -7,6 +7,7 @@ tags:
 - fear
 permalink: /stop-the-should/
 image: /assets/posts/stop-the-should.jpeg
+pre_https: true
 ---
 One of the strongest fears I grapple with is that of rejection. Like most, I want people to appreciate the work I do and me as a person. My struggle develops when I sense a dislike or underappreciation directed towards me in some way. Red flags start flying and I find myself searching for ways to get out of the scenario.
 <!--more-->

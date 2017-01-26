@@ -6,6 +6,7 @@ tags:
 - gtd
 permalink: /inbox-consolidation/
 image: /assets/posts/inbox-consolidation.jpg
+pre_https: true
 ---
 As part of a new project that will be released in a few weeks, I recently reread _Getting Things Done_ by David Allen. I found it interesting that David hasn't changed his tune when it comes to information overload. Despite a dramatic increase in technology and the volume of inputs as compared to the original writing, he still advocates for the same capture mechanisms and clarification process.
 <!--more-->

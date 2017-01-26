@@ -7,6 +7,7 @@ tags:
 - energy
 permalink: /generating-creative-energy/
 image: /assets/posts/Generating-Creative-Energy.jpg
+pre_https: true
 ---
 
 I had never thought of myself as a creative person until recently. Math and science have always been my strengths, so the arty side never took center stage.

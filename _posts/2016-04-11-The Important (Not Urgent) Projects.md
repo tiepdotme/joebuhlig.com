@@ -6,6 +6,7 @@ tags:
 - projects
 permalink: /the-important-not-urgent-projects/
 image: /assets/posts/The-important-not-urgent-projects.jpg
+pre_https: true
 ---
 We all have those projects that we *know* we should be working on, but without a deadline or someone relying on you it's hard to keep it going. Things come up and the easy tasks to put off are the ones without urgency pushing them on.
 <!--more-->

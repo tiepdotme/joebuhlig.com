@@ -8,6 +8,7 @@ tags:
 - siri
 permalink: /siri-to-omnifocus/
 image: /assets/posts/Siri-to-Omnifocus.jpg
+pre_https: true
 ---
 
 I don’t have a daily commute but I still find myself in the car having ideas from time to time. I don’t want to lose those ideas, but I shouldn’t be typing into my phone or writing things while I’m driving.

@@ -7,6 +7,7 @@ tags:
 - routines
 permalink: /my-evening-routine/
 image: /assets/posts/My-Evening-Routine.jpg
+pre_https: true
 ---
 
 Much like a [morning routine](http://joebuhlig.com/my-morning-routine/), we all have an evening routine. Oftentimes, this means setting out clothes for tomorrow or getting the kids to bed. I do those as well, but I’ve also found satisfaction in reflecting on the day to put it into perspective.

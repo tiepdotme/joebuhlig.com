@@ -11,6 +11,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ025.mp3
 podcast_file_size: 21.4 MB
 podcast_duration: "22:05"
 podcast_length: 21385199
+pre_https: true
 ---
 Coming up with ideas doesn't have to be hard. There are four ways I create new ideas. And I had a moment of insight about being content at a birthday party for our girls.
 <!--more-->

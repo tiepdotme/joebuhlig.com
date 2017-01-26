@@ -8,6 +8,7 @@ tags:
 - launch-center
 permalink: /tracking-time-with-launch-center-pro/
 image: /assets/posts/Tracking-time-with-launch-center-pro.jpg
+pre_https: true
 ---
 Lately I've been tracking my time and starting to correlate it with dollars earned. The idea is to help me decide which types of work are the most valuable. This is a look at how I'm doing the time tracking portion using [Launch Center Pro](http://contrast.co/launch-center-pro/).
 <!--more-->

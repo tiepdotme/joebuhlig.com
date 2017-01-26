@@ -8,6 +8,7 @@ tags:
 - routines
 permalink: /my-morning-routine/
 image: /assets/posts/My-Morning-Routine.jpg
+pre_https: true
 ---
 
 Everyone has a morning routine of some kind - even if it’s just “get up before the kids.” But I think it should be intentional and you can find yours by experimenting and learning what others do.

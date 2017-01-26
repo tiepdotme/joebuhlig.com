@@ -6,6 +6,7 @@ tags:
 - gtd
 permalink: /using-gtd-as-a-husband/
 image: /assets/posts/Using-GTD-as-a-Husband.jpg
+pre_https: true
 ---
 I find it easy to let my marriage slide. We love each other so it should come naturally, right? Roses every Valentine's, daily love notes, and genuine conversations each night. If that's second-nature to you, I envy you.
 <!--more-->

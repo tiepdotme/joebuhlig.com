@@ -7,6 +7,7 @@ tags:
 - goals
 permalink: /keeping-goals/
 image: /assets/posts/Keeping-Up-with-Your-Goals.jpg
+pre_https: true
 ---
 
 It's resolution time! Or not. There are a plethora of articles telling you to set goals as opposed to resolutions. The term doesn't really matter. They'll fail without a plan behind them.

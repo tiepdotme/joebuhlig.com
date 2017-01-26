@@ -6,6 +6,7 @@ tags:
 - evernote
 permalink: /different-uses-for-evernote/
 image: /assets/posts/Different-Uses-for-Evernote.jpg
+pre_https: true
 ---
 
 At 13,000 notes, I like to think I’m a big user of Evernote. From meeting notes and travel receipts to manuals and quotes, I keep a lot in Evernote.

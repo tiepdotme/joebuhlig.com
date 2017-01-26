@@ -10,6 +10,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ042.mp3
 podcast_file_size: 16.4 MB
 podcast_duration: "16:51"
 podcast_length: 16361857
+pre_https: true
 ---
 If you create content in any form and have dabbled in multiple mediums, you're left with a decision about which method of consumption is best for the topic you want to present.
 <!--more-->

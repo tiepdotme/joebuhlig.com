@@ -6,6 +6,7 @@ tags:
 - food
 permalink: /the-flawed-foundation-of-diets/
 image: /assets/posts/the-flawed-foundation-of-diets.jpg
+pre_https: true
 ---
 After working on multiple sides of agriculture and seeing how the back-end of the food industry operates, I've come to the realization that there is some really bad information out there about agriculture and how we decide what to eat.
 <!--more-->

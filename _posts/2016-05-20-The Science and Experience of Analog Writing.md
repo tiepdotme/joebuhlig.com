@@ -6,6 +6,7 @@ tags:
 - writing
 permalink: /the-science-and-experience-of-analog-writing/
 image: /assets/posts/the-science-and-experience-of-analog-writing.jpeg
+pre_https: true
 ---
 I began [hand writing articles](http://joebuhlig.com/writing-articles-by-hand/) with a lot of skepticism mixed with hope. I didn't know what to expect but I wanted a positive outcome. As much as I lean toward an integration of technology in every aspect of my work, I felt a sense that paper had benefits I had never understood.
 <!--more-->

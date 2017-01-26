@@ -7,6 +7,7 @@ tags:
 - workflow
 permalink: /targeted-omnifocus-templates-with-workflow/
 image: /assets/posts/targeted-omnifocus-templates-with-workflow.jpg
+pre_https: true
 ---
 I've been impressed by the speed of the Omni Group's release cycles lately. It's obvious they are hard at work on the automation methods for both iOS and macOS. One of these recent releases introduced the ability to create new projects within a specific folder on iOS.
 <!--more-->

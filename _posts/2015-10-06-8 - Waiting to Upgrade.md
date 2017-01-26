@@ -12,6 +12,7 @@ podcast_file_size: 18.8 MB
 podcast_duration: "20:21"
 podcast_length: 19715453
 podcast_guid: ?p=916
+pre_https: true
 ---
 
 I've started waiting to upgrade operating systems and hardware when new releases are available. My impulse is to upgrade immediately, but I've put it off for a variety of reasons.

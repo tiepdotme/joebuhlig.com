@@ -7,6 +7,7 @@ tags:
 - life
 permalink: /breaking-the-cycle/
 image: /assets/posts/Breaking-the-Cycle.jpg
+pre_https: true
 ---
 
 It's time for a confession: I'm addicted to my phone. I want to check Twitter every five minutes and find myself refreshing Feedly every ten. And I hate it.

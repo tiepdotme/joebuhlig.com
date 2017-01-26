@@ -7,6 +7,7 @@ tags:
 - thebrain
 permalink: /using-thebrain/
 image: /assets/posts/Using-TheBrain.jpg
+pre_https: true
 ---
 
 Memory is a limited resource. And we usually ask it to do too much - from what task to work on to our kid’s birth date to a new business strategy.

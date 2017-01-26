@@ -7,6 +7,7 @@ tags:
 - productivity
 permalink: /productivity-vs-presence/
 image: /assets/posts/Productivity-vs-Presence.jpg
+pre_https: true
 ---
 
 We are taught to accomplish tasks. In school and work, grades and reviews measure our ability to accurately complete an assignment.

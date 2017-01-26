@@ -7,6 +7,7 @@ tags:
 - apps
 permalink: /favorite-alfred-tricks/
 image: /assets/posts/Favorite-Alfred-Tricks.jpg
+pre_https: true
 ---
 My Mac is useless without [Alfred](https://www.alfredapp.com/). That's no joke. I try to use my wife's profile once in a while. It's painful for me and hilarious for her to watch. I keep hitting the Alfred shortcuts and staring at it like it's broken.
 <!--more-->

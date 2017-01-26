@@ -7,6 +7,7 @@ tags:
 - weather
 permalink: /a-text-file-weather-forecast/
 image: /assets/posts/A-Text-File-Weather-Forececast.jpg
+pre_https: true
 ---
 It never fails. I sit at our kitchen table over breakfast and mention to my wife that it's going to snow that day. The first question she asks? *"How much?"* I don't know! All I know is that my alert says it's supposed to happen!
 <!--more-->

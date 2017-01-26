@@ -6,6 +6,7 @@ tags:
 - goals
 permalink: /an-alternative-to-annual-goals/
 image: /assets/posts/An-Alternative-to-Annual-Goals.jpg
+pre_https: true
 ---
 
 I’ve been struggling with goal-setting lately, enough that I [abandoned my annual goals altogether](http://joebuhlig.com/from-goals-to-guides/). But I’ve found that I want something to help guide the systems that I’m putting in place.

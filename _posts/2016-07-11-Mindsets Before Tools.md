@@ -6,6 +6,7 @@ tags:
 - mindsets
 permalink: /mindsets-before-tools/
 image: /assets/posts/mindsets-before-tools.jpeg
+pre_https: true
 ---
 Every time I come across an article that compares applications or declares an app to be the best at something, I cringe. Very few of them explain the scenarios necessary to make their conclusion valid.
 <!--more-->

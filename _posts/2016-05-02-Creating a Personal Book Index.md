@@ -6,6 +6,7 @@ tags:
 - reading
 permalink: /creating-a-personal-book-index/
 image: /assets/posts/Creating-a-Personal-Book-Index.jpeg
+pre_https: true
 ---
 I used to just pick up a book, start at the beginning, and read it to the end. I tried not to bend any pages and always used a bookmark to make sure the book still looked brand new when I was finished. I had an unwarranted fear of ruining my books because I held them in such high regard.
 <!--more-->

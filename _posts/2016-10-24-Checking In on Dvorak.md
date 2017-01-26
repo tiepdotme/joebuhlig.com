@@ -6,6 +6,7 @@ tags:
 - dvorak
 permalink: /checking-in-on-dvorak/
 image: /assets/posts/checking-in-on-dvorak.jpeg
+pre_https: true
 ---
 It's been about 10 months since I [switched to Dvorak](http://joebuhlig.com/dvorak-transition/). It's been at least six months since I've [written about it](http://joebuhlig.com/is-dvorak-worth-it/). In that six months, I have continued to make improvements but I've also noticed an interesting tidbit about my relationship with QWERTY.
 <!--more-->

@@ -11,6 +11,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ031.mp3
 podcast_file_size: 19.3 MB
 podcast_duration: "19:57"
 podcast_length: 19347676
+pre_https: true
 ---
 I go on a rant about building websites instead of apps. That leads me to a subsidiary rant about the polarizing changes to TextExpander.
 <!--more-->

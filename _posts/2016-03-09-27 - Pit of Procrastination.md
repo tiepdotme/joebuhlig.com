@@ -11,6 +11,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ027.mp3
 podcast_file_size: 21.8 MB
 podcast_duration: "22:32"
 podcast_length: 21828590
+pre_https: true
 ---
 I reflect on my tendencies to fall into a procrastination pit. And a reader emailed me about web designers posing as developers so I go off on a rant.
 <!--more-->

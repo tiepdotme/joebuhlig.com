@@ -7,6 +7,7 @@ tags:
 - ideas
 permalink: /keeping-up-with-ideas/
 image: /assets/posts/Keeping-Up-with-Ideas.jpg
+pre_https: true
 ---
 
 Ideas are sometimes hard to come up with. But what happens when you have so many that you get lost? You have all these ideas begging you for attention and it becomes unclear which ones you should take on and which ones you should let go.

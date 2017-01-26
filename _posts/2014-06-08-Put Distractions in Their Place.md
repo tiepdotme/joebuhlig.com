@@ -7,6 +7,7 @@ tags:
 - life
 permalink: /put-distractions-place/
 image: /assets/posts/Put-Distractions-In-Their-Place.jpg
+pre_https: true
 ---
 
 We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.

@@ -7,6 +7,7 @@ tags:
 - mac
 permalink: /mac-navigation/
 image: /assets/posts/Mac-Navigation.jpg
+pre_https: true
 ---
 
 Nerdy Mac users are known for customizing their machines. Between keyboard shortcuts, Spaces, and third-party apps, you can effectively set up a computer that is perfect for you and unusable by someone else.

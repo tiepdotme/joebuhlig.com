@@ -12,6 +12,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ019.mp3
 podcast_file_size: 16.7 MB
 podcast_duration: "17:11"
 podcast_length: 16690135
+pre_https: true
 ---
 
 I'm looking for a good way to promote online discussions. I share my idea about it and give an update on Dvorak. And what about masterminds?

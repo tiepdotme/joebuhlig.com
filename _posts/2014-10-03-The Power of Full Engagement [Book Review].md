@@ -7,6 +7,7 @@ tags:
 - energy
 permalink: /power-full-engagement-book-review/
 image: /assets/posts/The-Power-of-Full-Engagement-Book-Review.jpg
+pre_https: true
 ---
 
 There’s a lot of advice on the web about managing your time. Everyone seems to have the golden ticket that will pull time out of thin air. But what if time isn’t the key to being fully engaged?

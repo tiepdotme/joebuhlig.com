@@ -7,6 +7,7 @@ tags:
 - reviews
 permalink: /what-to-review/
 image: /assets/posts/what-to-review.jpeg
+pre_https: true
 ---
 The longer I practice GTD principles, the more intentional I try to be with the time I spend updating my systems. I need my commitments to be thought through and my decisions to be made ahead of time. Knowing that I am prone to starting new projects before I have time for them leads me to a need for a recurring time of reevaluation.
 <!--more-->

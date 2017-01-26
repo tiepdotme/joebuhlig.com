@@ -6,6 +6,7 @@ tags:
 - change
 permalink: /aint-broke-dont-fix/
 image: /assets/posts/If-it-ain't-broke-don't-fix-it-why-not.jpg
+pre_https: true
 ---
 
 _We’ve always done it that way. But it works. Why change it? If it ain’t broke, don’t fix it._ When I hear these phrases I cringe. Yes, it works. Yes, it’s a smooth system. Yes, we’re familiar with it. **But that doesn’t mean it shouldn’t change.**

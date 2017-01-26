@@ -6,6 +6,7 @@ tags:
 - discussions
 permalink: /a-new-discussion/
 image: /assets/posts/A-new-discussion.jpg
+pre_https: true
 ---
 It's time. I've been talking about starting a new community for a couple weeks now and we are moving forward.
 <!--more-->

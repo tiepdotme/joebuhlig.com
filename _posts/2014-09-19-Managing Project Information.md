@@ -7,6 +7,7 @@ tags:
 - projects
 permalink: /managing-project-information/
 image: /assets/posts/Managing-Project-Information.jpg
+pre_https: true
 ---
 
 Using David Allen’s definition, a project is anything that requires more than one action to complete. This can range from building a new web application to replacing the refrigerator filter.

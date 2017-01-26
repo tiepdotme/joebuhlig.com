@@ -7,6 +7,7 @@ tags:
 - life
 permalink: /the-internet-separation-layer/
 image: /assets/posts/The-Internet-Separation-Layer.jpg
+pre_https: true
 ---
 
 We do it almost every day. We communicate with another person using a screen of some kind - social media, texts, emails, instant messages.

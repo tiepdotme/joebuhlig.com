@@ -10,6 +10,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ036.mp3
 podcast_file_size: 28.7 MB
 podcast_duration: "29:44"
 podcast_length: 28731427
+pre_https: true
 ---
 It's been a while since I've shared my entire GTD structure. And now that I'm rereading the book, I figured it would be a good idea to share what I'm currently doing before it changes.
 <!--more-->

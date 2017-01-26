@@ -11,6 +11,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ018.mp3
 podcast_file_size: 17.6 MB
 podcast_duration: "18:09"
 podcast_length: 17613076
+pre_https: true
 ---
 After an awesome break for Christmas and the New Year, I'm back with a slight change and format to talk about my switch to Dvorak, the bloated web, and resolutions.
 <!--more-->

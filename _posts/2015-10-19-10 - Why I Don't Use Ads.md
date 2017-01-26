@@ -10,6 +10,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ010.mp3
 podcast_file_size: 13.7 MB
 podcast_duration: "14:02"
 podcast_length: 13654375
+pre_https: true
 ---
 
 I've avoided ads in my creative work from the beginning. But there's a lot of pressure to use them as a way to make an income. In this episode, I explain why I don't plan to change.

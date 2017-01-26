@@ -6,6 +6,7 @@ tags:
 - life
 permalink: /leaving-phone/
 image: /assets/posts/Leaving-Your-Phone.jpg
+pre_https: true
 ---
 
 Have you ever intentionally left your phone in the car while on a date? Was it freeing or did it feel like prison? Have you ever, like me, found yourself on Twitter while at the dinner table? Was that any different?

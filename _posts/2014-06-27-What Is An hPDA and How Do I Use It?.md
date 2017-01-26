@@ -7,6 +7,7 @@ tags:
 - capture
 permalink: /what-is-an-hpda-and-how-do-i-use-it/
 image: /assets/posts/What-is-an-hPDA.jpg
+pre_https: true
 ---
 
 Ideas and reminders come to us when we’re not ready for them or when we can’t do anything about them. We remember to clean out the gutters when it’s raining. An idea for a new website comes to us when we’re eating dinner. What do you do with those?

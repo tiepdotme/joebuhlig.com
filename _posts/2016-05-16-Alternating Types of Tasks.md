@@ -6,6 +6,7 @@ tags:
 - tasks
 permalink: /alternating-types-of-tasks/
 image: /assets/posts/alternating-types-of-tasks.jpeg
+pre_https: true
 ---
 There's something liberating about putting a name to something you didn't understand. This was my exact experience when I learned I am ADHD. It gave me words to explain the way I think and those words have given way to a deeper comprehension of how I operate.
 <!--more-->

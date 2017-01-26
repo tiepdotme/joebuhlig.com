@@ -7,6 +7,7 @@ tags:
 - omnifocus
 permalink: /working-with-omnifocus/
 image: /assets/base/WorkingWithOmniFocus-Small.png
+pre_https: true
 ---
 
 In the two days before this book launched I checked off 387 tasks in OmniFocus. And there's no other tool I'd rather do it with.

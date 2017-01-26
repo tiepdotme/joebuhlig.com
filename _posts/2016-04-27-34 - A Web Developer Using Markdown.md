@@ -10,6 +10,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ034.mp3
 podcast_file_size: 21.0 MB
 podcast_duration: "21:40"
 podcast_length: 20992324
+pre_https: true
 ---
 Markdown has become a major part of how I do all of my writing despite being a web developer. It has a lot of benefits even if you know how to write the HTML itself.
 <!--more-->

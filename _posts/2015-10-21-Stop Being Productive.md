@@ -7,6 +7,7 @@ tags:
 - productivity
 permalink: /stop-being-productive/
 image: /assets/posts/Stop-Being-Productive.jpg
+pre_https: true
 ---
 
 There are a lot of productivity bloggers and podcasters out there. And we're all looking for ways to get better, faster, and create higher quality products. That's pretty obvious when you read our articles.

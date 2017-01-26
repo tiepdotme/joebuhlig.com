@@ -6,6 +6,7 @@ tags:
 - focus
 permalink: /working-the-focus-muscle/
 image: /assets/posts/Working-the-Focus-Muscle.jpg
+pre_https: true
 ---
 
 When I started writing for this blog, it was easy. It was new and shiny and I wanted to sit down in the mornings and write for it. Eleven months into it, it’s harder.

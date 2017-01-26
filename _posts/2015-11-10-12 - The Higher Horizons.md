@@ -11,6 +11,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ012.mp3
 podcast_file_size: 16.2 MB
 podcast_duration: "16:40"
 podcast_length: 16190986
+pre_https: true
 ---
 
 A quick overview of how I see the higher Horizons of GTD and why they are important. Also, I talk about why I think our babysitter is awesome.

@@ -7,6 +7,7 @@ tags:
 - webinar
 permalink: /reviews-and-scripting-learn-omnifocus-webinar/
 image: /assets/posts/Reviews-and-Scripting-Learn-OmniFocus-Webinar.jpg
+pre_https: true
 ---
 
 A great asset behind OmniFocus is the community of people willing to share and ask questions; and one place to enjoy the resources this community creates is at [Learn OmniFocus](http://learnomnifocus.com/?ref=11).

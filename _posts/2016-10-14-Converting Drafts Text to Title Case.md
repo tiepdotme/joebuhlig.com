@@ -6,6 +6,7 @@ tags:
 - drafts
 permalink: /converting-drafts-text-to-title-case/
 image: /assets/posts/converting-drafts-text-to-title-case.jpg
+pre_https: true
 ---
 Drafts is easily one of the most used apps on my phone. To me, it is the pinnacle of resistance-free digital capture. If I look through my list of processed drafts, the most common forms of text I capture are content ideas and book suggestions. This tells me I read, write, and record a lot. 
 <!--more-->

@@ -8,6 +8,7 @@ tags:
 permalink: /using-the-analog-to-grasp-the-digital/
 image: /assets/posts/Using-the-Analog-to-Grasp-the-Digital.jpeg
 style: dark
+pre_https: true
 ---
 I'm guilty of looking for ways to accomplish tasks on the computer long before it crosses my mind to try paper or the whiteboard. It's almost embarrassing sometimes. The idea of going to a notepad as a first instinct is hard for me to grasp.
 <!--more-->

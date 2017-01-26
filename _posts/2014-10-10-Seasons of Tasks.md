@@ -6,6 +6,7 @@ tags:
 - seasons
 permalink: /seasons-tasks/
 image: /assets/posts/Seasons-of-Tasks.jpg
+pre_https: true
 ---
 
 The mornings are getting colder and the animals are preparing for winter. Another weather change is coming. And it’s a great reminder that we, too, should be preparing for the next season.

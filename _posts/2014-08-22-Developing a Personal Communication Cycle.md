@@ -6,6 +6,7 @@ tags:
 - communication
 permalink: /developing-personal-communication-cycle/
 image: /assets/posts/Developing-a-Personal-Communication-Cycle.jpg
+pre_https: true
 ---
 
 Recently a coworker confronted me on something I struggle with. Communicating. I’m introverted and love to come up with ideas, but I’m terrible at deciding when to share those ideas.

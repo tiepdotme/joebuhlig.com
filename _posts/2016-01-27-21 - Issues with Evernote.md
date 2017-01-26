@@ -11,6 +11,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ021.mp3
 podcast_file_size: 21.2 MB
 podcast_duration: "21:55"
 podcast_length: 21229658
+pre_https: true
 ---
 
 I've found that I have a lot of reasons to leave Evernote. In this episode, I talk through those and give a few updates to the articles I've written recently.

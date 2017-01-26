@@ -6,6 +6,7 @@ tags:
 - time
 permalink: /lost-in-transition/
 image: /assets/posts/Lost-in-Transition.jpg
+pre_https: true
 ---
 
 I read a lot of articles about time management and how to "reclaim an hour a day!" Most of those seem unrealistic. But in an attempt to find more time I discovered a single area that needed a lot of improvement.

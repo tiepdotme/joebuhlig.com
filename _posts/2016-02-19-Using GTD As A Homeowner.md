@@ -6,6 +6,7 @@ tags:
 - gtd
 permalink: /using-gtd-as-a-homeowner/
 image: /assets/posts/Using-GTD-as-a-Homeowner.jpg
+pre_https: true
 ---
 Most of the time when I'm discussing GTD with a friend or online it's in the context of getting more work done more efficiently. I agree that this is the easy target for the framework; our jobs and the work we do each day are the most pressing and stressing in our lives. We need as much help as we can get to stay on top of it.
 <!--more-->

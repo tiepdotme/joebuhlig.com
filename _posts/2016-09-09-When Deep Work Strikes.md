@@ -6,6 +6,7 @@ tags:
 - books
 permalink: /when-deep-work-strikes/
 image: /assets/posts/when-deep-work-strikes.jpeg
+pre_https: true
 ---
 There are a plethora of articles promoting and dissecting the tenants and principles proposed by Cal Newport in his book, [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=sr_1_1?tag=joebuhlig-20). That's what led me to picking it for an [episode of Bookworm](http://bookworm.fm/7/). After implementing my takeaways for about a month, I can see a decided difference in my productivity and effectiveness. It's what allowed me to release [Working With OmniFocus](https://workingwithomnifocus.com) when I did and to develop the depth of detail in those videos.
 <!--more-->

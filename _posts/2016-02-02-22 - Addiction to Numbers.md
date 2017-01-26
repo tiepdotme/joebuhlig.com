@@ -11,6 +11,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ022.mp3
 podcast_file_size: 18.6 MB
 podcast_duration: "19:10"
 podcast_length: 18585461
+pre_https: true
 ---
 Since I started my business I've developed an addiction to checking numbers. But I watched a webinar last week that really changed the game for me and has me hand writing my schedule for the day.
 <!--more-->

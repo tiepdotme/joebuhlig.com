@@ -11,6 +11,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ011.mp3
 podcast_file_size: 20.7 MB
 podcast_duration: "21:20"
 podcast_length: 20665040
+pre_https: true
 ---
 
 Before I got into OmniFocus, I used Evernote for GTD. I had a few different structures, but I think I ended with a simple setup that worked well for me before I outgrew it.

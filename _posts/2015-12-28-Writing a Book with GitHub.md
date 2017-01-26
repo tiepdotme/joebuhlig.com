@@ -8,6 +8,7 @@ tags:
 - writing
 permalink: /writing-a-book-with-github/
 image: /assets/posts/Writing-a-Book-with-GitHub.jpg
+pre_https: true
 ---
 
 A lot of time and effort go into writing a book. It gets even harder when you need to collaborate with your editor and make revisions.

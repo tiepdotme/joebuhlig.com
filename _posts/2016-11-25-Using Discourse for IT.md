@@ -7,6 +7,7 @@ tags:
 - discourse
 permalink: /using-discourse-for-it/
 image: /assets/posts/using-discourse-for-it.jpeg
+pre_https: true
 ---
 I'm a fan of [Discourse](http://discourse.org). That should come without surprise at this point. As a fan, it's natural for me to see the potential for Discourse to solve communication problems and create selective visibility within an organization. So it was easy for me to gravitate toward it for the IT communication structure at my church.
 <!--more-->

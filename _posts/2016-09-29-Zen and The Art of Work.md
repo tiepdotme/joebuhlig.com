@@ -6,6 +6,7 @@ tags:
 - reviews
 permalink: /zen-the-art-of-work/
 image: /assets/posts/zen-the-art-of-work.jpg
+pre_https: true
 ---
 I've always admired the thought and intentionality that Kourosh Dini applies to his methods of working and developing structures that help him accomplish his tasks. So I was excited when he gave me the opportunity to go through his video course, [_Zen & The Art of Work_](https://gumroad.com/a/753349747), prior to its launch. I must say that I think this is his best work to date.
 <!--more-->

@@ -6,6 +6,7 @@ tags:
 - files
 permalink: /file-naming-disorganization/
 image: /assets/posts/File-Naming-and-(Dis)Organization.jpg
+pre_https: true
 ---
 
 Naming and organizing files is extremely important. In today’s world, we can keep track of thousands of files. And with versioning getting to be a big deal, we have to have a way to keep track of it all.

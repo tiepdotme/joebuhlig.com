@@ -10,6 +10,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ016.mp3
 podcast_file_size: 12.5 MB
 podcast_duration: "12:48"
 podcast_length: 12483439
+pre_https: true
 ---
 
 Location based lists have a lot of uses. In this episode, I talk about the main ways I use them and how they've helped me in the past. There's also some follow-up to my time tracking mechanism.

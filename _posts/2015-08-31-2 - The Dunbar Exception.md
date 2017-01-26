@@ -12,6 +12,7 @@ podcast_file_size: 15.94 MB
 podcast_duration: "17:13"
 podcast_length: 16714604
 podcast_guid: ?p=857
+pre_https: true
 ---
 
 In today’s world it’s easy to connect with more than 150 people. This is how keep up with 300+.

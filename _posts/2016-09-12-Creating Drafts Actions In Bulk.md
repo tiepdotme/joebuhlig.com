@@ -7,6 +7,7 @@ tags:
 - drafts
 permalink: /creating-drafts-actions-in-bulk/
 image: /assets/posts/creating-drafts-actions-in-bulk.jpeg
+pre_https: true
 ---
 When the Omni Group implemented the new [automation methods in OmniFocus for iOS](https://discourse.omnigroup.com/t/implementation-details-for-omnifocus-2-14-automation/24179?u=joebuhlig), I was both excited and worried. I had over 30 actions in Drafts that send text to OmniFocus using background emails as an action method. Switching all of those to use URLs was going to take some time.
 <!--more-->

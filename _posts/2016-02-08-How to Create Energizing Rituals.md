@@ -7,6 +7,7 @@ tags:
 - rituals
 permalink: /how-to-create-energizing-rituals/
 image: /assets/posts/How-to-Create-Energizing-Rituals.jpg
+pre_https: true
 ---
 I learned about creating rituals after I read [The Power of Full Engagement](http://joebuhlig.com/power-full-engagement-book-review/) over a year ago. Since that time I've been figuring a few things out about building and implementing energizing rituals.
 <!--more-->

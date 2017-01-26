@@ -37,7 +37,7 @@ layout: default
 	<div id='discourse-comments'></div>
 	<script type="text/javascript">
 	  DiscourseEmbed = { discourseUrl: 'http://discussion.joebuhlig.com/',
-	                     discourseEmbedUrl: '{{site.url}}{{page.url}}' };
+	                     discourseEmbedUrl: '{% if page.pre_https %}http://joebuhlig.com{% else %}{{ site.url }}{% endif %}{{page.url}}' };
 
 	  (function() {
 	    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;

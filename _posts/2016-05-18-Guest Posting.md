@@ -6,6 +6,7 @@ tags:
 - meta
 permalink: /guest-posting/
 image: /assets/posts/guest-posting.jpeg
+pre_https: true
 ---
 Over the past month I've made some design changes and layout alterations here on the site. Some of that was purely for aesthetics and ease of use, but it also included some back-end alterations to allow guest posting. I've debated this for a long time and I'm finally ready to pull the trigger.
 <!--more-->

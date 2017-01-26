@@ -6,6 +6,7 @@ tags:
 - productivity
 permalink: /an-open-letter-to-productivity/
 image: /assets/posts/an-open-letter-to-productivity.jpeg
+pre_https: true
 ---
 My friend,
 

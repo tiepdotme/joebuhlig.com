@@ -6,6 +6,7 @@ tags:
 - jekyll
 permalink: /using-a-cloudfront-cdn-for-jekyll-without-s3/
 image: /assets/posts/using-a-cloudfront-cdn-for-jekyll-without-s3.jpg
+pre_https: true
 ---
 On occasion I find myself with a sliver of free time. And it seems inevitable that I use it to tinker with this site. Given my latest obsession with page load speeds, this time I directed my attention towards the implementation of a CDN.
 <!--more-->

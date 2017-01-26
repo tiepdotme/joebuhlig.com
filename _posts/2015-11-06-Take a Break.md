@@ -8,6 +8,7 @@ tags:
 - life
 permalink: /take-a-break/
 image: /assets/posts/Take-a-break.jpg
+pre_https: true
 ---
 
 Numerous times I've said that being able to put off work is an important step of being productive. And when you have a big push, it's even more important to stop.

@@ -6,6 +6,7 @@ tags:
 - books
 permalink: /time-for-books/
 image: /assets/posts/time-for-books.jpeg
+pre_https: true
 ---
 In order to read a book every two weeks (and sometimes every week) I have had to make reading a practice that is incorporated throughout my day. Having a single time for reading isn't enough and it has become a ritual I like to incorporate as many places as I can.
 <!--more-->

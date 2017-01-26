@@ -6,6 +6,7 @@ tags:
 - checklists
 permalink: /a-baby-time-checklist/
 image: /assets/posts/a-baby-time-checklist.jpg
+pre_https: true
 ---
 As I write this, my wife and I are expecting our third baby girl to join us within the next week. I wish I could say there is nothing but pure excitement in our house, but as anyone who has kids knows, there are a number of things to do once you know it is "time." Depending on your situation, which you can't predetermine, you may not have much time to accomplish everything and get out the door, so most of us put together a checklist to help us remember.
 <!--more-->

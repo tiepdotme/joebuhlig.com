@@ -7,6 +7,7 @@ tags:
 - time
 permalink: /time-and-dollars/
 image: /assets/posts/Time-and-dollars.jpg
+pre_https: true
 ---
 When I started my business, I wasn't in a place to say no to anything. I needed to provide an income, and every little bit helped. But recently I've had to start deciding which activities are most worth my time and which ones need to be put aside.
 <!--more-->

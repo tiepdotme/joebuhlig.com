@@ -6,6 +6,7 @@ tags:
 - writing
 permalink: /writing-articles-by-hand/
 image: /assets/posts/writing-articles-by-hand.jpeg
+pre_https: true
 ---
 After reflecting on the process of [writing a daily schedule by hand](http://joebuhlig.com/22/) and discussing [the benefits of the analog over the digital](http://joebuhlig.com/33/), I've decided to try writing articles with pen and paper.
 <!--more-->

@@ -7,6 +7,7 @@ tags:
 permalink: /3-the-war-of-art-by-steven-pressfield/
 external: http://bookworm.fm/3/
 image: /assets/posts/bookwormlogo.png
+pre_https: true
 ---
 Whether it's writing or building a business, we all struggle to put in the work to create. Mike and Joe discuss going pro with their art and overcoming resistance.
 <!--more-->

@@ -8,6 +8,7 @@ tags:
 - setups
 permalink: /using-drafts/
 image: /assets/posts/Using-Drafts.jpg
+pre_https: true
 ---
 
 [Drafts][DraftsApp] is one of those apps that I cannot go without. The funny thing is that my tech-resistant wife is now dependent on it as well. And you can be sure that I am pretty excited about [her use of it][TaskManagementEpisode].

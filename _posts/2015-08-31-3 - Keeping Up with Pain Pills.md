@@ -11,6 +11,7 @@ podcast_file_size: 10.71 MB
 podcast_duration: "11:30"
 podcast_length: 11227803
 podcast_guid: ?p=860
+pre_https: true
 ---
 
 Ugh. Dealing with water coming into the family room. And of course, I hurt myself and had to have surgery. And surgery leads to pain pills.

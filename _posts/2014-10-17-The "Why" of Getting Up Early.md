@@ -7,6 +7,7 @@ tags:
 - life
 permalink: /why-getting-up-early/
 image: /assets/posts/The-Why-of-Getting-Up-Early.jpg
+pre_https: true
 ---
 
 It’s 4:55 am. I roll over to check the clock and realize I’m awake before my alarm goes off. That’s always a good feeling. But why am I awake at this time of day?

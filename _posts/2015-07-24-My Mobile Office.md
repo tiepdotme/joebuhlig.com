@@ -7,6 +7,7 @@ tags:
 - hardware
 permalink: /my-mobile-office/
 image: /assets/posts/My-Mobile-Office.jpg
+pre_https: true
 ---
 
 As a homeworker, traveling has to be simple. If I need to connect with coworkers in person, I’m either on an airplane or in a rental car. In an effort to make it easy on myself, I have a backpack that serves as a mobile office.

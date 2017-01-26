@@ -6,6 +6,7 @@ tags:
 - food
 permalink: /food-and-productivity-from-a-farm-boy/
 image: /assets/posts/food-and-productivity-from-a-farm-boy.jpeg
+pre_https: true
 ---
 We all need to eat. The consequences of rejecting that fact are far from pleasant and none of us would argue this reality. The problem comes when choosing which foods to consume. It's not enough that our supermarkets are overflowing and options are endless; we have corporate marketing schemes, dietary standards, and fear mongering to battle.
 <!--more-->

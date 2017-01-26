@@ -6,6 +6,7 @@ tags:
 - analog
 permalink: /the-day-on-paper/
 image: /assets/posts/the-day-on-paper.jpeg
+pre_https: true
 ---
 I have tried numerous methods of managing my daily tasks digitally. But no matter the tool or the method, I am unable to replicate the clarity and motivation that comes from using pen and paper to plan and reflect on my day.
 <!--more-->

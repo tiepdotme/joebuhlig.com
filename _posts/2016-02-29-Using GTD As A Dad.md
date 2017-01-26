@@ -6,6 +6,7 @@ tags:
 - gtd
 permalink: /using-gtd-as-a-dad/
 image: /assets/posts/Using-GTD-as-a-Dad.jpg
+pre_https: true
 ---
 One of the greatest things a dad will ever hear is the sound of his kids squealing in joy while they play games together. It's energizing and pure pleasure to see the delight and sparkle in their eyes as they ask to "do it again!" Those are the memories that we hope to multiply.
 <!--more-->

@@ -7,6 +7,7 @@ tags:
 - writing
 permalink: /my-writing-setup/
 image: /assets/posts/My-Writing-Setup.jpg
+pre_https: true
 ---
 
 It’s been a little over a year since I started blogging and I’ve had a number of folks ask me what tools I use to write my articles. This is an outline of my process from idea to publish.

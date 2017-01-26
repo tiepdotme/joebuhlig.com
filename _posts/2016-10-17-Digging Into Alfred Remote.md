@@ -6,6 +6,7 @@ tags:
 - alfred
 permalink: /digging-into-alfred-remote/
 image: /assets/posts/digging-into-alfred-remote.jpg
+pre_https: true
 ---
 Alfred is a tool I use hundreds of times a day without realizing it. I'm not sure why it took me so long to pick up [Alfred Remote](https://itunes.apple.com/us/app/alfred-remote/id927944141?mt=8&at=1l3vnyQ) for my phone, but I'm now seeing the potential for some really advanced triggering for my Mac.
 <!--more-->

@@ -7,6 +7,7 @@ tags:
 - omnifocus
 permalink: /why-i-use-omnifocus/
 image: /assets/posts/Why-I-use-OmniFocus.jpg
+pre_https: true
 ---
 
 Task managers. There are so many options available and it’s painful making a decision, especially when it takes real dollars to get into them.

@@ -7,6 +7,7 @@ tags:
 - pocket
 permalink: /leaving-pocket-for-instapaper/
 image: /assets/posts/leaving-pocket-for-instapaper.jpeg
+pre_https: true
 ---
 I follow specific websites less and less. I'm more inclined to follow people and services on Twitter and [Medium](https://medium.com/@JoeBuhlig) that act as sources of curated articles. This gives me the ability to find sites I normally would have glossed over and still read my favorite writers.
 <!--more-->

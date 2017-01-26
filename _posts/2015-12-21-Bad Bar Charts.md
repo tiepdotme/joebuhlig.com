@@ -7,6 +7,7 @@ tags:
 - data
 permalink: /bad-bar-charts/
 image: /assets/posts/Bad-Bar-Charts.jpg
+pre_https: true
 ---
 In previous roles I worked on data analysis and visualization. When you boil it down, that just means I was well versed in Excel and building charts.
 <!--more-->

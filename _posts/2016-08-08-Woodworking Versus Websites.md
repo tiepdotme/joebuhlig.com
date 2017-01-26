@@ -7,6 +7,7 @@ tags:
 - woodworking
 permalink: /woodworking-versus-websites/
 image: /assets/posts/woodworking-versus-websites.jpeg
+pre_https: true
 ---
 One of the most difficult aspects of building websites or doing knowledge work full-time is the lack of motivation and pride that typically comes from physically seeing the work of your hands. Yes, it is possible to achieve this sense of accomplishment when working purely with information and computers, but it's far from natural.
 <!--more-->

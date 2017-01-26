@@ -7,6 +7,7 @@ tags:
 - life
 permalink: /danger-infinity-apps/
 image: /assets/posts/The-Danger-of-Infinity-Apps.jpg
+pre_https: true
 ---
 
 An _infinity_ app is one with a never-ending stream of some kind. It’s an app that always has new updates for you to consume.

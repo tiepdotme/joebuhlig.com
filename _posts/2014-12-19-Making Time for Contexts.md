@@ -7,6 +7,7 @@ tags:
 - gtd
 permalink: /making-time-contexts/
 image: /assets/posts/Making-Time-for-Contexts.jpg
+pre_https: true
 ---
 
 The difficult part of [Getting Things Done](http://joebuhlig.com/getting-things-done-introduction/) (GTD) for me is contexts. What lists should I be using when I'm completing tasks?

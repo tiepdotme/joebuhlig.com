@@ -6,6 +6,7 @@ tags:
 - inbox
 permalink: /the-overwhelm-inbox/
 image: /assets/posts/the-overwhelm-inbox.jpeg
+pre_https: true
 ---
 The purpose of my [inbox consolidation project](http://joebuhlig.com/inbox-consolidation/) is to cut back on the number of places I go to make decisions about my "open loops". Between feeds, social media, and our always-on expectations, it becomes a habit and struggle to keep up with the mass of apps and information thrown at us. My theory was to create an aggregated inbox via email that combines these potentially overwhelming sources of inputs. The hope was to build a system that helps me scale back on the time and impulse to repeatedly process these inboxes.
 <!--more-->

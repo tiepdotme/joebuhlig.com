@@ -6,6 +6,7 @@ tags:
 - evernote
 permalink: /an-alternative-to-evernote/
 image: /assets/posts/An-alternative-to-Evernote.jpg
+pre_https: true
 ---
 I've been a supporter of Evernote for a long time. I've written a number of articles on it and convinced a number of friends and family to start using it. But I've run into some issues with it and it's come time to throw in the towel. I'm leaving Evernote.
 <!--more-->

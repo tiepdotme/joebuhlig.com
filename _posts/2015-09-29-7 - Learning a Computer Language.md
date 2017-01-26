@@ -12,6 +12,7 @@ podcast_file_size: 16.97 MB
 podcast_duration: "18:21"
 podcast_length: 17791432
 podcast_guid: ?p=905
+pre_https: true
 ---
 
 People are sometimes scared to get into coding because they think it's complicated to learn. It's not complicated, so don't be one of those people. In this episode I talk about how I got into development (with no schooling) and how I pick up new languages.

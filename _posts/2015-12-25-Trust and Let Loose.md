@@ -7,6 +7,7 @@ tags:
 - systems
 permalink: /trust-let-loose/
 image: /assets/posts/Trust-and-Let-Loose.jpg
+pre_https: true
 ---
 It takes time to develop consistency in a task management system. I forget. I climb back on the horse, but fall off again. It looks easy - and it is at times - but other times it feels like one more item on my to-do list.
 <!--more-->

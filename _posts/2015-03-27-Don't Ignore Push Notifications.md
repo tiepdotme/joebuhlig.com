@@ -7,6 +7,7 @@ tags:
 - notifications
 permalink: /dont-ignore-push-notifications/
 image: /assets/posts/Don't-Ignore-Push-Notifications.jpg
+pre_https: true
 ---
 
 I was enjoying one of our first daddy-daughter dates. Of course, it was at a coffee shop. It was great! I drank my coffee and Cutie watched the constant movement of people between bites of her cookie.

@@ -6,6 +6,7 @@ tags:
 - hardware
 permalink: /how-i-use-the-m-o-u-s-9/
 image: /assets/posts/How-I-Use-the-M.O.U.S.-9.jpg
+pre_https: true
 ---
 
 I pulled my computer mouse out of my bag and the first thing he said was, “What on earth is that thing?” It was yet another confirmation that I’m strange.

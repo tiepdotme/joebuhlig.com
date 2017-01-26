@@ -10,6 +10,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ043.mp3
 podcast_file_size: 7.6 MB
 podcast_duration: "7:45"
 podcast_length: 7630849
+pre_https: true
 ---
 I have a lot going on with a number of new projects taking off. But with new doors opening, a few doors need to be closed.
 <!--more-->

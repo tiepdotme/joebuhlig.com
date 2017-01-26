@@ -6,6 +6,7 @@ tags:
 - time
 permalink: /time-tracker-with-running-status/
 image: /assets/posts/time-tracker-with-running-status.jpg
+pre_https: true
 ---
 I've been tracking where I spend my time for a while now. In the majority of cases it has been purely for personal use and decision-making, but since I have now taken a part time IT position, I need to know exactly how many hours I spend on the job and calculate whether or not I've met my expected quota for the week.
 <!--more-->

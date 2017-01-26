@@ -6,6 +6,7 @@ tags:
 - pricing
 permalink: /changing-prices-on-everything/
 image: /assets/posts/changing-prices-on-everything.jpeg
+pre_https: true
 ---
 One of my most hated tasks is setting the price for a new product. It's painful and it seems like I can never get it right. The bright side is that I've been able to learn a lot in the process and that has led me to a price simplification, effective immediately.
 <!--more-->

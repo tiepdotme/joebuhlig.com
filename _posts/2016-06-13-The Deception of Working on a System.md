@@ -6,6 +6,7 @@ tags:
 - systems
 permalink: /the-deception-of-working-on-a-system/
 image: /assets/posts/the-deception-of-working-on-a-system.jpeg
+pre_https: true
 ---
 It's a trap so easy to fall for: we find ourselves spending multiple hours fine-tuning, tweaking, and developing the simple structure that will automatically create more time and 3X our daily productivity.
 <!--more-->

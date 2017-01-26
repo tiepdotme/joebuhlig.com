@@ -11,6 +11,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ026.mp3
 podcast_file_size: 17.5 MB
 podcast_duration: "18:02"
 podcast_length: 17502095
+pre_https: true
 ---
 Let's talk about lurkers. Well, I'll talk about them. You can just listen. And that's okay because there's a lot of value in lurking.
 <!--more-->

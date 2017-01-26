@@ -8,6 +8,7 @@ tags:
 - inbox
 permalink: /getting-things-done-capture/
 image: /assets/posts/GTD-Capture.jpg
+pre_https: true
 ---
 
 _Capture_ is the process of collecting ideas and actions. You’re accumulating task items, reference material, or even trash and putting them in an inbox of some kind.

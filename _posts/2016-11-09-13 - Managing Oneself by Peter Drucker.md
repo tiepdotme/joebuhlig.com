@@ -7,6 +7,7 @@ tags:
 permalink: /13-managing-oneself-by-peter-drucker/
 external: http://bookworm.fm/13/
 image: /assets/posts/bookwormlogo.png
+pre_https: true
 ---
 One of the most valuable tasks you can begin is the development of your self-awareness. This week Mike and Joe delve into the questions posed by Peter Drucker that prompt you to learn how to manage yourself.
 <!--more-->

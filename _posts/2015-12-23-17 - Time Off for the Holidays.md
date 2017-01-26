@@ -10,6 +10,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ017.mp3
 podcast_file_size: 6.0 MB
 podcast_duration: "6:02"
 podcast_length: 5989962
+pre_https: true
 ---
 
 Take time off this holiday season. And try not to spend too much time doing support for family. Also, don't miss out on the discount for _Working with OmniFocus_.

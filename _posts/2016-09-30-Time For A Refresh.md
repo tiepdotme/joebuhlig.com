@@ -6,6 +6,7 @@ tags:
 - development
 permalink: /time-for-a-refresh/
 image: /assets/posts/time-for-a-refresh.jpg
+pre_https: true
 ---
 This past weekend my wife was gone on a retreat. That meant I took care of our girls on my own. They go to bed about an hour and a half before I do, and like any self-respecting web developer with an aging web design, I took advantage of the extra free time and made some major changes to the look and feel of my home on the web.
 <!--more-->

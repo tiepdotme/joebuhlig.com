@@ -6,6 +6,7 @@ tags:
 - omnifocus
 permalink: /choosing-omnifocus-settings/
 image: /assets/posts/Choosing-OmniFocus-Settings.jpg
+pre_https: true
 ---
 No application setup is complete without tweaking the settings to your liking. This is the power (and struggle) of OmniFocus. Some of the available options make drastic changes while others lead to subtleties you may not notice.
 <!--more-->

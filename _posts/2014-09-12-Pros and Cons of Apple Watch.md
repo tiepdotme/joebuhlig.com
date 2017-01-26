@@ -7,6 +7,7 @@ tags:
 - watch
 permalink: /pros-cons-apple-watch/
 image: /assets/posts/Pros-and-Cons-of-Apple-Watch.jpg
+pre_https: true
 ---
 
 Last Tuesday, Apple unveiled their new Smart Watch— the [Apple Watch](http://www.apple.com/watch/). It came with a lot of fanfare and definitely looks compelling. But is it really going to be worth it?

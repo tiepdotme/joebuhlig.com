@@ -6,6 +6,7 @@ tags:
 - gtd
 permalink: /using-gtd-as-a-writer/
 image: /assets/posts/Using-GTD-as-a-Writer.jpg
+pre_https: true
 ---
 It never fails. I'll be mowing the lawn or riding my bike and that's when it hits me. There's nothing I can do about it. I wish it would leave me alone until I could do something about it, but there I am; trying to figure out how I'm going to write those lines down.
 <!--more-->

@@ -11,6 +11,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ024.mp3
 podcast_file_size: 19.5 MB
 podcast_duration: "20:05"
 podcast_length: 19469084
+pre_https: true
 ---
 With my recent move away from Evernote, I've made the decision to leave my project codes behind. And although there are serious competitors to Evernote, I'm staying away from them.
 <!--more-->

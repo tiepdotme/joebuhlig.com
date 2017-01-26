@@ -6,6 +6,7 @@ tags:
 - productivity
 permalink: /timing-tasks/
 image: /assets/posts/Timing-Tasks.jpg
+pre_https: true
 ---
 In a previous role I spent some time researching project management software and evaluating it for company use. One of the turn-offs that my end users brought up was an extreme distaste for running a stopwatch on the tasks being tracked. I get it. No one wants to be stuck to a clock, especially when those reviewing the numbers are your managers.
 <!--more-->

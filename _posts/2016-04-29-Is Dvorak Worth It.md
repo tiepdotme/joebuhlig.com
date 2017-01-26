@@ -6,6 +6,7 @@ tags:
 - dvorak
 permalink: /is-dvorak-worth-it/
 image: /assets/posts/Is-Dvorak-Worth-It.jpg
+pre_https: true
 ---
 After almost three months of typing with a [Dvorak keyboard](http://joebuhlig.com/dvorak-transition/), I've reached some conclusions about this QWERTY alternative. Like most comparisons of this nature there are some significant pros and cons between the two. But I don't think it's fair to draw any conclusions until you've experienced both sides.
 <!--more-->

@@ -6,6 +6,7 @@ tags:
 - reviews
 permalink: /fear-of-the-weekly-review/
 image: /assets/posts/fear-of-the-weekly-review.jpeg
+pre_https: true
 ---
 I'm all about reviews. I think their value greatly outweighs the time involved and energy expended. Most of the time it's easy for me to initiate a review and step through its checklist, but there are days when I see a weekly review coming up on the calendar and start dreading it immediately.
 <!--more-->

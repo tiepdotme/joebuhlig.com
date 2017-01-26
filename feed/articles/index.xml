@@ -33,7 +33,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 {% for category in post.tags %}
     <category><![CDATA[{{ category | cdata_escape }}]]></category>
 {% endfor %}
-    <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+    <guid isPermaLink="true">{% if post.pre_https %}http://joebuhlig.com{% else %}{{ site.url }}{% endif %}{{ post.url }}</guid>
     <description>
         <![CDATA[{{ post.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]>
     </description>

@@ -7,6 +7,7 @@ tags:
 - inbox
 permalink: /inbox/
 image: /assets/posts/What-is-an-Inbox.jpg
+pre_https: true
 ---
 
 An inbox can be your mailbox, your email inbox, and even a physical tray. But those aren't the only places that stuff lands.

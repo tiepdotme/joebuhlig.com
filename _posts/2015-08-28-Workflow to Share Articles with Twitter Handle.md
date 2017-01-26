@@ -7,6 +7,7 @@ tags:
 - workflow
 permalink: /workflow-to-share-articles-with-twitter-handle/
 image: /assets/posts/Workflow-to-Share-Articles-with-Twitter-Handle.jpg
+pre_https: true
 ---
 
 I like to share articles on [Twitter](https://twitter.com/joebuhlig). And I want to make sure I give the author credit in the tweet. But it’s not always easy to find their Twitter handle.

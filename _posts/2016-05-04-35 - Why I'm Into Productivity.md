@@ -10,6 +10,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ035.mp3
 podcast_file_size: 17.7 MB
 podcast_duration: "18:12"
 podcast_length: 17662162
+pre_https: true
 ---
 I've been actively exploring why I am big into productivity for the past two months. In part, that led me to seeing a counselor and discovering a missing piece to my mental puzzle, even though it's likely obvious to most.
 <!--more-->

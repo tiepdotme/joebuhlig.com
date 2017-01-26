@@ -7,6 +7,7 @@ tags:
 - omnifocus
 permalink: /omnifocus-hotspot/
 image: /assets/posts/Omnifocus-Hotspot.jpg
+pre_https: true
 ---
 
 In our digital age, we tend to receive a large number of files via email. And we need to review these files or make changes to them. As an [Omnifocus user](http://joebuhlig.com/omnifocus-setup-workflow/), that means I need to create tasks out of these files.

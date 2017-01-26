@@ -6,6 +6,7 @@ tags:
 - books
 permalink: /top-five-books-from-2016/
 image: /assets/posts/top-five-books-from-2016.jpg
+pre_https: true
 ---
 In the past I've wanted to be a reader and yet never picked up a book. But that changed when I said yes to [Bookworm](http://bookworm.fm). Since then I've read 16 books for Bookworm and four more on my own. And I'm on pace to read three more by year's end.
 <!--more-->

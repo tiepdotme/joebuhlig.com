@@ -7,6 +7,7 @@ tags:
 - apps
 permalink: /using-text-expander/
 image: /assets/posts/Using-a-Text-Expander.jpg
+pre_https: true
 ---
 
 Do you ever find yourself typing the same thing over and over again? Stuff like an email address, the date, a URL, or even a template of some kind? If so, a text expansion app might be just what you need.

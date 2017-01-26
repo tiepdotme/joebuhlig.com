@@ -9,6 +9,7 @@ tags:
 - textexpander
 permalink: /first-apps-on-a-new-mac/
 image: /assets/posts/First-Apps-on-a-New-Mac.jpg
+pre_https: true
 ---
 
 Last week, I mentioned I had purchased a new MacBook Pro. Instead of the migration process, I set it up as a new machine. That means I had to decide which apps needed to be installed first. Simple, right? Well, not so much.

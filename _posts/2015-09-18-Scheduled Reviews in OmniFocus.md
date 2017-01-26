@@ -7,6 +7,7 @@ tags:
 - reviews
 permalink: /scheduled-reviews-in-omnifocus/
 image: /assets/posts/Scheduled-Reviews-in-OmniFocus.jpg
+pre_https: true
 ---
 
 Every Friday morning I do my [Weekly Review](http://joebuhlig.com/getting-things-done-reflect/). I do my Monthly Review on the first of the month and my Annual Review on the first of the year. How do I get OmniFocus to play nicely with this?

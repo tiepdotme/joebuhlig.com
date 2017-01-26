@@ -8,6 +8,7 @@ tags:
 - text-files
 permalink: /a-record-of-completed-tasks/
 image: /assets/posts/A-Record-of-Completed-Tasks.jpg
+pre_https: true
 ---
 There are times when I want to look back and see what I did on a specific day. This is extremely helpful when I need a record for a client, but no matter the reason, I find myself referring to my task history frequently.
 <!--more-->

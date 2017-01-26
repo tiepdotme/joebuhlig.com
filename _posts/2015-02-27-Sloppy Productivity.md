@@ -6,6 +6,7 @@ tags:
 - productivity
 permalink: /sloppy-productivity/
 image: /assets/posts/Sloppy-Productivity.jpg
+pre_https: true
 ---
 
 If you've read one article on this blog, you'll know that I'm a productivity nut. But there's a side to productivity that I haven't seen mentioned very often - _life_.

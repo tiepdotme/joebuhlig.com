@@ -10,6 +10,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ039.mp3
 podcast_file_size: 16.8 MB
 podcast_duration: "17:21"
 podcast_length: 16844545
+pre_https: true
 ---
 What you do for your morning and evening rituals doesn't have to match what others do. The top 10 things that highly successful people do in the morning may derail your day entirely.
 <!--more-->

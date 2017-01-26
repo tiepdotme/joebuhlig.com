@@ -7,6 +7,7 @@ tags:
 - communication
 permalink: /escaping-corporate-email-habit/
 image: /assets/posts/Escaping-the-Corporate-Email-Habit.jpg
+pre_https: true
 ---
 
 I used to pride myself in having one of the fastest email replies in the office. If you sent me an email, I was back to you in less than 10 minutes. Sometimes 5.

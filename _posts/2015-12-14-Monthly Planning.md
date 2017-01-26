@@ -7,6 +7,7 @@ tags:
 - reviews
 permalink: /monthly-planning/
 image: /assets/posts/Monthly-Planning.jpg
+pre_https: true
 ---
 
 We're sneaking up on the annual goal setting push. It's exciting to sit down and dream about what you want to do next year. But what if your life moves and changes too fast for annual goals?

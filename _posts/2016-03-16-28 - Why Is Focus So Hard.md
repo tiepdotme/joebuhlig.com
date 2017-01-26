@@ -10,6 +10,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ028.mp3
 podcast_file_size: 18.3 MB
 podcast_duration: "18:52"
 podcast_length: 18308990
+pre_https: true
 ---
 I've slowly drifted away from the mission that gets me excited each day. And that's due to a lack of focus and alignment with my goals.
 <!--more-->

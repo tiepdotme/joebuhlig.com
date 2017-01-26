@@ -7,6 +7,7 @@ tags:
 - hardware
 permalink: /dvorak-transition/
 image: /assets/posts/Dvorak-Transition.jpg
+pre_https: true
 ---
 
 I've had an interest in the Dvorak keyboard layout for a couple years now. The concept makes sense to me and I'm finally doing something about it.

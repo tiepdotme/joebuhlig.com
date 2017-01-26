@@ -6,6 +6,7 @@ tags:
 - books
 permalink: /a-roller-coaster-relationship-with-books/
 image: /assets/posts/a-roller-coaster-relationship-with-books.jpeg
+pre_https: true
 ---
 I was an avid reader in grade school. Any program the school put in place to encourage kids to read, I completed as fast as I could. That trend continued until I made it to junior high.
 <!--more-->

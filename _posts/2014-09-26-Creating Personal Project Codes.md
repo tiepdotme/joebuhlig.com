@@ -6,6 +6,7 @@ tags:
 - projects
 permalink: /creating-personal-project-codes/
 image: /assets/posts/Creating-Personal-Project-Codes.jpg
+pre_https: true
 ---
 
 Last week I wrote about [managing information for projects](http://joebuhlig.com/managing-project-information/). In that post I revealed the project codes I use, and now we’re going to talk about how to create them.

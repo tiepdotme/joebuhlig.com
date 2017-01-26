@@ -6,6 +6,7 @@ tags:
 - task management
 permalink: /getting-started-task-management/
 image: /assets/posts/Getting-Started-with-Task-Management.jpg
+pre_https: true
 ---
 
 I started keeping lists a few years ago. I had a lot going on and forgetting things was becoming normal. I needed a way to manage tasks since my brain was terrible at it.

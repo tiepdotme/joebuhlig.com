@@ -7,6 +7,7 @@ tags:
 - omnifocus
 permalink: /my-omnifocus-home-screen/
 image: /assets/posts/My-OmniFocus-Home-Screen.jpg
+pre_https: true
 ---
 
 With one of the recent releases of [OmniFocus for iOS](https://itunes.apple.com/us/app/omnifocus-2/id904071710?mt=8), we were given the ability to rearrange perspectives on the OmniFocus home screen. Of course, I geeked out on this and created a custom view. Here’s what it looks like.

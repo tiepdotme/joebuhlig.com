@@ -6,6 +6,7 @@ tags:
 - omnifocus
 permalink: /checklists-in-omnifocus/
 image: /assets/posts/checklists-in-omnifocus.jpeg
+pre_https: true
 ---
 Keeping different types of information in separate apps or systems is sometimes worth the extra infrastructure. But there is also a lot of value and mental freedom in using an existing process for multiple forms of data.
 <!--more-->

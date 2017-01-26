@@ -6,6 +6,7 @@ tags:
 - hardware
 permalink: /just-a-laptop/
 image: /assets/posts/Just-a-Laptop.jpg
+pre_https: true
 ---
 
 When I started my business I made the shift from three 27" monitors to just a laptop screen. That shift has taught me a few things about how I work.

@@ -7,6 +7,7 @@ tags:
 - omnifocus
 permalink: /textexpander-and-omnifocus/
 image: /assets/posts/textexpander-and-omnifocus.jpeg
+pre_https: true
 ---
 TextExpander and OmniFocus are [two of the first tools](http://joebuhlig.com/first-apps-on-a-new-mac/) I install on any new device, so it's no surprise that the two work well together. You may expect some kind of Applescripting or shell magic, but I keep this extremely simple and only use true text expansion with OmniFocus. I run the scripts manually or behind the scenes with Hazel.
 <!--more-->

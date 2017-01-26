@@ -6,6 +6,7 @@ tags:
 - textexpander
 permalink: /embracing-the-new-textexpander/
 image: /assets/posts/embracing-the-new-textexpander.jpg
+pre_https: true
 ---
 When [Smile](https://smilesoftware.com/) introduced the new "Snippet As A Service" version of TextExpander, there was quite an outcry. To be completely honest, I was confused by and resistant to the change at the onset. However, if I look at the new version without allowing my previous experience to color my opinion, it is striking how similar it is to my other choices for software.
 <!--more-->

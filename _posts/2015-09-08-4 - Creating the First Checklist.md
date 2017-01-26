@@ -11,6 +11,7 @@ podcast_file_size: 16.6 MB
 podcast_duration: "17:57"
 podcast_length: 17404039
 podcast_guid: ?p=866
+pre_https: true
 ---
 
 Creating a checklist for the first time isn’t always easy. And I did it wrong when I created the initial list for this podcast. I did figure out a better way, though.

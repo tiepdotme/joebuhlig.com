@@ -7,6 +7,7 @@ tags:
 - workflow
 permalink: /favorite-workflows/
 image: /assets/posts/Favorite-Workflows.jpg
+pre_https: true
 ---
 
 I've received a number of requests for more detail around my use of [Workflow][WorkflowApp] ([iTunes][WorkflowITunes]). I've said that it saves time, but here are some details.

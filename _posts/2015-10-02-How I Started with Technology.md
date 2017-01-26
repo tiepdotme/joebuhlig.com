@@ -7,6 +7,7 @@ tags:
 - life
 permalink: /how-i-started-with-technology/
 image: /assets/posts/How-I-Started-with-Technology.jpg
+pre_https: true
 ---
 
 When I was 16 I bought my own Compaq laptop. Remember those? I had been using the family computer quite a bit, but this was my own computer. That was the beginning of my journey with technology.

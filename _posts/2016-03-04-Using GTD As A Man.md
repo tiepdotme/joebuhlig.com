@@ -6,6 +6,7 @@ tags:
 - gtd
 permalink: /using-gtd-as-a-man/
 image: /assets/posts/Using-GTD-as-a-Man.jpg
+pre_https: true
 ---
 To be honest, I struggled with this article. I wanted to write it but wasn't sure how to convey what I was thinking. GTD has helped me as a man more than I realized but the impact has been implicit, not obvious.
 <!--more-->

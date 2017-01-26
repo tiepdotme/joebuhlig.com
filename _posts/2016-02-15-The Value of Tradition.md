@@ -6,6 +6,7 @@ tags:
 - life
 permalink: /the-value-of-tradition/
 image: /assets/posts/The-Value-of-Tradition.jpg
+pre_https: true
 ---
 Having young kids has made us think consciously about the traditions we want to pass down to them. What do we want them to learn? Will our traditions help them see the importance of our view of the world? Are they fun?
 <!--more-->

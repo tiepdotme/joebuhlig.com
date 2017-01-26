@@ -7,6 +7,7 @@ tags:
 - life
 permalink: /getting-things-done-day-life/
 image: /assets/posts/GTD-A-Day-in-the-Life.jpg
+pre_https: true
 ---
 
 There are a lot of articles about setting up GTD. But I don't see many that show what a typical day looks like when you adopt the framework.

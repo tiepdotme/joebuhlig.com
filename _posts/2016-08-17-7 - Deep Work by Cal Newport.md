@@ -7,6 +7,7 @@ tags:
 permalink: /7-deep-work-by-cal-newport/
 external: http://bookworm.fm/7/
 image: /assets/posts/bookwormlogo.png
+pre_https: true
 ---
 Mike has a new Apple device despite his minimizing efforts and Joe has finally done something about his email issue.
 <!--more-->

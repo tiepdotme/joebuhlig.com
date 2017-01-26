@@ -7,6 +7,7 @@ tags:
 - life
 permalink: /a-chaotic-week-with-gtd/
 image: /assets/posts/A-chaotic-week-with-GTD.jpg
+pre_https: true
 ---
 
 When I was getting started with GTD (Getting Things Done), I wondered what a week looked like for someone who used it. I never found anything along those lines and I recently had a week where I flexed it pretty hard. So I decided to give you a snapshot into my crazy week and see my GTD system in action.

@@ -6,6 +6,7 @@ tags:
 - setups
 permalink: /behind-the-scenes/
 image: /assets/posts/Behind-the-Scenes.jpg
+pre_https: true
 ---
 
 Almost daily, I get an email from someone interested in how I have this site set up. "It's not WordPress and Disqus. What are you using?" We can talk about that, but why not take it a few steps further? Let's go from domain registrar to the reader.

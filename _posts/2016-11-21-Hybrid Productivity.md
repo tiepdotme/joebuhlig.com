@@ -6,6 +6,7 @@ tags:
 - productivity
 permalink: /hybrid-productivity/
 image: /assets/posts/hybrid-productivity.jpg
+pre_https: true
 ---
 There's a common misconception in the productivity world that when you develop a new process or system it needs to be entirely digital or entirely analog. Or the more common version of this dilemma: to work toward the use of a single database for your tasks. That may be nice, but it's far from necessary.
 <!--more-->

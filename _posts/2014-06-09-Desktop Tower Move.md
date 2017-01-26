@@ -6,6 +6,7 @@ permalink: /desktop-tower-move/
 tags:
 - hardware
 image: /assets/posts/Desktop-Tower-Move.jpg
+pre_https: true
 ---
 
 I didn't want to write this post. I don't want you to read it. My wife wanted me to write it. I hesitated. Writing it forces me to admit that I'm picky and maybe neurotic. So it's probably a good thing that I did write it.

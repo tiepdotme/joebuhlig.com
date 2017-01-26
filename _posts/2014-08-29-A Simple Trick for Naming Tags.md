@@ -7,6 +7,7 @@ tags:
 - tags
 permalink: /simple-trick-naming-tags/
 image: /assets/posts/A-simple-trick-for-naming-tags.jpg
+pre_https: true
 ---
 
 The search capabilities of many tools today is impressive. We can search titles, notes, filenames, and even the contents of a file. But if you’re searching for a tag, it can give you a lot more than you expected.

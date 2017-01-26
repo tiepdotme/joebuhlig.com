@@ -7,6 +7,7 @@ tags:
 - reviews
 permalink: /getting-things-done-reflect/
 image: /assets/posts/GTD-Reflect.jpg
+pre_https: true
 ---
 
 The Weekly Review is the most important part of the GTD process. Without it, you'll have loose ends and you'll no longer trust your system.

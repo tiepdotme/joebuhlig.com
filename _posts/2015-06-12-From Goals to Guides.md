@@ -6,6 +6,7 @@ tags:
 - goals
 permalink: /from-goals-to-guides/
 image: /assets/posts/From-Goals-to-Guides.jpg
+pre_https: true
 ---
 
 Remember the goal setting push at the beginning of the year? I’ve done it professionally and personally every year for four years and it _can_ be motivating.

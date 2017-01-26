@@ -6,6 +6,7 @@ tags:
 - communication
 permalink: /choosing-the-right-medium/
 image: /assets/posts/Choosing-the-Right-Medium.jpg
+pre_https: true
 ---
 You're reading them right now. And the medium that they arrive in will change their weight. Words. Words in email have less impact than a handwritten letter. And a conversation over coffee has more sway than a phone call.
 <!--more-->

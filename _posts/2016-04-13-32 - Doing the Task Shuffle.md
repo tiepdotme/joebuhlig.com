@@ -11,6 +11,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ032.mp3
 podcast_file_size: 20.7 MB
 podcast_duration: "21:24"
 podcast_length: 20737537
+pre_https: true
 ---
 Here's an update on the new TextExpander pricing and a deep dive into why I wrote a script that shuffles my tasks. That's right. There's a big benefit to randomizing a task list.
 <!--more-->

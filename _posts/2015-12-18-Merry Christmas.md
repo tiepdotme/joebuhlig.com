@@ -7,6 +7,7 @@ tags:
 - discounts
 permalink: /christmas-2015/
 image: /assets/posts/Merry-Christmas-2015.jpg
+pre_https: true
 ---
 
 I'm thrilled to give you a gift for Christmas this year. I've wanted to do something like this for a long time and the opportunity is finally here.

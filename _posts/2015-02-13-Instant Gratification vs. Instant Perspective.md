@@ -7,6 +7,7 @@ tags:
 - perspective
 permalink: /instant-gratification-vs-instant-perspective/
 image: /assets/posts/Instant-Gratification-vs-Instant-Perspective.jpg
+pre_https: true
 ---
 
 I finished (second) breakfast and sat down at my computer to pull together analytics on one of my company’s websites. At that moment, a coworker texted me a question. I don’t remember what the question was about, but I do remember that it was almost an hour before I managed to get back to work.

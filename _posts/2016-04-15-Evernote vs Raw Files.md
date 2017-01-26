@@ -6,6 +6,7 @@ tags:
 - evernote
 permalink: /evernote-vs-raw-files/
 image: /assets/posts/Evernote-vs-Raw-Files.jpg
+pre_https: true
 ---
 Ever since I published an [article about leaving Evernote](http://joebuhlig.com/an-alternative-to-evernote/) I've received numerous recommendations for alternatives. It seems there is an endless supply of catchall buckets that you can drop information into.  I appreciate all the ideas, but it isn't the point.
 <!--more-->

@@ -7,6 +7,7 @@ tags:
 - apps
 permalink: /adding-contacts-business-cards-evernote/
 image: /assets/posts/Adding-Contacts-from-Business-Cards-with-Evernote.jpg
+pre_https: true
 ---
 
 I had just introduced myself to the executive leading the meeting. He handed me his business card and I quickly snapped a picture of it with my phone. A few seconds later his phone dinged. He glanced at his phone, then looked at me in shock.

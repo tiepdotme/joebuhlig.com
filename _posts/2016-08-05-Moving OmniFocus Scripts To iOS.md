@@ -7,6 +7,7 @@ tags:
 - omnifocus
 permalink: /moving-omnifocus-scripts-to-ios/
 image: /assets/posts/moving-omnifocus-scripts-to-ios.jpeg
+pre_https: true
 ---
 I have been hesitant to adopt the [new automation methods in OmniFocus](https://discourse.omnigroup.com/t/implementation-details-for-omnifocus-2-14-automation/24179?u=joebuhlig) for iOS. The abilities of the new URL Scheme are exciting but there's still quite a bit missing from the structure as it stands.
 <!--more-->

@@ -6,6 +6,7 @@ tags:
 - omnifocus
 permalink: /introducing-the-new-working-with-omnifocus/
 image: /assets/posts/introducing-the-new-working-with-omnifocus.jpg
+pre_https: true
 ---
 Working With OmniFocus has been recreated in video format!  It's now available on the new dedicated website: [workingwithomnifocus.com](https://workingwithomnifocus.com).
 <!--more-->

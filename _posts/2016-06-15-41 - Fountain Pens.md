@@ -10,6 +10,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ041.mp3
 podcast_file_size: 17.1 MB
 podcast_duration: "17:38"
 podcast_length: 17121409
+pre_https: true
 ---
 I'm pushing pen addict status. I don't think I'm there yet, but I do have three fountain pens that I thoroughly enjoy using.
 <!--more-->

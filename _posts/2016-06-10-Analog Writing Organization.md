@@ -6,6 +6,7 @@ tags:
 - writing
 permalink: /analog-writing-organization/
 image: /assets/posts/analog-writing-organization.jpeg
+pre_https: true
 ---
 When I made the decision to [embrace pen and paper](http://joebuhlig.com/the-science-and-experience-of-analog-writing/), the need for structure quickly showed its face. I wanted my writing to live in a single notebook, but that meant I needed a method of tracking progress on pieces without thumbing through the whole notebook.
 <!--more-->

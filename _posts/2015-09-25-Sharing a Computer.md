@@ -6,6 +6,7 @@ tags:
 - hardware
 permalink: /sharing-a-computer/
 image: /assets/posts/Sharing-a-Computer.jpg
+pre_https: true
 ---
 
 When I switched to the MacBook Pro, I also switched from using two computers to one. I know, I know, I was spoiled. But it made my life a lot easier and helped me accomplish a lot more.

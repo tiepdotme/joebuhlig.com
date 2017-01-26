@@ -8,6 +8,7 @@ tags:
 - writing
 permalink: /writing-with-github/
 image: /assets/posts/Writing-with-GitHub.jpg
+pre_https: true
 ---
 
 I’ve written about my use of [Sublime Text for writing](http://joebuhlig.com/my-writing-setup/), but I didn’t share how I manage the edits from my editor.

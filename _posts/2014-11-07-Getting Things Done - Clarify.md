@@ -8,6 +8,7 @@ tags:
 - gtd
 permalink: /getting-things-done-clarify/
 image: /assets/posts/GTD-Clarify.jpg
+pre_https: true
 ---
 
 A lot of people write things down but fail to do anything with it afterwards. It just dies on the paper. Why write it down if you'll never look at it again?

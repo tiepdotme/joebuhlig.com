@@ -12,6 +12,7 @@ podcast_file_size: 16.78 MB
 podcast_duration: "18:09"
 podcast_length: 17597079
 podcast_guid: ?p=850
+pre_https: true
 ---
 
 If you go through a job change, you’ll need to change your GTD contexts. I walk you through my recent job transition and what I did to determine my new contexts.

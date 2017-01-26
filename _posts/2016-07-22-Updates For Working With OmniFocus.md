@@ -6,6 +6,7 @@ tags:
 - omnifocus
 permalink: /updates-for-working-with-omnifocus/
 image: /assets/base/WorkingWithOmniFocus-Small.png
+pre_https: true
 ---
 It's been about nine months since I released _Working With OmniFocus_. A lot has happened in that time and my systems around OmniFocus have morphed quite a bit. Throw in a pile of learning accrued from other projects and I have decided to make some significant changes to the book.
 <!--more-->

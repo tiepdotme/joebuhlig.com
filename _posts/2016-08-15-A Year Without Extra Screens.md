@@ -6,6 +6,7 @@ tags:
 - hardware
 permalink: /a-year-without-extra-screens/
 image: /assets/posts/a-year-without-extra-screens.jpeg
+pre_https: true
 ---
 For the last year I've been running my business from a MacBook Pro  and an iPhone.  No iPad. No Watch. And no external monitors.
 <!--more-->

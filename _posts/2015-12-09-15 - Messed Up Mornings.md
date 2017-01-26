@@ -12,6 +12,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ015.mp3
 podcast_file_size: 15.7 MB
 podcast_duration: "16:12"
 podcast_length: 15742294
+pre_https: true
 ---
 
 The way people structure their morning routine can easily dictate your motivation for the day. But what happens when you can't control the circumstances around your morning? What about kids?

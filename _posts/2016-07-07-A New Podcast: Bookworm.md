@@ -6,6 +6,7 @@ tags:
 - bookworm
 permalink: /a-new-podcast-bookworm/
 image: /assets/posts/bookwormlogo.png
+pre_https: true
 ---
 Almost 2 months ago I embarked on a journey of reading a book every two weeks. Although there are a lot of personal benefits to doing this, it is primarily for a new podcast I'm doing with my good friend, [Mike Schmitz](http://mikeschmitz.me/).
 <!--more-->

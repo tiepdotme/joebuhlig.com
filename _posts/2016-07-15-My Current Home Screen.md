@@ -6,6 +6,7 @@ tags:
 - iOS
 permalink: /my-current-home-screen/
 image: /assets/posts/my-current-home-screen.png
+pre_https: true
 ---
 When I [consolidated a handful of my inboxes](http://joebuhlig.com/the-overwhelm-inbox/) into my email it made me rethink my home screen. I had previously kept it slim but this takes it a step further and creates significant resistance to activities better left undone.
 <!--more-->

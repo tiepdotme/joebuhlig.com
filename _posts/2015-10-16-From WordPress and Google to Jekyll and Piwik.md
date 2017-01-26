@@ -8,6 +8,7 @@ tags:
 - development
 permalink: /from-wordpress-google-to-jekyll-piwik/
 image: /assets/posts/From-Wordpress-Google-to-Jekyll-Piwik.jpg
+pre_https: true
 ---
 
 This website has run on WordPress and Google Analytics from day one and they've both treated me pretty well. But I've started to see a need for more flexibility in the site, so it's time for a big change.

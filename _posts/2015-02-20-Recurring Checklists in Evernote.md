@@ -7,6 +7,7 @@ tags:
 - evernote
 permalink: /recurring-checklists-in-evernote/
 image: /assets/posts/Recurring-Checklists-in-Evernote.jpg
+pre_https: true
 ---
 
 One of the first notes many Evernote users create is a checklist of some kind. It could be a grocery list, a to-do list for the day, or a morning routine.

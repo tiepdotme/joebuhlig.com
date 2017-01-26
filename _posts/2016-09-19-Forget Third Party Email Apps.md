@@ -7,6 +7,7 @@ tags:
 - email
 permalink: /forget-third-party-email-apps/
 image: /assets/posts/forget-third-party-email-apps.jpeg
+pre_https: true
 ---
 Folks are quite passionate about the software they use to access their email. I fell in that camp for a while but anymore I just don't get it. I think that stems from my intent to touch emails only once, keep my inbox as empty as possible, and use a single archive folder for all emails I want to keep.
 <!--more-->

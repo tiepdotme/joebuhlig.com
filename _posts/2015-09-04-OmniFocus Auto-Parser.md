@@ -6,6 +6,7 @@ tags:
 - omnifocus
 permalink: /omnifocus-auto-parser/
 image: /assets/posts/OmniFocus-Auto-Parser.jpg
+pre_https: true
 ---
 
 I love it when my systems do things automatically. In this case, I can capture an idea for a someday/maybe list and it ends up in the right place in OmniFocus.

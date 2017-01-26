@@ -7,6 +7,7 @@ tags:
 - setups
 permalink: /evernote-setup-workflow/
 image: /assets/posts/My-Evernote-Setup-and-Workflow.jpg
+pre_https: true
 ---
 
 Evernote is a handy tool with a _lot_ of ways to use it -- so many that it gets really hard to figure out how to set it up.

@@ -6,6 +6,7 @@ tags:
 - alfred
 permalink: /creating-custom-web-searches-in-alfred/
 image: /assets/posts/creating-custom-web-searches-in-alfred.jpg
+pre_https: true
 ---
 Searching is one of the most technically complicated processes to build and yet the simplest to use. And it's almost universally accepted that every website has a way to search the entirety of their content. Connect this with the ability to search websites directly from Alfred and you can create a one-stop shop for searching all your favorite sites.
 <!--more-->

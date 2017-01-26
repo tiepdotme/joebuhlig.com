@@ -7,6 +7,7 @@ tags:
 - writing
 permalink: /dictating-vs-typing/
 image: /assets/posts/Dictating-vs-Typing.jpg
+pre_https: true
 ---
 
 Dictation is becoming more and more commonplace, and as the software behind it continues to get better we'll likely see it become a bigger part of our daily lives.

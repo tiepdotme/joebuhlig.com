@@ -6,6 +6,7 @@ tags:
 - devices
 permalink: /too-much-tech/
 image: /assets/posts/too-much-tech.jpeg
+pre_https: true
 ---
 One of the common threads in the books we've read for [Bookworm](http://bookworm.fm) is the impact of computers on our effectiveness, self-control, and overall happiness in life. Their prevalence and ubiquity in our world coupled with the newness and speed of their adoption has a lot of us wondering and speculating about the positives and negatives of this shift. So I would expect any book written in the last decade to incorporate thoughts on the topic.
 <!--more-->

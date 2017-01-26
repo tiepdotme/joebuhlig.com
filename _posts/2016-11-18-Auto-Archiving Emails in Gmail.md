@@ -6,6 +6,7 @@ tags:
 - email
 permalink: /autoarchiving-emails-in-gmail/
 image: /assets/posts/autoarchiving-emails-in-gmail.jpeg
+pre_https: true
 ---
 In the midst of reading for [Bookworm](http://bookworm.fm), I discovered my habit of quickly checking my email throughout the day. It's a simple habit on the surface, but try to break it and you'll find that willpower alone may not be enough to win.
 <!--more-->

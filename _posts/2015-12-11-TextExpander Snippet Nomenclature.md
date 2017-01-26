@@ -6,6 +6,7 @@ tags:
 - textexpander
 permalink: /textexpander-snippet-nomenclature/
 image: /assets/posts/TextExpander-Snippet-Nomenclature.jpg
+pre_https: true
 ---
 
 I currently have 217 snippets in TextExpander. That's likely not a big number for some people, but for my forgetful mind it's a lot. To keep them straight, I use a simple nomenclature for my snippet abbreviations.

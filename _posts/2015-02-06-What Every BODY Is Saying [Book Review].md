@@ -6,6 +6,7 @@ tags:
 - books
 permalink: /every-body-saying-book-review/
 image: /assets/posts/What-Every-BODY-is-Saying-Book-Review.jpg
+pre_https: true
 ---
 
 Have you ever had a _feeling_ that someone is uncomfortable in a conversation? Were you able to point out the nonverbal cues that gave you that feeling?

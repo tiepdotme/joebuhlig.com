@@ -11,6 +11,7 @@ podcast_file_size: 21.58 MB
 podcast_duration: "23:23"
 podcast_length: 22624462
 podcast_guid: ?p=882
+pre_https: true
 ---
 
 If you've made the decision to get into task management, congratulations! But you need to be intentional with getting started. Here's a look at how I helped my wife put together her pen and paper system the first time.

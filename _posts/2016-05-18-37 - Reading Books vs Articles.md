@@ -11,6 +11,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ037.mp3
 podcast_file_size: 23.7 MB
 podcast_duration: "24:33"
 podcast_length: 23749237
+pre_https: true
 ---
 As I learn how to handle the good and bad that comes from being ADHD, I've learned the power of reading books over articles.
 <!--more-->

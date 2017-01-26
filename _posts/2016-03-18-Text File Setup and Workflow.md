@@ -7,6 +7,7 @@ tags:
 - text-files
 permalink: /text-file-setup-and-workflow/
 image: /assets/posts/Text-File-Setup-and-Workflow.jpg
+pre_https: true
 ---
 Now that I've moved [away from Evernote](http://joebuhlig.com/an-alternative-to-evernote/), the primary way I store information is through text files. It's taken me a while to get it nailed down but I've managed to simplify the number of apps I use and the flow of text across my devices.
 <!--more-->

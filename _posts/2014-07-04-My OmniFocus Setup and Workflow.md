@@ -9,6 +9,7 @@ tags:
 - setups
 permalink: /omnifocus-setup-workflow/
 image: /assets/posts/My-Omnifocus-Setup-and-Workflow.jpg
+pre_https: true
 ---
 
 [OmniFocus](https://itunes.apple.com/us/app/omnifocus-2/id867299399?mt=12&uo=4&at=1l3vnyQ) is a powerful tool designed to follow David Allen’s [Getting Things Done](http://gettingthingsdone.com/). I go into the [details of GTD here](http://joebuhlig.com/getting-things-done-introduction/) but the simple version is that it’s a method of getting things out of your mind and into a trusted organizational system. The main purpose is to free up your mind to have ideas, not hold them.

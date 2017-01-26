@@ -10,6 +10,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ038.mp3
 podcast_file_size: 19.9 MB
 podcast_duration: "20:33"
 podcast_length: 19914379
+pre_https: true
 ---
 Since starting to exclusively write with pen and paper, I've added a dedicated writing desk to my office. This week I explore the pros and cons of using multiple desks in my office.
 <!--more-->

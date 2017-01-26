@@ -7,6 +7,7 @@ tags:
 - hardware
 permalink: /macbook-pro-vs-macbook-air/
 image: /assets/posts/Macbook-Pro-Vs-MacBook-Air.jpg
+pre_https: true
 ---
 
 I’ve recently undergone a work transition that led me to purchasing a new MacBook Pro. My traveling work machine was a MacBook Air and I’ve found a few differences in the two that make me wish I’d done this earlier.

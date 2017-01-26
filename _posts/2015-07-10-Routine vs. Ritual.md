@@ -7,6 +7,7 @@ tags:
 - routines
 permalink: /routine-vs-ritual/
 image: /assets/posts/Routine-vs-Ritual.jpg
+pre_https: true
 ---
 
 A while back I read [The Power of Full Engagement](http://joebuhlig.com/power-full-engagement-book-review/). The premise of the book is energy management and what you do each day to gain or use energy.

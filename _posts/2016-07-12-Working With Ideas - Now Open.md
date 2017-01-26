@@ -6,6 +6,7 @@ tags:
 - course
 permalink: /working-with-ideas-now-open/
 image: /assets/posts/introducing-working-with-ideas.jpeg
+pre_https: true
 ---
 Our ability to come up with ideas is like a muscle. If we work on it and develop the right habits, we get stronger and have more options available to us. But it's difficult to build muscle if you don't understand "how" the muscle works and the mechanics behind its improvement. Getting ideas is challenging until you learn what they are and how they work.
 <!--more-->

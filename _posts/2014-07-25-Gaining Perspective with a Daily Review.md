@@ -7,6 +7,7 @@ tags:
 - reviews
 permalink: /gaining-perspective-daily-review/
 image: /assets/posts/Gaining-Perspective-with-a-Daily-Review.jpg
+pre_https: true
 ---
 
 How many times have you closed up shop for the day and wondered what happened? Ever get up in the morning and ask yourself what you should do today?

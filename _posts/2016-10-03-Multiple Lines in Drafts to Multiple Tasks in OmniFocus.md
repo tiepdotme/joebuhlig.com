@@ -7,6 +7,7 @@ tags:
 - omnifocus
 permalink: /multiple-lines-in-drafts-to-multiple-tasks-in-omnifocus/
 image: /assets/posts/multiple-lines-in-drafts-to-multiple-tasks-in-omnifocus.jpg
+pre_https: true
 ---
 One piece missing in my Drafts actions arsenal was the ability to create a single draft with multiple tasks and send them all to OmniFocus via the new URL schemes. This isn't something I use often but there are times when it would be useful and can be the difference between capturing everything and missing a vital thought.
 <!--more-->

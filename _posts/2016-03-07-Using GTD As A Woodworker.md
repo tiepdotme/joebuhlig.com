@@ -6,6 +6,7 @@ tags:
 - gtd
 permalink: /using-gtd-as-a-woodworker/
 image: /assets/posts/Using-GTD-as-a-Woodworker.jpg
+pre_https: true
 ---
 Hobbies are great candidates for GTD. With all the commitments we tend to take on, free time to spend on our hobbies can be elusive. That means it's helpful to have a system in place that keeps track of where we were and what comes next.
 <!--more-->

@@ -7,6 +7,7 @@ tags:
 - gtd
 permalink: /gtd-contexts-proactive-vs-reactive/
 image: /assets/posts/GTD-Contexts-Proactive-vs-Reactive.jpg
+pre_https: true
 ---
 
 I’ve always struggled with the contexts portion of GTD. I’ve tried tools, locations, energy levels, times of the day, mindsets, and on and on.

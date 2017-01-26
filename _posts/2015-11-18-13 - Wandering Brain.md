@@ -10,6 +10,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ013.mp3
 podcast_file_size: 9.5 MB
 podcast_duration: "9:44"
 podcast_length: 9532800
+pre_https: true
 ---
 
 I have more ideas than I can keep track of. And this is the whole of my creative process from idea development to storage.

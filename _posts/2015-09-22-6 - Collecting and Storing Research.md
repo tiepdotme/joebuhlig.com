@@ -12,6 +12,7 @@ podcast_file_size: 15.93 MB
 podcast_duration: "17:13"
 podcast_length: 16701394
 podcast_guid: ?p=893
+pre_https: true
 ---
 
 When you have a new project that you're doing research on, you need a great way to grab and store that research. Referencing it later can be invaluable and save you the trouble of doing that same research multiple times.

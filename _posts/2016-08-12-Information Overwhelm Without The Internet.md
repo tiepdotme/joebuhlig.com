@@ -6,6 +6,7 @@ tags:
 - internet
 permalink: /information-overwhelm-without-the-internet/
 image: /assets/posts/information-overwhelm-without-the-internet.jpeg
+pre_https: true
 ---
 I hear people refer to information overwhelm more often than I would expect. The context varies but the idea is the same: finding information on the internet is so easy that the person has a hard time deciphering what is right and what to question. Some even take it as far as to suggest [Google is making us dumb](http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/).
 <!--more-->

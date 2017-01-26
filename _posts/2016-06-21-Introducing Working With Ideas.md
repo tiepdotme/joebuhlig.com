@@ -6,6 +6,7 @@ tags:
 - course
 permalink: /introducing-working-with-ideas/
 image: /assets/posts/introducing-working-with-ideas.jpeg
+pre_https: true
 ---
 There are times when you realize a project needs to take a hard turn. Your original intent is good, but it doesn't accomplish your goal as well as it might.
 <!--more-->

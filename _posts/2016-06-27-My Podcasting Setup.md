@@ -6,6 +6,7 @@ tags:
 - podcasting
 permalink: /my-podcasting-setup/
 image: /assets/posts/my-podcasting-setup.jpeg
+pre_https: true
 ---
 I have detailed [my writing process](http://joebuhlig.com/the-science-and-experience-of-analog-writing/) quite a bit lately, but that made me realize I have never pulled all the pieces of my podcasting setup together. Let's change that.
 <!--more-->

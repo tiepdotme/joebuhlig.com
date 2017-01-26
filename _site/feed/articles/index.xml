@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 26 Jan 2017 11:02:29 -0600</lastBuildDate>
+<lastBuildDate>Thu, 26 Jan 2017 11:44:53 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -31,7 +31,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[books]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/top-five-books-from-2016/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/top-five-books-from-2016/</guid>
     <description>
         <![CDATA[In the past I’ve wanted to be a reader and yet never picked up a book. But that changed when I said yes to Bookworm. Since then I’ve read 16 books for Bookworm and four more on my own. And I’m on pace to read three more by year’s end....]]>
     </description>
@@ -91,7 +91,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[time]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/time-tracker-with-running-status/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/time-tracker-with-running-status/</guid>
     <description>
         <![CDATA[I’ve been tracking where I spend my time for a while now. In the majority of cases it has been purely for personal use and decision-making, but since I have now taken a part time IT position, I need to know exactly how many hours I spend on the job...]]>
     </description>
@@ -125,7 +125,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[jekyll]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/using-a-cloudfront-cdn-for-jekyll-without-s3/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/using-a-cloudfront-cdn-for-jekyll-without-s3/</guid>
     <description>
         <![CDATA[On occasion I find myself with a sliver of free time. And it seems inevitable that I use it to tinker with this site. Given my latest obsession with page load speeds, this time I directed my attention towards the implementation of a CDN.
 
@@ -214,7 +214,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[checklists]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/a-baby-time-checklist/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/a-baby-time-checklist/</guid>
     <description>
         <![CDATA[As I write this, my wife and I are expecting our third baby girl to join us within the next week. I wish I could say there is nothing but pure excitement in our house, but as anyone who has kids knows, there are a number of things to do...]]>
     </description>
@@ -244,7 +244,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[alfred]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/creating-custom-web-searches-in-alfred/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/creating-custom-web-searches-in-alfred/</guid>
     <description>
         <![CDATA[Searching is one of the most technically complicated processes to build and yet the simplest to use. And it’s almost universally accepted that every website has a way to search the entirety of their content. Connect this with the ability to search websites directly from Alfred and you can create...]]>
     </description>
@@ -284,7 +284,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[discourse]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/using-discourse-for-it/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/using-discourse-for-it/</guid>
     <description>
         <![CDATA[I’m a fan of Discourse. That should come without surprise at this point. As a fan, it’s natural for me to see the potential for Discourse to solve communication problems and create selective visibility within an organization. So it was easy for me to gravitate toward it for the IT...]]>
     </description>
@@ -336,7 +336,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[productivity]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/hybrid-productivity/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/hybrid-productivity/</guid>
     <description>
         <![CDATA[There’s a common misconception in the productivity world that when you develop a new process or system it needs to be entirely digital or entirely analog. Or the more common version of this dilemma: to work toward the use of a single database for your tasks. That may be nice,...]]>
     </description>
@@ -366,7 +366,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[email]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/autoarchiving-emails-in-gmail/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/autoarchiving-emails-in-gmail/</guid>
     <description>
         <![CDATA[In the midst of reading for Bookworm, I discovered my habit of quickly checking my email throughout the day. It’s a simple habit on the surface, but try to break it and you’ll find that willpower alone may not be enough to win.
 
@@ -421,7 +421,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[food]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/food-and-productivity-from-a-farm-boy/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/food-and-productivity-from-a-farm-boy/</guid>
     <description>
         <![CDATA[We all need to eat. The consequences of rejecting that fact are far from pleasant and none of us would argue this reality. The problem comes when choosing which foods to consume. It’s not enough that our supermarkets are overflowing and options are endless; we have corporate marketing schemes, dietary...]]>
     </description>
@@ -467,7 +467,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[fear]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/stop-the-should/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/stop-the-should/</guid>
     <description>
         <![CDATA[One of the strongest fears I grapple with is that of rejection. Like most, I want people to appreciate the work I do and me as a person. My struggle develops when I sense a dislike or underappreciation directed towards me in some way. Red flags start flying and I...]]>
     </description>
@@ -497,7 +497,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[books]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/a-roller-coaster-relationship-with-books/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/a-roller-coaster-relationship-with-books/</guid>
     <description>
         <![CDATA[I was an avid reader in grade school. Any program the school put in place to encourage kids to read, I completed as fast as I could. That trend continued until I made it to junior high.
 
@@ -535,7 +535,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[analog]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/using-the-permanence-of-paper-as-resistance/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/using-the-permanence-of-paper-as-resistance/</guid>
     <description>
         <![CDATA[The concept of resistance is getting to be common knowledge. In its original context as posed by Steven Pressfield, resistance is entirely negative. It is the internal and sometimes external force keeping us from doing our best work. As good brainworkers we consistently look for tactics, methodologies, and habits to...]]>
     </description>
@@ -565,7 +565,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[analog]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/the-day-on-paper/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/the-day-on-paper/</guid>
     <description>
         <![CDATA[I have tried numerous methods of managing my daily tasks digitally. But no matter the tool or the method, I am unable to replicate the clarity and motivation that comes from using pen and paper to plan and reflect on my day.
 
@@ -607,7 +607,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/behind-the-scenes-of-working-with-omnifocus/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/behind-the-scenes-of-working-with-omnifocus/</guid>
     <description>
         <![CDATA[More often than not, I find myself surprised by the questions I get after releasing a new script or product. After releasing Working With OmniFocus I received more emails about how the site is set up then I did about the course itself. It’s apparent to me that this is...]]>
     </description>
@@ -655,7 +655,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[dvorak]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/checking-in-on-dvorak/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/checking-in-on-dvorak/</guid>
     <description>
         <![CDATA[It’s been about 10 months since I switched to Dvorak. It’s been at least six months since I’ve written about it. In that six months, I have continued to make improvements but I’ve also noticed an interesting tidbit about my relationship with QWERTY.
 
@@ -691,7 +691,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[jekyll]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/discourse-commenting-for-jekyll/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/discourse-commenting-for-jekyll/</guid>
     <description>
         <![CDATA[For years, Disqus has been the commenting platform of choice. It’s what I used when my site was on WordPress. When I switched to a static site generated by Jekyll, I pulled commenting entirely. But given the topics I write about, comments can be quite helpful and I realize that...]]>
     </description>
@@ -767,7 +767,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[alfred]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/digging-into-alfred-remote/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/digging-into-alfred-remote/</guid>
     <description>
         <![CDATA[Alfred is a tool I use hundreds of times a day without realizing it. I’m not sure why it took me so long to pick up Alfred Remote for my phone, but I’m now seeing the potential for some really advanced triggering for my Mac.
 
@@ -801,7 +801,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[drafts]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/converting-drafts-text-to-title-case/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/converting-drafts-text-to-title-case/</guid>
     <description>
         <![CDATA[Drafts is easily one of the most used apps on my phone. To me, it is the pinnacle of resistance-free digital capture. If I look through my list of processed drafts, the most common forms of text I capture are content ideas and book suggestions. This tells me I read,...]]>
     </description>
@@ -878,7 +878,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[reviews]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/fear-of-the-weekly-review/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/fear-of-the-weekly-review/</guid>
     <description>
         <![CDATA[I’m all about reviews. I think their value greatly outweighs the time involved and energy expended. Most of the time it’s easy for me to initiate a review and step through its checklist, but there are days when I see a weekly review coming up on the calendar and start...]]>
     </description>
@@ -910,7 +910,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[pricing]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/changing-prices-on-everything/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/changing-prices-on-everything/</guid>
     <description>
         <![CDATA[One of my most hated tasks is setting the price for a new product. It’s painful and it seems like I can never get it right. The bright side is that I’ve been able to learn a lot in the process and that has led me to a price simplification,...]]>
     </description>
@@ -946,7 +946,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/multiple-lines-in-drafts-to-multiple-tasks-in-omnifocus/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/multiple-lines-in-drafts-to-multiple-tasks-in-omnifocus/</guid>
     <description>
         <![CDATA[One piece missing in my Drafts actions arsenal was the ability to create a single draft with multiple tasks and send them all to OmniFocus via the new URL schemes. This isn’t something I use often but there are times when it would be useful and can be the difference...]]>
     </description>
@@ -986,7 +986,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[development]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/time-for-a-refresh/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/time-for-a-refresh/</guid>
     <description>
         <![CDATA[This past weekend my wife was gone on a retreat. That meant I took care of our girls on my own. They go to bed about an hour and a half before I do, and like any self-respecting web developer with an aging web design, I took advantage of the...]]>
     </description>
@@ -1018,7 +1018,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[reviews]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/zen-the-art-of-work/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/zen-the-art-of-work/</guid>
     <description>
         <![CDATA[I’ve always admired the thought and intentionality that Kourosh Dini applies to his methods of working and developing structures that help him accomplish his tasks. So I was excited when he gave me the opportunity to go through his video course, Zen &amp; The Art of Work, prior to its...]]>
     </description>
@@ -1084,7 +1084,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[workflow]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/targeted-omnifocus-templates-with-workflow/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/targeted-omnifocus-templates-with-workflow/</guid>
     <description>
         <![CDATA[I’ve been impressed by the speed of the Omni Group’s release cycles lately. It’s obvious they are hard at work on the automation methods for both iOS and macOS. One of these recent releases introduced the ability to create new projects within a specific folder on iOS.
 
@@ -1126,7 +1126,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[email]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/forget-third-party-email-apps/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/forget-third-party-email-apps/</guid>
     <description>
         <![CDATA[Folks are quite passionate about the software they use to access their email. I fell in that camp for a while but anymore I just don’t get it. I think that stems from my intent to touch emails only once, keep my inbox as empty as possible, and use a...]]>
     </description>
@@ -1158,7 +1158,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[systems]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/building-systems-you-wont-use/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/building-systems-you-wont-use/</guid>
     <description>
         <![CDATA[I’m always looking for a way to automate a process or develop a structure that removes steps from a frequently repeated task. That’s to be expected since I enjoy the world of productivity and do a fair amount of development.
 
@@ -1198,7 +1198,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[drafts]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/creating-drafts-actions-in-bulk/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/creating-drafts-actions-in-bulk/</guid>
     <description>
         <![CDATA[When the Omni Group implemented the new automation methods in OmniFocus for iOS, I was both excited and worried. I had over 30 actions in Drafts that send text to OmniFocus using background emails as an action method. Switching all of those to use URLs was going to take some...]]>
     </description>
@@ -1279,7 +1279,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[books]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/when-deep-work-strikes/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/when-deep-work-strikes/</guid>
     <description>
         <![CDATA[There are a plethora of articles promoting and dissecting the tenants and principles proposed by Cal Newport in his book, Deep Work. That’s what led me to picking it for an episode of Bookworm. After implementing my takeaways for about a month, I can see a decided difference in my...]]>
     </description>
@@ -1317,7 +1317,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/introducing-the-new-working-with-omnifocus/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/introducing-the-new-working-with-omnifocus/</guid>
     <description>
         <![CDATA[Working With OmniFocus has been recreated in video format!  It’s now available on the new dedicated website: workingwithomnifocus.com.
 
@@ -1347,7 +1347,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[hardware]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/a-year-without-extra-screens/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/a-year-without-extra-screens/</guid>
     <description>
         <![CDATA[For the last year I’ve been running my business from a MacBook Pro  and an iPhone.  No iPad. No Watch. And no external monitors.
 
@@ -1407,7 +1407,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[internet]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/information-overwhelm-without-the-internet/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/information-overwhelm-without-the-internet/</guid>
     <description>
         <![CDATA[I hear people refer to information overwhelm more often than I would expect. The context varies but the idea is the same: finding information on the internet is so easy that the person has a hard time deciphering what is right and what to question. Some even take it as...]]>
     </description>
@@ -1453,7 +1453,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[woodworking]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/woodworking-versus-websites/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/woodworking-versus-websites/</guid>
     <description>
         <![CDATA[One of the most difficult aspects of building websites or doing knowledge work full-time is the lack of motivation and pride that typically comes from physically seeing the work of your hands. Yes, it is possible to achieve this sense of accomplishment when working purely with information and computers, but...]]>
     </description>
@@ -1483,7 +1483,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/moving-omnifocus-scripts-to-ios/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/moving-omnifocus-scripts-to-ios/</guid>
     <description>
         <![CDATA[I have been hesitant to adopt the new automation methods in OmniFocus for iOS. The abilities of the new URL Scheme are exciting but there’s still quite a bit missing from the structure as it stands.
 
@@ -1523,7 +1523,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[devices]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/too-much-tech/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/too-much-tech/</guid>
     <description>
         <![CDATA[One of the common threads in the books we’ve read for Bookworm is the impact of computers on our effectiveness, self-control, and overall happiness in life. Their prevalence and ubiquity in our world coupled with the newness and speed of their adoption has a lot of us wondering and speculating...]]>
     </description>
@@ -1563,7 +1563,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[textexpander]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/embracing-the-new-textexpander/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/embracing-the-new-textexpander/</guid>
     <description>
         <![CDATA[When Smile introduced the new “Snippet As A Service” version of TextExpander, there was quite an outcry. To be completely honest, I was confused by and resistant to the change at the onset. However, if I look at the new version without allowing my previous experience to color my opinion,...]]>
     </description>
@@ -1613,7 +1613,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[pocket]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/leaving-pocket-for-instapaper/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/leaving-pocket-for-instapaper/</guid>
     <description>
         <![CDATA[I follow specific websites less and less. I’m more inclined to follow people and services on Twitter and Medium that act as sources of curated articles. This gives me the ability to find sites I normally would have glossed over and still read my favorite writers.
 
@@ -1649,7 +1649,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/updates-for-working-with-omnifocus/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/updates-for-working-with-omnifocus/</guid>
     <description>
         <![CDATA[It’s been about nine months since I released Working With OmniFocus. A lot has happened in that time and my systems around OmniFocus have morphed quite a bit. Throw in a pile of learning accrued from other projects and I have decided to make some significant changes to the book....]]>
     </description>
@@ -1701,7 +1701,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/textexpander-and-omnifocus/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/textexpander-and-omnifocus/</guid>
     <description>
         <![CDATA[TextExpander and OmniFocus are two of the first tools I install on any new device, so it’s no surprise that the two work well together. You may expect some kind of Applescripting or shell magic, but I keep this extremely simple and only use true text expansion with OmniFocus. I...]]>
     </description>
@@ -1753,7 +1753,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[iOS]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/my-current-home-screen/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/my-current-home-screen/</guid>
     <description>
         <![CDATA[When I consolidated a handful of my inboxes into my email it made me rethink my home screen. I had previously kept it slim but this takes it a step further and creates significant resistance to activities better left undone.
 
@@ -1785,7 +1785,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[course]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/working-with-ideas-now-open/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/working-with-ideas-now-open/</guid>
     <description>
         <![CDATA[Our ability to come up with ideas is like a muscle. If we work on it and develop the right habits, we get stronger and have more options available to us. But it’s difficult to build muscle if you don’t understand “how” the muscle works and the mechanics behind its...]]>
     </description>
@@ -1811,7 +1811,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[mindsets]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/mindsets-before-tools/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/mindsets-before-tools/</guid>
     <description>
         <![CDATA[Every time I come across an article that compares applications or declares an app to be the best at something, I cringe. Very few of them explain the scenarios necessary to make their conclusion valid.
 
@@ -1843,7 +1843,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[podcasting]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/my-podcasting-setup/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/my-podcasting-setup/</guid>
     <description>
         <![CDATA[I have detailed my writing process quite a bit lately, but that made me realize I have never pulled all the pieces of my podcasting setup together. Let’s change that.
 
@@ -1896,7 +1896,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[books]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/time-for-books/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/time-for-books/</guid>
     <description>
         <![CDATA[In order to read a book every two weeks (and sometimes every week) I have had to make reading a practice that is incorporated throughout my day. Having a single time for reading isn’t enough and it has become a ritual I like to incorporate as many places as I...]]>
     </description>
@@ -1944,7 +1944,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[course]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/introducing-working-with-ideas/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/introducing-working-with-ideas/</guid>
     <description>
         <![CDATA[There are times when you realize a project needs to take a hard turn. Your original intent is good, but it doesn’t accomplish your goal as well as it might.
 
@@ -1976,7 +1976,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[productivity]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/an-open-letter-to-productivity/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/an-open-letter-to-productivity/</guid>
     <description>
         <![CDATA[My friend, We’ve come a long way since we met five years ago. And I cannot thank you enough for the clarity and direction you’ve given me through the multiple transitions and big decisions I have faced in recent years. Without the systems and tricks you’ve taught me, I would...]]>
     </description>
@@ -2012,7 +2012,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[books]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/reading-books-on-a-schedule/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/reading-books-on-a-schedule/</guid>
     <description>
         <![CDATA[For years I have wanted to read more books. Prolific readers rave about the benefits and world-renowned leaders often attribute their ideas and successes to their habit of reading, but to me the benefits of having read a lot of books was secondary to the innate sense that a realm...]]>
     </description>
@@ -2061,7 +2061,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[systems]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/the-deception-of-working-on-a-system/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/the-deception-of-working-on-a-system/</guid>
     <description>
         <![CDATA[It’s a trap so easy to fall for: we find ourselves spending multiple hours fine-tuning, tweaking, and developing the simple structure that will automatically create more time and 3X our daily productivity.
 
@@ -2095,7 +2095,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[writing]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/analog-writing-organization/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/analog-writing-organization/</guid>
     <description>
         <![CDATA[When I made the decision to embrace pen and paper, the need for structure quickly showed its face. I wanted my writing to live in a single notebook, but that meant I needed a method of tracking progress on pieces without thumbing through the whole notebook.
 
@@ -2137,7 +2137,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[inbox]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/the-overwhelm-inbox/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/the-overwhelm-inbox/</guid>
     <description>
         <![CDATA[The purpose of my inbox consolidation project is to cut back on the number of places I go to make decisions about my “open loops”. Between feeds, social media, and our always-on expectations, it becomes a habit and struggle to keep up with the mass of apps and information thrown...]]>
     </description>
@@ -2181,7 +2181,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[apps]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/editorial-as-a-database-viewer/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/editorial-as-a-database-viewer/</guid>
     <description>
         <![CDATA[One habit that Evernote taught me was that of creating databases, collections of text and pictures that revolve around a specific topic or item. I’m yet to export my Evernote data into my alternative storage system but I have solved my most glaring issue: searching and viewing these databases on...]]>
     </description>
@@ -2211,7 +2211,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/checklists-in-omnifocus/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/checklists-in-omnifocus/</guid>
     <description>
         <![CDATA[Keeping different types of information in separate apps or systems is sometimes worth the extra infrastructure. But there is also a lot of value and mental freedom in using an existing process for multiple forms of data.
 
@@ -2252,7 +2252,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/inbox-consolidation/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/inbox-consolidation/</guid>
     <description>
         <![CDATA[As part of a new project that will be released in a few weeks, I recently reread Getting Things Done by David Allen. I found it interesting that David hasn’t changed his tune when it comes to information overload. Despite a dramatic increase in technology and the volume of inputs...]]>
     </description>
@@ -2290,7 +2290,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/intentional-gtd-titles/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/intentional-gtd-titles/</guid>
     <description>
         <![CDATA[When I started with GTD five years ago, I was certain it was the missing piece to my mental overwhelm puzzle. It was the five-step framework that would keep me from procrastinating and give me the motivation to accomplish everything to which I kept saying yes.
 
@@ -2369,7 +2369,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[writing]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/the-science-and-experience-of-analog-writing/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/the-science-and-experience-of-analog-writing/</guid>
     <description>
         <![CDATA[I began hand writing articles with a lot of skepticism mixed with hope. I didn’t know what to expect but I wanted a positive outcome. As much as I lean toward an integration of technology in every aspect of my work, I felt a sense that paper had benefits I...]]>
     </description>
@@ -2465,7 +2465,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[meta]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/guest-posting/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/guest-posting/</guid>
     <description>
         <![CDATA[Over the past month I’ve made some design changes and layout alterations here on the site. Some of that was purely for aesthetics and ease of use, but it also included some back-end alterations to allow guest posting. I’ve debated this for a long time and I’m finally ready to...]]>
     </description>
@@ -2495,7 +2495,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[tasks]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/alternating-types-of-tasks/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/alternating-types-of-tasks/</guid>
     <description>
         <![CDATA[There’s something liberating about putting a name to something you didn’t understand. This was my exact experience when I learned I am ADHD. It gave me words to explain the way I think and those words have given way to a deeper comprehension of how I operate.
 
@@ -2531,7 +2531,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[reviews]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/what-to-review/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/what-to-review/</guid>
     <description>
         <![CDATA[The longer I practice GTD principles, the more intentional I try to be with the time I spend updating my systems. I need my commitments to be thought through and my decisions to be made ahead of time. Knowing that I am prone to starting new projects before I have...]]>
     </description>
@@ -2622,7 +2622,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/hazel-keeping-omnifocus-updated/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/hazel-keeping-omnifocus-updated/</guid>
     <description>
         <![CDATA[There are times when you need a feature in software that doesn’t currently exist. Sometimes that leads to exploring alternatives or even creating your own, which is how inventors and entrepreneurs get a lot of their ideas.
 
@@ -2676,7 +2676,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[writing]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/writing-articles-by-hand/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/writing-articles-by-hand/</guid>
     <description>
         <![CDATA[After reflecting on the process of writing a daily schedule by hand and discussing the benefits of the analog over the digital, I’ve decided to try writing articles with pen and paper.
 
@@ -2714,7 +2714,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[reading]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/creating-a-personal-book-index/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/creating-a-personal-book-index/</guid>
     <description>
         <![CDATA[I used to just pick up a book, start at the beginning, and read it to the end. I tried not to bend any pages and always used a bookmark to make sure the book still looked brand new when I was finished. I had an unwarranted fear of ruining...]]>
     </description>
@@ -2750,7 +2750,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[dvorak]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/is-dvorak-worth-it/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/is-dvorak-worth-it/</guid>
     <description>
         <![CDATA[After almost three months of typing with a Dvorak keyboard, I’ve reached some conclusions about this QWERTY alternative. Like most comparisons of this nature there are some significant pros and cons between the two. But I don’t think it’s fair to draw any conclusions until you’ve experienced both sides.
 
@@ -2804,7 +2804,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[digital]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/using-the-analog-to-grasp-the-digital/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/using-the-analog-to-grasp-the-digital/</guid>
     <description>
         <![CDATA[I’m guilty of looking for ways to accomplish tasks on the computer long before it crosses my mind to try paper or the whiteboard. It’s almost embarrassing sometimes. The idea of going to a notepad as a first instinct is hard for me to grasp.
 
@@ -2840,7 +2840,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/the-omnifocus-dashboard/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/the-omnifocus-dashboard/</guid>
     <description>
         <![CDATA[I write and talk about my OmniFocus Dashboard a lot. And that’s for good reason: it’s the central hub of my day-to-day work and the place where my decisions about the day surface.
 
@@ -2896,7 +2896,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[food]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/the-flawed-foundation-of-diets/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/the-flawed-foundation-of-diets/</guid>
     <description>
         <![CDATA[After working on multiple sides of agriculture and seeing how the back-end of the food industry operates, I’ve come to the realization that there is some really bad information out there about agriculture and how we decide what to eat.
 
@@ -2958,7 +2958,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[evernote]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/evernote-vs-raw-files/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/evernote-vs-raw-files/</guid>
     <description>
         <![CDATA[Ever since I published an article about leaving Evernote I’ve received numerous recommendations for alternatives. It seems there is an endless supply of catchall buckets that you can drop information into.  I appreciate all the ideas, but it isn’t the point.
 
@@ -3000,7 +3000,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[projects]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/the-important-not-urgent-projects/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/the-important-not-urgent-projects/</guid>
     <description>
         <![CDATA[We all have those projects that we know we should be working on, but without a deadline or someone relying on you it’s hard to keep it going. Things come up and the easy tasks to put off are the ones without urgency pushing them on.
 
@@ -3044,7 +3044,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[meta]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/and-now/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/and-now/</guid>
     <description>
         <![CDATA[I ran across this idea when reading an article by Derek Sivers. The premise is simple: creating a frequently updated page to show what the person is currently doing. The concept really resonated with me, and I expanded on it a bit.
 
@@ -3074,7 +3074,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[productivity]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/timing-tasks/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/timing-tasks/</guid>
     <description>
         <![CDATA[In a previous role I spent some time researching project management software and evaluating it for company use. One of the turn-offs that my end users brought up was an extreme distaste for running a stopwatch on the tasks being tracked. I get it. No one wants to be stuck...]]>
     </description>
@@ -3124,7 +3124,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[weather]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/a-text-file-weather-forecast/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/a-text-file-weather-forecast/</guid>
     <description>
         <![CDATA[It never fails. I sit at our kitchen table over breakfast and mention to my wife that it’s going to snow that day. The first question she asks? “How much?” I don’t know! All I know is that my alert says it’s supposed to happen!
 
@@ -3292,7 +3292,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/choosing-omnifocus-settings/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/choosing-omnifocus-settings/</guid>
     <description>
         <![CDATA[No application setup is complete without tweaking the settings to your liking. This is the power (and struggle) of OmniFocus. Some of the available options make drastic changes while others lead to subtleties you may not notice.
 
@@ -3384,7 +3384,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[text-files]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/a-record-of-completed-tasks/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/a-record-of-completed-tasks/</guid>
     <description>
         <![CDATA[There are times when I want to look back and see what I did on a specific day. This is extremely helpful when I need a record for a client, but no matter the reason, I find myself referring to my task history frequently.
 
@@ -3495,7 +3495,7 @@ end hazelProcessFile</pre></noscript>
 
     <category><![CDATA[apps]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/alfred-theme/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/alfred-theme/</guid>
     <description>
         <![CDATA[I’ve got a bonus for you this week: my Alfred theme. I’ve tweaked the look of Alfred quite a bit over the few years I’ve been using it. I wanted something simple and unobtrusive, but I also wanted it to be compact and cram a lot of data into a...]]>
     </description>
@@ -3521,7 +3521,7 @@ end hazelProcessFile</pre></noscript>
 
     <category><![CDATA[apps]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/favorite-alfred-tricks/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/favorite-alfred-tricks/</guid>
     <description>
         <![CDATA[My Mac is useless without Alfred. That’s no joke. I try to use my wife’s profile once in a while. It’s painful for me and hilarious for her to watch. I keep hitting the Alfred shortcuts and staring at it like it’s broken.
 
@@ -3595,7 +3595,7 @@ end hazelProcessFile</pre></noscript>
 
     <category><![CDATA[text-files]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/text-file-setup-and-workflow/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/text-file-setup-and-workflow/</guid>
     <description>
         <![CDATA[Now that I’ve moved away from Evernote, the primary way I store information is through text files. It’s taken me a while to get it nailed down but I’ve managed to simplify the number of apps I use and the flow of text across my devices.
 
@@ -3665,7 +3665,7 @@ end hazelProcessFile</pre></noscript>
 
     <category><![CDATA[communication]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/choosing-the-right-medium/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/choosing-the-right-medium/</guid>
     <description>
         <![CDATA[You’re reading them right now. And the medium that they arrive in will change their weight. Words. Words in email have less impact than a handwritten letter. And a conversation over coffee has more sway than a phone call.
 
@@ -3803,7 +3803,7 @@ $("table").tablesorter();
 
     <category><![CDATA[setups]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/behind-the-scenes/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/behind-the-scenes/</guid>
     <description>
         <![CDATA[Almost daily, I get an email from someone interested in how I have this site set up. “It’s not WordPress and Disqus. What are you using?” We can talk about that, but why not take it a few steps further? Let’s go from domain registrar to the reader.
 
@@ -3883,7 +3883,7 @@ $("table").tablesorter();
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/using-gtd-as-a-woodworker/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/using-gtd-as-a-woodworker/</guid>
     <description>
         <![CDATA[Hobbies are great candidates for GTD. With all the commitments we tend to take on, free time to spend on our hobbies can be elusive. That means it’s helpful to have a system in place that keeps track of where we were and what comes next.
 
@@ -3935,7 +3935,7 @@ $("table").tablesorter();
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/using-gtd-as-a-man/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/using-gtd-as-a-man/</guid>
     <description>
         <![CDATA[To be honest, I struggled with this article. I wanted to write it but wasn’t sure how to convey what I was thinking. GTD has helped me as a man more than I realized but the impact has been implicit, not obvious.
 
@@ -3993,7 +3993,7 @@ $("table").tablesorter();
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/using-gtd-as-a-dad/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/using-gtd-as-a-dad/</guid>
     <description>
         <![CDATA[One of the greatest things a dad will ever hear is the sound of his kids squealing in joy while they play games together. It’s energizing and pure pleasure to see the delight and sparkle in their eyes as they ask to “do it again!” Those are the memories that...]]>
     </description>
@@ -4045,7 +4045,7 @@ $("table").tablesorter();
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/using-gtd-as-a-husband/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/using-gtd-as-a-husband/</guid>
     <description>
         <![CDATA[I find it easy to let my marriage slide. We love each other so it should come naturally, right? Roses every Valentine’s, daily love notes, and genuine conversations each night. If that’s second-nature to you, I envy you.
 
@@ -4119,7 +4119,7 @@ $("table").tablesorter();
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/using-gtd-as-a-writer/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/using-gtd-as-a-writer/</guid>
     <description>
         <![CDATA[It never fails. I’ll be mowing the lawn or riding my bike and that’s when it hits me. There’s nothing I can do about it. I wish it would leave me alone until I could do something about it, but there I am; trying to figure out how I’m going...]]>
     </description>
@@ -4175,7 +4175,7 @@ $("table").tablesorter();
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/using-gtd-as-a-homeowner/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/using-gtd-as-a-homeowner/</guid>
     <description>
         <![CDATA[Most of the time when I’m discussing GTD with a friend or online it’s in the context of getting more work done more efficiently. I agree that this is the easy target for the framework; our jobs and the work we do each day are the most pressing and stressing...]]>
     </description>
@@ -4231,7 +4231,7 @@ $("table").tablesorter();
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/the-value-of-tradition/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/the-value-of-tradition/</guid>
     <description>
         <![CDATA[Having young kids has made us think consciously about the traditions we want to pass down to them. What do we want them to learn? Will our traditions help them see the importance of our view of the world? Are they fun?
 
@@ -4265,7 +4265,7 @@ $("table").tablesorter();
 
     <category><![CDATA[evernote]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/an-alternative-to-evernote/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/an-alternative-to-evernote/</guid>
     <description>
         <![CDATA[I’ve been a supporter of Evernote for a long time. I’ve written a number of articles on it and convinced a number of friends and family to start using it. But I’ve run into some issues with it and it’s come time to throw in the towel. I’m leaving Evernote....]]>
     </description>
@@ -4360,7 +4360,7 @@ $("table").tablesorter();
 
     <category><![CDATA[rituals]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/how-to-create-energizing-rituals/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/how-to-create-energizing-rituals/</guid>
     <description>
         <![CDATA[I learned about creating rituals after I read The Power of Full Engagement over a year ago. Since that time I’ve been figuring a few things out about building and implementing energizing rituals.
 
@@ -4424,7 +4424,7 @@ $("table").tablesorter();
 
     <category><![CDATA[budget]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/budgeting-and-irregular-expenses/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/budgeting-and-irregular-expenses/</guid>
     <description>
         <![CDATA[You’re cruising along and your bank account is looking good. But then, surprise! You get the bill for your car insurance premium and everything is out the window.
 
@@ -4466,7 +4466,7 @@ $("table").tablesorter();
 
     <category><![CDATA[visualization]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/the-importance-of-data-visualizations/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/the-importance-of-data-visualizations/</guid>
     <description>
         <![CDATA[It’s easy to present data in a summarized table, but what about turning it into a data visualization?
 
@@ -4510,7 +4510,7 @@ $("table").tablesorter();
 
     <category><![CDATA[time]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/time-and-dollars/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/time-and-dollars/</guid>
     <description>
         <![CDATA[When I started my business, I wasn’t in a place to say no to anything. I needed to provide an income, and every little bit helped. But recently I’ve had to start deciding which activities are most worth my time and which ones need to be put aside.
 
@@ -4580,7 +4580,7 @@ $("table").tablesorter();
 
     <category><![CDATA[launch-center]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/tracking-time-with-launch-center-pro/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/tracking-time-with-launch-center-pro/</guid>
     <description>
         <![CDATA[Lately I’ve been tracking my time and starting to correlate it with dollars earned. The idea is to help me decide which types of work are the most valuable. This is a look at how I’m doing the time tracking portion using Launch Center Pro.
 
@@ -4638,7 +4638,7 @@ $("table").tablesorter();
 
     <category><![CDATA[discussions]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/a-new-discussion/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/a-new-discussion/</guid>
     <description>
         <![CDATA[It’s time. I’ve been talking about starting a new community for a couple weeks now and we are moving forward.
 
@@ -4682,7 +4682,7 @@ $("table").tablesorter();
 
     <category><![CDATA[hardware]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/just-a-laptop/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/just-a-laptop/</guid>
     <description>
         <![CDATA[When I started my business I made the shift from three 27” monitors to just a laptop screen. That shift has taught me a few things about how I work.
 
@@ -4724,7 +4724,7 @@ $("table").tablesorter();
 
     <category><![CDATA[writing]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/dictating-vs-typing/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/dictating-vs-typing/</guid>
     <description>
         <![CDATA[Dictation is becoming more and more commonplace, and as the software behind it continues to get better we’ll likely see it become a bigger part of our daily lives.
 
@@ -4762,7 +4762,7 @@ $("table").tablesorter();
 
     <category><![CDATA[mac]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/mac-navigation/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/mac-navigation/</guid>
     <description>
         <![CDATA[Nerdy Mac users are known for customizing their machines. Between keyboard shortcuts, Spaces, and third-party apps, you can effectively set up a computer that is perfect for you and unusable by someone else.
 
@@ -4802,7 +4802,7 @@ $("table").tablesorter();
 
     <category><![CDATA[hardware]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/dvorak-transition/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/dvorak-transition/</guid>
     <description>
         <![CDATA[I’ve had an interest in the Dvorak keyboard layout for a couple years now. The concept makes sense to me and I’m finally doing something about it.
 
@@ -5267,7 +5267,7 @@ $("table").tablesorter();
 
     <category><![CDATA[reviews]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/2015-by-the-numbers/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/2015-by-the-numbers/</guid>
     <description>
         <![CDATA[With 2015 completed, we’ll start seeing numbers roll in summarizing what happened throughout the year. So I thought I would pull together this site’s numbers for 2015. It’s been a ride.
 
@@ -5412,7 +5412,7 @@ $("table").tablesorter();
 
     <category><![CDATA[writing]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/writing-a-book-with-github/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/writing-a-book-with-github/</guid>
     <description>
         <![CDATA[A lot of time and effort go into writing a book. It gets even harder when you need to collaborate with your editor and make revisions.
 
@@ -5464,7 +5464,7 @@ $("table").tablesorter();
 
     <category><![CDATA[systems]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/trust-let-loose/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/trust-let-loose/</guid>
     <description>
         <![CDATA[It takes time to develop consistency in a task management system. I forget. I climb back on the horse, but fall off again. It looks easy - and it is at times - but other times it feels like one more item on my to-do list.
 
@@ -5502,7 +5502,7 @@ $("table").tablesorter();
 
     <category><![CDATA[data]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/bad-bar-charts/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/bad-bar-charts/</guid>
     <description>
         <![CDATA[In previous roles I worked on data analysis and visualization. When you boil it down, that just means I was well versed in Excel and building charts.
 
@@ -5574,7 +5574,7 @@ $("table").tablesorter();
 
     <category><![CDATA[discounts]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/christmas-2015/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/christmas-2015/</guid>
     <description>
         <![CDATA[I’m thrilled to give you a gift for Christmas this year. I’ve wanted to do something like this for a long time and the opportunity is finally here.
 
@@ -5606,7 +5606,7 @@ $("table").tablesorter();
 
     <category><![CDATA[reviews]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/monthly-planning/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/monthly-planning/</guid>
     <description>
         <![CDATA[We’re sneaking up on the annual goal setting push. It’s exciting to sit down and dream about what you want to do next year. But what if your life moves and changes too fast for annual goals?
 
@@ -5665,7 +5665,7 @@ $("table").tablesorter();
 
     <category><![CDATA[textexpander]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/textexpander-snippet-nomenclature/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/textexpander-snippet-nomenclature/</guid>
     <description>
         <![CDATA[I currently have 217 snippets in TextExpander. That’s likely not a big number for some people, but for my forgetful mind it’s a lot. To keep them straight, I use a simple nomenclature for my snippet abbreviations.
 
@@ -5835,7 +5835,7 @@ xof = OmniFocus</code></pre></figure>
 
     <category><![CDATA[ideas]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/keeping-up-with-ideas/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/keeping-up-with-ideas/</guid>
     <description>
         <![CDATA[Ideas are sometimes hard to come up with. But what happens when you have so many that you get lost? You have all these ideas begging you for attention and it becomes unclear which ones you should take on and which ones you should let go.
 
@@ -5890,7 +5890,7 @@ xof = OmniFocus</code></pre></figure>
 
     <category><![CDATA[energy]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/generating-creative-energy/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/generating-creative-energy/</guid>
     <description>
         <![CDATA[I had never thought of myself as a creative person until recently. Math and science have always been my strengths, so the arty side never took center stage.
 
@@ -5953,7 +5953,7 @@ xof = OmniFocus</code></pre></figure>
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/breaking-the-cycle/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/breaking-the-cycle/</guid>
     <description>
         <![CDATA[It’s time for a confession: I’m addicted to my phone. I want to check Twitter every five minutes and find myself refreshing Feedly every ten. And I hate it.
 
@@ -6013,7 +6013,7 @@ xof = OmniFocus</code></pre></figure>
 
     <category><![CDATA[webinar]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/reviews-and-scripting-learn-omnifocus-webinar/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/reviews-and-scripting-learn-omnifocus-webinar/</guid>
     <description>
         <![CDATA[A great asset behind OmniFocus is the community of people willing to share and ask questions; and one place to enjoy the resources this community creates is at Learn OmniFocus.
 
@@ -6051,7 +6051,7 @@ xof = OmniFocus</code></pre></figure>
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/take-a-break/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/take-a-break/</guid>
     <description>
         <![CDATA[Numerous times I’ve said that being able to put off work is an important step of being productive. And when you have a big push, it’s even more important to stop.
 
@@ -6084,7 +6084,7 @@ xof = OmniFocus</code></pre></figure>
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/working-with-omnifocus/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/working-with-omnifocus/</guid>
     <description>
         <![CDATA[In the two days before this book launched I checked off 387 tasks in OmniFocus. And there’s no other tool I’d rather do it with.
 
@@ -6124,7 +6124,7 @@ xof = OmniFocus</code></pre></figure>
 
     <category><![CDATA[workflow]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/favorite-workflows/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/favorite-workflows/</guid>
     <description>
         <![CDATA[I’ve received a number of requests for more detail around my use of Workflow (iTunes). I’ve said that it saves time, but here are some details.
 
@@ -6209,7 +6209,7 @@ xof = OmniFocus</code></pre></figure>
 
     <category><![CDATA[productivity]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/stop-being-productive/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/stop-being-productive/</guid>
     <description>
         <![CDATA[There are a lot of productivity bloggers and podcasters out there. And we’re all looking for ways to get better, faster, and create higher quality products. That’s pretty obvious when you read our articles.
 
@@ -6260,7 +6260,7 @@ xof = OmniFocus</code></pre></figure>
 
     <category><![CDATA[development]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/from-wordpress-google-to-jekyll-piwik/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/from-wordpress-google-to-jekyll-piwik/</guid>
     <description>
         <![CDATA[This website has run on WordPress and Google Analytics from day one and they’ve both treated me pretty well. But I’ve started to see a need for more flexibility in the site, so it’s time for a big change.
 
@@ -6324,7 +6324,7 @@ xof = OmniFocus</code></pre></figure>
 
     <category><![CDATA[setups]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/using-drafts/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/using-drafts/</guid>
     <description>
         <![CDATA[Drafts is one of those apps that I cannot go without. The funny thing is that my tech-resistant wife is now dependent on it as well. And you can be sure that I am pretty excited about her use of it.
 
@@ -6402,7 +6402,7 @@ xof = OmniFocus</code></pre></figure>
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/how-i-started-with-technology/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/how-i-started-with-technology/</guid>
     <description>
         <![CDATA[When I was 16 I bought my own Compaq laptop. Remember those? I had been using the family computer quite a bit, but this was my own computer. That was the beginning of my journey with technology.
 
@@ -6469,7 +6469,7 @@ xof = OmniFocus</code></pre></figure>
 
     <category><![CDATA[hardware]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/sharing-a-computer/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/sharing-a-computer/</guid>
     <description>
         <![CDATA[When I switched to the MacBook Pro, I also switched from using two computers to one. I know, I know, I was spoiled. But it made my life a lot easier and helped me accomplish a lot more.
 
@@ -6518,7 +6518,7 @@ xof = OmniFocus</code></pre></figure>
 
     <category><![CDATA[reviews]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/scheduled-reviews-in-omnifocus/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/scheduled-reviews-in-omnifocus/</guid>
     <description>
         <![CDATA[Every Friday morning I do my Weekly Review. I do my Monthly Review on the first of the month and my Annual Review on the first of the year. How do I get OmniFocus to play nicely with this?
 
@@ -6571,7 +6571,7 @@ xof = OmniFocus</code></pre></figure>
 
     <category><![CDATA[writing]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/writing-with-github/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/writing-with-github/</guid>
     <description>
         <![CDATA[I’ve written about my use of Sublime Text for writing, but I didn’t share how I manage the edits from my editor.
 
@@ -6663,7 +6663,7 @@ fi</pre></noscript>
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/omnifocus-auto-parser/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/omnifocus-auto-parser/</guid>
     <description>
         <![CDATA[I love it when my systems do things automatically. In this case, I can capture an idea for a someday/maybe list and it ends up in the right place in OmniFocus.
 
@@ -6724,7 +6724,7 @@ fi</pre></noscript>
 
     <category><![CDATA[workflow]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/workflow-to-share-articles-with-twitter-handle/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/workflow-to-share-articles-with-twitter-handle/</guid>
     <description>
         <![CDATA[I like to share articles on Twitter. And I want to make sure I give the author credit in the tweet. But it’s not always easy to find their Twitter handle.
 
@@ -6791,7 +6791,7 @@ fi</pre></noscript>
 
     <category><![CDATA[hardware]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/how-i-use-the-m-o-u-s-9/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/how-i-use-the-m-o-u-s-9/</guid>
     <description>
         <![CDATA[I pulled my computer mouse out of my bag and the first thing he said was, “What on earth is that thing?” It was yet another confirmation that I’m strange.
 
@@ -6872,7 +6872,7 @@ fi</pre></noscript>
 
     <category><![CDATA[textexpander]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/first-apps-on-a-new-mac/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/first-apps-on-a-new-mac/</guid>
     <description>
         <![CDATA[Last week, I mentioned I had purchased a new MacBook Pro. Instead of the migration process, I set it up as a new machine. That means I had to decide which apps needed to be installed first. Simple, right? Well, not so much.
 
@@ -6927,7 +6927,7 @@ fi</pre></noscript>
 
     <category><![CDATA[hardware]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/macbook-pro-vs-macbook-air/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/macbook-pro-vs-macbook-air/</guid>
     <description>
         <![CDATA[I’ve recently undergone a work transition that led me to purchasing a new MacBook Pro. My traveling work machine was a MacBook Air and I’ve found a few differences in the two that make me wish I’d done this earlier.
 
@@ -7018,7 +7018,7 @@ fi</pre></noscript>
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/why-i-use-omnifocus/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/why-i-use-omnifocus/</guid>
     <description>
         <![CDATA[Task managers. There are so many options available and it’s painful making a decision, especially when it takes real dollars to get into them.
 
@@ -7084,7 +7084,7 @@ fi</pre></noscript>
 
     <category><![CDATA[hardware]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/my-mobile-office/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/my-mobile-office/</guid>
     <description>
         <![CDATA[As a homeworker, traveling has to be simple. If I need to connect with coworkers in person, I’m either on an airplane or in a rental car. In an effort to make it easy on myself, I have a backpack that serves as a mobile office.
 
@@ -7162,7 +7162,7 @@ fi</pre></noscript>
 
     <category><![CDATA[goals]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/an-alternative-to-annual-goals/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/an-alternative-to-annual-goals/</guid>
     <description>
         <![CDATA[I’ve been struggling with goal-setting lately, enough that I abandoned my annual goals altogether. But I’ve found that I want something to help guide the systems that I’m putting in place.
 
@@ -7231,7 +7231,7 @@ fi</pre></noscript>
 
     <category><![CDATA[routines]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/routine-vs-ritual/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/routine-vs-ritual/</guid>
     <description>
         <![CDATA[A while back I read The Power of Full Engagement. The premise of the book is energy management and what you do each day to gain or use energy.
 
@@ -7290,7 +7290,7 @@ fi</pre></noscript>
 
     <category><![CDATA[thebrain]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/using-thebrain/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/using-thebrain/</guid>
     <description>
         <![CDATA[Memory is a limited resource. And we usually ask it to do too much - from what task to work on to our kid’s birth date to a new business strategy.
 
@@ -7379,7 +7379,7 @@ fi</pre></noscript>
 
     <category><![CDATA[evernote]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/different-uses-for-evernote/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/different-uses-for-evernote/</guid>
     <description>
         <![CDATA[At 13,000 notes, I like to think I’m a big user of Evernote. From meeting notes and travel receipts to manuals and quotes, I keep a lot in Evernote.
 
@@ -7444,7 +7444,7 @@ fi</pre></noscript>
 
     <category><![CDATA[writing]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/my-writing-setup/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/my-writing-setup/</guid>
     <description>
         <![CDATA[It’s been a little over a year since I started blogging and I’ve had a number of folks ask me what tools I use to write my articles. This is an outline of my process from idea to publish.
 
@@ -7507,7 +7507,7 @@ fi</pre></noscript>
 
     <category><![CDATA[goals]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/from-goals-to-guides/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/from-goals-to-guides/</guid>
     <description>
         <![CDATA[Remember the goal setting push at the beginning of the year? I’ve done it professionally and personally every year for four years and it can be motivating.
 
@@ -7609,7 +7609,7 @@ fi</pre></noscript>
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/my-omnifocus-home-screen/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/my-omnifocus-home-screen/</guid>
     <description>
         <![CDATA[With one of the recent releases of OmniFocus for iOS, we were given the ability to rearrange perspectives on the OmniFocus home screen. Of course, I geeked out on this and created a custom view. Here’s what it looks like.
 
@@ -7678,7 +7678,7 @@ fi</pre></noscript>
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/a-chaotic-week-with-gtd/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/a-chaotic-week-with-gtd/</guid>
     <description>
         <![CDATA[When I was getting started with GTD (Getting Things Done), I wondered what a week looked like for someone who used it. I never found anything along those lines and I recently had a week where I flexed it pretty hard. So I decided to give you a snapshot into...]]>
     </description>
@@ -7828,7 +7828,7 @@ fi</pre></noscript>
 
     <category><![CDATA[time]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/lost-in-transition/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/lost-in-transition/</guid>
     <description>
         <![CDATA[I read a lot of articles about time management and how to “reclaim an hour a day!” Most of those seem unrealistic. But in an attempt to find more time I discovered a single area that needed a lot of improvement.
 
@@ -7899,7 +7899,7 @@ fi</pre></noscript>
 
     <category><![CDATA[focus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/working-the-focus-muscle/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/working-the-focus-muscle/</guid>
     <description>
         <![CDATA[When I started writing for this blog, it was easy. It was new and shiny and I wanted to sit down in the mornings and write for it. Eleven months into it, it’s harder.
 
@@ -7982,7 +7982,7 @@ fi</pre></noscript>
 
     <category><![CDATA[newsletter]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/why-i-changed-my-newsletter-sign-up-process/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/why-i-changed-my-newsletter-sign-up-process/</guid>
     <description>
         <![CDATA[If you’ve been to this site in the past, you probably saw the email sign-up form slide up in the bottom right-hand corner. If you’ve been here on a mobile device, you saw the sign-up bar across the bottom. They’re both gone.
 
@@ -8041,7 +8041,7 @@ fi</pre></noscript>
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/using-omnifocus-for-somedaymaybe-lists/</guid>
     <description>
         <![CDATA[For a long time, I kept my active Next Actions in Omnifocus and my potential (someday/maybe) actions in Evernote. It worked, but it felt a bit cluttered so I moved it all into Omnifocus.
 
@@ -8197,7 +8197,7 @@ end idle</pre></noscript>
 
     <category><![CDATA[routines]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/my-evening-routine/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/my-evening-routine/</guid>
     <description>
         <![CDATA[Much like a morning routine, we all have an evening routine. Oftentimes, this means setting out clothes for tomorrow or getting the kids to bed. I do those as well, but I’ve also found satisfaction in reflecting on the day to put it into perspective.
 
@@ -8280,7 +8280,7 @@ end idle</pre></noscript>
 
     <category><![CDATA[routines]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/my-morning-routine/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/my-morning-routine/</guid>
     <description>
         <![CDATA[Everyone has a morning routine of some kind - even if it’s just “get up before the kids.” But I think it should be intentional and you can find yours by experimenting and learning what others do.
 
@@ -8360,7 +8360,7 @@ end idle</pre></noscript>
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/gtd-contexts-proactive-vs-reactive/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/gtd-contexts-proactive-vs-reactive/</guid>
     <description>
         <![CDATA[I’ve always struggled with the contexts portion of GTD. I’ve tried tools, locations, energy levels, times of the day, mindsets, and on and on.
 
@@ -8431,7 +8431,7 @@ end idle</pre></noscript>
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/omnifocus-hotspot/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/omnifocus-hotspot/</guid>
     <description>
         <![CDATA[In our digital age, we tend to receive a large number of files via email. And we need to review these files or make changes to them. As an Omnifocus user, that means I need to create tasks out of these files.
 
@@ -8516,7 +8516,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[notifications]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/dont-ignore-push-notifications/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/dont-ignore-push-notifications/</guid>
     <description>
         <![CDATA[I was enjoying one of our first daddy-daughter dates. Of course, it was at a coffee shop. It was great! I drank my coffee and Cutie watched the constant movement of people between bites of her cookie.
 
@@ -8572,7 +8572,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[siri]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/siri-to-omnifocus/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/siri-to-omnifocus/</guid>
     <description>
         <![CDATA[I don’t have a daily commute but I still find myself in the car having ideas from time to time. I don’t want to lose those ideas, but I shouldn’t be typing into my phone or writing things while I’m driving.
 
@@ -8656,7 +8656,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/the-internet-separation-layer/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/the-internet-separation-layer/</guid>
     <description>
         <![CDATA[We do it almost every day. We communicate with another person using a screen of some kind - social media, texts, emails, instant messages.
 
@@ -8740,7 +8740,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[rss]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/saving-full-articles-in-evernote-from-rss/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/saving-full-articles-in-evernote-from-rss/</guid>
     <description>
         <![CDATA[There is no shortage of articles on the web. Reading (or at least skimming) hundreds of articles can be done easily in less than an hour. But have you ever tried keeping a record of all those articles?
 
@@ -8815,7 +8815,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[productivity]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/sloppy-productivity/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/sloppy-productivity/</guid>
     <description>
         <![CDATA[If you’ve read one article on this blog, you’ll know that I’m a productivity nut. But there’s a side to productivity that I haven’t seen mentioned very often - life.
 
@@ -8860,7 +8860,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[evernote]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/recurring-checklists-in-evernote/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/recurring-checklists-in-evernote/</guid>
     <description>
         <![CDATA[One of the first notes many Evernote users create is a checklist of some kind. It could be a grocery list, a to-do list for the day, or a morning routine.
 
@@ -8926,7 +8926,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[perspective]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/instant-gratification-vs-instant-perspective/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/instant-gratification-vs-instant-perspective/</guid>
     <description>
         <![CDATA[I finished (second) breakfast and sat down at my computer to pull together analytics on one of my company’s websites. At that moment, a coworker texted me a question. I don’t remember what the question was about, but I do remember that it was almost an hour before I managed...]]>
     </description>
@@ -8971,7 +8971,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[books]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/every-body-saying-book-review/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/every-body-saying-book-review/</guid>
     <description>
         <![CDATA[Have you ever had a feeling that someone is uncomfortable in a conversation? Were you able to point out the nonverbal cues that gave you that feeling?
 
@@ -9030,7 +9030,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[setups]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/evernote-setup-workflow/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/evernote-setup-workflow/</guid>
     <description>
         <![CDATA[Evernote is a handy tool with a lot of ways to use it – so many that it gets really hard to figure out how to set it up.
 
@@ -9197,7 +9197,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/danger-infinity-apps/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/danger-infinity-apps/</guid>
     <description>
         <![CDATA[An infinity app is one with a never-ending stream of some kind. It’s an app that always has new updates for you to consume.
 
@@ -9240,7 +9240,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[goals]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/keeping-goals/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/keeping-goals/</guid>
     <description>
         <![CDATA[It’s resolution time! Or not. There are a plethora of articles telling you to set goals as opposed to resolutions. The term doesn’t really matter. They’ll fail without a plan behind them.
 
@@ -9303,7 +9303,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[inbox]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/inbox/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/inbox/</guid>
     <description>
         <![CDATA[An inbox can be your mailbox, your email inbox, and even a physical tray. But those aren’t the only places that stuff lands.
 
@@ -9384,7 +9384,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/making-time-contexts/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/making-time-contexts/</guid>
     <description>
         <![CDATA[The difficult part of Getting Things Done (GTD) for me is contexts. What lists should I be using when I’m completing tasks?
 
@@ -9496,7 +9496,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[productivity]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/productivity-vs-presence/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/productivity-vs-presence/</guid>
     <description>
         <![CDATA[We are taught to accomplish tasks. In school and work, grades and reviews measure our ability to accurately complete an assignment.
 
@@ -9545,7 +9545,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/getting-things-done-day-life/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/getting-things-done-day-life/</guid>
     <description>
         <![CDATA[There are a lot of articles about setting up GTD. But I don’t see many that show what a typical day looks like when you adopt the framework.
 
@@ -9637,7 +9637,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/getting-things-done-engage/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/getting-things-done-engage/</guid>
     <description>
         <![CDATA[Deciding what to work on can be simple – it doesn’t have to be stressful. GTD can help you make the decision quickly and easily.
 
@@ -9703,7 +9703,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[reviews]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/getting-things-done-reflect/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/getting-things-done-reflect/</guid>
     <description>
         <![CDATA[The Weekly Review is the most important part of the GTD process. Without it, you’ll have loose ends and you’ll no longer trust your system.
 
@@ -9779,7 +9779,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[organize]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/getting-things-done-organize/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/getting-things-done-organize/</guid>
     <description>
         <![CDATA[Organize. The favorite step of most GTDers. This is where you set up tools for tracking each bucket from the Clarify step.
 
@@ -9867,7 +9867,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/getting-things-done-clarify/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/getting-things-done-clarify/</guid>
     <description>
         <![CDATA[A lot of people write things down but fail to do anything with it afterwards. It just dies on the paper. Why write it down if you’ll never look at it again?
 
@@ -10002,7 +10002,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[inbox]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/getting-things-done-capture/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/getting-things-done-capture/</guid>
     <description>
         <![CDATA[Capture is the process of collecting ideas and actions. You’re accumulating task items, reference material, or even trash and putting them in an inbox of some kind.
 
@@ -10084,7 +10084,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/getting-things-done-introduction/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/getting-things-done-introduction/</guid>
     <description>
         <![CDATA[Why do we think we can manage our lives with only our memory? It’s certainly flawed. It doesn’t even remind us of what we need when we need it. It waits until we’re in bed and can’t do anything about it.
 
@@ -10146,7 +10146,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/why-getting-up-early/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/why-getting-up-early/</guid>
     <description>
         <![CDATA[It’s 4:55 am. I roll over to check the clock and realize I’m awake before my alarm goes off. That’s always a good feeling. But why am I awake at this time of day?
 
@@ -10212,7 +10212,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[seasons]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/seasons-tasks/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/seasons-tasks/</guid>
     <description>
         <![CDATA[The mornings are getting colder and the animals are preparing for winter. Another weather change is coming. And it’s a great reminder that we, too, should be preparing for the next season.
 
@@ -10263,7 +10263,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[energy]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/power-full-engagement-book-review/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/power-full-engagement-book-review/</guid>
     <description>
         <![CDATA[There’s a lot of advice on the web about managing your time. Everyone seems to have the golden ticket that will pull time out of thin air. But what if time isn’t the key to being fully engaged?
 
@@ -10386,7 +10386,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[projects]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/creating-personal-project-codes/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/creating-personal-project-codes/</guid>
     <description>
         <![CDATA[Last week I wrote about managing information for projects. In that post I revealed the project codes I use, and now we’re going to talk about how to create them.
 
@@ -10536,7 +10536,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[projects]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/managing-project-information/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/managing-project-information/</guid>
     <description>
         <![CDATA[Using David Allen’s definition, a project is anything that requires more than one action to complete. This can range from building a new web application to replacing the refrigerator filter.
 
@@ -10597,7 +10597,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[watch]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/pros-cons-apple-watch/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/pros-cons-apple-watch/</guid>
     <description>
         <![CDATA[Last Tuesday, Apple unveiled their new Smart Watch— the Apple Watch. It came with a lot of fanfare and definitely looks compelling. But is it really going to be worth it?
 
@@ -10672,7 +10672,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[files]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/file-naming-disorganization/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/file-naming-disorganization/</guid>
     <description>
         <![CDATA[Naming and organizing files is extremely important. In today’s world, we can keep track of thousands of files. And with versioning getting to be a big deal, we have to have a way to keep track of it all.
 
@@ -10767,7 +10767,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[tags]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/simple-trick-naming-tags/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/simple-trick-naming-tags/</guid>
     <description>
         <![CDATA[The search capabilities of many tools today is impressive. We can search titles, notes, filenames, and even the contents of a file. But if you’re searching for a tag, it can give you a lot more than you expected.
 
@@ -10816,7 +10816,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[communication]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/developing-personal-communication-cycle/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/developing-personal-communication-cycle/</guid>
     <description>
         <![CDATA[Recently a coworker confronted me on something I struggle with. Communicating. I’m introverted and love to come up with ideas, but I’m terrible at deciding when to share those ideas.
 
@@ -10871,7 +10871,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[change]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/aint-broke-dont-fix/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/aint-broke-dont-fix/</guid>
     <description>
         <![CDATA[We’ve always done it that way. But it works. Why change it? If it ain’t broke, don’t fix it. When I hear these phrases I cringe. Yes, it works. Yes, it’s a smooth system. Yes, we’re familiar with it. But that doesn’t mean it shouldn’t change.
 
@@ -10920,7 +10920,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[time]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/choosing-3-important-tasks-day/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/choosing-3-important-tasks-day/</guid>
     <description>
         <![CDATA[I’m terrible at estimating time. I always think that I can complete more than I truly can. I throw 8 things on a list for the day and go. I can complete them all… or not. If I’m honest with myself, I know that I can’t do it all.
 
@@ -10971,7 +10971,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[task management]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/getting-started-task-management/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/getting-started-task-management/</guid>
     <description>
         <![CDATA[I started keeping lists a few years ago. I had a lot going on and forgetting things was becoming normal. I needed a way to manage tasks since my brain was terrible at it.
 
@@ -11048,7 +11048,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[reviews]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/gaining-perspective-daily-review/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/gaining-perspective-daily-review/</guid>
     <description>
         <![CDATA[How many times have you closed up shop for the day and wondered what happened? Ever get up in the morning and ask yourself what you should do today?
 
@@ -11115,7 +11115,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[apps]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/adding-contacts-business-cards-evernote/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/adding-contacts-business-cards-evernote/</guid>
     <description>
         <![CDATA[I had just introduced myself to the executive leading the meeting. He handed me his business card and I quickly snapped a picture of it with my phone. A few seconds later his phone dinged. He glanced at his phone, then looked at me in shock.
 
@@ -11173,7 +11173,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[apps]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/using-text-expander/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/using-text-expander/</guid>
     <description>
         <![CDATA[Do you ever find yourself typing the same thing over and over again? Stuff like an email address, the date, a URL, or even a template of some kind? If so, a text expansion app might be just what you need.
 
@@ -11256,7 +11256,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[setups]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/omnifocus-setup-workflow/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/omnifocus-setup-workflow/</guid>
     <description>
         <![CDATA[OmniFocus is a powerful tool designed to follow David Allen’s Getting Things Done. I go into the details of GTD here but the simple version is that it’s a method of getting things out of your mind and into a trusted organizational system. The main purpose is to free up...]]>
     </description>
@@ -11416,7 +11416,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[capture]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/what-is-an-hpda-and-how-do-i-use-it/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/what-is-an-hpda-and-how-do-i-use-it/</guid>
     <description>
         <![CDATA[Ideas and reminders come to us when we’re not ready for them or when we can’t do anything about them. We remember to clean out the gutters when it’s raining. An idea for a new website comes to us when we’re eating dinner. What do you do with those?
 
@@ -11484,7 +11484,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/leaving-phone/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/leaving-phone/</guid>
     <description>
         <![CDATA[Have you ever intentionally left your phone in the car while on a date? Was it freeing or did it feel like prison? Have you ever, like me, found yourself on Twitter while at the dinner table? Was that any different?
 
@@ -11549,7 +11549,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[communication]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/escaping-corporate-email-habit/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/escaping-corporate-email-habit/</guid>
     <description>
         <![CDATA[I used to pride myself in having one of the fastest email replies in the office. If you sent me an email, I was back to you in less than 10 minutes. Sometimes 5.
 
@@ -11604,7 +11604,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[hardware]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/desktop-tower-move/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/desktop-tower-move/</guid>
     <description>
         <![CDATA[I didn’t want to write this post. I don’t want you to read it. My wife wanted me to write it. I hesitated. Writing it forces me to admit that I’m picky and maybe neurotic. So it’s probably a good thing that I did write it.
 
@@ -11653,7 +11653,7 @@ end tell</pre></noscript>
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/put-distractions-place/</guid>
+    <guid isPermaLink="true">http://joebuhlig.com/put-distractions-place/</guid>
     <description>
         <![CDATA[We have everything at our fingertips. We can look something up instantly and connect with almost anyone at any time.
 

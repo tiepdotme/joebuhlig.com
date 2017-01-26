@@ -6,6 +6,7 @@ tags:
 - books
 permalink: /reading-books-on-a-schedule/
 image: /assets/posts/reading-books-on-a-schedule.jpeg
+pre_https: true
 ---
 For years I have wanted to read more books. Prolific readers rave about the benefits and world-renowned leaders often attribute their ideas and successes to their habit of reading, but to me the benefits of having read a lot of books  was secondary to the innate sense that a realm of knowledge and experience was available to me, but I was missing it.
 <!--more-->

@@ -6,6 +6,7 @@ tags:
 - apps
 permalink: /editorial-as-a-database-viewer/
 image: /assets/posts/editorial-as-a-database-viewer.jpeg
+pre_https: true
 ---
 One habit that Evernote taught me was that of creating databases, collections of text and pictures that revolve around a specific topic or item. I'm yet to export my Evernote data into my [alternative storage system](http://joebuhlig.com/an-alternative-to-evernote/) but I have solved my most glaring issue: searching and viewing these databases on iOS.
 <!--more-->

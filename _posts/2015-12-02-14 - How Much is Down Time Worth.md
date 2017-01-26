@@ -11,6 +11,7 @@ podcast_link: http://traffic.libsyn.com/whaddyaknowjoe/WKJ014.mp3
 podcast_file_size: 12.6 MB
 podcast_duration: "12:54"
 podcast_length: 12578515
+pre_https: true
 ---
 
 I'm starting to track my time. I've struggled with this in the past, but now I want to tie it to dollars. I want to know where my time is best spent.

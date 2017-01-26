@@ -7,6 +7,7 @@ tags:
 - newsletter
 permalink: /why-i-changed-my-newsletter-sign-up-process/
 image: /assets/posts/Why-I-changed-my-newsletter-sign-up-process.jpg
+pre_https: true
 ---
 
 If you’ve been to this site in the past, you probably saw the email sign-up form slide up in the bottom right-hand corner. If you’ve been here on a mobile device, you saw the sign-up bar across the bottom. They’re both gone.

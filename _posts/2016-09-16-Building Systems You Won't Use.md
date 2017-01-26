@@ -6,6 +6,7 @@ tags:
 - systems
 permalink: /building-systems-you-wont-use/
 image: /assets/posts/building-systems-you-wont-use.jpeg
+pre_https: true
 ---
 I'm always looking for a way to automate a process or develop a structure that removes steps from a frequently repeated task. That's to be expected since I enjoy the world of productivity and do a fair amount of development.
 <!--more-->

@@ -7,6 +7,7 @@ tags:
 - omnifocus
 permalink: /hazel-keeping-omnifocus-updated/
 image: /assets/posts/hazel-keeping-omnifocus-updated.jpg
+pre_https: true
 ---
 There are times when you need a feature in software that doesn't currently exist. Sometimes that leads to exploring alternatives or even creating your own, which is how inventors and entrepreneurs get a lot of their ideas.
 <!--more-->

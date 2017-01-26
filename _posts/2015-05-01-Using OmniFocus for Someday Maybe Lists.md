@@ -7,6 +7,7 @@ tags:
 - omnifocus
 permalink: /using-omnifocus-for-somedaymaybe-lists/
 image: /assets/posts/Using-Omnifocus-for-Someday-Maybe-Lists.jpg
+pre_https: true
 ---
 
 For a long time, I kept my active Next Actions in Omnifocus and my potential (someday/maybe) actions in Evernote. It worked, but it felt a bit cluttered so I moved it all into Omnifocus.

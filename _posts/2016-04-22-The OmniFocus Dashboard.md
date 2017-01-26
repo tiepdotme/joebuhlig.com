@@ -7,6 +7,7 @@ tags:
 permalink: /the-omnifocus-dashboard/
 image: /assets/posts/The-OmniFocus-Dashboard.png
 style: dark
+pre_https: true
 ---
 I write and talk about my OmniFocus Dashboard a lot. And that's for good reason: it's the central hub of my day-to-day work and the place where my decisions about the day surface.
 <!--more-->

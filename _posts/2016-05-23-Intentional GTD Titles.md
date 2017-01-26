@@ -6,6 +6,7 @@ tags:
 - gtd
 permalink: /intentional-gtd-titles/
 image: /assets/posts/intentional-gtd-titles.jpeg
+pre_https: true
 ---
 When I started with GTD five years ago, I was certain it was the missing piece to my mental overwhelm puzzle. It was the five-step framework that would keep me from procrastinating and give me the motivation to accomplish everything to which I kept saying yes.
 <!--more-->

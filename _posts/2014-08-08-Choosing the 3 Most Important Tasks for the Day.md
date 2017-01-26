@@ -6,6 +6,7 @@ tags:
 - time
 permalink: /choosing-3-important-tasks-day/
 image: /assets/posts/Choosing-the-3-MIT-for-the-Day.jpg
+pre_https: true
 ---
 
 I’m terrible at estimating time. I always think that I can complete more than I truly can. I throw 8 things on a list for the day and go. I can complete them all… or not. If I’m honest with myself, I know that I can’t do it all.

@@ -6,6 +6,7 @@ tags:
 - omnifocus
 permalink: /behind-the-scenes-of-working-with-omnifocus/
 image: /assets/posts/behind-the-scenes-of-working-with-omnifocus.jpg
+pre_https: true
 ---
 More often than not, I find myself surprised by the questions I get after releasing a new script or product. After releasing [Working With OmniFocus](https://workingwithomnifocus.com) I received more emails about how the site is set up then I did about the course itself. It's apparent to me that this is something different that others are interested in. So here's how I did it.
 <!--more-->

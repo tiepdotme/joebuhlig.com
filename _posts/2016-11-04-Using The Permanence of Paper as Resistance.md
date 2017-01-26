@@ -6,6 +6,7 @@ tags:
 - analog
 permalink: /using-the-permanence-of-paper-as-resistance/
 image: /assets/posts/using-the-permanence-of-paper-as-resistance.jpeg
+pre_https: true
 ---
 The concept of resistance is getting to be common knowledge. In its original context as posed by [Steven Pressfield](https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/ref=sr_1_1?tag=joebuhlig-20), resistance is entirely negative. It is the internal and sometimes external force keeping us from doing our best work. As good brainworkers we consistently look for tactics, methodologies, and habits to remove and eliminate resistance.
 <!--more-->
