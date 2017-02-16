@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 26 Jan 2017 13:17:25 -0600</lastBuildDate>
+<lastBuildDate>Thu, 16 Feb 2017 10:59:31 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[19: The Shallows by Nicholas Carr [Bookworm]]]></title>
+    <link>https://joebuhlig.com/19-the-shallows-by-nicholas-carr/</link>
+    <pubDate>Thu, 16 Feb 2017 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/19-the-shallows-by-nicholas-carr/</guid>
+    <description>
+        <![CDATA[Does the use of internet devices change our brains? And if so, is it worth doing anything about? It’s a tough topic but Mike and Joe work their way through it.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Does the use of internet devices change our brains? And if so, is it worth doing anything about? It’s a tough topic but Mike and Joe work their way through it.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[18: Decisive by Chip Heath, Dan Heath [Bookworm]]]></title>
@@ -565,38 +588,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>Just to be clear, <em>I’m not saying you should completely avoid and vilify GM foods.</em> They do have a place and save lives daily. But if given a choice and available resources, I err on the side of caution.</p>
 
 <p>Given my experiences, I have learned that eating healthfully has a major impact on my ability to think clearly and creatively. And the better I feel, the better equipped I am to be productive. So to be wise with my time and energy, I need to eat well. For me, that means the consumption of simple, natural foods.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Stop The Should]]></title>
-    <link>https://joebuhlig.com/stop-the-should/</link>
-    <pubDate>Fri, 11 Nov 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[expectations]]></category>
-
-    <category><![CDATA[fear]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/stop-the-should/</guid>
-    <description>
-        <![CDATA[One of the strongest fears I grapple with is that of rejection. Like most, I want people to appreciate the work I do and me as a person. My struggle develops when I sense a dislike or underappreciation directed towards me in some way. Red flags start flying and I...]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/stop-the-should.jpeg" /><p>One of the strongest fears I grapple with is that of rejection. Like most, I want people to appreciate the work I do and me as a person. My struggle develops when I sense a dislike or underappreciation directed towards me in some way. Red flags start flying and I find myself searching for ways to get out of the scenario.
-<!--more--></p>
-
-<p>Over time, I’ve learned who to trust and when. And although I rarely follow through on my thoughts about running away, I still have this nagging sense about what is expected of me. Instead of acting on my fear, I try to weigh it and pay attention to what the other person expects me to do.</p>
-
-<p>However, this presupposition of actions can also rear its head in situations involving only myself. There are times when I feel the need to incorporate something new into my daily schedule. The latest case here is my need for more sleep. Rather than sleep longer at night, I’ve felt that an afternoon nap would better suit me. The fear and “should” that creeps in is telling me that I don’t have time for a nap everyday. I have enough to do. I can’t pull more time away for “leisure.”</p>
-
-<p>Here’s the problem with these scenarios: they leave me feeling like I should say or do something because unspoken expectations have been placed on me. I’m expected to go along with a conversation I don’t agree with. I’m expected to maximize my time perfectly every day. I’m expected to utilize every app or tool to its fullest potential.</p>
-
-<p>These are all things I <em>should</em> do. And when I stop long enough to notice when a “should” has been placed on me, I often find myself asking why. Why should I do this thing? “Because Joe expects it” or “because I paid decent money for this app” aren’t always the best answers. It’s taken time (and I’m still learning) to put a stop to the “should” that is placed on me and gain the confidence to think for myself.</p>
 ]]>
     </content:encoded>
 </item>
