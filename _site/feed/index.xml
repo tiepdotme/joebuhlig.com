@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Sat, 25 Mar 2017 20:14:41 -0500</lastBuildDate>
+<lastBuildDate>Wed, 05 Apr 2017 10:35:45 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[23: Rhinoceros Success by Scott Alexander [Bookworm]]]></title>
+    <link>https://joebuhlig.com/23-rhinoceros-success-by-scott-alexander/</link>
+    <pubDate>Wed, 05 Apr 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/23-rhinoceros-success-by-scott-alexander/</guid>
+    <description>
+        <![CDATA[Let’s be rhinos! It’s an interesting concept and this round Mike and Joe discuss the implications of becoming a 6,000 lb rhinoceros.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Let’s be rhinos! It’s an interesting concept and this round Mike and Joe discuss the implications of becoming a 6,000 lb rhinoceros.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[22: The 10X Rule by Grant Cardone (with Shawn Blanc) [Bookworm]]]></title>
@@ -505,29 +528,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>I’m aware that there are a lot of software options available that are specifically designed for these purposes. And the number of communication methods is endless. But after having worked with and for multiple companies, I’ve seen the pros and cons of using many of them. In most cases the IT team ends up hacking them together to do what they want. Or worse, they lose track of a request in the stream of posts.</p>
 
 <p>What I love about Discourse is its flexibility and configurability. I can dial up or down individual pieces and even allow end-users to avoid it entirely. Telling my staff members that they simply need to send email is tremendously more effective than training how to navigate a new piece of software.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[14: The 12 Week Year by Brian Moran, Michael Lennington [Bookworm]]]></title>
-    <link>https://joebuhlig.com/14-the-12-week-year-by-brian-moran-michael-lennington/</link>
-    <pubDate>Wed, 23 Nov 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/14-the-12-week-year-by-brian-moran-michael-lennington/</guid>
-    <description>
-        <![CDATA[If you’re looking for a way to set goals and achieve a year’s worth of work in 12 weeks, then The 12 Week Year is an excellent choice and structure to try.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>If you’re looking for a way to set goals and achieve a year’s worth of work in 12 weeks, then The 12 Week Year is an excellent choice and structure to try.
-<!--more--></p>
 ]]>
     </content:encoded>
 </item>
