@@ -570,6 +570,8 @@ table {
   display: inline-block;
   vertical-align: top;
   float: left; }
+  .feed-icon .theoretical path {
+    fill: #FAAC1B; }
 
 .feed-content {
   margin: 0px 0px 0px 25px; }
@@ -716,6 +718,8 @@ table {
   margin-right: 10px; }
   .post-icon .bookworm path {
     fill: #232b36; }
+  .post-icon .theoretical path {
+    fill: #FAAC1B; }
 
 .post-title {
   margin-top: 30px;
@@ -929,6 +933,8 @@ html.dark #carbonads .carbon-text, html.dark .ad-text a {
   color: #eeeeee; }
 html.dark .bookworm path {
   fill: #97B9CC; }
+html.dark .theoretical path {
+  fill: #FAAC1B; }
 html.dark .meta-tag, html.dark a.meta-tag:visited, html.dark a.meta-tag:hover {
   color: #333333; }
 

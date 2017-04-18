@@ -34,6 +34,7 @@ layout: default
 	<div class="clear"></div>
 
 	{% if jekyll.environment == "production" %}
+	{% unless page.categories contains 'theoretical' %}
 	<div id='discourse-comments'></div>
 	<script type="text/javascript">
 	  DiscourseEmbed = { discourseUrl: 'https://productivityguild.com/',
@@ -45,6 +46,7 @@ layout: default
 	    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
 	  })();
 	</script>
+	{% endunless %}
 	{% endif %}
 	
 </div>

@@ -484,6 +484,10 @@
     display: inline-block;
     vertical-align: top;
     float: left;
+
+    .theoretical path{
+        fill: #FAAC1B;
+    }
 }
 .feed-content {
     margin: 0px 0px 0px 25px;
@@ -664,6 +668,10 @@
 
     .bookworm path{
         fill: #232b36;
+    }
+
+    .theoretical path{
+        fill: #FAAC1B;
     }
 }
 .post-title {
@@ -925,6 +933,10 @@ html.dark{
 
     .bookworm path{
         fill: #97B9CC;
+    }
+
+    .theoretical path{
+        fill: #FAAC1B;
     }
 
     .meta-tag, a.meta-tag:visited, a.meta-tag:hover {
