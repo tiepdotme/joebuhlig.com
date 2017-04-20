@@ -1,5 +1,5 @@
 ---
-title:  "9: Daring Greatly by Brené Brown [Bookworm]"
+title:  "9: Daring Greatly by Brené Brown"
 date:   2016-09-14
 categories: bookworm
 tags:

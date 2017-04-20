@@ -1,5 +1,5 @@
 ---
-title:  "22: The 10X Rule by Grant Cardone (with Shawn Blanc) [Bookworm]"
+title:  "22: The 10X Rule by Grant Cardone (with Shawn Blanc)"
 date:   2017-03-22
 categories: bookworm
 tags:

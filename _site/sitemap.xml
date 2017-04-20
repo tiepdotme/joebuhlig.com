@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://joebuhlig.com/2-the-math-show/</loc>
+<lastmod>2017-04-20T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://joebuhlig.com/1-a-good-goat-trail/</loc>
+<lastmod>2017-04-18T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>https://joebuhlig.com/24-step-by-chris-capehart-with-chris-capehart/</loc>
 <lastmod>2017-04-12T00:00:00-05:00</lastmod>
 </url>
@@ -1388,5 +1396,8 @@
 </url>
 <url>
 <loc>https://joebuhlig.com/tag/fear/</loc>
+</url>
+<url>
+<loc>https://joebuhlig.com/tag/theoretical/</loc>
 </url>
 </urlset>

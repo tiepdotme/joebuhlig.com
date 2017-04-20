@@ -1,5 +1,5 @@
 ---
-title:  "7: Deep Work by Cal Newport [Bookworm]"
+title:  "7: Deep Work by Cal Newport"
 date:   2016-08-17
 categories: bookworm
 tags:

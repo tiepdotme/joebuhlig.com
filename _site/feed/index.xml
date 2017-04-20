@@ -14,14 +14,60 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 17 Apr 2017 20:27:36 -0500</lastBuildDate>
+<lastBuildDate>Thu, 20 Apr 2017 08:02:42 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
 
 <item>
-    <title><![CDATA[24: Step by Chris Capehart (with Chris Capehart) [Bookworm]]]></title>
+    <title><![CDATA[2: The Math Show]]></title>
+    <link>https://joebuhlig.com/2-the-math-show/</link>
+    <pubDate>Thu, 20 Apr 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/2-the-math-show/</guid>
+    <description>
+        <![CDATA[Joe had to (almost) double his development rates. Josh keeps trying to do math. It doesn’t go as well as expected.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe had to (almost) double his development rates. Josh keeps trying to do math. It doesn’t go as well as expected.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[1: A Good Goat Trail]]></title>
+    <link>https://joebuhlig.com/1-a-good-goat-trail/</link>
+    <pubDate>Tue, 18 Apr 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/1-a-good-goat-trail/</guid>
+    <description>
+        <![CDATA[Joe has not seen Star Wars. Josh likes to make bacon. And somehow in the midst of diversions, they manage to discuss their goals for the next 12 weeks.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe has not seen Star Wars. Josh likes to make bacon. And somehow in the midst of diversions, they manage to discuss their goals for the next 12 weeks.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[24: Step by Chris Capehart (with Chris Capehart)]]></title>
     <link>https://joebuhlig.com/24-step-by-chris-capehart-with-chris-capehart/</link>
     <pubDate>Wed, 12 Apr 2017 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
@@ -44,7 +90,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 
 <item>
-    <title><![CDATA[23: Rhinoceros Success by Scott Alexander [Bookworm]]]></title>
+    <title><![CDATA[23: Rhinoceros Success by Scott Alexander]]></title>
     <link>https://joebuhlig.com/23-rhinoceros-success-by-scott-alexander/</link>
     <pubDate>Wed, 05 Apr 2017 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
@@ -67,7 +113,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 
 <item>
-    <title><![CDATA[22: The 10X Rule by Grant Cardone (with Shawn Blanc) [Bookworm]]]></title>
+    <title><![CDATA[22: The 10X Rule by Grant Cardone (with Shawn Blanc)]]></title>
     <link>https://joebuhlig.com/22-the-10x-rule-by-grant-cardone-with-shawn-blanc/</link>
     <pubDate>Wed, 22 Mar 2017 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
@@ -90,7 +136,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 
 <item>
-    <title><![CDATA[21: The Personal MBA by Josh Kaufman [Bookworm]]]></title>
+    <title><![CDATA[21: The Personal MBA by Josh Kaufman]]></title>
     <link>https://joebuhlig.com/21-the-personal-mba-by-josh-kaufman/</link>
     <pubDate>Wed, 08 Mar 2017 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
@@ -113,7 +159,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 
 <item>
-    <title><![CDATA[20: Who Moved My Cheese? by Spencer Johnson [Bookworm]]]></title>
+    <title><![CDATA[20: Who Moved My Cheese? by Spencer Johnson]]></title>
     <link>https://joebuhlig.com/20-who-moved-my-cheese-by-spencer-johnson/</link>
     <pubDate>Fri, 24 Feb 2017 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
@@ -136,7 +182,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 
 <item>
-    <title><![CDATA[19: The Shallows by Nicholas Carr [Bookworm]]]></title>
+    <title><![CDATA[19: The Shallows by Nicholas Carr]]></title>
     <link>https://joebuhlig.com/19-the-shallows-by-nicholas-carr/</link>
     <pubDate>Thu, 16 Feb 2017 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
@@ -159,7 +205,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 
 <item>
-    <title><![CDATA[18: Decisive by Chip Heath, Dan Heath [Bookworm]]]></title>
+    <title><![CDATA[18: Decisive by Chip Heath, Dan Heath]]></title>
     <link>https://joebuhlig.com/18-decisive-by-chip-heath-dan-heath/</link>
     <pubDate>Wed, 25 Jan 2017 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
@@ -182,7 +228,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 
 <item>
-    <title><![CDATA[17: QBQ! The Question Behind The Question by John Miller [Bookworm]]]></title>
+    <title><![CDATA[17: QBQ! The Question Behind The Question by John Miller]]></title>
     <link>https://joebuhlig.com/17-qbq-the-question-behind-the-question-by-john-miller/</link>
     <pubDate>Wed, 11 Jan 2017 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
@@ -205,7 +251,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 
 <item>
-    <title><![CDATA[16: The Checklist Manifesto by Atul Gawande [Bookworm]]]></title>
+    <title><![CDATA[16: The Checklist Manifesto by Atul Gawande]]></title>
     <link>https://joebuhlig.com/16-the-checklist-manifesto-by-atul-gawande/</link>
     <pubDate>Wed, 04 Jan 2017 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
@@ -322,7 +368,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 </item>
 
 <item>
-    <title><![CDATA[15: BrainChains by Theo Compernolle [Bookworm]]]></title>
+    <title><![CDATA[15: BrainChains by Theo Compernolle]]></title>
     <link>https://joebuhlig.com/15-brainchains-by-theo-compernolle/</link>
     <pubDate>Wed, 07 Dec 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
@@ -429,74 +475,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <span class="k">end</span></code></pre></figure>
 
 <p>Now all I need to do is run <code class="highlighter-rouge">rake bump</code> after I’ve edited static files and it will take care of the rest.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[A Baby Time Checklist]]></title>
-    <link>https://joebuhlig.com/a-baby-time-checklist/</link>
-    <pubDate>Fri, 02 Dec 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[checklists]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/a-baby-time-checklist/</guid>
-    <description>
-        <![CDATA[As I write this, my wife and I are expecting our third baby girl to join us within the next week. I wish I could say there is nothing but pure excitement in our house, but as anyone who has kids knows, there are a number of things to do...]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/a-baby-time-checklist.jpg" /><p>As I write this, my wife and I are expecting our third baby girl to join us within the next week. I wish I could say there is nothing but pure excitement in our house, but as anyone who has kids knows, there are a number of things to do once you know it is “time.” Depending on your situation, which you can’t predetermine, you may not have much time to accomplish everything and get out the door, so most of us put together a checklist to help us remember.
-<!--more--></p>
-
-<p>I use checklists all the time. They are a prominent fixture in my life and it is inevitable that others see me using or creating them. In most cases there is one of two responses: an agreement that the checklist is helpful or a joke about its worthlessness for them.</p>
-
-<p>But despite the reaction, I know I’ll stick by my list. I’m all too aware of the shortcomings of my memory. Even if I remember an item the first 50 times through, eventually it becomes second nature and I’ll be unable to recall if I completed a task or just think I did. It’s much like trying to remember if you closed the garage door. You’ve done it so many times that the task is automatic and there’s nothing to trigger your memory to indicate that you actually did it this time. So you’re left wondering if it happened at all, or turning around to make sure it’s shut.</p>
-
-<p>In the case of going into labor, I want my focus to be on helping my wife. But I still need to make sure all bags are in the car, the hospital is aware that we are coming, that someone is home to watch our girls, and on and on. The situation could be one of extreme urgency (at least to me) and yet I want and need to be attentive to my wife. Thus, a checklist to spell out these mundane but important tasks.</p>
-
-<p>I have a list of things to do that kicks off the moment my wife starts having contractions. It doesn’t make me a robot, it gives my mind the freedom to be attentive to situational needs without worrying about what comes next. The potential for urgency and stress is high. In that moment I want to be there for my wife and not wandering the house trying to make sure I have everything in place. This checklist is far from impersonal. It allows me to be present.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Creating Custom Web Searches in Alfred]]></title>
-    <link>https://joebuhlig.com/creating-custom-web-searches-in-alfred/</link>
-    <pubDate>Mon, 28 Nov 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[alfred]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/creating-custom-web-searches-in-alfred/</guid>
-    <description>
-        <![CDATA[Searching is one of the most technically complicated processes to build and yet the simplest to use. And it’s almost universally accepted that every website has a way to search the entirety of their content. Connect this with the ability to search websites directly from Alfred and you can create...]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/creating-custom-web-searches-in-alfred.jpg" /><p>Searching is one of the most technically complicated processes to build and yet the simplest to use. And it’s almost universally accepted that every website has a way to search the entirety of their content. Connect this with the ability to search websites directly from Alfred and you can create a one-stop shop for searching all your favorite sites.
-<!--more--></p>
-
-<p>Alfred can do searches in Google and many other websites out-of-the-box. But if you notice yourself searching a specific website repeatedly, it makes sense to set up a custom search within Alfred. If you continually repeat this process, you’ll end up using Alfred for all your searches instead of going through the multiple steps required to open a site, find the search bar, and type your query.</p>
-
-<p>To set up a new custom search, you first need to know how the site handles search queries from a URL standpoint. For joebuhlig.com, this is what that looks like:</p>
-
-<figure class="highlight"><pre><code class="language-text" data-lang="text">http://joebuhlig.com/search/?q=</code></pre></figure>
-
-<p>Once you have that information, open Alfred preferences, go to Features, then Web Search. At the bottom-right you’ll see “Add Custom Search.” From there, simply fill out the details you want for the search. Here’s the full example for this site:</p>
-
-<p><img class="center-image post-image-medium" src="https://cdn.joebuhlig.com/assets/posts_extra/creating-custom-web-searches-in-alfred/alfred-custom-search.jpg" /></p>
-
-<p>To make it even easier, you can <a href="alfred://customsearch/Search%20joebuhlig.com%20for%20%7Bquery%7D/joe/utf8/nospace/http%3A%2F%2Fjoebuhlig.com%2Fsearch%2F%3Fq%3D%7Bquery%7D">click here to install it directly</a>.</p>
-
-<p>Using this search is quite simple. Invoke Alfred, type “joe” followed by your query. It’ll look like this:</p>
-
-<p><img class="center-image post-image-large" src="https://cdn.joebuhlig.com/assets/posts_extra/creating-custom-web-searches-in-alfred/alfred-search.jpg" /></p>
 ]]>
     </content:encoded>
 </item>

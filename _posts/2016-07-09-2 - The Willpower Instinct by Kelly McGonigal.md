@@ -1,5 +1,5 @@
 ---
-title:  "2: The Willpower Instinct by Kelly McGonigal [Bookworm]"
+title:  "2: The Willpower Instinct by Kelly McGonigal"
 date:   2016-07-09
 categories: bookworm
 tags:

@@ -1,5 +1,5 @@
 ---
-title:  "24: Step by Chris Capehart (with Chris Capehart) [Bookworm]"
+title:  "24: Step by Chris Capehart (with Chris Capehart)"
 date:   2017-04-12
 categories: bookworm
 tags:

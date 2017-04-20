@@ -1,5 +1,5 @@
 ---
-title:  "16: The Checklist Manifesto by Atul Gawande [Bookworm]"
+title:  "16: The Checklist Manifesto by Atul Gawande"
 date:   2017-01-04
 categories: bookworm
 tags:

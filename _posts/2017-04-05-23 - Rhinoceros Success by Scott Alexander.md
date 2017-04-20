@@ -1,5 +1,5 @@
 ---
-title:  "23: Rhinoceros Success by Scott Alexander [Bookworm]"
+title:  "23: Rhinoceros Success by Scott Alexander"
 date:   2017-04-05
 categories: bookworm
 tags:

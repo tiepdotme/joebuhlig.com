@@ -1,5 +1,5 @@
 ---
-title:  "11: The Innovator’s Dilemma by Clayton M. Christensen [Bookworm]"
+title:  "11: The Innovator’s Dilemma by Clayton M. Christensen"
 date:   2016-10-12
 categories: bookworm
 tags:

@@ -1,5 +1,5 @@
 ---
-title:  "1: A Good Goat Trail [Theoretical]"
+title:  "1: A Good Goat Trail"
 date:   2017-04-18
 categories: theoretical
 tags:

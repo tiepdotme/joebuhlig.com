@@ -1,5 +1,5 @@
 ---
-title:  "3: The War Of Art by Steven Pressfield [Bookworm]"
+title:  "3: The War Of Art by Steven Pressfield"
 date:   2016-07-13
 categories: bookworm
 tags:

@@ -1,5 +1,5 @@
 ---
-title:  "17: QBQ! The Question Behind The Question by John Miller [Bookworm]"
+title:  "17: QBQ! The Question Behind The Question by John Miller"
 date:   2017-01-11
 categories: bookworm
 tags:

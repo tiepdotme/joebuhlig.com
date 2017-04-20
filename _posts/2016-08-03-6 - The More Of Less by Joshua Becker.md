@@ -1,5 +1,5 @@
 ---
-title:  "6: The More Of Less by Joshua Becker [Bookworm]"
+title:  "6: The More Of Less by Joshua Becker"
 date:   2016-08-03
 categories: bookworm
 tags:

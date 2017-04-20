@@ -1,5 +1,5 @@
 ---
-title:  "5: Essentialism by Greg McKeown [Bookworm]"
+title:  "5: Essentialism by Greg McKeown"
 date:   2016-07-27
 categories: bookworm
 tags:

@@ -1,5 +1,5 @@
 ---
-title:  "20: Who Moved My Cheese? by Spencer Johnson [Bookworm]"
+title:  "20: Who Moved My Cheese? by Spencer Johnson"
 date:   2017-02-24
 categories: bookworm
 tags:

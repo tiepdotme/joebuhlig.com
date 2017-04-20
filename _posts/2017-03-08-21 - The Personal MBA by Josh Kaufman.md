@@ -1,5 +1,5 @@
 ---
-title:  "21: The Personal MBA by Josh Kaufman [Bookworm]"
+title:  "21: The Personal MBA by Josh Kaufman"
 date:   2017-03-08
 categories: bookworm
 tags:

@@ -1,5 +1,5 @@
 ---
-title:  "19: The Shallows by Nicholas Carr [Bookworm]"
+title:  "19: The Shallows by Nicholas Carr"
 date:   2017-02-16
 categories: bookworm
 tags:

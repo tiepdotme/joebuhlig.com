@@ -1,5 +1,5 @@
 ---
-title:  "13: Managing Oneself by Peter Drucker [Bookworm]"
+title:  "13: Managing Oneself by Peter Drucker"
 date:   2016-11-09
 categories: bookworm
 tags:

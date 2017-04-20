@@ -1,5 +1,5 @@
 ---
-title:  "18: Decisive by Chip Heath, Dan Heath [Bookworm]"
+title:  "18: Decisive by Chip Heath, Dan Heath"
 date:   2017-01-25
 categories: bookworm
 tags:

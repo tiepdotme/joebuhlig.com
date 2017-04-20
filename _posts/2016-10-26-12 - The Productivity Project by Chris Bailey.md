@@ -1,5 +1,5 @@
 ---
-title:  "12: The Productivity Project by Chris Bailey [Bookworm]"
+title:  "12: The Productivity Project by Chris Bailey"
 date:   2016-10-26
 categories: bookworm
 tags:

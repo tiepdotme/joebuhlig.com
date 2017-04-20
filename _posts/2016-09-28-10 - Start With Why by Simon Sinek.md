@@ -1,5 +1,5 @@
 ---
-title:  "10: Start With Why by Simon Sinek [Bookworm]"
+title:  "10: Start With Why by Simon Sinek"
 date:   2016-09-28
 categories: bookworm
 tags:

@@ -1,5 +1,5 @@
 ---
-title:  "14: The 12 Week Year by Brian Moran, Michael Lennington [Bookworm]"
+title:  "14: The 12 Week Year by Brian Moran, Michael Lennington"
 date:   2016-11-23
 categories: bookworm
 tags:

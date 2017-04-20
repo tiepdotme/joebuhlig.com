@@ -1,5 +1,5 @@
 ---
-title:  "1: Getting Things Done by David Allen [Bookworm]"
+title:  "1: Getting Things Done by David Allen"
 date:   2016-07-08
 categories: bookworm
 tags:

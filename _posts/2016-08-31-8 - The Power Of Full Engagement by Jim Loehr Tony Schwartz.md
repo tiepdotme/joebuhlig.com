@@ -1,5 +1,5 @@
 ---
-title:  "8: The Power of Full Engagement by Jim Loehr, Tony Schwartz [Bookworm]"
+title:  "8: The Power of Full Engagement by Jim Loehr, Tony Schwartz"
 date:   2016-08-31
 categories: bookworm
 tags:

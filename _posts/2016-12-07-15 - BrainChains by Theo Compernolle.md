@@ -1,5 +1,5 @@
 ---
-title:  "15: BrainChains by Theo Compernolle [Bookworm]"
+title:  "15: BrainChains by Theo Compernolle"
 date:   2016-12-07
 categories: bookworm
 tags:

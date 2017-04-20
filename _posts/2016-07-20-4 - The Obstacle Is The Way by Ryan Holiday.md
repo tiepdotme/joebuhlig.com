@@ -1,5 +1,5 @@
 ---
-title:  "4: The Obstacle Is The Way by Ryan Holiday [Bookworm]"
+title:  "4: The Obstacle Is The Way by Ryan Holiday"
 date:   2016-07-20
 categories: bookworm
 tags:
