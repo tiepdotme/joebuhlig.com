@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 24 Apr 2017 09:47:48 -0500</lastBuildDate>
+<lastBuildDate>Wed, 03 May 2017 15:32:23 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[25: Grit by Angela Duckworth]]></title>
+    <link>https://joebuhlig.com/25-grit-by-angela-duckworth/</link>
+    <pubDate>Wed, 03 May 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/25-grit-by-angela-duckworth/</guid>
+    <description>
+        <![CDATA[Powering through things we don’t want to do. That’s what Angela Duckworth helps us do with this week’s book, Grit.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Powering through things we don’t want to do. That’s what Angela Duckworth helps us do with this week’s book, Grit.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[3: A Pair of Tirades]]></title>
@@ -386,29 +409,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>The part you’ll need to edit is on the Report worksheet. You can manually adjust the Available Hours per week and it will take care of the rest.</p>
 
 <p>As for data entry, I do it all through IFTTT. There are a lot of ways to do it but setting up applets to add a row to a Google Sheet is fairly straightforward.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[15: BrainChains by Theo Compernolle]]></title>
-    <link>https://joebuhlig.com/15-brainchains-by-theo-compernolle/</link>
-    <pubDate>Wed, 07 Dec 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/15-brainchains-by-theo-compernolle/</guid>
-    <description>
-        <![CDATA[BrainChains was a listener recommendation that taught Mike and Joe a lot about how technology affects our minds. From attention to focus, it’s all covered.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>BrainChains was a listener recommendation that taught Mike and Joe a lot about how technology affects our minds. From attention to focus, it’s all covered.
-<!--more--></p>
 ]]>
     </content:encoded>
 </item>
