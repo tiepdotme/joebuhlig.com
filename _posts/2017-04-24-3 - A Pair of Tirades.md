@@ -7,6 +7,7 @@ tags:
 permalink: /3-a-pair-of-tirades/
 external: http://theoreticalaccountability.fm/3/
 image: /assets/posts/theoreticallogo.png
+discourse_topic_id: 36
 ---
 Raising kids is hard. And sometimes a bad experience for your child invokes a guttural and passionate response by the parent. Thus, Josh's tirades.
 <!--more-->

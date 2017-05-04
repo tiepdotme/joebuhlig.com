@@ -7,6 +7,7 @@ tags:
 permalink: /2-the-math-show/
 external: http://theoreticalaccountability.fm/2/
 image: /assets/posts/theoreticallogo.png
+discourse_topic_id: 32
 ---
 Joe had to (almost) double his development rates. Josh keeps trying to do math. It doesn't go as well as expected.
 <!--more-->
