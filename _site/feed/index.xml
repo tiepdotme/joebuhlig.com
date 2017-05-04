@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 03 May 2017 20:53:28 -0500</lastBuildDate>
+<lastBuildDate>Thu, 04 May 2017 16:12:22 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[4: Blame The In-Laws]]></title>
+    <link>https://joebuhlig.com/4-blame-the-inlaws/</link>
+    <pubDate>Thu, 04 May 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/4-blame-the-inlaws/</guid>
+    <description>
+        <![CDATA[The parenting questions continue while Joe struggles to do anything on his goals and Josh preps for his Ignite talk.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>The parenting questions continue while Joe struggles to do anything on his goals and Josh preps for his Ignite talk.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[25: Grit by Angela Duckworth]]></title>
@@ -375,40 +398,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://www.amazon.com/Gods-Smuggler-Brother-Andrew/dp/0800796853/ref=la_B000APEW2M_1_1?tag=joebuhlig-20">Amazon</a></p>
 
 <p>Brother Andrew has quite a story about his life of taking Bibles behind the <a href="https://en.wikipedia.org/wiki/Iron_Curtain">Iron Curtain</a>. It’s one of encouragement and brings with it motivation and a call to action for the Christian. I highly recommend it to anyone interested in a story about the power of the Bible.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Time Tracker With Running Status]]></title>
-    <link>https://joebuhlig.com/time-tracker-with-running-status/</link>
-    <pubDate>Fri, 09 Dec 2016 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[time]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/time-tracker-with-running-status/</guid>
-    <description>
-        <![CDATA[I’ve been tracking where I spend my time for a while now. In the majority of cases it has been purely for personal use and decision-making, but since I have now taken a part time IT position, I need to know exactly how many hours I spend on the job...]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/time-tracker-with-running-status.jpg" /><p>I’ve been tracking where I spend my time for a while now. In the majority of cases it has been purely for personal use and decision-making, but since I have now taken a part time IT position, I need to know exactly how many hours I spend on the job and calculate whether or not I’ve met my expected quota for the week.
-<!--more--></p>
-
-<p>In theory, it’s simple. I work 20 hours a week as Director of IT at my church. But how do I know if I’m under or over my allotted time? I could go off a feeling, but I’m certain I’ll always be wrong in my estimate.</p>
-
-<p>Instead, I did what I always do: set up a system to track it for me. And with the power of IFTTT, Launch Center Pro, and Workflow, I’m able to let Google Sheets do all the hard work. In the end, this is what I see when I check my status:</p>
-
-<p><img class="center-image post-image-small" src="/assets/posts_extra/time-tracker-with-running-status/time-tracker.jpg" /></p>
-
-<p>Getting the spreadsheet set up is easier by copy-paste than it is by explanation. The formulas are simply too much and too involved to explain. So I created a <a href="https://drive.google.com/open?id=1X2gVw4j-dM6nz1jpGnKqyEONQWPm-Zk61n_P8yKTbOk">copy of my tracker</a> for you to view and replicate.</p>
-
-<p>The part you’ll need to edit is on the Report worksheet. You can manually adjust the Available Hours per week and it will take care of the rest.</p>
-
-<p>As for data entry, I do it all through IFTTT. There are a lot of ways to do it but setting up applets to add a row to a Google Sheet is fairly straightforward.</p>
 ]]>
     </content:encoded>
 </item>
