@@ -27,13 +27,7 @@ layout: default
 			{% if page.previous %}<a class="prev-page" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>{% endif %}
 			{% if page.next %}<a class="next-page" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>{% endif %}
 		</div>
-	</article>
-
-	{% include post_sidebar.html %}
-
-	<div class="clear"></div>
-
-	{% if jekyll.environment == "production" %}
+		{% if jekyll.environment == "production" %}
 	{% unless page.categories contains 'theoretical' %}
 	<div id='discourse-comments'></div>
 	<script type="text/javascript">
@@ -52,5 +46,8 @@ layout: default
 	</script>
 	{% endunless %}
 	{% endif %}
+	</article>
+
+	{% include post_sidebar.html %}
 	
 </div>

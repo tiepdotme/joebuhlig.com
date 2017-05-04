@@ -2,8 +2,8 @@ var host = "joebuhlig.com";
 if ((host == window.location.host) && (window.location.protocol != "https:"))
    window.location.protocol = "https";
 
-if (getCookie("theme") == "light"){
-	$('html').removeClass("dark");
+if (getCookie("theme") == "dark"){
+	$('html').addClass("dark");
 }
 
 var nextFeedPost = 20;
