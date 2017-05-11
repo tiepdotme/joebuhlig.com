@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 09 May 2017 20:51:40 -0500</lastBuildDate>
+<lastBuildDate>Thu, 11 May 2017 11:37:11 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[5: Know Your Stuff]]></title>
+    <link>https://joebuhlig.com/5-know-your-stuff/</link>
+    <pubDate>Thu, 11 May 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/5-know-your-stuff/</guid>
+    <description>
+        <![CDATA[Ignite time is here and Josh is getting nervous. And Joe will be there to make sure he doesn’t screw it up. But all-in-all their goals on getting back on track.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Ignite time is here and Josh is getting nervous. And Joe will be there to make sure he doesn’t screw it up. But all-in-all their goals on getting back on track.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[26: The Sleep Revolution by Arianna Huffington]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>It may not be your fault, but you can take responsibility for it. Mike and Joe discuss the role of personal accountability in our lives and asking ourselves better questions.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[16: The Checklist Manifesto by Atul Gawande]]></title>
-    <link>https://joebuhlig.com/16-the-checklist-manifesto-by-atul-gawande/</link>
-    <pubDate>Wed, 04 Jan 2017 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/16-the-checklist-manifesto-by-atul-gawande/</guid>
-    <description>
-        <![CDATA[Mike loves his coffee and he’s trying to drag Joe along. But that still doesn’t stop them from talking checklists and the power they hold.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Mike loves his coffee and he’s trying to drag Joe along. But that still doesn’t stop them from talking checklists and the power they hold.
 <!--more--></p>
 ]]>
     </content:encoded>
