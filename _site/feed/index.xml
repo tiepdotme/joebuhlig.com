@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 11 May 2017 11:37:11 -0500</lastBuildDate>
+<lastBuildDate>Mon, 15 May 2017 15:52:03 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[6: The Bacon Stratagem]]></title>
+    <link>https://joebuhlig.com/6-the-bacon-stratagem/</link>
+    <pubDate>Mon, 15 May 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/6-the-bacon-stratagem/</guid>
+    <description>
+        <![CDATA[Josh finished up one of his goals! And that means this show has a lot of conversation about Ignite Minneapolis.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh finished up one of his goals! And that means this show has a lot of conversation about Ignite Minneapolis.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[5: Know Your Stuff]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>A new baby, a continuing morning phone addiction, and learning how to make better decisions. It’s all covered in this week’s episode.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[17: QBQ! The Question Behind The Question by John Miller]]></title>
-    <link>https://joebuhlig.com/17-qbq-the-question-behind-the-question-by-john-miller/</link>
-    <pubDate>Wed, 11 Jan 2017 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/17-qbq-the-question-behind-the-question-by-john-miller/</guid>
-    <description>
-        <![CDATA[It may not be your fault, but you can take responsibility for it. Mike and Joe discuss the role of personal accountability in our lives and asking ourselves better questions.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>It may not be your fault, but you can take responsibility for it. Mike and Joe discuss the role of personal accountability in our lives and asking ourselves better questions.
 <!--more--></p>
 ]]>
     </content:encoded>
