@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 15 May 2017 15:52:03 -0500</lastBuildDate>
+<lastBuildDate>Mon, 22 May 2017 09:38:00 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[7: Making Money While I Sleep]]></title>
+    <link>https://joebuhlig.com/7-making-money-while-i-sleep/</link>
+    <pubDate>Mon, 22 May 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/7-making-money-while-i-sleep/</guid>
+    <description>
+        <![CDATA[Joe is finally getting Discourse League back on track. And Josh has excellent intercellular water levels. Throw in an added goal and a tweaked goal and the week is complete.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe is finally getting Discourse League back on track. And Josh has excellent intercellular water levels. Throw in an added goal and a tweaked goal and the week is complete.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[6: The Bacon Stratagem]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Does the use of internet devices change our brains? And if so, is it worth doing anything about? It’s a tough topic but Mike and Joe work their way through it.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[18: Decisive by Chip Heath, Dan Heath]]></title>
-    <link>https://joebuhlig.com/18-decisive-by-chip-heath-dan-heath/</link>
-    <pubDate>Wed, 25 Jan 2017 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">http://joebuhlig.com/18-decisive-by-chip-heath-dan-heath/</guid>
-    <description>
-        <![CDATA[A new baby, a continuing morning phone addiction, and learning how to make better decisions. It’s all covered in this week’s episode.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>A new baby, a continuing morning phone addiction, and learning how to make better decisions. It’s all covered in this week’s episode.
 <!--more--></p>
 ]]>
     </content:encoded>
