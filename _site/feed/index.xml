@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 22 May 2017 13:56:18 -0500</lastBuildDate>
+<lastBuildDate>Mon, 29 May 2017 11:27:31 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[27: Out of Our Minds by Ken Robinson]]></title>
+    <link>https://joebuhlig.com/27-out-of-our-minds-by-ken-robinson/</link>
+    <pubDate>Mon, 29 May 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/27-out-of-our-minds-by-ken-robinson/</guid>
+    <description>
+        <![CDATA[How do you be creative and does the traditional school system train creativity out of our kids? These are hard questions but this week Joe and Mike explore them.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>How do you be creative and does the traditional school system train creativity out of our kids? These are hard questions but this week Joe and Mike explore them.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[7: Making Money While I Sleep]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Mike dives head-first into the world of internet-connected light-bulbs. Joe doesn’t get it. And yet they both explore the world of moving cheese together.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[19: The Shallows by Nicholas Carr]]></title>
-    <link>https://joebuhlig.com/19-the-shallows-by-nicholas-carr/</link>
-    <pubDate>Thu, 16 Feb 2017 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/19-the-shallows-by-nicholas-carr/</guid>
-    <description>
-        <![CDATA[Does the use of internet devices change our brains? And if so, is it worth doing anything about? It’s a tough topic but Mike and Joe work their way through it.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Does the use of internet devices change our brains? And if so, is it worth doing anything about? It’s a tough topic but Mike and Joe work their way through it.
 <!--more--></p>
 ]]>
     </content:encoded>
