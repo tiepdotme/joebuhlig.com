@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 29 May 2017 11:27:31 -0500</lastBuildDate>
+<lastBuildDate>Wed, 31 May 2017 13:51:57 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[8: You Have Created Audiobooks]]></title>
+    <link>https://joebuhlig.com/8-you-have-created-audiobooks/</link>
+    <pubDate>Wed, 31 May 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/8-you-have-created-audiobooks/</guid>
+    <description>
+        <![CDATA[Although Joe doesn’t like audiobooks, he has created them. And Josh loves being frozen. There’s also a bit of a personal note in this one.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Although Joe doesn’t like audiobooks, he has created them. And Josh loves being frozen. There’s also a bit of a personal note in this one.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[27: Out of Our Minds by Ken Robinson]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Let’s get an MBA (unofficial) without the big price tag. There are a lot of gems here but the format got under Joe’s skin.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[20: Who Moved My Cheese? by Spencer Johnson]]></title>
-    <link>https://joebuhlig.com/20-who-moved-my-cheese-by-spencer-johnson/</link>
-    <pubDate>Fri, 24 Feb 2017 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/20-who-moved-my-cheese-by-spencer-johnson/</guid>
-    <description>
-        <![CDATA[Mike dives head-first into the world of internet-connected light-bulbs. Joe doesn’t get it. And yet they both explore the world of moving cheese together.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Mike dives head-first into the world of internet-connected light-bulbs. Joe doesn’t get it. And yet they both explore the world of moving cheese together.
 <!--more--></p>
 ]]>
     </content:encoded>
