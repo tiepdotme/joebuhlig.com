@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 31 May 2017 13:51:57 -0500</lastBuildDate>
+<lastBuildDate>Wed, 07 Jun 2017 06:59:31 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[1: Soybeans & Modbooks]]></title>
+    <link>https://joebuhlig.com/1-soybeans-modbooks/</link>
+    <pubDate>Wed, 07 Jun 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[whims]]></category>
+
+
+    <category><![CDATA[whims]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/1-soybeans-modbooks/</guid>
+    <description>
+        <![CDATA[Drew learns about soybean breeding and growing up on a farm, Joe learns about long-forgotten 2000s-era technology, and each host considers what got them interested in the topic of productivity and how it’s impacted them today.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew learns about soybean breeding and growing up on a farm, Joe learns about long-forgotten 2000s-era technology, and each host considers what got them interested in the topic of productivity and how it’s impacted them today.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[8: You Have Created Audiobooks]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This round Mike and Joe are joined by Shawn Blanc to talk about taking massive action with <em>The 10X Rule</em>.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[21: The Personal MBA by Josh Kaufman]]></title>
-    <link>https://joebuhlig.com/21-the-personal-mba-by-josh-kaufman/</link>
-    <pubDate>Wed, 08 Mar 2017 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/21-the-personal-mba-by-josh-kaufman/</guid>
-    <description>
-        <![CDATA[Let’s get an MBA (unofficial) without the big price tag. There are a lot of gems here but the format got under Joe’s skin.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Let’s get an MBA (unofficial) without the big price tag. There are a lot of gems here but the format got under Joe’s skin.
 <!--more--></p>
 ]]>
     </content:encoded>

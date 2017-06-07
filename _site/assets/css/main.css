@@ -572,6 +572,8 @@ table {
   float: left; }
   .feed-icon .theoretical path {
     fill: #FAAC1B; }
+  .feed-icon .whims path {
+    fill: #405caa; }
 
 .feed-content {
   margin: 0px 0px 0px 25px; }
