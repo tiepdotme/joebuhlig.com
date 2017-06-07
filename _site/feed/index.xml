@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 07 Jun 2017 06:59:31 -0500</lastBuildDate>
+<lastBuildDate>Wed, 07 Jun 2017 14:02:13 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[28: The 7 Habits of Highly Effective People by Stephen Covey]]></title>
+    <link>https://joebuhlig.com/28-the-7-habits-of-highly-effective-people-by-stephen-covey/</link>
+    <pubDate>Wed, 07 Jun 2017 09:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/28-the-7-habits-of-highly-effective-people-by-stephen-covey/</guid>
+    <description>
+        <![CDATA[It’s time for a classic that both Mike and Joe have failed to read until now. But they have completed their duty and are no longer in the dark.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>It’s time for a classic that both Mike and Joe have failed to read until now. But they have completed their duty and are no longer in the dark.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[1: Soybeans & Modbooks]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Let’s be rhinos! It’s an interesting concept and this round Mike and Joe discuss the implications of becoming a 6,000 lb rhinoceros.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[22: The 10X Rule by Grant Cardone (with Shawn Blanc)]]></title>
-    <link>https://joebuhlig.com/22-the-10x-rule-by-grant-cardone-with-shawn-blanc/</link>
-    <pubDate>Wed, 22 Mar 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/22-the-10x-rule-by-grant-cardone-with-shawn-blanc/</guid>
-    <description>
-        <![CDATA[This round Mike and Joe are joined by Shawn Blanc to talk about taking massive action with The 10X Rule.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This round Mike and Joe are joined by Shawn Blanc to talk about taking massive action with <em>The 10X Rule</em>.
 <!--more--></p>
 ]]>
     </content:encoded>
