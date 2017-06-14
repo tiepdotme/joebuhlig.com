@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 08 Jun 2017 08:59:05 -0500</lastBuildDate>
+<lastBuildDate>Wed, 14 Jun 2017 14:56:43 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[10: Single Character Variable Names]]></title>
+    <link>https://joebuhlig.com/10-single-character-variable-names/</link>
+    <pubDate>Wed, 14 Jun 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/10-single-character-variable-names/</guid>
+    <description>
+        <![CDATA[Joe has three thumbs up this week. It’s about time. Josh hates meetings but they both decide to contemplate their goals for the next round.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe has three thumbs up this week. It’s about time. Josh hates meetings but they both decide to contemplate their goals for the next round.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[9: Form Letter Podcasting]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe has not seen Star Wars. Josh likes to make bacon. And somehow in the midst of diversions, they manage to discuss their goals for the next 12 weeks.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[24: Step by Chris Capehart (with Chris Capehart)]]></title>
-    <link>https://joebuhlig.com/24-step-by-chris-capehart-with-chris-capehart/</link>
-    <pubDate>Wed, 12 Apr 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/24-step-by-chris-capehart-with-chris-capehart/</guid>
-    <description>
-        <![CDATA[This week we’re joined by the author himself, Chris Capehart, to discuss his book Step and the impact a single action forward can have on your dreams.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This week we’re joined by the author himself, Chris Capehart, to discuss his book Step and the impact a single action forward can have on your dreams.
 <!--more--></p>
 ]]>
     </content:encoded>
