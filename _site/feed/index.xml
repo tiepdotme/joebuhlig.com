@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 14 Jun 2017 14:56:43 -0500</lastBuildDate>
+<lastBuildDate>Mon, 19 Jun 2017 06:11:59 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[The Better Off These Things Get]]></title>
+    <link>https://joebuhlig.com/the-better-off-these-things-get/</link>
+    <pubDate>Mon, 19 Jun 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[whims]]></category>
+
+
+    <category><![CDATA[whims]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/the-better-off-these-things-get/</guid>
+    <description>
+        <![CDATA[WWDC 2017 is over, and a new iPad may or may not have been bought. Apple’s updates are discussed, along with the future of productivity and how tech like augmented reality and voice assistants might come into play.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>WWDC 2017 is over, and a new iPad may or may not have been bought. Apple’s updates are discussed, along with the future of productivity and how tech like augmented reality and voice assistants might come into play.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[10: Single Character Variable Names]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe had to (almost) double his development rates. Josh keeps trying to do math. It doesn’t go as well as expected.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[1: A Good Goat Trail]]></title>
-    <link>https://joebuhlig.com/1-a-good-goat-trail/</link>
-    <pubDate>Tue, 18 Apr 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/1-a-good-goat-trail/</guid>
-    <description>
-        <![CDATA[Joe has not seen Star Wars. Josh likes to make bacon. And somehow in the midst of diversions, they manage to discuss their goals for the next 12 weeks.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe has not seen Star Wars. Josh likes to make bacon. And somehow in the midst of diversions, they manage to discuss their goals for the next 12 weeks.
 <!--more--></p>
 ]]>
     </content:encoded>
