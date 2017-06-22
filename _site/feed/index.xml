@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 21 Jun 2017 08:40:41 -0500</lastBuildDate>
+<lastBuildDate>Thu, 22 Jun 2017 09:22:46 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[29: The Go-Getter by Peter Kyne]]></title>
+    <link>https://joebuhlig.com/29-the-gogetter-by-peter-kyne/</link>
+    <pubDate>Thu, 22 Jun 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/29-the-gogetter-by-peter-kyne/</guid>
+    <description>
+        <![CDATA[Going after a task with unending motivation. This is something a go-getter has and that Joe and Mike struggled with.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Going after a task with unending motivation. This is something a go-getter has and that Joe and Mike struggled with.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[11: A Moral Dilemma]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Powering through things we don’t want to do. That’s what Angela Duckworth helps us do with this week’s book, Grit.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[3: A Pair of Tirades]]></title>
-    <link>https://joebuhlig.com/3-a-pair-of-tirades/</link>
-    <pubDate>Mon, 24 Apr 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/3-a-pair-of-tirades/</guid>
-    <description>
-        <![CDATA[Raising kids is hard. And sometimes a bad experience for your child invokes a guttural and passionate response by the parent. Thus, Josh’s tirades.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Raising kids is hard. And sometimes a bad experience for your child invokes a guttural and passionate response by the parent. Thus, Josh’s tirades.
 <!--more--></p>
 ]]>
     </content:encoded>
