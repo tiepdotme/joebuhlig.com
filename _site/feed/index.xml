@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 22 Jun 2017 09:22:46 -0500</lastBuildDate>
+<lastBuildDate>Mon, 26 Jun 2017 06:04:39 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[3: Books Are Expensive]]></title>
+    <link>https://joebuhlig.com/3-books-are-expensive/</link>
+    <pubDate>Mon, 26 Jun 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[whims]]></category>
+
+
+    <category><![CDATA[whims]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/3-books-are-expensive/</guid>
+    <description>
+        <![CDATA[Drew goes to the library, Joe gives an all-important nap update, and the two talk about note-taking habits, memorization, and task managers.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew goes to the library, Joe gives an all-important nap update, and the two talk about note-taking habits, memorization, and task managers.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[29: The Go-Getter by Peter Kyne]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>The parenting questions continue while Joe struggles to do anything on his goals and Josh preps for his Ignite talk.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[25: Grit by Angela Duckworth]]></title>
-    <link>https://joebuhlig.com/25-grit-by-angela-duckworth/</link>
-    <pubDate>Wed, 03 May 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/25-grit-by-angela-duckworth/</guid>
-    <description>
-        <![CDATA[Powering through things we don’t want to do. That’s what Angela Duckworth helps us do with this week’s book, Grit.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Powering through things we don’t want to do. That’s what Angela Duckworth helps us do with this week’s book, Grit.
 <!--more--></p>
 ]]>
     </content:encoded>
