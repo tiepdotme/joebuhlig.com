@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 26 Jun 2017 06:04:39 -0500</lastBuildDate>
+<lastBuildDate>Thu, 29 Jun 2017 09:41:38 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[12: Season 1 Goals Post-Mortem]]></title>
+    <link>https://joebuhlig.com/12-season-1-goals-postmortem/</link>
+    <pubDate>Thu, 29 Jun 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/12-season-1-goals-postmortem/</guid>
+    <description>
+        <![CDATA[It’s the end of a season, which means Josh and Joe need to go through the last 12 weeks and review their progress. Some things went really well and others were a dumpster fire. But that’s to be expected.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>It’s the end of a season, which means Josh and Joe need to go through the last 12 weeks and review their progress. Some things went really well and others were a dumpster fire. But that’s to be expected.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[3: Books Are Expensive]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Sleep. A lot goes on when we’re not awake. This round Mike and Joe go through their experiences and struggles with getting rest.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[4: Blame The In-Laws]]></title>
-    <link>https://joebuhlig.com/4-blame-the-inlaws/</link>
-    <pubDate>Thu, 04 May 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/4-blame-the-inlaws/</guid>
-    <description>
-        <![CDATA[The parenting questions continue while Joe struggles to do anything on his goals and Josh preps for his Ignite talk.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>The parenting questions continue while Joe struggles to do anything on his goals and Josh preps for his Ignite talk.
 <!--more--></p>
 ]]>
     </content:encoded>

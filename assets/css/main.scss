@@ -32,6 +32,12 @@ $content-width:    900px;
 $on-palm:          800px;
 $on-laptop:        1000px;
 
+{% if jekyll.environment == 'production' %}
+    $base_url: "{{ site.cdn_url}}";
+{% else %}
+    $base_url: "";
+{% endif %}
+
 
 
 // Using media queries with like this:

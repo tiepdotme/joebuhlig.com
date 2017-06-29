@@ -2,7 +2,7 @@
   font-family: 'Cinzel';
   font-style: normal;
   font-weight: 400;
-  src: local('Cinzel-Regular'), url(https://cdn.joebuhlig.com/assets/fonts/Cinzel.woff) format('woff');
+  src: local('Cinzel-Regular'), url(#{$base-url}/assets/fonts/Cinzel.woff) format('woff');
 }
 
 /**
