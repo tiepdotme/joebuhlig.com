@@ -33,7 +33,7 @@ $on-palm:          800px;
 $on-laptop:        1000px;
 
 {% if jekyll.environment == 'production' %}
-    $base_url: "";
+    $base_url: "https://joebuhlig.com";
 {% else %}
     $base_url: "";
 {% endif %}
