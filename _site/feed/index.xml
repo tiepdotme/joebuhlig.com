@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 29 Jun 2017 09:54:03 -0500</lastBuildDate>
+<lastBuildDate>Fri, 30 Jun 2017 09:06:16 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[30: The 5 Dysfunctions of a Team by Patrick Lencioni (with Josh Rensch)]]></title>
+    <link>https://joebuhlig.com/30-the-5-dysfunctions-of-a-team-by-patrick-lencioni-with-josh-rensch/</link>
+    <pubDate>Fri, 30 Jun 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/30-the-5-dysfunctions-of-a-team-by-patrick-lencioni-with-josh-rensch/</guid>
+    <description>
+        <![CDATA[This round Mike and Joe are joined by Joe’s other podcast co-host, Josh Rensch, to discuss the challenging dysfunctions that teams can be plagued by. It turns out that Josh has a rough backstory about his introduction to this book.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This round Mike and Joe are joined by Joe’s other podcast co-host, Josh Rensch, to discuss the challenging dysfunctions that teams can be plagued by. It turns out that Josh has a rough backstory about his introduction to this book.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[12: Season 1 Goals Post-Mortem]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Ignite time is here and Josh is getting nervous. And Joe will be there to make sure he doesn’t screw it up. But all-in-all their goals on getting back on track.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[26: The Sleep Revolution by Arianna Huffington]]></title>
-    <link>https://joebuhlig.com/26-the-sleep-revolution-by-arianna-huffington/</link>
-    <pubDate>Tue, 09 May 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/26-the-sleep-revolution-by-arianna-huffington/</guid>
-    <description>
-        <![CDATA[Sleep. A lot goes on when we’re not awake. This round Mike and Joe go through their experiences and struggles with getting rest.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Sleep. A lot goes on when we’re not awake. This round Mike and Joe go through their experiences and struggles with getting rest.
 <!--more--></p>
 ]]>
     </content:encoded>
