@@ -14,11 +14,35 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 30 Jun 2017 09:06:16 -0500</lastBuildDate>
+<lastBuildDate>Mon, 03 Jul 2017 08:57:56 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Interview with Jay Miller on Productivity in Tech]]></title>
+    <link>https://joebuhlig.com/interview-with-jay-miller-on-productivity-in-tech/</link>
+    <pubDate>Mon, 03 Jul 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[interview]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/interview-with-jay-miller-on-productivity-in-tech/</guid>
+    <description>
+        <![CDATA[As you can tell by my co-hosting of three different shows, I have embraced my love for podcasting. But, apparently, running three shows of my own isn’t enough. I started doing some interviews on other shows and the first of these to release is my chat with Jay Miller over...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/productivity_in_tech.png" /><p>As you can tell by my co-hosting of three different shows, I have embraced my love for podcasting. But, apparently, running three shows of my own isn’t enough. I started doing some interviews on other shows and the first of these to release is my chat with Jay Miller over on the <a href="https://productivityintech.com/pitpodcast/64">Productivity in Tech</a> podcast.
+<!--more--></p>
+
+<p>Jay and I talk about a wide variety of topics involving my development work, how he should get into development, the work I’m kicking off on <a href="https://productivityguild.com">Productivity Guild</a>, digital vs. analog task management, and a number of tangents around productivity in general. It’s a good time. You should <a href="https://productivityintech.com/pitpodcast/64">check it out</a>.</p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Top Five Books From 2016]]></title>
