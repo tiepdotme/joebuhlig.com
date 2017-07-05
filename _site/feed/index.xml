@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 03 Jul 2017 08:57:56 -0500</lastBuildDate>
+<lastBuildDate>Wed, 05 Jul 2017 11:41:36 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[13: Season 2 Goals]]></title>
+    <link>https://joebuhlig.com/13-season-2-goals/</link>
+    <pubDate>Wed, 05 Jul 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/13-season-2-goals/</guid>
+    <description>
+        <![CDATA[Mike Schmitz joins Josh and Joe this round to discuss the new goals they’ve chosen for season two. Which is tricky since Josh started the show with only two goals.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Mike Schmitz joins Josh and Joe this round to discuss the new goals they’ve chosen for season two. Which is tricky since Josh started the show with only two goals.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Interview with Jay Miller on Productivity in Tech]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe is finally getting Discourse League back on track. And Josh has excellent intercellular water levels. Throw in an added goal and a tweaked goal and the week is complete.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[6: The Bacon Stratagem]]></title>
-    <link>https://joebuhlig.com/6-the-bacon-stratagem/</link>
-    <pubDate>Mon, 15 May 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/6-the-bacon-stratagem/</guid>
-    <description>
-        <![CDATA[Josh finished up one of his goals! And that means this show has a lot of conversation about Ignite Minneapolis.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh finished up one of his goals! And that means this show has a lot of conversation about Ignite Minneapolis.
 <!--more--></p>
 ]]>
     </content:encoded>
