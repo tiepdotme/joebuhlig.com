@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 05 Jul 2017 11:41:36 -0500</lastBuildDate>
+<lastBuildDate>Mon, 10 Jul 2017 20:15:35 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[4: Burn Energy, Gain Energy]]></title>
+    <link>https://joebuhlig.com/4-burn-energy-gain-energy/</link>
+    <pubDate>Mon, 10 Jul 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[whims]]></category>
+
+
+    <category><![CDATA[whims]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/4-burn-energy-gain-energy/</guid>
+    <description>
+        <![CDATA[Joe gets a new computer, and the purchase sparks some discussion on the merits of the touch bar. It’s…good? Drew provides some iOS 11 note-taking updates, and brings up the topic of Twitter and the idea of meaningful distractions.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe gets a new computer, and the purchase sparks some discussion on the merits of the touch bar. It’s…good? Drew provides some iOS 11 note-taking updates, and brings up the topic of Twitter and the idea of meaningful distractions.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[13: Season 2 Goals]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>How do you be creative and does the traditional school system train creativity out of our kids? These are hard questions but this week Joe and Mike explore them.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[7: Making Money While I Sleep]]></title>
-    <link>https://joebuhlig.com/7-making-money-while-i-sleep/</link>
-    <pubDate>Mon, 22 May 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/7-making-money-while-i-sleep/</guid>
-    <description>
-        <![CDATA[Joe is finally getting Discourse League back on track. And Josh has excellent intercellular water levels. Throw in an added goal and a tweaked goal and the week is complete.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe is finally getting Discourse League back on track. And Josh has excellent intercellular water levels. Throw in an added goal and a tweaked goal and the week is complete.
 <!--more--></p>
 ]]>
     </content:encoded>
