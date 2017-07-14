@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 13 Jul 2017 09:46:05 -0500</lastBuildDate>
+<lastBuildDate>Fri, 14 Jul 2017 08:41:46 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[31: The Power of a Positive No by William Ury]]></title>
+    <link>https://joebuhlig.com/31-the-power-of-a-positive-no-by-william-ury/</link>
+    <pubDate>Fri, 14 Jul 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/31-the-power-of-a-positive-no-by-william-ury/</guid>
+    <description>
+        <![CDATA[Saying No. It’s something neither Mike nor Joe enjoy doing but know they need to embrace. The question is whether or not they can bring themselves to do it.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Saying No. It’s something neither Mike nor Joe enjoy doing but know they need to embrace. The question is whether or not they can bring themselves to do it.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[14: What Comes First?]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew learns about soybean breeding and growing up on a farm, Joe learns about long-forgotten 2000s-era technology, and each host considers what got them interested in the topic of productivity and how it’s impacted them today.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[8: You Have Created Audiobooks]]></title>
-    <link>https://joebuhlig.com/8-you-have-created-audiobooks/</link>
-    <pubDate>Wed, 31 May 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/8-you-have-created-audiobooks/</guid>
-    <description>
-        <![CDATA[Although Joe doesn’t like audiobooks, he has created them. And Josh loves being frozen. There’s also a bit of a personal note in this one.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Although Joe doesn’t like audiobooks, he has created them. And Josh loves being frozen. There’s also a bit of a personal note in this one.
 <!--more--></p>
 ]]>
     </content:encoded>
