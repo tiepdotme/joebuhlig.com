@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 14 Jul 2017 08:41:46 -0500</lastBuildDate>
+<lastBuildDate>Wed, 19 Jul 2017 09:51:39 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[15: Make The Bad Guy Relatable]]></title>
+    <link>https://joebuhlig.com/15-make-the-bad-guy-relatable/</link>
+    <pubDate>Wed, 19 Jul 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/15-make-the-bad-guy-relatable/</guid>
+    <description>
+        <![CDATA[Josh doesn’t like sleeping and learned some things about writing without mental reserves. Joe rebranded the Guild and started pulling in content. And both of them digress on finances and chip cards.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh doesn’t like sleeping and learned some things about writing without mental reserves. Joe rebranded the Guild and started pulling in content. And both of them digress on finances and chip cards.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[31: The Power of a Positive No by William Ury]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>It’s time for a classic that both Mike and Joe have failed to read until now. But they have completed their duty and are no longer in the dark.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[1: Soybeans & Modbooks]]></title>
-    <link>https://joebuhlig.com/1-soybeans-modbooks/</link>
-    <pubDate>Wed, 07 Jun 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[whims]]></category>
-
-
-    <category><![CDATA[whims]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/1-soybeans-modbooks/</guid>
-    <description>
-        <![CDATA[Drew learns about soybean breeding and growing up on a farm, Joe learns about long-forgotten 2000s-era technology, and each host considers what got them interested in the topic of productivity and how it’s impacted them today.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew learns about soybean breeding and growing up on a farm, Joe learns about long-forgotten 2000s-era technology, and each host considers what got them interested in the topic of productivity and how it’s impacted them today.
 <!--more--></p>
 ]]>
     </content:encoded>
