@@ -7,7 +7,7 @@ tags:
 permalink: /15-make-the-bad-guy-relatable/
 external: http://theoreticalaccountability.fm/15/
 image: /assets/posts/theoreticallogo.png
-discourse_topic_id: 74
+discourse_topic_id: 1008
 ---
 Josh doesn't like sleeping and learned some things about writing without mental reserves. Joe rebranded the Guild and started pulling in content. And both of them digress on finances and chip cards.
 <!--more-->

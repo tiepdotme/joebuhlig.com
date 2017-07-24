@@ -7,7 +7,7 @@ tags:
 permalink: /4-blame-the-inlaws/
 external: http://theoreticalaccountability.fm/4/
 image: /assets/posts/theoreticallogo.png
-discourse_topic_id: 40
+discourse_topic_id: 1005
 ---
 The parenting questions continue while Joe struggles to do anything on his goals and Josh preps for his Ignite talk.
 <!--more-->

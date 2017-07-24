@@ -7,7 +7,7 @@ tags:
 permalink: /7-making-money-while-i-sleep/
 external: http://theoreticalaccountability.fm/7/
 image: /assets/posts/theoreticallogo.png
-discourse_topic_id: 50
+discourse_topic_id: 1015
 ---
 Joe is finally getting Discourse League back on track. And Josh has excellent intercellular water levels. Throw in an added goal and a tweaked goal and the week is complete.
 <!--more-->

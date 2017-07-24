@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 19 Jul 2017 09:51:39 -0500</lastBuildDate>
+<lastBuildDate>Mon, 24 Jul 2017 06:22:10 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[5: A Beautiful Utopia of Input]]></title>
+    <link>https://joebuhlig.com/5-a-beautiful-utopia-of-input/</link>
+    <pubDate>Mon, 24 Jul 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[whims]]></category>
+
+
+    <category><![CDATA[whims]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/5-a-beautiful-utopia-of-input/</guid>
+    <description>
+        <![CDATA[Joe goes to MacStock and sparks a discussion on the subject of conferences. Drew takes a deep dive into the strength of ‘Input’ and the helpful benefits of personality assessments. Also…Joe considers blacksmithing?
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe goes to MacStock and sparks a discussion on the subject of conferences. Drew takes a deep dive into the strength of ‘Input’ and the helpful benefits of personality assessments. Also…Joe considers blacksmithing?
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[15: Make The Bad Guy Relatable]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh and Joe are blaming their wives for various things. That’s not always wise but they have a plan forward regardless.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[28: The 7 Habits of Highly Effective People by Stephen Covey]]></title>
-    <link>https://joebuhlig.com/28-the-7-habits-of-highly-effective-people-by-stephen-covey/</link>
-    <pubDate>Wed, 07 Jun 2017 09:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/28-the-7-habits-of-highly-effective-people-by-stephen-covey/</guid>
-    <description>
-        <![CDATA[It’s time for a classic that both Mike and Joe have failed to read until now. But they have completed their duty and are no longer in the dark.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>It’s time for a classic that both Mike and Joe have failed to read until now. But they have completed their duty and are no longer in the dark.
 <!--more--></p>
 ]]>
     </content:encoded>
