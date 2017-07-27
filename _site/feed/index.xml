@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 24 Jul 2017 06:22:10 -0500</lastBuildDate>
+<lastBuildDate>Thu, 27 Jul 2017 09:02:00 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[16: I'm a Blue Person]]></title>
+    <link>https://joebuhlig.com/16-im-a-blue-person/</link>
+    <pubDate>Thu, 27 Jul 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/16-im-a-blue-person/</guid>
+    <description>
+        <![CDATA[Fires all around. Joe adds to the list of people he blames for missed goals. Josh is not losing weight. And they both struggle with being real on the internet.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Fires all around. Joe adds to the list of people he blames for missed goals. Josh is not losing weight. And they both struggle with being real on the internet.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[5: A Beautiful Utopia of Input]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe has three thumbs up this week. It’s about time. Josh hates meetings but they both decide to contemplate their goals for the next round.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[9: Form Letter Podcasting]]></title>
-    <link>https://joebuhlig.com/9-form-letter-podcasting/</link>
-    <pubDate>Thu, 08 Jun 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/9-form-letter-podcasting/</guid>
-    <description>
-        <![CDATA[Josh and Joe are blaming their wives for various things. That’s not always wise but they have a plan forward regardless.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh and Joe are blaming their wives for various things. That’s not always wise but they have a plan forward regardless.
 <!--more--></p>
 ]]>
     </content:encoded>
