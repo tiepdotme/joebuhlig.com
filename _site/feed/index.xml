@@ -14,11 +14,57 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 27 Jul 2017 09:02:00 -0500</lastBuildDate>
+<lastBuildDate>Thu, 03 Aug 2017 09:19:12 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[17: The Explicit Show]]></title>
+    <link>https://joebuhlig.com/17-the-explicit-show/</link>
+    <pubDate>Thu, 03 Aug 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/17-the-explicit-show/</guid>
+    <description>
+        <![CDATA[Josh has been waiting and waiting for this show to get here. And now it’s here. You’ve been warned. Also, Joe has some big news about the Guild.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh has been waiting and waiting for this show to get here. And now it’s here. You’ve been warned. Also, Joe has some big news about the Guild.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[32: The Art of Thinking Clearly by Rolf Dobelli]]></title>
+    <link>https://joebuhlig.com/32-the-art-of-thinking-clearly-by-rolf-dobelli/</link>
+    <pubDate>Wed, 02 Aug 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/32-the-art-of-thinking-clearly-by-rolf-dobelli/</guid>
+    <description>
+        <![CDATA[This week Mike and Joe talk about the cognitive biases that they struggle with and the ones they are fascinated by. And it seems there are a lot of these. So picking a few is not as easy as it sounds.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This week Mike and Joe talk about the cognitive biases that they struggle with and the ones they are fascinated by. And it seems there are a lot of these. So picking a few is not as easy as it sounds.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[16: I'm a Blue Person]]></title>
@@ -315,52 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh is full of requests this time. He also has a moral dilemma that Joe is unable to help with. But it’s at least interesting to consider.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[2: The Better Off These Things Get]]></title>
-    <link>https://joebuhlig.com/2-the-better-off-these-things-get/</link>
-    <pubDate>Mon, 19 Jun 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[whims]]></category>
-
-
-    <category><![CDATA[whims]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/2-the-better-off-these-things-get/</guid>
-    <description>
-        <![CDATA[WWDC 2017 is over, and a new iPad may or may not have been bought. Apple’s updates are discussed, along with the future of productivity and how tech like augmented reality and voice assistants might come into play.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>WWDC 2017 is over, and a new iPad may or may not have been bought. Apple’s updates are discussed, along with the future of productivity and how tech like augmented reality and voice assistants might come into play.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[10: Single Character Variable Names]]></title>
-    <link>https://joebuhlig.com/10-single-character-variable-names/</link>
-    <pubDate>Wed, 14 Jun 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/10-single-character-variable-names/</guid>
-    <description>
-        <![CDATA[Joe has three thumbs up this week. It’s about time. Josh hates meetings but they both decide to contemplate their goals for the next round.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe has three thumbs up this week. It’s about time. Josh hates meetings but they both decide to contemplate their goals for the next round.
 <!--more--></p>
 ]]>
     </content:encoded>
