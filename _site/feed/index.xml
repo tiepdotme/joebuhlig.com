@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 03 Aug 2017 09:19:12 -0500</lastBuildDate>
+<lastBuildDate>Mon, 07 Aug 2017 07:10:11 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[6: I Could Just Do It for 10,000]]></title>
+    <link>https://joebuhlig.com/6-i-could-just-do-it-for-10000/</link>
+    <pubDate>Mon, 07 Aug 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[whims]]></category>
+
+
+    <category><![CDATA[whims]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/6-i-could-just-do-it-for-10000/</guid>
+    <description>
+        <![CDATA[Joe and Drew talk about working from home, freelancing, and keeping your own schedule. Also of note: A new package from Joe’s secret admirer.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe and Drew talk about working from home, freelancing, and keeping your own schedule. Also of note: A new package from Joe’s secret admirer.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[17: The Explicit Show]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Going after a task with unending motivation. This is something a go-getter has and that Joe and Mike struggled with.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[11: A Moral Dilemma]]></title>
-    <link>https://joebuhlig.com/11-a-moral-dilemma/</link>
-    <pubDate>Wed, 21 Jun 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/11-a-moral-dilemma/</guid>
-    <description>
-        <![CDATA[Josh is full of requests this time. He also has a moral dilemma that Joe is unable to help with. But it’s at least interesting to consider.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh is full of requests this time. He also has a moral dilemma that Joe is unable to help with. But it’s at least interesting to consider.
 <!--more--></p>
 ]]>
     </content:encoded>
