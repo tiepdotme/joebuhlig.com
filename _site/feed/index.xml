@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 16 Aug 2017 20:14:57 -0500</lastBuildDate>
+<lastBuildDate>Thu, 17 Aug 2017 12:10:06 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[19: I Forgot to Pack Underwear]]></title>
+    <link>https://joebuhlig.com/19-i-forgot-to-pack-underwear/</link>
+    <pubDate>Thu, 17 Aug 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/19-i-forgot-to-pack-underwear/</guid>
+    <description>
+        <![CDATA[A goal has been met! Now to make it bigger. But another has led Joe down a completely different path. Did we mention Josh became a starfish for a while?
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>A goal has been met! Now to make it bigger. But another has led Joe down a completely different path. Did we mention Josh became a starfish for a while?
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[33: The Legend of the Monk and the Merchant by Terry Felber]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This round Mike and Joe are joined by Joe’s other podcast co-host, Josh Rensch, to discuss the challenging dysfunctions that teams can be plagued by. It turns out that Josh has a rough backstory about his introduction to this book.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[12: Season 1 Goals Post-Mortem]]></title>
-    <link>https://joebuhlig.com/12-season-1-goals-postmortem/</link>
-    <pubDate>Thu, 29 Jun 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/12-season-1-goals-postmortem/</guid>
-    <description>
-        <![CDATA[It’s the end of a season, which means Josh and Joe need to go through the last 12 weeks and review their progress. Some things went really well and others were a dumpster fire. But that’s to be expected.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>It’s the end of a season, which means Josh and Joe need to go through the last 12 weeks and review their progress. Some things went really well and others were a dumpster fire. But that’s to be expected.
 <!--more--></p>
 ]]>
     </content:encoded>
