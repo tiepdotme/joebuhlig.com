@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 09 Aug 2017 08:47:26 -0500</lastBuildDate>
+<lastBuildDate>Wed, 16 Aug 2017 20:12:41 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[33: The Legend of the Monk and the Merchant by Terry Felber]]></title>
+    <link>https://joebuhlig.com/33-the-legend-of-the-monk-and-the-merchant-by-terry-felber/</link>
+    <pubDate>Wed, 16 Aug 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/33-the-legend-of-the-monk-and-the-merchant-by-terry-felber/</guid>
+    <description>
+        <![CDATA[This show comes with a disclaimer as Mike and Joe talk about faith, the church, and business. There are fine lines and lots of opinions on all of these.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This show comes with a disclaimer as Mike and Joe talk about faith, the church, and business. There are fine lines and lots of opinions on all of these.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[18: The Guild Turns Pro]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>It’s the end of a season, which means Josh and Joe need to go through the last 12 weeks and review their progress. Some things went really well and others were a dumpster fire. But that’s to be expected.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[3: Books Are Expensive]]></title>
-    <link>https://joebuhlig.com/3-books-are-expensive/</link>
-    <pubDate>Mon, 26 Jun 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[whims]]></category>
-
-
-    <category><![CDATA[whims]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/3-books-are-expensive/</guid>
-    <description>
-        <![CDATA[Drew goes to the library, Joe gives an all-important nap update, and the two talk about note-taking habits, memorization, and task managers.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew goes to the library, Joe gives an all-important nap update, and the two talk about note-taking habits, memorization, and task managers.
 <!--more--></p>
 ]]>
     </content:encoded>

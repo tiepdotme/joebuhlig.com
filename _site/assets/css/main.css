@@ -688,6 +688,9 @@ table {
   .sidebar-segment p {
     text-align: left; }
 
+.sidebar-segment.guild-ad p {
+  margin-top: 10px; }
+
 .sidebar-segment.omnifocus-book blockquote {
   margin: 10px 0px 0px 0px; }
 .sidebar-segment.omnifocus-book p {
@@ -908,7 +911,7 @@ table {
   text-align: left;
   display: inline-block;
   vertical-align: middle;
-  font-size: 12px;
+  font-size: 18px;
   padding: 10px; }
 
 .ad-text a {
