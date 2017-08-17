@@ -11,7 +11,7 @@ baseurl: ""
 url: "https://joebuhlig.com"
 cdn_url: https://cdn.joebuhlig.com
 enforce_ssl: joebuhlig.com
-version: 6
+version: 7
 twitter_username: joebuhlig
 github_username:  joebuhlig
 tumblr_username: joebuhlig
