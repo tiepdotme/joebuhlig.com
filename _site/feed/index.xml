@@ -14,11 +14,57 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 17 Aug 2017 12:10:06 -0500</lastBuildDate>
+<lastBuildDate>Thu, 24 Aug 2017 09:10:42 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[20: Time For A Do-Over]]></title>
+    <link>https://joebuhlig.com/20-time-for-a-doover/</link>
+    <pubDate>Thu, 24 Aug 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/20-time-for-a-doover/</guid>
+    <description>
+        <![CDATA[Josh had a rough first recording. So they re-recorded this week’s episode in person. So the audio is a bit raw. Ignore it. Focus on the dumpster fires instead.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh had a rough first recording. So they re-recorded this week’s episode in person. So the audio is a bit raw. Ignore it. Focus on the dumpster fires instead.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[7: Whole Wheat]]></title>
+    <link>https://joebuhlig.com/7-whole-wheat/</link>
+    <pubDate>Mon, 21 Aug 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[whims]]></category>
+
+
+    <category><![CDATA[whims]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/7-whole-wheat/</guid>
+    <description>
+        <![CDATA[Ulysses and the subscription model for apps. Medium versus Jekyll. Also, Joe bakes some sourdough bread.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Ulysses and the subscription model for apps. Medium versus Jekyll. Also, Joe bakes some sourdough bread.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[19: I Forgot to Pack Underwear]]></title>
@@ -314,53 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Mike Schmitz joins Josh and Joe this round to discuss the new goals they’ve chosen for season two. Which is tricky since Josh started the show with only two goals.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Interview with Jay Miller on Productivity in Tech]]></title>
-    <link>https://joebuhlig.com/interview-with-jay-miller-on-productivity-in-tech/</link>
-    <pubDate>Mon, 03 Jul 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[interview]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/interview-with-jay-miller-on-productivity-in-tech/</guid>
-    <description>
-        <![CDATA[As you can tell by my co-hosting of three different shows, I have embraced my love for podcasting. But, apparently, running three shows of my own isn’t enough. I started doing some interviews on other shows and the first of these to release is my chat with Jay Miller over...]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/productivity_in_tech.png" /><p>As you can tell by my co-hosting of three different shows, I have embraced my love for podcasting. But, apparently, running three shows of my own isn’t enough. I started doing some interviews on other shows and the first of these to release is my chat with Jay Miller over on the <a href="https://productivityintech.com/pitpodcast/64">Productivity in Tech</a> podcast.
-<!--more--></p>
-
-<p>Jay and I talk about a wide variety of topics involving my development work, how he should get into development, the work I’m kicking off on <a href="https://productivityguild.com">Productivity Guild</a>, digital vs. analog task management, and a number of tangents around productivity in general. It’s a good time. You should <a href="https://productivityintech.com/pitpodcast/64">check it out</a>.</p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[30: The 5 Dysfunctions of a Team by Patrick Lencioni (with Josh Rensch)]]></title>
-    <link>https://joebuhlig.com/30-the-5-dysfunctions-of-a-team-by-patrick-lencioni-with-josh-rensch/</link>
-    <pubDate>Fri, 30 Jun 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/30-the-5-dysfunctions-of-a-team-by-patrick-lencioni-with-josh-rensch/</guid>
-    <description>
-        <![CDATA[This round Mike and Joe are joined by Joe’s other podcast co-host, Josh Rensch, to discuss the challenging dysfunctions that teams can be plagued by. It turns out that Josh has a rough backstory about his introduction to this book.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This round Mike and Joe are joined by Joe’s other podcast co-host, Josh Rensch, to discuss the challenging dysfunctions that teams can be plagued by. It turns out that Josh has a rough backstory about his introduction to this book.
 <!--more--></p>
 ]]>
     </content:encoded>
