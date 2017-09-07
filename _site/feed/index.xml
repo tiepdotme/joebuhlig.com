@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 05 Sep 2017 06:40:22 -0500</lastBuildDate>
+<lastBuildDate>Thu, 07 Sep 2017 15:57:17 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[22: Aliens On The Podcast]]></title>
+    <link>https://joebuhlig.com/22-aliens-on-the-podcast/</link>
+    <pubDate>Thu, 07 Sep 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/22-aliens-on-the-podcast/</guid>
+    <description>
+        <![CDATA[Joe sabotaged Josh’s weight loss goal. He had to do something since he had dumpster fires and didn’t want to be alone in the fire.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe sabotaged Josh’s weight loss goal. He had to do something since he had dumpster fires and didn’t want to be alone in the fire.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[21: We're Going With Gooder]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Are Josh and Joe trading places? And how does one go about marketing themselves without coming across as pushy? Also, they want to share more tidbits. So there’s more tidbits.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[4: Burn Energy, Gain Energy]]></title>
-    <link>https://joebuhlig.com/4-burn-energy-gain-energy/</link>
-    <pubDate>Mon, 10 Jul 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[whims]]></category>
-
-
-    <category><![CDATA[whims]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/4-burn-energy-gain-energy/</guid>
-    <description>
-        <![CDATA[Joe gets a new computer, and the purchase sparks some discussion on the merits of the touch bar. It’s…good? Drew provides some iOS 11 note-taking updates, and brings up the topic of Twitter and the idea of meaningful distractions.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe gets a new computer, and the purchase sparks some discussion on the merits of the touch bar. It’s…good? Drew provides some iOS 11 note-taking updates, and brings up the topic of Twitter and the idea of meaningful distractions.
 <!--more--></p>
 ]]>
     </content:encoded>
