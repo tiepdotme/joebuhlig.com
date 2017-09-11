@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 07 Sep 2017 15:57:17 -0500</lastBuildDate>
+<lastBuildDate>Mon, 11 Sep 2017 07:03:24 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[8: It’s All Hacked Together]]></title>
+    <link>https://joebuhlig.com/8-its-all-hacked-together/</link>
+    <pubDate>Mon, 11 Sep 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[whims]]></category>
+
+
+    <category><![CDATA[whims]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/8-its-all-hacked-together/</guid>
+    <description>
+        <![CDATA[Bread followup! Ulysses. Workflows, Launch Center Pro, URL schemes, and the very different ways that Drew and Joe view these tools.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Bread followup! Ulysses. Workflows, Launch Center Pro, URL schemes, and the very different ways that Drew and Joe view these tools.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[22: Aliens On The Podcast]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Saying No. It’s something neither Mike nor Joe enjoy doing but know they need to embrace. The question is whether or not they can bring themselves to do it.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[14: What Comes First?]]></title>
-    <link>https://joebuhlig.com/14-what-comes-first/</link>
-    <pubDate>Thu, 13 Jul 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/14-what-comes-first/</guid>
-    <description>
-        <![CDATA[Are Josh and Joe trading places? And how does one go about marketing themselves without coming across as pushy? Also, they want to share more tidbits. So there’s more tidbits.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Are Josh and Joe trading places? And how does one go about marketing themselves without coming across as pushy? Also, they want to share more tidbits. So there’s more tidbits.
 <!--more--></p>
 ]]>
     </content:encoded>
