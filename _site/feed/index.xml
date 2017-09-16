@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 14 Sep 2017 10:21:53 -0500</lastBuildDate>
+<lastBuildDate>Sat, 16 Sep 2017 13:41:33 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[23: It's Raining Sharks]]></title>
+    <link>https://joebuhlig.com/23-its-raining-sharks/</link>
+    <pubDate>Sat, 16 Sep 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/23-its-raining-sharks/</guid>
+    <description>
+        <![CDATA[Let’s just say Josh gets fired up this round. Thus, an explicit rating is required. In the end, we all need to learn how to work together on teams. Oh! And Josh invented a new rating.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Let’s just say Josh gets fired up this round. Thus, an explicit rating is required. In the end, we all need to learn how to work together on teams. Oh! And Josh invented a new rating.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[34: Think and Grow Rich by Napoleon Hill]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe goes to MacStock and sparks a discussion on the subject of conferences. Drew takes a deep dive into the strength of ‘Input’ and the helpful benefits of personality assessments. Also…Joe considers blacksmithing?
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[15: Make The Bad Guy Relatable]]></title>
-    <link>https://joebuhlig.com/15-make-the-bad-guy-relatable/</link>
-    <pubDate>Wed, 19 Jul 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/15-make-the-bad-guy-relatable/</guid>
-    <description>
-        <![CDATA[Josh doesn’t like sleeping and learned some things about writing without mental reserves. Joe rebranded the Guild and started pulling in content. And both of them digress on finances and chip cards.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh doesn’t like sleeping and learned some things about writing without mental reserves. Joe rebranded the Guild and started pulling in content. And both of them digress on finances and chip cards.
 <!--more--></p>
 ]]>
     </content:encoded>
