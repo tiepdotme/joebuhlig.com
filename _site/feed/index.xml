@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Sat, 16 Sep 2017 13:41:33 -0500</lastBuildDate>
+<lastBuildDate>Wed, 20 Sep 2017 06:24:03 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[24: What to Do If You Get Screwed]]></title>
+    <link>https://joebuhlig.com/24-what-to-do-if-you-get-screwed/</link>
+    <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/24-what-to-do-if-you-get-screwed/</guid>
+    <description>
+        <![CDATA[Josh is now a sitter. Joe got ripped off. And that means this episode goes into legal conversation and the woes of doing freelance work online.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh is now a sitter. Joe got ripped off. And that means this episode goes into legal conversation and the woes of doing freelance work online.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[23: It's Raining Sharks]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Fires all around. Joe adds to the list of people he blames for missed goals. Josh is not losing weight. And they both struggle with being real on the internet.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[5: A Beautiful Utopia of Input]]></title>
-    <link>https://joebuhlig.com/5-a-beautiful-utopia-of-input/</link>
-    <pubDate>Mon, 24 Jul 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[whims]]></category>
-
-
-    <category><![CDATA[whims]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/5-a-beautiful-utopia-of-input/</guid>
-    <description>
-        <![CDATA[Joe goes to MacStock and sparks a discussion on the subject of conferences. Drew takes a deep dive into the strength of ‘Input’ and the helpful benefits of personality assessments. Also…Joe considers blacksmithing?
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe goes to MacStock and sparks a discussion on the subject of conferences. Drew takes a deep dive into the strength of ‘Input’ and the helpful benefits of personality assessments. Also…Joe considers blacksmithing?
 <!--more--></p>
 ]]>
     </content:encoded>
