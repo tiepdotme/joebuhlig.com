@@ -235,7 +235,7 @@
 </a></span>A Record of Completed Tasks </h1>
 			<p class="post-meta">
 				
-<div class="meta-item">Mar 25, 2016</div><div class="meta-item">Joe Buhlig</div><div class="meta-item">~3  mins</div><div class="meta-item"><a class="meta-tag" href="/tag/applescripts">applescripts</a><div class="meta-tag-arrow"></div></div><div class="meta-item"><a class="meta-tag" href="/tag/hazel">hazel</a><div class="meta-tag-arrow"></div></div><div class="meta-item"><a class="meta-tag" href="/tag/text-files">text-files</a><div class="meta-tag-arrow"></div></div>
+<div class="meta-item">Mar 25, 2016</div><div class="meta-item">Joe Buhlig</div><div class="meta-item">~2  mins</div><div class="meta-item"><a class="meta-tag" href="/tag/applescripts">applescripts</a><div class="meta-tag-arrow"></div></div><div class="meta-item"><a class="meta-tag" href="/tag/hazel">hazel</a><div class="meta-tag-arrow"></div></div><div class="meta-item"><a class="meta-tag" href="/tag/text-files">text-files</a><div class="meta-tag-arrow"></div></div>
 
 			</p>
 		</header>
@@ -269,60 +269,7 @@
 
 <p>And here’s the external AppleScript used in the rule:</p>
 
-<noscript><pre>on hazelProcessFile(theFile)
-	set filePath to &quot;/Users/JoeBuhlig/Dropbox/Text/TaskReports/&quot; -- Where to save the resulting text file (Be sure to add the trailing &quot;/&quot;)
-	
-	-- Create the new filename as YYYYMMDD.txt
-	set todayDate to current date
-	set yestDate to todayDate - 1 * days
-	set {year:y, month:m, day:d} to yestDate
-	set fileName to y * 10000
-	set fileName to fileName + (m * 100)
-	set fileName to fileName + d
-	
-	-- Set the starting date of the report
-	set startDate to todayDate - 1 * days
-	set startDate&#39;s hours to 0
-	set startDate&#39;s minutes to 0
-	set startDate&#39;s seconds to 0
-	
-	-- Set the ending date of the report
-	set endDate to todayDate - 1 * days
-	set endDate&#39;s hours to 23
-	set endDate&#39;s minutes to 59
-	set endDate&#39;s seconds to 59
-	
-	-- Create the blank report to build from
-	set reportText to &quot;&quot;
-	
-	tell application &quot;OmniFocus&quot;
-		tell front document
-			set theProjects to every flattened project where its modification date is greater than startDate and modification date is less than endDate
-			repeat with a from 1 to length of theProjects
-				set currentProj to item a of theProjects
-				set theTasks to (every flattened task of currentProj where its completed = true and completion date is greater than startDate and completion date is less than endDate)
-				if theTasks is not equal to {} then
-					set reportText to reportText &amp; return &amp; return &amp; &quot;------------------------------&quot; &amp; return &amp; name of currentProj &amp; return
-					repeat with b from 1 to length of theTasks
-						set currentTask to item b of theTasks
-						set completedDate to completion date of currentTask
-						set completedTime to time string of completedDate
-						set reportText to reportText &amp; return &amp; name of currentTask &amp; &quot; ----- &quot; &amp; completedTime
-					end repeat
-				end if
-			end repeat
-			if reportText is equal to &quot;&quot; then
-				reportText = &quot;Nothing completed for this day.&quot;
-			end if
-			set runTime to date string of (todayDate - 1 * days)
-			set reportText to runTime &amp; return &amp; return &amp; reportText
-			set newFile to open for access filePath &amp; fileName &amp; &quot;.txt&quot; with write permission
-			write reportText to newFile
-			close access newFile
-		end tell -- end tell front document
-	end tell -- end tell application &quot;OmniFocus&quot;
-end hazelProcessFile</pre></noscript>
-<script src="https://gist.github.com/joebuhlig/7e3a15b1d75cc1d745e5.js"> </script>
+<p>true<script src="https://gist.github.com/joebuhlig/7e3a15b1d75cc1d745e5.js"> </script></p>
 
 <h2 id="ios">iOS</h2>
 

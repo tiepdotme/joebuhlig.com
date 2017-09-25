@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 20 Sep 2017 06:24:03 -0500</lastBuildDate>
+<lastBuildDate>Mon, 25 Sep 2017 07:13:33 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[9: Can’t You Just Say What the ‘Content’ Is??]]></title>
+    <link>https://joebuhlig.com/9-cant-you-just-say-what-the-content-is/</link>
+    <pubDate>Mon, 25 Sep 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[whims]]></category>
+
+
+    <category><![CDATA[whims]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/9-cant-you-just-say-what-the-content-is/</guid>
+    <description>
+        <![CDATA[Drew thinks “content” is a dirty word. Joe thinks giving two hours every week to pondering questions seems like a whole lot of time. Also, more conversation on space for silence.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew thinks “content” is a dirty word. Joe thinks giving two hours every week to pondering questions seems like a whole lot of time. Also, more conversation on space for silence.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[24: What to Do If You Get Screwed]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This week Mike and Joe talk about the cognitive biases that they struggle with and the ones they are fascinated by. And it seems there are a lot of these. So picking a few is not as easy as it sounds.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[16: I'm a Blue Person]]></title>
-    <link>https://joebuhlig.com/16-im-a-blue-person/</link>
-    <pubDate>Thu, 27 Jul 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/16-im-a-blue-person/</guid>
-    <description>
-        <![CDATA[Fires all around. Joe adds to the list of people he blames for missed goals. Josh is not losing weight. And they both struggle with being real on the internet.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Fires all around. Joe adds to the list of people he blames for missed goals. Josh is not losing weight. And they both struggle with being real on the internet.
 <!--more--></p>
 ]]>
     </content:encoded>
