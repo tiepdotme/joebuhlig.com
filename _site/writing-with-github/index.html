@@ -235,7 +235,7 @@
 </a></span>Writing with GitHub </h1>
 			<p class="post-meta">
 				
-<div class="meta-item">Sep 11, 2015</div><div class="meta-item">Joe Buhlig</div><div class="meta-item">~4  mins</div><div class="meta-item"><a class="meta-tag" href="/tag/github">github</a><div class="meta-tag-arrow"></div></div><div class="meta-item"><a class="meta-tag" href="/tag/setups">setups</a><div class="meta-tag-arrow"></div></div><div class="meta-item"><a class="meta-tag" href="/tag/writing">writing</a><div class="meta-tag-arrow"></div></div>
+<div class="meta-item">Sep 11, 2015</div><div class="meta-item">Joe Buhlig</div><div class="meta-item">~5  mins</div><div class="meta-item"><a class="meta-tag" href="/tag/github">github</a><div class="meta-tag-arrow"></div></div><div class="meta-item"><a class="meta-tag" href="/tag/setups">setups</a><div class="meta-tag-arrow"></div></div><div class="meta-item"><a class="meta-tag" href="/tag/writing">writing</a><div class="meta-tag-arrow"></div></div>
 
 			</p>
 		</header>
@@ -292,7 +292,20 @@
 
 <p>I added this code to the post-commit executable found in the “.git” directory of my writing repository:</p>
 
-<p>true<script src="https://gist.github.com/joebuhlig/b0c3cd227c148685f98d.js"> </script></p>
+<noscript><pre>PATH=$PATH:/usr/local/bin:/usr/local/sbin
+#!/bin/bash
+gitbranch=`git rev-parse --abbrev-ref HEAD`
+if [ $gitbranch = &quot;master&quot; ]; then
+	date=`date +%m/%d/%Y`
+	datetime=`date +%r`
+	gitwa=`git diff HEAD^ HEAD --word-diff=porcelain | grep -e &quot;^+[^+]&quot; | wc -w`
+	gitwd=`git diff HEAD^ HEAD --word-diff=porcelain | grep -e &quot;^-[^-]&quot; | wc -w`
+	commit=`git log -1 --pretty=%B`
+	cnt=`expr $gitwa - $gitwd`
+	theURL=&#39;https://script.google.com/a/macros/username/s/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/exec&#39;
+	curl -L --get $theURL --data-urlencode &quot;Date=$date&quot; --data-urlencode &quot;Time=$datetime&quot; --data-urlencode &quot;WordCount=$cnt&quot; --data-urlencode &quot;Commit=$commit&quot; --data-urlencode &quot;Adds=$gitwa&quot; --data-urlencode &quot;Deletes=$gitwd&quot;
+fi</pre></noscript>
+<script src="https://gist.github.com/joebuhlig/b0c3cd227c148685f98d.js"> </script>
 
 <p>It checks to see if the commit is in the master branch. If it is, then it counts the words that have been added and subtracts the number of words that were removed. That number is then sent to a Google Sheet through a Google Script that I’ve published as a web app.</p>
 
@@ -412,21 +425,15 @@
       </div>
     </div>
     
-    <!-- Piwik -->
-    <script type="text/javascript">
-        var _paq = _paq || [];
-        _paq.push(['trackPageView']);
-        _paq.push(['enableLinkTracking']);
-        (function() {
-        var u="//joebuhlig.piwikpro.com/";
-        _paq.push(['setTrackerUrl', u+'piwik.php']);
-        _paq.push(['setSiteId', 1]);
-        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-        })();
-        </script>
-    <noscript><p><img src="//joebuhlig.piwikpro.com/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
-    <!-- End Piwik Code -->
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-41316549-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments)};
+      gtag('js', new Date());
+
+      gtag('config', 'UA-41316549-1');
+    </script>
     
   </body>
 </html>
