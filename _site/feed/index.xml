@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 02 Oct 2017 11:23:42 -0500</lastBuildDate>
+<lastBuildDate>Mon, 02 Oct 2017 11:37:37 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[35: The Art of Asking by Amanda Palmer]]></title>
+    <link>https://joebuhlig.com/35-the-art-of-asking-by-amanda-palmer/</link>
+    <pubDate>Mon, 02 Oct 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/35-the-art-of-asking-by-amanda-palmer/</guid>
+    <description>
+        <![CDATA[Mike has a bone to pick with Joe on this one. Let’s just say this was a very fun, passionate conversation about a book that turned out to be much different than expected.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Mike has a bone to pick with Joe on this one. Let’s just say this was a very fun, passionate conversation about a book that turned out to be much different than expected.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[9: Can’t You Just Say What the ‘Content’ Is??]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh has been waiting and waiting for this show to get here. And now it’s here. You’ve been warned. Also, Joe has some big news about the Guild.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[32: The Art of Thinking Clearly by Rolf Dobelli]]></title>
-    <link>https://joebuhlig.com/32-the-art-of-thinking-clearly-by-rolf-dobelli/</link>
-    <pubDate>Wed, 02 Aug 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/32-the-art-of-thinking-clearly-by-rolf-dobelli/</guid>
-    <description>
-        <![CDATA[This week Mike and Joe talk about the cognitive biases that they struggle with and the ones they are fascinated by. And it seems there are a lot of these. So picking a few is not as easy as it sounds.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This week Mike and Joe talk about the cognitive biases that they struggle with and the ones they are fascinated by. And it seems there are a lot of these. So picking a few is not as easy as it sounds.
 <!--more--></p>
 ]]>
     </content:encoded>
