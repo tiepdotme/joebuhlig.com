@@ -929,7 +929,6 @@ table {
   font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
   line-height: 1.5em;
   overflow: hidden;
-  color: #666;
   font-size: 16px;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -1022,7 +1021,6 @@ table {
   margin-top: 20px; }
 
 .ck_form.ck_minimal .ck_guarantee {
-  color: #626262;
   font-size: 12px;
   text-align: center;
   padding: 15px 0px 0px;
