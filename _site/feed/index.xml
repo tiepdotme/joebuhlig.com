@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 02 Oct 2017 11:37:37 -0500</lastBuildDate>
+<lastBuildDate>Wed, 04 Oct 2017 13:42:52 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[25: Do Not Disturb While Podcasting]]></title>
+    <link>https://joebuhlig.com/25-do-not-disturb-while-podcasting/</link>
+    <pubDate>Wed, 04 Oct 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/25-do-not-disturb-while-podcasting/</guid>
+    <description>
+        <![CDATA[Josh is making last minute changes. Joe has a theory on goal-setting. And season two isn’t looking good as we hit the home stretch.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh is making last minute changes. Joe has a theory on goal-setting. And season two isn’t looking good as we hit the home stretch.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[35: The Art of Asking by Amanda Palmer]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe and Drew talk about working from home, freelancing, and keeping your own schedule. Also of note: A new package from Joe’s secret admirer.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[17: The Explicit Show]]></title>
-    <link>https://joebuhlig.com/17-the-explicit-show/</link>
-    <pubDate>Thu, 03 Aug 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/17-the-explicit-show/</guid>
-    <description>
-        <![CDATA[Josh has been waiting and waiting for this show to get here. And now it’s here. You’ve been warned. Also, Joe has some big news about the Guild.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh has been waiting and waiting for this show to get here. And now it’s here. You’ve been warned. Also, Joe has some big news about the Guild.
 <!--more--></p>
 ]]>
     </content:encoded>
