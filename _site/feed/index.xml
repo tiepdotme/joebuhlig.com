@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 09 Oct 2017 08:47:53 -0500</lastBuildDate>
+<lastBuildDate>Tue, 10 Oct 2017 15:50:34 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[26: Season 2 Post-Mortem]]></title>
+    <link>https://joebuhlig.com/26-season-2-postmortem/</link>
+    <pubDate>Tue, 10 Oct 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/26-season-2-postmortem/</guid>
+    <description>
+        <![CDATA[It’s time to be honest and see what Josh and Joe accomplished (or failed to accomplish) over the last 12 weeks. The results are mostly dumpster fires with occasional kittens sprinkled on top.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>It’s time to be honest and see what Josh and Joe accomplished (or failed to accomplish) over the last 12 weeks. The results are mostly dumpster fires with occasional kittens sprinkled on top.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[10: I’m Going to Have a Problem Tomorrow Because I’m Saying This Now]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This show comes with a disclaimer as Mike and Joe talk about faith, the church, and business. There are fine lines and lots of opinions on all of these.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[18: The Guild Turns Pro]]></title>
-    <link>https://joebuhlig.com/18-the-guild-turns-pro/</link>
-    <pubDate>Wed, 09 Aug 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/18-the-guild-turns-pro/</guid>
-    <description>
-        <![CDATA[Josh encourages Joe to sell the Guild and not be dumb as the Pro section opens. And they both dive into an interesting conversation on being genuine online.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh encourages Joe to sell the Guild and not be dumb as the Pro section opens. And they both dive into an interesting conversation on being genuine online.
 <!--more--></p>
 ]]>
     </content:encoded>
