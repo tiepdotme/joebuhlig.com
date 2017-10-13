@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 10 Oct 2017 15:50:34 -0500</lastBuildDate>
+<lastBuildDate>Fri, 13 Oct 2017 14:36:02 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[27: Season 3 Goals]]></title>
+    <link>https://joebuhlig.com/27-season-3-goals/</link>
+    <pubDate>Fri, 13 Oct 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/27-season-3-goals/</guid>
+    <description>
+        <![CDATA[Joe is fighting with Office 365. Josh is carrying over goals. And Theoretical Accountability is making some big changes.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe is fighting with Office 365. Josh is carrying over goals. And Theoretical Accountability is making some big changes.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[26: Season 2 Post-Mortem]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>A goal has been met! Now to make it bigger. But another has led Joe down a completely different path. Did we mention Josh became a starfish for a while?
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[33: The Legend of the Monk and the Merchant by Terry Felber]]></title>
-    <link>https://joebuhlig.com/33-the-legend-of-the-monk-and-the-merchant-by-terry-felber/</link>
-    <pubDate>Wed, 16 Aug 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/33-the-legend-of-the-monk-and-the-merchant-by-terry-felber/</guid>
-    <description>
-        <![CDATA[This show comes with a disclaimer as Mike and Joe talk about faith, the church, and business. There are fine lines and lots of opinions on all of these.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This show comes with a disclaimer as Mike and Joe talk about faith, the church, and business. There are fine lines and lots of opinions on all of these.
 <!--more--></p>
 ]]>
     </content:encoded>
