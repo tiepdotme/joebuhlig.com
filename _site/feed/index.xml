@@ -14,11 +14,57 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 13 Oct 2017 14:36:02 -0500</lastBuildDate>
+<lastBuildDate>Fri, 20 Oct 2017 12:02:32 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[28: Analog Podcasting]]></title>
+    <link>https://joebuhlig.com/28-analog-podcasting/</link>
+    <pubDate>Fri, 20 Oct 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[theoretical]]></category>
+
+
+    <category><![CDATA[theoretical]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/28-analog-podcasting/</guid>
+    <description>
+        <![CDATA[Josh gets fancy with his shaving. He’s also removing peanut butter. Joe likes video calls. Even as a millennial, he prefers the face-to-face meetings. Weird. Oh, and Joe played with OmniPlan.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh gets fancy with his shaving. He’s also removing peanut butter. Joe likes video calls. Even as a millennial, he prefers the face-to-face meetings. Weird. Oh, and Joe played with OmniPlan.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[36: Paid to Think by David Goldsmith]]></title>
+    <link>https://joebuhlig.com/36-paid-to-think-by-david-goldsmith/</link>
+    <pubDate>Thu, 19 Oct 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/36-paid-to-think-by-david-goldsmith/</guid>
+    <description>
+        <![CDATA[It’s time to tackle our latest textbook. It was a listener recommendation and has a lot to talk about. So we’re glad this episode didn’t end up being 5 hours long.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>It’s time to tackle our latest textbook. It was a listener recommendation and has a lot to talk about. So we’re glad this episode didn’t end up being 5 hours long.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[27: Season 3 Goals]]></title>
@@ -314,52 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh had a rough first recording. So they re-recorded this week’s episode in person. So the audio is a bit raw. Ignore it. Focus on the dumpster fires instead.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[7: Whole Wheat]]></title>
-    <link>https://joebuhlig.com/7-whole-wheat/</link>
-    <pubDate>Mon, 21 Aug 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[whims]]></category>
-
-
-    <category><![CDATA[whims]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/7-whole-wheat/</guid>
-    <description>
-        <![CDATA[Ulysses and the subscription model for apps. Medium versus Jekyll. Also, Joe bakes some sourdough bread.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Ulysses and the subscription model for apps. Medium versus Jekyll. Also, Joe bakes some sourdough bread.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[19: I Forgot to Pack Underwear]]></title>
-    <link>https://joebuhlig.com/19-i-forgot-to-pack-underwear/</link>
-    <pubDate>Thu, 17 Aug 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/19-i-forgot-to-pack-underwear/</guid>
-    <description>
-        <![CDATA[A goal has been met! Now to make it bigger. But another has led Joe down a completely different path. Did we mention Josh became a starfish for a while?
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>A goal has been met! Now to make it bigger. But another has led Joe down a completely different path. Did we mention Josh became a starfish for a while?
 <!--more--></p>
 ]]>
     </content:encoded>

@@ -193,8 +193,9 @@
     <a class="page-link" href="https://productivityguild.com">Guild</a>
     <a class="page-link" href="https://workingwithomnifocus.com">OmniFocus</a>
     <div class="form-wrapper search-form">
-      <form action="/search" method="get">
+      <form action="https://duckduckgo.com" method="get">
         <input type="text" class="search-box" placeholder="Search" name="q">
+        <input type="hidden" name="sites" value="joebuhlig.com">
       </form>
     </div>
     <a href="#" id="search-icon">
@@ -307,26 +308,7 @@
   <li>
     <p>Open Script Editor on your Mac, and add the following AppleScript:</p>
 
-    <noscript><pre>on idle
-tell application &quot;OmniFocus&quot;
-    tell front document
-        set theInbox to every inbox task
-        if theInbox is not equal to {} then
-            repeat with n from 1 to length of theInbox
-                set currentTask to item n of theInbox
-                set taskName to name of currentTask
-                if taskName starts with &quot;--&quot; then
-                    set taskName to ((characters 3 thru -1 of taskName) as string)
-                    set newTask to parse tasks into with transport text taskName with as single task
-                    delete currentTask
-                end if
-            end repeat
-        end if
-    end tell
-end tell
-return 120
-end idle</pre></noscript>
-    <script src="https://gist.github.com/joebuhlig/c91ca9d5a47ab09d3525.js"> </script>
+    <p>true<script src="https://gist.github.com/joebuhlig/c91ca9d5a47ab09d3525.js"> </script></p>
   </li>
   <li>
     <p>Save the AppleScript as an always open app.</p>
