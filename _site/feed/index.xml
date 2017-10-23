@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 20 Oct 2017 12:02:32 -0500</lastBuildDate>
+<lastBuildDate>Mon, 23 Oct 2017 07:03:38 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[11: Paper Works]]></title>
+    <link>https://joebuhlig.com/11-paper-works/</link>
+    <pubDate>Mon, 23 Oct 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[whims]]></category>
+
+
+    <category><![CDATA[whims]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/11-paper-works/</guid>
+    <description>
+        <![CDATA[This week Drew and I go into some more depth about paper and why it is becoming a go-to tool for me. Yes, I’m addicted.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>This week Drew and I go into some more depth about paper and why it is becoming a go-to tool for me. Yes, I’m addicted.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[28: Analog Podcasting]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe has lost all the good words. Josh is making a derivative of bacon. And goals were mentioned in here somewhere. Which means this is likely the backwards show.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[20: Time For A Do-Over]]></title>
-    <link>https://joebuhlig.com/20-time-for-a-doover/</link>
-    <pubDate>Thu, 24 Aug 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/20-time-for-a-doover/</guid>
-    <description>
-        <![CDATA[Josh had a rough first recording. So they re-recorded this week’s episode in person. So the audio is a bit raw. Ignore it. Focus on the dumpster fires instead.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh had a rough first recording. So they re-recorded this week’s episode in person. So the audio is a bit raw. Ignore it. Focus on the dumpster fires instead.
 <!--more--></p>
 ]]>
     </content:encoded>
