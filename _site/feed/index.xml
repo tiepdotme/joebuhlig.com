@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 23 Oct 2017 07:03:38 -0500</lastBuildDate>
+<lastBuildDate>Sat, 04 Nov 2017 07:33:33 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[29: Welcome to the Productivity Guild Podcast]]></title>
+    <link>https://joebuhlig.com/29-welcome-to-the-productivity-guild-podcast/</link>
+    <pubDate>Sat, 04 Nov 2017 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[guild]]></category>
+
+
+    <category><![CDATA[guild-podcast]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/29-welcome-to-the-productivity-guild-podcast/</guid>
+    <description>
+        <![CDATA[Theoretical Accountability is now rebranded to The Productivity Guild Podcast. At the same time, Josh is now losing weight. And Joe is potentially staying solo.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/guildpodcast.png" /><p>Theoretical Accountability is now rebranded to The Productivity Guild Podcast. At the same time, Josh is now losing weight. And Joe is potentially staying solo.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[11: Paper Works]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe sabotaged Josh’s weight loss goal. He had to do something since he had dumpster fires and didn’t want to be alone in the fire.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[21: We're Going With Gooder]]></title>
-    <link>https://joebuhlig.com/21-were-going-with-gooder/</link>
-    <pubDate>Tue, 05 Sep 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/21-were-going-with-gooder/</guid>
-    <description>
-        <![CDATA[Joe has lost all the good words. Josh is making a derivative of bacon. And goals were mentioned in here somewhere. Which means this is likely the backwards show.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe has lost all the good words. Josh is making a derivative of bacon. And goals were mentioned in here somewhere. Which means this is likely the backwards show.
 <!--more--></p>
 ]]>
     </content:encoded>

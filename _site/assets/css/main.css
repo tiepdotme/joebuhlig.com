@@ -572,6 +572,8 @@ table {
   float: left; }
   .feed-icon .theoretical path {
     fill: #FAAC1B; }
+  .feed-icon .guild path {
+    fill: #D93A32; }
   .feed-icon .whims path {
     fill: #405caa; }
 
@@ -727,6 +729,8 @@ table {
     fill: #232b36; }
   .post-icon .theoretical path {
     fill: #FAAC1B; }
+  .post-icon .guild path {
+    fill: #D93A32; }
 
 .post-title {
   margin-top: 30px;
