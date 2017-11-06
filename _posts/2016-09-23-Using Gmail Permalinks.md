@@ -4,6 +4,7 @@ date:   2016-09-23
 categories: video
 tags:
 - email
+- video
 permalink: /using-gmail-permalinks/
 image: /assets/posts/using-gmail-permalinks.jpg
 vimeo_id: 183676451
