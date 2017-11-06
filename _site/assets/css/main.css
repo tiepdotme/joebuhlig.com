@@ -731,6 +731,8 @@ table {
     fill: #FAAC1B; }
   .post-icon .guild path {
     fill: #D93A32; }
+  .post-icon .whims path {
+    fill: #405caa; }
 
 .post-title {
   margin-top: 30px;

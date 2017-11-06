@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Sat, 04 Nov 2017 07:34:16 -0500</lastBuildDate>
+<lastBuildDate>Mon, 06 Nov 2017 06:36:54 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[12: The Opposite of What I Needed but Exactly What I Wanted]]></title>
+    <link>https://joebuhlig.com/12-the-opposite-of-what-i-needed-but-exactly-what-i-wanted/</link>
+    <pubDate>Mon, 06 Nov 2017 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[whims]]></category>
+
+
+    <category><![CDATA[whims]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/12-the-opposite-of-what-i-needed-but-exactly-what-i-wanted/</guid>
+    <description>
+        <![CDATA[Joe gets a new podcasting setup. Drew talks about his latest experience working with pen and paper. A book sparks a conversation around the future of reading, note-keeping, and the often-discussed subject of input.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe gets a new podcasting setup. Drew talks about his latest experience working with pen and paper. A book sparks a conversation around the future of reading, note-keeping, and the often-discussed subject of input.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[29: Welcome to the Productivity Guild Podcast]]></title>
@@ -337,29 +360,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Bread followup! Ulysses. Workflows, Launch Center Pro, URL schemes, and the very different ways that Drew and Joe view these tools.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[22: Aliens On The Podcast]]></title>
-    <link>https://joebuhlig.com/22-aliens-on-the-podcast/</link>
-    <pubDate>Thu, 07 Sep 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/22-aliens-on-the-podcast/</guid>
-    <description>
-        <![CDATA[Joe sabotaged Josh’s weight loss goal. He had to do something since he had dumpster fires and didn’t want to be alone in the fire.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe sabotaged Josh’s weight loss goal. He had to do something since he had dumpster fires and didn’t want to be alone in the fire.
 <!--more--></p>
 ]]>
     </content:encoded>
