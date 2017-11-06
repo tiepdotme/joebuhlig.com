@@ -570,6 +570,8 @@ table {
   display: inline-block;
   vertical-align: top;
   float: left; }
+  .feed-icon .bookworm path {
+    fill: #97B9CC; }
   .feed-icon .theoretical path {
     fill: #FAAC1B; }
   .feed-icon .guild path {
