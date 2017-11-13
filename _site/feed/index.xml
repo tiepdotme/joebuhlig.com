@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 13 Nov 2017 07:17:21 -0600</lastBuildDate>
+<lastBuildDate>Mon, 13 Nov 2017 07:24:52 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -39,6 +39,29 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/sprh_art.jpeg" /><p>This was a really fun show I did with Matt Ward and Dan Candell over on the <a href="http://sprhpodcast.com/ep-43-building-communities-that-help-your-small-business-thrive/">Square Peg Round Hole Podcast</a>. We get to talk about building online communities (in my case <a href="https://productivityguild.com">Productivity Guild</a>) and how those compare to FaceBook communities. Ultimately, treat your community like a close friend.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[30: Goals and Fear with Justin DiRose]]></title>
+    <link>https://joebuhlig.com/30-goals-and-fear-with-justin-dirose/</link>
+    <pubDate>Fri, 10 Nov 2017 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[guild]]></category>
+
+
+    <category><![CDATA[guild-podcast]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/30-goals-and-fear-with-justin-dirose/</guid>
+    <description>
+        <![CDATA[Justin DiRose joins Joe and Josh to talk about goals. But they also touch on the difficult topic of fear and how that prevents us from moving forward on our dreams.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/guildpodcast.png" /><p>Justin DiRose joins Joe and Josh to talk about goals. But they also touch on the difficult topic of fear and how that prevents us from moving forward on our dreams.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Let’s just say Josh gets fired up this round. Thus, an explicit rating is required. In the end, we all need to learn how to work together on teams. Oh! And Josh invented a new rating.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[34: Think and Grow Rich by Napoleon Hill]]></title>
-    <link>https://joebuhlig.com/34-think-and-grow-rich-by-napoleon-hill/</link>
-    <pubDate>Thu, 14 Sep 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/34-think-and-grow-rich-by-napoleon-hill/</guid>
-    <description>
-        <![CDATA[This week Mike and Joe talk about money. And they talk about thinking about attracting money. We know. Complicated. But it rates well.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This week Mike and Joe talk about money. And they talk about thinking about attracting money. We know. Complicated. But it rates well.
 <!--more--></p>
 ]]>
     </content:encoded>
