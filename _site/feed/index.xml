@@ -14,11 +14,35 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 06 Nov 2017 09:46:10 -0600</lastBuildDate>
+<lastBuildDate>Mon, 13 Nov 2017 07:17:21 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Building Communities That Help Your Small Business Thrive - SPRH Podcast]]></title>
+    <link>https://joebuhlig.com/building-communities-that-help-your-small-business-thrive--sprh-podcast/</link>
+    <pubDate>Mon, 13 Nov 2017 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[communities]]></category>
+
+    <category><![CDATA[podcast-guest]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/building-communities-that-help-your-small-business-thrive--sprh-podcast/</guid>
+    <description>
+        <![CDATA[This was a really fun show I did with Matt Ward and Dan Candell over on the Square Peg Round Hole Podcast. We get to talk about building online communities (in my case Productivity Guild) and how those compare to FaceBook communities. Ultimately, treat your community like a close friend....]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/sprh_art.jpeg" /><p>This was a really fun show I did with Matt Ward and Dan Candell over on the <a href="http://sprhpodcast.com/ep-43-building-communities-that-help-your-small-business-thrive/">Square Peg Round Hole Podcast</a>. We get to talk about building online communities (in my case <a href="https://productivityguild.com">Productivity Guild</a>) and how those compare to FaceBook communities. Ultimately, treat your community like a close friend.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[12: The Opposite of What I Needed but Exactly What I Wanted]]></title>
@@ -337,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This week Mike and Joe talk about money. And they talk about thinking about attracting money. We know. Complicated. But it rates well.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[8: It’s All Hacked Together]]></title>
-    <link>https://joebuhlig.com/8-its-all-hacked-together/</link>
-    <pubDate>Mon, 11 Sep 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[whims]]></category>
-
-
-    <category><![CDATA[whims]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/8-its-all-hacked-together/</guid>
-    <description>
-        <![CDATA[Bread followup! Ulysses. Workflows, Launch Center Pro, URL schemes, and the very different ways that Drew and Joe view these tools.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Bread followup! Ulysses. Workflows, Launch Center Pro, URL schemes, and the very different ways that Drew and Joe view these tools.
 <!--more--></p>
 ]]>
     </content:encoded>
