@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 13 Nov 2017 07:24:52 -0600</lastBuildDate>
+<lastBuildDate>Mon, 20 Nov 2017 06:54:20 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[13: Decreasing in Searchability, Increasing in Awesomeness]]></title>
+    <link>https://joebuhlig.com/13-decreasing-in-searchability-increasing-in-awesomeness/</link>
+    <pubDate>Mon, 20 Nov 2017 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[whims]]></category>
+
+
+    <category><![CDATA[whims]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/13-decreasing-in-searchability-increasing-in-awesomeness/</guid>
+    <description>
+        <![CDATA[Joe continues delving into the world of podcasting equipment, Drew continues to delve into the world of paper. More conversation on switching from digital to analog tools, and the many uses of whiteboards.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe continues delving into the world of podcasting equipment, Drew continues to delve into the world of paper. More conversation on switching from digital to analog tools, and the many uses of whiteboards.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Building Communities That Help Your Small Business Thrive - SPRH Podcast]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh is now a sitter. Joe got ripped off. And that means this episode goes into legal conversation and the woes of doing freelance work online.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[23: It's Raining Sharks]]></title>
-    <link>https://joebuhlig.com/23-its-raining-sharks/</link>
-    <pubDate>Sat, 16 Sep 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/23-its-raining-sharks/</guid>
-    <description>
-        <![CDATA[Let’s just say Josh gets fired up this round. Thus, an explicit rating is required. In the end, we all need to learn how to work together on teams. Oh! And Josh invented a new rating.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Let’s just say Josh gets fired up this round. Thus, an explicit rating is required. In the end, we all need to learn how to work together on teams. Oh! And Josh invented a new rating.
 <!--more--></p>
 ]]>
     </content:encoded>
