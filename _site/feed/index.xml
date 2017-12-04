@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Wed, 29 Nov 2017 07:34:07 -0600</lastBuildDate>
+<lastBuildDate>Mon, 04 Dec 2017 10:11:29 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[14: A New Toy]]></title>
+    <link>https://joebuhlig.com/14-a-new-toy/</link>
+    <pubDate>Mon, 04 Dec 2017 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[whims]]></category>
+
+
+    <category><![CDATA[whims]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/14-a-new-toy/</guid>
+    <description>
+        <![CDATA[It’s new iPhone season and Joe and Drew both found themselves upgrading to the X. So, what would a technology podcast be without a discussion about home screens?
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>It’s new iPhone season and Joe and Drew both found themselves upgrading to the X. So, what would a technology podcast be without a discussion about home screens?
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[37: Antifragile by Nassim Nicholas Taleb]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Mike has a bone to pick with Joe on this one. Let’s just say this was a very fun, passionate conversation about a book that turned out to be much different than expected.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[9: Can’t You Just Say What the ‘Content’ Is??]]></title>
-    <link>https://joebuhlig.com/9-cant-you-just-say-what-the-content-is/</link>
-    <pubDate>Mon, 25 Sep 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[whims]]></category>
-
-
-    <category><![CDATA[whims]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/9-cant-you-just-say-what-the-content-is/</guid>
-    <description>
-        <![CDATA[Drew thinks “content” is a dirty word. Joe thinks giving two hours every week to pondering questions seems like a whole lot of time. Also, more conversation on space for silence.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew thinks “content” is a dirty word. Joe thinks giving two hours every week to pondering questions seems like a whole lot of time. Also, more conversation on space for silence.
 <!--more--></p>
 ]]>
     </content:encoded>
