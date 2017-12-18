@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 04 Dec 2017 10:11:29 -0600</lastBuildDate>
+<lastBuildDate>Mon, 18 Dec 2017 06:34:30 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[15: All for a Space Gray Keyboard]]></title>
+    <link>https://joebuhlig.com/15-all-for-a-space-gray-keyboard/</link>
+    <pubDate>Mon, 18 Dec 2017 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[whims]]></category>
+
+
+    <category><![CDATA[whims]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/15-all-for-a-space-gray-keyboard/</guid>
+    <description>
+        <![CDATA[Right before recording, Drew took a look at his Mac’s desktop. This prompted some discussion. Also, a home automation talk. Joe’s not a fan.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Right before recording, Drew took a look at his Mac’s desktop. This prompted some discussion. Also, a home automation talk. Joe’s not a fan.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[14: A New Toy]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh is making last minute changes. Joe has a theory on goal-setting. And season two isn’t looking good as we hit the home stretch.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[35: The Art of Asking by Amanda Palmer]]></title>
-    <link>https://joebuhlig.com/35-the-art-of-asking-by-amanda-palmer/</link>
-    <pubDate>Mon, 02 Oct 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/35-the-art-of-asking-by-amanda-palmer/</guid>
-    <description>
-        <![CDATA[Mike has a bone to pick with Joe on this one. Let’s just say this was a very fun, passionate conversation about a book that turned out to be much different than expected.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Mike has a bone to pick with Joe on this one. Let’s just say this was a very fun, passionate conversation about a book that turned out to be much different than expected.
 <!--more--></p>
 ]]>
     </content:encoded>
