@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 18 Dec 2017 06:34:30 -0600</lastBuildDate>
+<lastBuildDate>Tue, 26 Dec 2017 06:52:04 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[39: The 4 Disciplines of Execution by Chris McChesney, Jim Huling, Sean Covey]]></title>
+    <link>https://joebuhlig.com/39-the-4-disciplines-of-execution-by-chris-mcchesney-jim-huling-sean-covey/</link>
+    <pubDate>Tue, 26 Dec 2017 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/39-the-4-disciplines-of-execution-by-chris-mcchesney-jim-huling-sean-covey/</guid>
+    <description>
+        <![CDATA[This round we learn why Mike doesn’t care for this book. Joe picked it only because it’s been popular and it was a listener recommendation. But that doesn’t affect their ratings at all.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This round we learn why Mike doesn’t care for this book. Joe picked it only because it’s been popular and it was a listener recommendation. But that doesn’t affect their ratings at all.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[15: All for a Space Gray Keyboard]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew went on a cruise, and worked at sea. Joe did NOT enjoy the redesign of a certain productivity app. The two share computer horror stories (though one of them has frustratingly never had any real problems), and Joe reveals a major new ‘experiment’.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[25: Do Not Disturb While Podcasting]]></title>
-    <link>https://joebuhlig.com/25-do-not-disturb-while-podcasting/</link>
-    <pubDate>Wed, 04 Oct 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/25-do-not-disturb-while-podcasting/</guid>
-    <description>
-        <![CDATA[Josh is making last minute changes. Joe has a theory on goal-setting. And season two isn’t looking good as we hit the home stretch.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh is making last minute changes. Joe has a theory on goal-setting. And season two isn’t looking good as we hit the home stretch.
 <!--more--></p>
 ]]>
     </content:encoded>
