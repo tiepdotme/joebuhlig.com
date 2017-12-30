@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 26 Dec 2017 06:52:04 -0600</lastBuildDate>
+<lastBuildDate>Sat, 30 Dec 2017 07:21:51 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[32: Can You Code On The iPad?]]></title>
+    <link>https://joebuhlig.com/32-can-you-code-on-the-ipad/</link>
+    <pubDate>Sat, 30 Dec 2017 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[guild]]></category>
+
+
+    <category><![CDATA[guild-podcast]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/32-can-you-code-on-the-ipad/</guid>
+    <description>
+        <![CDATA[Joe is trying to figure out if an iPad is worth it. Josh is doing well at HPS Grad School. Also, you should join the Guild.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/guildpodcast.png" /><p>Joe is trying to figure out if an iPad is worth it. Josh is doing well at HPS Grad School. Also, you should join the Guild.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[39: The 4 Disciplines of Execution by Chris McChesney, Jim Huling, Sean Covey]]></title>
@@ -61,6 +84,29 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Right before recording, Drew took a look at his Mac’s desktop. This prompted some discussion. Also, a home automation talk. Joe’s not a fan.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[31: Building A New Goal]]></title>
+    <link>https://joebuhlig.com/31-building-a-new-goal/</link>
+    <pubDate>Mon, 04 Dec 2017 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[guild]]></category>
+
+
+    <category><![CDATA[guild-podcast]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/31-building-a-new-goal/</guid>
+    <description>
+        <![CDATA[Joe dropped an atom bomb on his first goal. But what did he replace it with? And why make a big change this late in the game? But wait, how did he examine this new idea and get this far with it so quickly?
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/guildpodcast.png" /><p>Joe dropped an atom bomb on his first goal. But what did he replace it with? And why make a big change this late in the game? But wait, how did he examine this new idea and get this far with it so quickly?
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -315,52 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe is fighting with Office 365. Josh is carrying over goals. And Theoretical Accountability is making some big changes.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[26: Season 2 Post-Mortem]]></title>
-    <link>https://joebuhlig.com/26-season-2-postmortem/</link>
-    <pubDate>Tue, 10 Oct 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/26-season-2-postmortem/</guid>
-    <description>
-        <![CDATA[It’s time to be honest and see what Josh and Joe accomplished (or failed to accomplish) over the last 12 weeks. The results are mostly dumpster fires with occasional kittens sprinkled on top.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>It’s time to be honest and see what Josh and Joe accomplished (or failed to accomplish) over the last 12 weeks. The results are mostly dumpster fires with occasional kittens sprinkled on top.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[10: I’m Going to Have a Problem Tomorrow Because I’m Saying This Now]]></title>
-    <link>https://joebuhlig.com/10-im-going-to-have-a-problem-tomorrow-because-im-saying-this-now/</link>
-    <pubDate>Mon, 09 Oct 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[whims]]></category>
-
-
-    <category><![CDATA[whims]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/10-im-going-to-have-a-problem-tomorrow-because-im-saying-this-now/</guid>
-    <description>
-        <![CDATA[Drew went on a cruise, and worked at sea. Joe did NOT enjoy the redesign of a certain productivity app. The two share computer horror stories (though one of them has frustratingly never had any real problems), and Joe reveals a major new ‘experiment’.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew went on a cruise, and worked at sea. Joe did NOT enjoy the redesign of a certain productivity app. The two share computer horror stories (though one of them has frustratingly never had any real problems), and Joe reveals a major new ‘experiment’.
 <!--more--></p>
 ]]>
     </content:encoded>
