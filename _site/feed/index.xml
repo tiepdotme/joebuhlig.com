@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Sat, 30 Dec 2017 07:21:51 -0600</lastBuildDate>
+<lastBuildDate>Mon, 01 Jan 2018 06:46:16 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[16: Multiple Fountain Pens, My God]]></title>
+    <link>https://joebuhlig.com/16-multiple-fountain-pens-my-god/</link>
+    <pubDate>Mon, 01 Jan 2018 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[whims]]></category>
+
+
+    <category><![CDATA[whims]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/16-multiple-fountain-pens-my-god/</guid>
+    <description>
+        <![CDATA[Drew needs Joe’s help. It’s about pens.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew needs Joe’s help. It’s about pens.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[32: Can You Code On The iPad?]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>It’s time to tackle our latest textbook. It was a listener recommendation and has a lot to talk about. So we’re glad this episode didn’t end up being 5 hours long.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[27: Season 3 Goals]]></title>
-    <link>https://joebuhlig.com/27-season-3-goals/</link>
-    <pubDate>Fri, 13 Oct 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/27-season-3-goals/</guid>
-    <description>
-        <![CDATA[Joe is fighting with Office 365. Josh is carrying over goals. And Theoretical Accountability is making some big changes.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Joe is fighting with Office 365. Josh is carrying over goals. And Theoretical Accountability is making some big changes.
 <!--more--></p>
 ]]>
     </content:encoded>
