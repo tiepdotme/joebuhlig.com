@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 01 Jan 2018 06:46:16 -0600</lastBuildDate>
+<lastBuildDate>Tue, 02 Jan 2018 06:13:54 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[40: The Artist’s Way by Julia Cameron]]></title>
+    <link>https://joebuhlig.com/40-the-artists-way-by-julia-cameron/</link>
+    <pubDate>Tue, 02 Jan 2018 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/40-the-artists-way-by-julia-cameron/</guid>
+    <description>
+        <![CDATA[Morning Pages has been an intriguing concept to both Mike and Joe. So they finally jump into the source of the practice. There’s a time commitment involved but they both seem okay with that.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Morning Pages has been an intriguing concept to both Mike and Joe. So they finally jump into the source of the practice. There’s a time commitment involved but they both seem okay with that.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[16: Multiple Fountain Pens, My God]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh gets fancy with his shaving. He’s also removing peanut butter. Joe likes video calls. Even as a millennial, he prefers the face-to-face meetings. Weird. Oh, and Joe played with OmniPlan.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[36: Paid to Think by David Goldsmith]]></title>
-    <link>https://joebuhlig.com/36-paid-to-think-by-david-goldsmith/</link>
-    <pubDate>Thu, 19 Oct 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/36-paid-to-think-by-david-goldsmith/</guid>
-    <description>
-        <![CDATA[It’s time to tackle our latest textbook. It was a listener recommendation and has a lot to talk about. So we’re glad this episode didn’t end up being 5 hours long.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>It’s time to tackle our latest textbook. It was a listener recommendation and has a lot to talk about. So we’re glad this episode didn’t end up being 5 hours long.
 <!--more--></p>
 ]]>
     </content:encoded>
