@@ -14,11 +14,57 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 02 Jan 2018 06:13:54 -0600</lastBuildDate>
+<lastBuildDate>Mon, 15 Jan 2018 10:05:34 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[17: I Don’t Think Anyone Likes Homework]]></title>
+    <link>https://joebuhlig.com/17-i-dont-think-anyone-likes-homework/</link>
+    <pubDate>Mon, 15 Jan 2018 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[whims]]></category>
+
+
+    <category><![CDATA[whims]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/17-i-dont-think-anyone-likes-homework/</guid>
+    <description>
+        <![CDATA[It’s 2018! How are Joe and Drew spending their mornings? Drew shares about a new upgrade to his analogue game, and Joe asks an interesting question: If you’re a book person, how does it feel to want to share that information with others?
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>It’s 2018! How are Joe and Drew spending their mornings? Drew shares about a new upgrade to his analogue game, and Joe asks an interesting question: If you’re a book person, how does it feel to want to share that information with others?
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[33: IPhone X is Small]]></title>
+    <link>https://joebuhlig.com/33-iphone-x-is-small/</link>
+    <pubDate>Sat, 13 Jan 2018 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[guild]]></category>
+
+
+    <category><![CDATA[guild-podcast]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/33-iphone-x-is-small/</guid>
+    <description>
+        <![CDATA[Josh thinks the iPhone X is too small and doesn’t like it. Joe thinks he’s being ridiculous. And Josh has a pseudo-conspiracy theory.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/guildpodcast.png" /><p>Josh thinks the iPhone X is too small and doesn’t like it. Joe thinks he’s being ridiculous. And Josh has a pseudo-conspiracy theory.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[40: The Artist’s Way by Julia Cameron]]></title>
@@ -315,52 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/guildpodcast.png" /><p>Theoretical Accountability is now rebranded to The Productivity Guild Podcast. At the same time, Josh is now losing weight. And Joe is potentially staying solo.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[11: Paper Works]]></title>
-    <link>https://joebuhlig.com/11-paper-works/</link>
-    <pubDate>Mon, 23 Oct 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[whims]]></category>
-
-
-    <category><![CDATA[whims]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/11-paper-works/</guid>
-    <description>
-        <![CDATA[This week Drew and I go into some more depth about paper and why it is becoming a go-to tool for me. Yes, I’m addicted.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>This week Drew and I go into some more depth about paper and why it is becoming a go-to tool for me. Yes, I’m addicted.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[28: Analog Podcasting]]></title>
-    <link>https://joebuhlig.com/28-analog-podcasting/</link>
-    <pubDate>Fri, 20 Oct 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[theoretical]]></category>
-
-
-    <category><![CDATA[theoretical]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/28-analog-podcasting/</guid>
-    <description>
-        <![CDATA[Josh gets fancy with his shaving. He’s also removing peanut butter. Joe likes video calls. Even as a millennial, he prefers the face-to-face meetings. Weird. Oh, and Joe played with OmniPlan.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/theoreticallogo.png" /><p>Josh gets fancy with his shaving. He’s also removing peanut butter. Joe likes video calls. Even as a millennial, he prefers the face-to-face meetings. Weird. Oh, and Joe played with OmniPlan.
 <!--more--></p>
 ]]>
     </content:encoded>
