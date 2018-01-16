@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 15 Jan 2018 10:05:34 -0600</lastBuildDate>
+<lastBuildDate>Tue, 16 Jan 2018 07:46:07 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[41: 168 Hours by Laura Vanderkam]]></title>
+    <link>https://joebuhlig.com/41-168-hours-by-laura-vanderkam/</link>
+    <pubDate>Tue, 16 Jan 2018 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/41-168-hours-by-laura-vanderkam/</guid>
+    <description>
+        <![CDATA[Where does your time go? And do you actually spend it where you think you do? These are tough questions when you dive into it, which is exactly what Mike and Joe do.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Where does your time go? And do you actually spend it where you think you do? These are tough questions when you dive into it, which is exactly what Mike and Joe do.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[17: I Don’t Think Anyone Likes Homework]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe gets a new podcasting setup. Drew talks about his latest experience working with pen and paper. A book sparks a conversation around the future of reading, note-keeping, and the often-discussed subject of input.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[29: Welcome to the Productivity Guild Podcast]]></title>
-    <link>https://joebuhlig.com/29-welcome-to-the-productivity-guild-podcast/</link>
-    <pubDate>Sat, 04 Nov 2017 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[guild]]></category>
-
-
-    <category><![CDATA[guild-podcast]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/29-welcome-to-the-productivity-guild-podcast/</guid>
-    <description>
-        <![CDATA[Theoretical Accountability is now rebranded to The Productivity Guild Podcast. At the same time, Josh is now losing weight. And Joe is potentially staying solo.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/guildpodcast.png" /><p>Theoretical Accountability is now rebranded to The Productivity Guild Podcast. At the same time, Josh is now losing weight. And Joe is potentially staying solo.
 <!--more--></p>
 ]]>
     </content:encoded>
