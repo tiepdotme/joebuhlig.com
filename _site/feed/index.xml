@@ -10,19 +10,249 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <channel>
 <title>Joe Buhlig</title>
-<atom:link href="https://joebuhlig.com/feed/" rel="self" type="application/rss+xml" />
-<link>https://joebuhlig.com</link>
+<atom:link href="http://localhost:4000/feed/" rel="self" type="application/rss+xml" />
+<link>http://localhost:4000</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Fri, 13 Apr 2018 19:44:25 -0500</lastBuildDate>
+<lastBuildDate>Mon, 06 Aug 2018 19:42:09 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
 
 <item>
+    <title><![CDATA[51: Great at Work by Morten Hansen]]></title>
+    <link>http://localhost:4000/51-great-at-work-by-morten-hansen/</link>
+    <pubDate>Wed, 18 Jul 2018 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://localhost:4000/51-great-at-work-by-morten-hansen/</guid>
+    <description>
+        <![CDATA[There is a myth in the workplace that says we need to work longer hours to achieve more and do so with higher quality. But this is purely a myth and there’s a lot of science to prove it.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>There is a myth in the workplace that says we need to work longer hours to achieve more and do so with higher quality. But this is purely a myth and there’s a lot of science to prove it.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[50: 2018 Bookworm Draft]]></title>
+    <link>http://localhost:4000/50-2018-bookworm-draft/</link>
+    <pubDate>Thu, 05 Jul 2018 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://localhost:4000/50-2018-bookworm-draft/</guid>
+    <description>
+        <![CDATA[If you listen to Bookworm as a way to filter your book list, then this episode will blow your mind. Joe and Mike pick their top ten books draft-style. They’re not necessarily Bookworm books either. Also included: a special surprise.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>If you listen to Bookworm as a way to filter your book list, then this episode will blow your mind. Joe and Mike pick their top ten books draft-style. They’re not necessarily Bookworm books either. Also included: a special surprise.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[49: Peak by Anders Ericsson]]></title>
+    <link>http://localhost:4000/49-peak-by-anders-ericsson/</link>
+    <pubDate>Sun, 24 Jun 2018 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://localhost:4000/49-peak-by-anders-ericsson/</guid>
+    <description>
+        <![CDATA[What does it take to become the best? And what do the world’s greatest do that puts them at the top? And how does that translate into our day to day lives?
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>What does it take to become the best? And what do the world’s greatest do that puts them at the top? And how does that translate into our day to day lives?
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[48: How to Win Friends and Influence People by Dale Carnegie ]]></title>
+    <link>http://localhost:4000/48-how-to-win-friends-and-influence-people-by-dale-carnegie/</link>
+    <pubDate>Wed, 30 May 2018 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://localhost:4000/48-how-to-win-friends-and-influence-people-by-dale-carnegie/</guid>
+    <description>
+        <![CDATA[It’s time for another classic that both Mike and Joe are a bit embarrassed they haven’t read previously. And it turns out to be a book where the title doesn’t do it justice.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>It’s time for another classic that both Mike and Joe are a bit embarrassed they haven’t read previously. And it turns out to be a book where the title doesn’t do it justice.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[47: The Three Big Questions for a Frantic Family by Patrick Lencioni]]></title>
+    <link>http://localhost:4000/47-the-three-big-questions-for-a-frantic-family-by-patrick-lencioni/</link>
+    <pubDate>Wed, 09 May 2018 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://localhost:4000/47-the-three-big-questions-for-a-frantic-family-by-patrick-lencioni/</guid>
+    <description>
+        <![CDATA[Should you think about your family in the same way you think about an organization? And what are the ramifications of the answer to that question?
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>Should you think about your family in the same way you think about an organization? And what are the ramifications of the answer to that question?
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[46: Busy by Tony Crabbe]]></title>
+    <link>http://localhost:4000/46-busy-by-tony-crabbe/</link>
+    <pubDate>Wed, 18 Apr 2018 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://localhost:4000/46-busy-by-tony-crabbe/</guid>
+    <description>
+        <![CDATA[Don’t have time to read books? Then listen to this! Joe and Mike jump into the topic of a busy culture and what we can do about it.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>Don’t have time to read books? Then listen to this! Joe and Mike jump into the topic of a busy culture and what we can do about it.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[45: What’s Best Next by Matt Perman]]></title>
+    <link>http://localhost:4000/45-whats-best-next-by-matt-perman/</link>
+    <pubDate>Tue, 03 Apr 2018 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://localhost:4000/45-whats-best-next-by-matt-perman/</guid>
+    <description>
+        <![CDATA[What does the Bible say about productivity? And how does this book compare to other productivity books?
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>What does the Bible say about productivity? And how does this book compare to other productivity books?
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[44: Man’s Search for Meaning by Victor Frankl]]></title>
+    <link>http://localhost:4000/44-mans-search-for-meaning-by-victor-frankl/</link>
+    <pubDate>Fri, 16 Mar 2018 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://localhost:4000/44-mans-search-for-meaning-by-victor-frankl/</guid>
+    <description>
+        <![CDATA[Knowing your purpose and finding meaning in life can save your life. This episode covers the challenging topic of World War II and escaping concentration camps alive.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>Knowing your purpose and finding meaning in life can save your life. This episode covers the challenging topic of World War II and escaping concentration camps alive.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[43: Flow by Mihaly Csikszentmihalyi]]></title>
+    <link>http://localhost:4000/43-flow-by-mihaly-csikszentmihalyi/</link>
+    <pubDate>Thu, 22 Feb 2018 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://localhost:4000/43-flow-by-mihaly-csikszentmihalyi/</guid>
+    <description>
+        <![CDATA[Mike and Joe have mentioned Mihaly way too often. So it’s about time they covered his book and discussed it directly.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>Mike and Joe have mentioned Mihaly way too often. So it’s about time they covered his book and discussed it directly.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
+    <title><![CDATA[42: How to Read a Book by Mortimer Adler]]></title>
+    <link>http://localhost:4000/42-how-to-read-a-book-by-mortimer-adler/</link>
+    <pubDate>Wed, 31 Jan 2018 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">http://localhost:4000/42-how-to-read-a-book-by-mortimer-adler/</guid>
+    <description>
+        <![CDATA[It’s finally here. An episode about how to read a book. And what better way to cover the topic than to read a book about it.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>It’s finally here. An episode about how to read a book. And what better way to cover the topic than to read a book about it.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
+
+<item>
     <title><![CDATA[41: 168 Hours by Laura Vanderkam]]></title>
-    <link>https://joebuhlig.com/41-168-hours-by-laura-vanderkam/</link>
+    <link>http://localhost:4000/41-168-hours-by-laura-vanderkam/</link>
     <pubDate>Tue, 16 Jan 2018 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -31,13 +261,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/41-168-hours-by-laura-vanderkam/</guid>
+    <guid isPermaLink="true">http://localhost:4000/41-168-hours-by-laura-vanderkam/</guid>
     <description>
         <![CDATA[Where does your time go? And do you actually spend it where you think you do? These are tough questions when you dive into it, which is exactly what Mike and Joe do.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Where does your time go? And do you actually spend it where you think you do? These are tough questions when you dive into it, which is exactly what Mike and Joe do.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>Where does your time go? And do you actually spend it where you think you do? These are tough questions when you dive into it, which is exactly what Mike and Joe do.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -45,7 +275,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[17: I Don’t Think Anyone Likes Homework]]></title>
-    <link>https://joebuhlig.com/17-i-dont-think-anyone-likes-homework/</link>
+    <link>http://localhost:4000/17-i-dont-think-anyone-likes-homework/</link>
     <pubDate>Mon, 15 Jan 2018 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -54,13 +284,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[whims]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/17-i-dont-think-anyone-likes-homework/</guid>
+    <guid isPermaLink="true">http://localhost:4000/17-i-dont-think-anyone-likes-homework/</guid>
     <description>
         <![CDATA[It’s 2018! How are Joe and Drew spending their mornings? Drew shares about a new upgrade to his analogue game, and Joe asks an interesting question: If you’re a book person, how does it feel to want to share that information with others?
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>It’s 2018! How are Joe and Drew spending their mornings? Drew shares about a new upgrade to his analogue game, and Joe asks an interesting question: If you’re a book person, how does it feel to want to share that information with others?
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/whimsthatworklogo.jpg" /><p>It’s 2018! How are Joe and Drew spending their mornings? Drew shares about a new upgrade to his analogue game, and Joe asks an interesting question: If you’re a book person, how does it feel to want to share that information with others?
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -68,7 +298,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[33: IPhone X is Small]]></title>
-    <link>https://joebuhlig.com/33-iphone-x-is-small/</link>
+    <link>http://localhost:4000/33-iphone-x-is-small/</link>
     <pubDate>Sat, 13 Jan 2018 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -77,13 +307,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[guild-podcast]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/33-iphone-x-is-small/</guid>
+    <guid isPermaLink="true">http://localhost:4000/33-iphone-x-is-small/</guid>
     <description>
         <![CDATA[Josh thinks the iPhone X is too small and doesn’t like it. Joe thinks he’s being ridiculous. And Josh has a pseudo-conspiracy theory.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/guildpodcast.png" /><p>Josh thinks the iPhone X is too small and doesn’t like it. Joe thinks he’s being ridiculous. And Josh has a pseudo-conspiracy theory.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/guildpodcast.png" /><p>Josh thinks the iPhone X is too small and doesn’t like it. Joe thinks he’s being ridiculous. And Josh has a pseudo-conspiracy theory.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -91,7 +321,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[40: The Artist’s Way by Julia Cameron]]></title>
-    <link>https://joebuhlig.com/40-the-artists-way-by-julia-cameron/</link>
+    <link>http://localhost:4000/40-the-artists-way-by-julia-cameron/</link>
     <pubDate>Tue, 02 Jan 2018 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -100,13 +330,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/40-the-artists-way-by-julia-cameron/</guid>
+    <guid isPermaLink="true">http://localhost:4000/40-the-artists-way-by-julia-cameron/</guid>
     <description>
         <![CDATA[Morning Pages has been an intriguing concept to both Mike and Joe. So they finally jump into the source of the practice. There’s a time commitment involved but they both seem okay with that.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Morning Pages has been an intriguing concept to both Mike and Joe. So they finally jump into the source of the practice. There’s a time commitment involved but they both seem okay with that.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>Morning Pages has been an intriguing concept to both Mike and Joe. So they finally jump into the source of the practice. There’s a time commitment involved but they both seem okay with that.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -114,7 +344,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[16: Multiple Fountain Pens, My God]]></title>
-    <link>https://joebuhlig.com/16-multiple-fountain-pens-my-god/</link>
+    <link>http://localhost:4000/16-multiple-fountain-pens-my-god/</link>
     <pubDate>Mon, 01 Jan 2018 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -123,244 +353,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[whims]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/16-multiple-fountain-pens-my-god/</guid>
+    <guid isPermaLink="true">http://localhost:4000/16-multiple-fountain-pens-my-god/</guid>
     <description>
         <![CDATA[Drew needs Joe’s help. It’s about pens.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew needs Joe’s help. It’s about pens.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[32: Can You Code On The iPad?]]></title>
-    <link>https://joebuhlig.com/32-can-you-code-on-the-ipad/</link>
-    <pubDate>Sat, 30 Dec 2017 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[guild]]></category>
-
-
-    <category><![CDATA[guild-podcast]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/32-can-you-code-on-the-ipad/</guid>
-    <description>
-        <![CDATA[Joe is trying to figure out if an iPad is worth it. Josh is doing well at HPS Grad School. Also, you should join the Guild.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/guildpodcast.png" /><p>Joe is trying to figure out if an iPad is worth it. Josh is doing well at HPS Grad School. Also, you should join the Guild.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[39: The 4 Disciplines of Execution by Chris McChesney, Jim Huling, Sean Covey]]></title>
-    <link>https://joebuhlig.com/39-the-4-disciplines-of-execution-by-chris-mcchesney-jim-huling-sean-covey/</link>
-    <pubDate>Tue, 26 Dec 2017 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/39-the-4-disciplines-of-execution-by-chris-mcchesney-jim-huling-sean-covey/</guid>
-    <description>
-        <![CDATA[This round we learn why Mike doesn’t care for this book. Joe picked it only because it’s been popular and it was a listener recommendation. But that doesn’t affect their ratings at all.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>This round we learn why Mike doesn’t care for this book. Joe picked it only because it’s been popular and it was a listener recommendation. But that doesn’t affect their ratings at all.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[15: All for a Space Gray Keyboard]]></title>
-    <link>https://joebuhlig.com/15-all-for-a-space-gray-keyboard/</link>
-    <pubDate>Mon, 18 Dec 2017 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[whims]]></category>
-
-
-    <category><![CDATA[whims]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/15-all-for-a-space-gray-keyboard/</guid>
-    <description>
-        <![CDATA[Right before recording, Drew took a look at his Mac’s desktop. This prompted some discussion. Also, a home automation talk. Joe’s not a fan.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Right before recording, Drew took a look at his Mac’s desktop. This prompted some discussion. Also, a home automation talk. Joe’s not a fan.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[31: Building A New Goal]]></title>
-    <link>https://joebuhlig.com/31-building-a-new-goal/</link>
-    <pubDate>Mon, 04 Dec 2017 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[guild]]></category>
-
-
-    <category><![CDATA[guild-podcast]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/31-building-a-new-goal/</guid>
-    <description>
-        <![CDATA[Joe dropped an atom bomb on his first goal. But what did he replace it with? And why make a big change this late in the game? But wait, how did he examine this new idea and get this far with it so quickly?
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/guildpodcast.png" /><p>Joe dropped an atom bomb on his first goal. But what did he replace it with? And why make a big change this late in the game? But wait, how did he examine this new idea and get this far with it so quickly?
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[14: A New Toy]]></title>
-    <link>https://joebuhlig.com/14-a-new-toy/</link>
-    <pubDate>Mon, 04 Dec 2017 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[whims]]></category>
-
-
-    <category><![CDATA[whims]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/14-a-new-toy/</guid>
-    <description>
-        <![CDATA[It’s new iPhone season and Joe and Drew both found themselves upgrading to the X. So, what would a technology podcast be without a discussion about home screens?
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>It’s new iPhone season and Joe and Drew both found themselves upgrading to the X. So, what would a technology podcast be without a discussion about home screens?
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[37: Antifragile by Nassim Nicholas Taleb]]></title>
-    <link>https://joebuhlig.com/37-antifragile-by-nassim-nicholas-taleb/</link>
-    <pubDate>Wed, 29 Nov 2017 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[bookworm]]></category>
-
-
-    <category><![CDATA[bookworm]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/37-antifragile-by-nassim-nicholas-taleb/</guid>
-    <description>
-        <![CDATA[Is it possible that attempting to break a thing can make it genuinely stronger? Also, Mike is back on OmniFocus. Who knew?
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Is it possible that attempting to break a thing can make it genuinely stronger? Also, Mike is back on OmniFocus. Who knew?
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[13: Decreasing in Searchability, Increasing in Awesomeness]]></title>
-    <link>https://joebuhlig.com/13-decreasing-in-searchability-increasing-in-awesomeness/</link>
-    <pubDate>Mon, 20 Nov 2017 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[whims]]></category>
-
-
-    <category><![CDATA[whims]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/13-decreasing-in-searchability-increasing-in-awesomeness/</guid>
-    <description>
-        <![CDATA[Joe continues delving into the world of podcasting equipment, Drew continues to delve into the world of paper. More conversation on switching from digital to analog tools, and the many uses of whiteboards.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe continues delving into the world of podcasting equipment, Drew continues to delve into the world of paper. More conversation on switching from digital to analog tools, and the many uses of whiteboards.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[Building Communities That Help Your Small Business Thrive - SPRH Podcast]]></title>
-    <link>https://joebuhlig.com/building-communities-that-help-your-small-business-thrive--sprh-podcast/</link>
-    <pubDate>Mon, 13 Nov 2017 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[blog]]></category>
-
-
-    <category><![CDATA[communities]]></category>
-
-    <category><![CDATA[podcast-guest]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/building-communities-that-help-your-small-business-thrive--sprh-podcast/</guid>
-    <description>
-        <![CDATA[This was a really fun show I did with Matt Ward and Dan Candell over on the Square Peg Round Hole Podcast. We get to talk about building online communities (in my case Productivity Guild) and how those compare to FaceBook communities. Ultimately, treat your community like a close friend....]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/sprh_art.jpeg" /><p>This was a really fun show I did with Matt Ward and Dan Candell over on the <a href="http://sprhpodcast.com/ep-43-building-communities-that-help-your-small-business-thrive/">Square Peg Round Hole Podcast</a>. We get to talk about building online communities (in my case <a href="https://productivityguild.com">Productivity Guild</a>) and how those compare to FaceBook communities. Ultimately, treat your community like a close friend.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[30: Goals and Fear with Justin DiRose]]></title>
-    <link>https://joebuhlig.com/30-goals-and-fear-with-justin-dirose/</link>
-    <pubDate>Fri, 10 Nov 2017 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[guild]]></category>
-
-
-    <category><![CDATA[guild-podcast]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/30-goals-and-fear-with-justin-dirose/</guid>
-    <description>
-        <![CDATA[Justin DiRose joins Joe and Josh to talk about goals. But they also touch on the difficult topic of fear and how that prevents us from moving forward on our dreams.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/guildpodcast.png" /><p>Justin DiRose joins Joe and Josh to talk about goals. But they also touch on the difficult topic of fear and how that prevents us from moving forward on our dreams.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[12: The Opposite of What I Needed but Exactly What I Wanted]]></title>
-    <link>https://joebuhlig.com/12-the-opposite-of-what-i-needed-but-exactly-what-i-wanted/</link>
-    <pubDate>Mon, 06 Nov 2017 00:00:00 -0600</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[whims]]></category>
-
-
-    <category><![CDATA[whims]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/12-the-opposite-of-what-i-needed-but-exactly-what-i-wanted/</guid>
-    <description>
-        <![CDATA[Joe gets a new podcasting setup. Drew talks about his latest experience working with pen and paper. A book sparks a conversation around the future of reading, note-keeping, and the often-discussed subject of input.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe gets a new podcasting setup. Drew talks about his latest experience working with pen and paper. A book sparks a conversation around the future of reading, note-keeping, and the often-discussed subject of input.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/whimsthatworklogo.jpg" /><p>Drew needs Joe’s help. It’s about pens.
 <!--more--></p>
 ]]>
     </content:encoded>
