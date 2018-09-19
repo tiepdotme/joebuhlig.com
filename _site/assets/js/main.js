@@ -26,6 +26,42 @@ $(document).ready(function(){
 	$('.post img').not('.featured-image').click(function(event){
 		window.location.href = $(this).attr("src");
 	})
+
+    var str = '<span class="mobile-break"><a href="/"><span class="code-blue">function</span> <span class="code-green">joeBuhlig</span>() {</a></span> \
+        <span class="mobile-break indent-1"><span class="code-blue">const</span> links <span class="code-red">=</span> [</span> \
+          <span class="mobile-break indent-2"><a href="/about"><span class="code-yellow">"/about"</span></a>,</span> \
+          <span class="mobile-break indent-2"><a href="/contact"><span class="code-yellow">"/contact"</span></a>,</span> \
+          <span class="mobile-break indent-2"><a href="/newsletter"><span class="code-yellow">"/newsletter"</span></a></span> \
+        <span class="mobile-break indent-1">];</span> \
+        <span class="mobile-break indent-1"><span class="code-blue">const</span> podcasts <span class="code-red">=</span> [</span> \
+          <span class="mobile-break indent-2"><span class="code-yellow">"bookworm.fm"</span>,</span> \
+          <span class="mobile-break indent-2"><span class="code-yellow">"whimsthatwork.fm"</span></span> \
+        <span class="mobile-break indent-1">];</span> \
+        <span class="mobile-break indent-1"><span class="code-blue">const</span> forums <span class="code-red">=</span> [</span> \
+          <span class="mobile-break indent-2"><span class="code-yellow">"productivityguild.com"</span>,</span> \
+          <span class="mobile-break indent-2"><span class="code-yellow">"club.bookworm.fm"</span></span> \
+        <span class="mobile-break indent-1">];</span> \
+        <span class="mobile-break indent-1"><span class="code-blue">const</span> work <span class="code-red">=</span> [</span> \
+          <span class="mobile-break indent-2"><span class="code-yellow">"procourse.co"</span></span> \
+        <span class="mobile-break indent-1">];</span> \
+      <span class="mobile-break">}</span>',
+    i = 0,
+    isTag,
+    text;
+
+(function type() {
+    text = str.slice(0, ++i);
+    if (text === str) return;
+    
+    document.getElementById('typewriter').innerHTML = text;
+
+    var char = text.slice(-1);
+    if( char === '<' ) isTag = true;
+    if( char === '>' ) isTag = false;
+
+    if (isTag) return type();
+    setTimeout(type, 15);
+}());
 	
 	$(window).scroll(function() {
         var imageTrigger = windowHeight + $(window).scrollTop();
@@ -114,4 +150,23 @@ function getCookie(cname) {
         }
     }
     return "";
+}
+
+function joeBuhlig() {
+  const links = [
+    "/about",
+    "/contact",
+    "/newsletter"
+  ];
+  const podcasts = [
+    "bookworm.fm",
+    "whimsthatwork.fm"
+  ];
+  const forums = [
+    "productivityguild.com",
+    "club.bookworm.fm"
+  ];
+  const work = [
+    "procourse.co"
+  ];
 }

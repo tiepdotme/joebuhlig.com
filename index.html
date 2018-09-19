@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-{% include newsletter_header.html %}
-<div class="posts" id="home">
+<div class="posts content" id="home">
 	{% for post in site.posts limit:20 %}
 	    {% include content_feed.html post=post %}
 	    {% if forloop.index == 1 %}

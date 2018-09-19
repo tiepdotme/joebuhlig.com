@@ -10,11 +10,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <channel>
 <title>Joe Buhlig</title>
-<atom:link href="https://joebuhlig.com/feed/" rel="self" type="application/rss+xml" />
-<link>https://joebuhlig.com</link>
+<atom:link href="http://localhost:4000/feed/" rel="self" type="application/rss+xml" />
+<link>http://localhost:4000</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 23 Aug 2018 19:58:33 -0500</lastBuildDate>
+<lastBuildDate>Sat, 25 Aug 2018 14:38:01 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -22,7 +22,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[51: Great at Work by Morten Hansen]]></title>
-    <link>https://joebuhlig.com/51-great-at-work-by-morten-hansen/</link>
+    <link>http://localhost:4000/51-great-at-work-by-morten-hansen/</link>
     <pubDate>Wed, 18 Jul 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -31,13 +31,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/51-great-at-work-by-morten-hansen/</guid>
+    <guid isPermaLink="true">http://localhost:4000/51-great-at-work-by-morten-hansen/</guid>
     <description>
         <![CDATA[There is a myth in the workplace that says we need to work longer hours to achieve more and do so with higher quality. But this is purely a myth and there’s a lot of science to prove it.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>There is a myth in the workplace that says we need to work longer hours to achieve more and do so with higher quality. But this is purely a myth and there’s a lot of science to prove it.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>There is a myth in the workplace that says we need to work longer hours to achieve more and do so with higher quality. But this is purely a myth and there’s a lot of science to prove it.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -45,7 +45,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[30: Downtime Accountability Group]]></title>
-    <link>https://joebuhlig.com/30-downtime-accountability-group/</link>
+    <link>http://localhost:4000/30-downtime-accountability-group/</link>
     <pubDate>Mon, 16 Jul 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -54,12 +54,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[whims]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/30-downtime-accountability-group/</guid>
+    <guid isPermaLink="true">http://localhost:4000/30-downtime-accountability-group/</guid>
     <description>
         <![CDATA[Joe turns this episode into a confessional and makes a vulnerable statement: He’s a phone addict. Drew and Joe discuss our modern tendency to spend too much time on our devices, Joe reveals how he’s dealing with it, and Drew covers the ways that iOS 12 provides some ‘app limits’...]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe turns this episode into a confessional and makes a vulnerable statement: He’s a phone addict. Drew and Joe discuss our modern tendency to spend too much time on our devices, Joe reveals how he’s dealing with it, and Drew covers the ways that iOS 12 provides some ‘app limits’ of its own. Since iOS 12 gets brought up, so too does the other looming Apple beta: Mojave.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/whimsthatworklogo.jpg" /><p>Joe turns this episode into a confessional and makes a vulnerable statement: He’s a phone addict. Drew and Joe discuss our modern tendency to spend too much time on our devices, Joe reveals how he’s dealing with it, and Drew covers the ways that iOS 12 provides some ‘app limits’ of its own. Since iOS 12 gets brought up, so too does the other looming Apple beta: Mojave.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -67,7 +67,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[50: 2018 Bookworm Draft]]></title>
-    <link>https://joebuhlig.com/50-2018-bookworm-draft/</link>
+    <link>http://localhost:4000/50-2018-bookworm-draft/</link>
     <pubDate>Thu, 05 Jul 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -76,13 +76,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/50-2018-bookworm-draft/</guid>
+    <guid isPermaLink="true">http://localhost:4000/50-2018-bookworm-draft/</guid>
     <description>
         <![CDATA[If you listen to Bookworm as a way to filter your book list, then this episode will blow your mind. Joe and Mike pick their top ten books draft-style. They’re not necessarily Bookworm books either. Also included: a special surprise.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>If you listen to Bookworm as a way to filter your book list, then this episode will blow your mind. Joe and Mike pick their top ten books draft-style. They’re not necessarily Bookworm books either. Also included: a special surprise.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>If you listen to Bookworm as a way to filter your book list, then this episode will blow your mind. Joe and Mike pick their top ten books draft-style. They’re not necessarily Bookworm books either. Also included: a special surprise.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -90,7 +90,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[29: Back to a Digital Task Manager]]></title>
-    <link>https://joebuhlig.com/29-back-to-a-digital-task-manager/</link>
+    <link>http://localhost:4000/29-back-to-a-digital-task-manager/</link>
     <pubDate>Mon, 02 Jul 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -99,13 +99,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[whims]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/29-back-to-a-digital-task-manager/</guid>
+    <guid isPermaLink="true">http://localhost:4000/29-back-to-a-digital-task-manager/</guid>
     <description>
         <![CDATA[An episode dedicated to a singular topic: Joe is back to using OmniFocus.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>An episode dedicated to a singular topic: Joe is back to using OmniFocus.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/whimsthatworklogo.jpg" /><p>An episode dedicated to a singular topic: Joe is back to using OmniFocus.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -113,7 +113,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[49: Peak by Anders Ericsson]]></title>
-    <link>https://joebuhlig.com/49-peak-by-anders-ericsson/</link>
+    <link>http://localhost:4000/49-peak-by-anders-ericsson/</link>
     <pubDate>Sun, 24 Jun 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -122,13 +122,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/49-peak-by-anders-ericsson/</guid>
+    <guid isPermaLink="true">http://localhost:4000/49-peak-by-anders-ericsson/</guid>
     <description>
         <![CDATA[What does it take to become the best? And what do the world’s greatest do that puts them at the top? And how does that translate into our day to day lives?
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>What does it take to become the best? And what do the world’s greatest do that puts them at the top? And how does that translate into our day to day lives?
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>What does it take to become the best? And what do the world’s greatest do that puts them at the top? And how does that translate into our day to day lives?
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -136,7 +136,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[28: Move from One Phase to Another]]></title>
-    <link>https://joebuhlig.com/28-move-from-one-phase-to-another/</link>
+    <link>http://localhost:4000/28-move-from-one-phase-to-another/</link>
     <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -145,13 +145,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[whims]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/28-move-from-one-phase-to-another/</guid>
+    <guid isPermaLink="true">http://localhost:4000/28-move-from-one-phase-to-another/</guid>
     <description>
         <![CDATA[Drew talks about his new business venture, Keyhouse! After Joe introduced Procourse last week, this conversation continues the same dialogue on freelance work becoming something bigger.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew talks about his new business venture, Keyhouse! After Joe introduced Procourse last week, this conversation continues the same dialogue on freelance work becoming something bigger.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/whimsthatworklogo.jpg" /><p>Drew talks about his new business venture, Keyhouse! After Joe introduced Procourse last week, this conversation continues the same dialogue on freelance work becoming something bigger.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -159,7 +159,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[27: The Whole Working on the Internet Dilemma]]></title>
-    <link>https://joebuhlig.com/27-the-whole-working-on-the-internet-dilemma/</link>
+    <link>http://localhost:4000/27-the-whole-working-on-the-internet-dilemma/</link>
     <pubDate>Mon, 04 Jun 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -168,12 +168,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[whims]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/27-the-whole-working-on-the-internet-dilemma/</guid>
+    <guid isPermaLink="true">http://localhost:4000/27-the-whole-working-on-the-internet-dilemma/</guid>
     <description>
         <![CDATA[Joe talks about his new business venture, ProCourse! This leads to a conversation about the natural evolution from freelancer to business owner, and all of the challenges that come with it: Setting goals (or choosing not to), getting buried in email, adding yet-another-Slack channel, and telling people IRL what you...]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe talks about his new business venture, ProCourse! This leads to a conversation about the natural evolution from freelancer to business owner, and all of the challenges that come with it: Setting goals (or choosing not to), getting buried in email, adding yet-another-Slack channel, and telling people IRL what you do in the first place.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/whimsthatworklogo.jpg" /><p>Joe talks about his new business venture, ProCourse! This leads to a conversation about the natural evolution from freelancer to business owner, and all of the challenges that come with it: Setting goals (or choosing not to), getting buried in email, adding yet-another-Slack channel, and telling people IRL what you do in the first place.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -181,7 +181,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[48: How to Win Friends and Influence People by Dale Carnegie ]]></title>
-    <link>https://joebuhlig.com/48-how-to-win-friends-and-influence-people-by-dale-carnegie/</link>
+    <link>http://localhost:4000/48-how-to-win-friends-and-influence-people-by-dale-carnegie/</link>
     <pubDate>Wed, 30 May 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -190,13 +190,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/48-how-to-win-friends-and-influence-people-by-dale-carnegie/</guid>
+    <guid isPermaLink="true">http://localhost:4000/48-how-to-win-friends-and-influence-people-by-dale-carnegie/</guid>
     <description>
         <![CDATA[It’s time for another classic that both Mike and Joe are a bit embarrassed they haven’t read previously. And it turns out to be a book where the title doesn’t do it justice.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>It’s time for another classic that both Mike and Joe are a bit embarrassed they haven’t read previously. And it turns out to be a book where the title doesn’t do it justice.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>It’s time for another classic that both Mike and Joe are a bit embarrassed they haven’t read previously. And it turns out to be a book where the title doesn’t do it justice.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -204,7 +204,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[26: Now Somehow an Employer]]></title>
-    <link>https://joebuhlig.com/26-now-somehow-an-employer/</link>
+    <link>http://localhost:4000/26-now-somehow-an-employer/</link>
     <pubDate>Mon, 21 May 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -213,13 +213,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[whims]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/26-now-somehow-an-employer/</guid>
+    <guid isPermaLink="true">http://localhost:4000/26-now-somehow-an-employer/</guid>
     <description>
         <![CDATA[Joe transcends the typical mailbox and gets a UPS box of his own. This leads to a conversation about home offices, which leads to a conversation about wanting to appear legitimate, which leads to an unexpected conversation about learning how to take on new roles.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe transcends the typical mailbox and gets a UPS box of his own. This leads to a conversation about home offices, which leads to a conversation about wanting to appear legitimate, which leads to an unexpected conversation about learning how to take on new roles.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/whimsthatworklogo.jpg" /><p>Joe transcends the typical mailbox and gets a UPS box of his own. This leads to a conversation about home offices, which leads to a conversation about wanting to appear legitimate, which leads to an unexpected conversation about learning how to take on new roles.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -227,7 +227,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[47: The Three Big Questions for a Frantic Family by Patrick Lencioni]]></title>
-    <link>https://joebuhlig.com/47-the-three-big-questions-for-a-frantic-family-by-patrick-lencioni/</link>
+    <link>http://localhost:4000/47-the-three-big-questions-for-a-frantic-family-by-patrick-lencioni/</link>
     <pubDate>Wed, 09 May 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -236,13 +236,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/47-the-three-big-questions-for-a-frantic-family-by-patrick-lencioni/</guid>
+    <guid isPermaLink="true">http://localhost:4000/47-the-three-big-questions-for-a-frantic-family-by-patrick-lencioni/</guid>
     <description>
         <![CDATA[Should you think about your family in the same way you think about an organization? And what are the ramifications of the answer to that question?
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Should you think about your family in the same way you think about an organization? And what are the ramifications of the answer to that question?
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>Should you think about your family in the same way you think about an organization? And what are the ramifications of the answer to that question?
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -250,7 +250,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[25: Do the Work at the Beginning]]></title>
-    <link>https://joebuhlig.com/25-do-the-work-at-the-beginning/</link>
+    <link>http://localhost:4000/25-do-the-work-at-the-beginning/</link>
     <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -259,12 +259,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[whims]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/25-do-the-work-at-the-beginning/</guid>
+    <guid isPermaLink="true">http://localhost:4000/25-do-the-work-at-the-beginning/</guid>
     <description>
         <![CDATA[Drew has learned from his past mistakes, but is still trying to make everything a bit more optimized. How many times must his desktop overflow before he sets up a file management script or two? Joe shares his own workflows and methods, and the two discuss the ‘work’ that lets...]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew has learned from his past mistakes, but is still trying to make everything a bit more optimized. How many times must his desktop overflow before he sets up a file management script or two? Joe shares his own workflows and methods, and the two discuss the ‘work’ that lets you do work more efficiently.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/whimsthatworklogo.jpg" /><p>Drew has learned from his past mistakes, but is still trying to make everything a bit more optimized. How many times must his desktop overflow before he sets up a file management script or two? Joe shares his own workflows and methods, and the two discuss the ‘work’ that lets you do work more efficiently.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -272,7 +272,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[24: You Had a Windows Phone?]]></title>
-    <link>https://joebuhlig.com/24-you-had-a-windows-phone/</link>
+    <link>http://localhost:4000/24-you-had-a-windows-phone/</link>
     <pubDate>Mon, 23 Apr 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -281,13 +281,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[whims]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/24-you-had-a-windows-phone/</guid>
+    <guid isPermaLink="true">http://localhost:4000/24-you-had-a-windows-phone/</guid>
     <description>
         <![CDATA[Drew has some recording difficulties, which leads to a conversation about redundancy and what happens when something breaks. Joe asks some questions brought about from last week’s conversations, and the two reveal their pre-iPhone hardware stances. Then, Joe goes in-depth on his analog task management set up.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew has some recording difficulties, which leads to a conversation about redundancy and what happens when something breaks. Joe asks some questions brought about from last week’s conversations, and the two reveal their pre-iPhone hardware stances. Then, Joe goes in-depth on his analog task management set up.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/whimsthatworklogo.jpg" /><p>Drew has some recording difficulties, which leads to a conversation about redundancy and what happens when something breaks. Joe asks some questions brought about from last week’s conversations, and the two reveal their pre-iPhone hardware stances. Then, Joe goes in-depth on his analog task management set up.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -295,7 +295,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[46: Busy by Tony Crabbe]]></title>
-    <link>https://joebuhlig.com/46-busy-by-tony-crabbe/</link>
+    <link>http://localhost:4000/46-busy-by-tony-crabbe/</link>
     <pubDate>Wed, 18 Apr 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -304,13 +304,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/46-busy-by-tony-crabbe/</guid>
+    <guid isPermaLink="true">http://localhost:4000/46-busy-by-tony-crabbe/</guid>
     <description>
         <![CDATA[Don’t have time to read books? Then listen to this! Joe and Mike jump into the topic of a busy culture and what we can do about it.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Don’t have time to read books? Then listen to this! Joe and Mike jump into the topic of a busy culture and what we can do about it.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>Don’t have time to read books? Then listen to this! Joe and Mike jump into the topic of a busy culture and what we can do about it.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -318,7 +318,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[23: A Thing Against Printers]]></title>
-    <link>https://joebuhlig.com/23-a-thing-against-printers/</link>
+    <link>http://localhost:4000/23-a-thing-against-printers/</link>
     <pubDate>Mon, 09 Apr 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -327,13 +327,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[whims]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/23-a-thing-against-printers/</guid>
+    <guid isPermaLink="true">http://localhost:4000/23-a-thing-against-printers/</guid>
     <description>
         <![CDATA[A tech glitch Drew experiences leads to a wide-ranging discussion about tech support, automated cars, and the pros and cons of being an early adopter. Joe is not as convinced about living on the cutting edge.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>A tech glitch Drew experiences leads to a wide-ranging discussion about tech support, automated cars, and the pros and cons of being an early adopter. Joe is not as convinced about living on the cutting edge.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/whimsthatworklogo.jpg" /><p>A tech glitch Drew experiences leads to a wide-ranging discussion about tech support, automated cars, and the pros and cons of being an early adopter. Joe is not as convinced about living on the cutting edge.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -341,7 +341,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[45: What’s Best Next by Matt Perman]]></title>
-    <link>https://joebuhlig.com/45-whats-best-next-by-matt-perman/</link>
+    <link>http://localhost:4000/45-whats-best-next-by-matt-perman/</link>
     <pubDate>Tue, 03 Apr 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -350,13 +350,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/45-whats-best-next-by-matt-perman/</guid>
+    <guid isPermaLink="true">http://localhost:4000/45-whats-best-next-by-matt-perman/</guid>
     <description>
         <![CDATA[What does the Bible say about productivity? And how does this book compare to other productivity books?
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>What does the Bible say about productivity? And how does this book compare to other productivity books?
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>What does the Bible say about productivity? And how does this book compare to other productivity books?
 <!--more--></p>
 ]]>
     </content:encoded>
