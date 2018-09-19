@@ -28,10 +28,10 @@ layout: default
 			{% if page.next %}<a class="next-page" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>{% endif %}
 		</div>
 		{% if jekyll.environment == "production" %}
-		{% unless page.categories contains 'bookworm' %}
+		{% if page.categories contains 'blog' or page.categories contains 'podcast' %}
 	<div id='discourse-comments'></div>
 	<script type="text/javascript">
-	  DiscourseEmbed = { discourseUrl: 'https://productivityguild.com/',
+	  DiscourseEmbed = { discourseUrl: 'https://discourse.joebuhlig.com/',
 	  									{% if page.discourse_topic_id %}
 	  										topicId: {{page.discourse_topic_id}} };
 	  									{% else %}
@@ -44,7 +44,7 @@ layout: default
 	    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
 	  })();
 	</script>
-	{% endunless %}
+	{% endif %}
 	{% endif %}
 	</article>
 
