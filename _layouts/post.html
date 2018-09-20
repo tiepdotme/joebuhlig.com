@@ -35,7 +35,7 @@ layout: default
 	  									{% if page.discourse_topic_id %}
 	  										topicId: {{page.discourse_topic_id}} };
 	  									{% else %}
-	                     discourseEmbedUrl: '{% if page.pre_https %}http://joebuhlig.com{% else %}{{ site.url }}{% endif %}{{page.url}}' };
+	                     discourseEmbedUrl: '{{ site.url }}{{page.url}}' };
 	                    {% endif %}
 
 	  (function() {
