@@ -27,24 +27,24 @@ $(document).ready(function(){
 		window.location.href = $(this).attr("src");
 	})
 
-    var str = '<span class="mobile-break"><a href="/"><span class="code-blue">function</span> <span class="code-green">joeBuhlig</span>() {</a></span> \
-        <span class="mobile-break indent-1"><span class="code-blue">const</span> links <span class="code-red">=</span> [</span> \
-          <span class="mobile-break indent-2"><a href="/about"><span class="code-yellow">"/about"</span></a>,</span> \
-          <span class="mobile-break indent-2"><a href="/contact"><span class="code-yellow">"/contact"</span></a>,</span> \
-          <span class="mobile-break indent-2"><a href="/newsletter"><span class="code-yellow">"/newsletter"</span></a></span> \
-        <span class="mobile-break indent-1">];</span> \
-        <span class="mobile-break indent-1"><span class="code-blue">const</span> podcasts <span class="code-red">=</span> [</span> \
-          <span class="mobile-break indent-2"><span class="code-yellow">"bookworm.fm"</span>,</span> \
-          <span class="mobile-break indent-2"><span class="code-yellow">"whimsthatwork.fm"</span></span> \
-        <span class="mobile-break indent-1">];</span> \
-        <span class="mobile-break indent-1"><span class="code-blue">const</span> forums <span class="code-red">=</span> [</span> \
-          <span class="mobile-break indent-2"><span class="code-yellow">"productivityguild.com"</span>,</span> \
-          <span class="mobile-break indent-2"><span class="code-yellow">"club.bookworm.fm"</span></span> \
-        <span class="mobile-break indent-1">];</span> \
-        <span class="mobile-break indent-1"><span class="code-blue">const</span> work <span class="code-red">=</span> [</span> \
-          <span class="mobile-break indent-2"><span class="code-yellow">"procourse.co"</span></span> \
-        <span class="mobile-break indent-1">];</span> \
-      <span class="mobile-break">}</span>',
+    var str = '<div class="line-break"><a href="/"><span class="code-blue">function</span> <span class="code-green">joeBuhlig</span>() {</a></div> \
+        <div class="line-break indent-1"><span><span class="code-blue">const</span> links <span class="code-red">=</span> [</span> \
+          <span class="indent-2"><a href="/about"><span class="code-yellow">"/about"</span></a>,</span> \
+          <span class="indent-2"><a href="/contact"><span class="code-yellow">"/contact"</span></a>,</span> \
+          <span class="indent-2"><a href="/newsletter"><span class="code-yellow">"/newsletter"</span></a></span> \
+        <span>];</span></div> \
+        <div class="line-break indent-1"><span><span class="code-blue">const</span> podcasts <span class="code-red">=</span> [</span> \
+          <span class="indent-2"><a href="/about"><span class="code-yellow">"bookworm.fm"</span></a>,</span> \
+          <span class="indent-2"><a href="/about"><span class="code-yellow">"whimsthatwork.fm"</span></a></span> \
+        <span>];</span></div> \
+        <div class="line-break indent-1"><span><span class="code-blue">const</span> forums <span class="code-red">=</span> [</span> \
+          <span class="indent-2"><a href="/about"><span class="code-yellow">"discourse.joebuhlig.com"</span></a>,</span> \
+          <span class="indent-2"><a href="/about"><span class="code-yellow">"club.bookworm.fm"</span></a></span> \
+        <span>];</span></div> \
+        <div class="line-break indent-1"><span><span class="code-blue">const</span> work <span class="code-red">=</span> [</span> \
+          <span class="indent-2"><a href="/about"><span class="code-yellow">"procourse.co"</span></a></span> \
+        <span>];</span></div> \
+      <div class="line-break">}</div>',
     i = 0,
     isTag,
     text;
