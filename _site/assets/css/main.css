@@ -496,11 +496,7 @@ table {
  */
 .page-content {
   -webkit-transform: translate3d(0, 0, 0);
-  padding: 0px;
-  position: relative;
-  z-index: 100;
-  width: calc(100% - 350px);
-  left: 350px; }
+  padding: 0px; }
 
 .page-heading {
   font-size: 20px; }

@@ -408,10 +408,6 @@
 .page-content {
     -webkit-transform: translate3d(0,0,0);
     padding: 0px;
-    position: relative;
-    z-index: 100;
-    width: calc(100% - #{$site-nav-width});
-    left: $site-nav-width;
 }
 
 .page-heading {
