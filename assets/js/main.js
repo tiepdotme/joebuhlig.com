@@ -34,15 +34,15 @@ $(document).ready(function(){
           <span class="indent-2"><a href="/newsletter"><span class="code-yellow">"/newsletter"</span></a></span> \
         <span>];</span></div> \
         <div class="line-break indent-1"><span><span class="code-blue">const</span> podcasts <span class="code-red">=</span> [</span> \
-          <span class="indent-2"><a href="/about"><span class="code-yellow">"bookworm.fm"</span></a>,</span> \
-          <span class="indent-2"><a href="/about"><span class="code-yellow">"whimsthatwork.fm"</span></a></span> \
+          <span class="indent-2"><a href="https://bookworm.fm"><span class="code-yellow">"bookworm.fm"</span></a>,</span> \
+          <span class="indent-2"><a href="http://whimsthatwork.fm"><span class="code-yellow">"whimsthatwork.fm"</span></a></span> \
         <span>];</span></div> \
         <div class="line-break indent-1"><span><span class="code-blue">const</span> forums <span class="code-red">=</span> [</span> \
-          <span class="indent-2"><a href="/about"><span class="code-yellow">"discourse.joebuhlig.com"</span></a>,</span> \
-          <span class="indent-2"><a href="/about"><span class="code-yellow">"club.bookworm.fm"</span></a></span> \
+          <span class="indent-2"><a href="https://discourse.joebuhlig.com"><span class="code-yellow">"discourse.joebuhlig.com"</span></a>,</span> \
+          <span class="indent-2"><a href="https://club.bookworm.fm"><span class="code-yellow">"club.bookworm.fm"</span></a></span> \
         <span>];</span></div> \
         <div class="line-break indent-1"><span><span class="code-blue">const</span> work <span class="code-red">=</span> [</span> \
-          <span class="indent-2"><a href="/about"><span class="code-yellow">"procourse.co"</span></a></span> \
+          <span class="indent-2"><a href="https://procourse.co"><span class="code-yellow">"procourse.co"</span></a></span> \
         <span>];</span></div> \
       <div class="line-break">}</div>',
     i = 0,
@@ -60,7 +60,7 @@ $(document).ready(function(){
     if( char === '>' ) isTag = false;
 
     if (isTag) return type();
-    setTimeout(type, 15);
+    setTimeout(type, 10);
 }());
 	
 	$(window).scroll(function() {
