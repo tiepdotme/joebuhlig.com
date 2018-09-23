@@ -26,67 +26,63 @@
         color: $grey-color-dark;
     }
 }
-
+.site-nav-wrapper{
+    position: relative;
+    z-index: 100;
+}
 .site-nav {
     padding:0px;
     text-align: center;
     position: fixed;
     height: $header-bar-height+300;
-    top:-470px;
+    top:-535px;
     background: #383838;
     width: 100%;
-    box-shadow: 0 0px 50px 0 rgba(1, 1, 1, 0.15);
+    box-shadow: 0 5px 20px 0 rgba(1, 1, 1, 0.15);
     z-index: 101;
     -webkit-transform: skewY(-5deg);
     -moz-transform: skewY(-5deg);
     -o-transform: skewY(-5deg);
 
-    .site-nav-content{
-        height:100%;
-        position:relative;
-        margin:0px auto;
-        max-width:650px;
-        text-align: center;
-        top:480px;
+    .site-nav-text {
+        bottom: -10px;
+        color: #F8F8F8;
+        font-family: monospace;
+        left: 0px;
+        margin: 0px 25px;
+        position: absolute;
+        text-align:left;
         -webkit-transform: skewY(5deg);
         -moz-transform: skewY(5deg);
         -o-transform: skewY(5deg);
 
-        .site-nav-text {
-            color: #F8F8F8;
-            font-family: monospace;
-            margin: 0px auto;
-            padding-top: 15px;
-            text-align:left;
+        a {
+            color: inherit;
+        }
+        a:hover {
+            border-bottom: 2px solid #e6db74;
+        }
 
-            a {
-                color: inherit;
-            }
-            a:hover {
-                border-bottom: 2px solid #e6db74;
-            }
-
-            .code-blue{
-                color: #66d9ef;
-            }
-            .code-green {
-                color: #a6e22e;
-            }
-            .code-red{
-                color: #f92672;
-            }
-            .code-yellow{
-                color: #e6db74;
-            }
-            .mobile-break{
-                display:block;
-            }
-            .indent-1{
-                margin-left:20px;
-            }
-            .indent-2{
-                margin-left:0px;
-            }
+        .code-blue{
+            color: #66d9ef;
+        }
+        .code-green {
+            color: #a6e22e;
+        }
+        .code-red{
+            color: #f92672;
+        }
+        .code-yellow{
+            color: #e6db74;
+        }
+        .mobile-break{
+            display:block;
+        }
+        .indent-1{
+            margin-left:20px;
+        }
+        .indent-2{
+            margin-left:0px;
         }
     }
 
@@ -1172,24 +1168,26 @@
  * Newsletter Header
 */
 .newsletter-header-wrapper{
-    position: fixed;
-    bottom: -35px;
-    left: 25px;
+    position: relative;
+    top: -520px;
+    right: 0px;
+    height:650px;
     margin: 0px auto 25px auto;
     background-color: #ffffff;
     padding: 20px;
-    width:330px;
     box-shadow: 0 0px 50px 0 rgba(1, 1, 1, 0.15);
-    -webkit-transform: skew(-5deg, 0deg);
-    -moz-transform: skew(-5deg, 0deg);
-    -o-transform: skew(-5deg, 0deg);
+    -webkit-transform: skewY(7deg);
+    -moz-transform: skewY(7deg);
+    -o-transform: skewY(7deg);
 
     .newsletter-header{
-        max-width: 900px;
+        bottom: 0px;
         margin: 0px auto;
-        -webkit-transform: skew(5deg, 0deg);
-        -moz-transform: skew(5deg, 0deg);
-        -o-transform: skew(5deg, 0deg);
+        position: absolute;
+        right: 0px;
+        -webkit-transform: skewY(-7deg);
+        -moz-transform: skewY(-7deg);
+        -o-transform: skewY(-7deg);
 
         .description, .form{
             display: inline-block;
@@ -1197,14 +1195,23 @@
             padding: 0px 10px;
             vertical-align: top;
         }
+        .description{
+            max-width:250px;
+        }
 
         .form{
+            max-width:500px;
+
             .ck_form.ck_minimal{
                 margin: 0px;
 
                 .ck_form_fields{
                     padding: 0px;
                 }
+            }
+            .ck_subscribe_button, .ck_email_address,.ck_form.ck_minimal.width400 input[type="email"]{
+                float:left;
+                width:auto;
             }
         }
     }
@@ -1224,10 +1231,11 @@
                 .ck_form.ck_minimal .ck_subscribe_button {
                     height: 33px;
                     padding: 6px 0px;
-                    width: 30%;
+                    width: auto;
                 }
                 .ck_form.ck_minimal input[type="text"], .ck_form.ck_minimal input[type="email"]{
                     height: 33px;
+                    width:auto;
                 }
             }
         }

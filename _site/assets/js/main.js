@@ -26,42 +26,6 @@ $(document).ready(function(){
 	$('.post img').not('.featured-image').click(function(event){
 		window.location.href = $(this).attr("src");
 	})
-
-    var str = '<div class="line-break"><a href="/"><span class="code-blue">function</span> <span class="code-green">joeBuhlig</span>() {</a></div> \
-        <div class="line-break indent-1"><span><span class="code-blue">const</span> links <span class="code-red">=</span> [</span> \
-          <span class="indent-2"><a href="/about"><span class="code-yellow">"/about"</span></a>,</span> \
-          <span class="indent-2"><a href="/contact"><span class="code-yellow">"/contact"</span></a>,</span> \
-          <span class="indent-2"><a href="/newsletter"><span class="code-yellow">"/newsletter"</span></a></span> \
-        <span>];</span></div> \
-        <div class="line-break indent-1"><span><span class="code-blue">const</span> podcasts <span class="code-red">=</span> [</span> \
-          <span class="indent-2"><a href="https://bookworm.fm"><span class="code-yellow">"bookworm.fm"</span></a>,</span> \
-          <span class="indent-2"><a href="http://whimsthatwork.fm"><span class="code-yellow">"whimsthatwork.fm"</span></a></span> \
-        <span>];</span></div> \
-        <div class="line-break indent-1"><span><span class="code-blue">const</span> forums <span class="code-red">=</span> [</span> \
-          <span class="indent-2"><a href="https://discourse.joebuhlig.com"><span class="code-yellow">"discourse.joebuhlig.com"</span></a>,</span> \
-          <span class="indent-2"><a href="https://club.bookworm.fm"><span class="code-yellow">"club.bookworm.fm"</span></a></span> \
-        <span>];</span></div> \
-        <div class="line-break indent-1"><span><span class="code-blue">const</span> work <span class="code-red">=</span> [</span> \
-          <span class="indent-2"><a href="https://procourse.co"><span class="code-yellow">"procourse.co"</span></a></span> \
-        <span>];</span></div> \
-      <div class="line-break">}</div>',
-    i = 0,
-    isTag,
-    text;
-
-(function type() {
-    text = str.slice(0, ++i);
-    if (text === str) return;
-    
-    document.getElementById('typewriter').innerHTML = text;
-
-    var char = text.slice(-1);
-    if( char === '<' ) isTag = true;
-    if( char === '>' ) isTag = false;
-
-    if (isTag) return type();
-    setTimeout(type, 10);
-}());
 	
 	$(window).scroll(function() {
         var imageTrigger = windowHeight + $(window).scrollTop();
