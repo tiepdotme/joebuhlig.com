@@ -14,11 +14,37 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 04 Oct 2018 08:52:39 -0500</lastBuildDate>
+<lastBuildDate>Mon, 22 Oct 2018 08:16:55 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[Free Agents 58: A Better Path, with Joe Buhlig]]></title>
+    <link>https://joebuhlig.com/free-agents-58-a-better-path-with-joe-buhlig/</link>
+    <pubDate>Tue, 16 Oct 2018 00:00:00 -0500</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[blog]]></category>
+
+
+    <category><![CDATA[podcast-guest]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/free-agents-58-a-better-path-with-joe-buhlig/</guid>
+    <description>
+        <![CDATA[This past week I had a chance to jump on Free Agents with my good friends Mike Schmitz and David Sparks to talk about a pretty big transition I’m working through with my work. It may not be a popular decision I’m making, but it’s definitely the right move and...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/freeagents.jpeg" /><p>This past week I had a chance to jump on <a href="https://www.relay.fm/freeagents/58">Free Agents</a> with my good friends Mike Schmitz and David Sparks to talk about a pretty big transition I’m working through with my work. It may not be a popular decision I’m making, but it’s definitely the right move and I’m certainly excited about it. 
+<!--more--></p>
+
+<blockquote>
+  <p>Podcaster and programmer Joe Buhlig shares his free agent journey, from bean field to office to family room. He joins David and Mike to talk about his experience solving problems, how to let things go, and finding your own definition of success.</p>
+</blockquote>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[Building Communities That Help Your Small Business Thrive - SPRH Podcast]]></title>
