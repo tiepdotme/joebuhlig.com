@@ -14,11 +14,33 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 22 Oct 2018 08:27:18 -0500</lastBuildDate>
+<lastBuildDate>Tue, 06 Nov 2018 16:44:14 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[56: Hyperfocus by (and with) Chris Bailey]]></title>
+    <link>https://joebuhlig.com/56-hyperfocus-by-and-with-chris-bailey/</link>
+    <pubDate>Tue, 06 Nov 2018 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/56-hyperfocus-by-and-with-chris-bailey/</guid>
+    <description>
+        <![CDATA[Focus is a hot topic, but there’s more to it then just turning off Twitter and blocking out distractions. Today’s book shows us how to manage our focus, helps us understand how it works, and shows us how to recharge it when it gets low. Author Chris Bailey joins us...]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Focus is a hot topic, but there’s more to it then just turning off Twitter and blocking out distractions. Today’s book shows us how to manage our focus, helps us understand how it works, and shows us how to recharge it when it gets low. Author Chris Bailey joins us at the end to talk about writing Hyperfocus, what he learned from the process, and which mechanical keyboard is the best.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[55: The Happiness Advantage by Shawn Achor]]></title>
@@ -339,28 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew talks about his new business venture, Keyhouse! After Joe introduced Procourse last week, this conversation continues the same dialogue on freelance work becoming something bigger.
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[27: The Whole Working on the Internet Dilemma]]></title>
-    <link>https://joebuhlig.com/27-the-whole-working-on-the-internet-dilemma/</link>
-    <pubDate>Mon, 04 Jun 2018 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[whims]]></category>
-
-
-    <category><![CDATA[whims]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/27-the-whole-working-on-the-internet-dilemma/</guid>
-    <description>
-        <![CDATA[Joe talks about his new business venture, ProCourse! This leads to a conversation about the natural evolution from freelancer to business owner, and all of the challenges that come with it: Setting goals (or choosing not to), getting buried in email, adding yet-another-Slack channel, and telling people IRL what you...]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe talks about his new business venture, ProCourse! This leads to a conversation about the natural evolution from freelancer to business owner, and all of the challenges that come with it: Setting goals (or choosing not to), getting buried in email, adding yet-another-Slack channel, and telling people IRL what you do in the first place.
 <!--more--></p>
 ]]>
     </content:encoded>
