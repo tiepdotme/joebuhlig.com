@@ -14,11 +14,34 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Tue, 06 Nov 2018 16:44:14 -0600</lastBuildDate>
+<lastBuildDate>Wed, 21 Nov 2018 07:15:35 -0600</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com/</generator>
+
+<item>
+    <title><![CDATA[57: Predictably Irrational by Dan Ariely]]></title>
+    <link>https://joebuhlig.com/57-predictably-irrational-by-dan-ariely/</link>
+    <pubDate>Wed, 21 Nov 2018 00:00:00 -0600</pubDate>
+    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
+
+    <category><![CDATA[bookworm]]></category>
+
+
+    <category><![CDATA[bookworm]]></category>
+
+    <guid isPermaLink="true">https://joebuhlig.com/57-predictably-irrational-by-dan-ariely/</guid>
+    <description>
+        <![CDATA[When it comes to making decisions, we like to think we’re capable of making smart, rational choices. But are we? Tune in to find out why Dan Ariely believe our irrational behavior is completely predictable - and what you can do about it.
+]]>
+    </description>
+    <content:encoded>
+        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>When it comes to making decisions, we like to think we’re capable of making smart, rational choices. But are we? Tune in to find out why Dan Ariely believe our irrational behavior is completely predictable - and what you can do about it.
+<!--more--></p>
+]]>
+    </content:encoded>
+</item>
 
 <item>
     <title><![CDATA[56: Hyperfocus by (and with) Chris Bailey]]></title>
@@ -338,29 +361,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     </description>
     <content:encoded>
         <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>What does it take to become the best? And what do the world’s greatest do that puts them at the top? And how does that translate into our day to day lives?
-<!--more--></p>
-]]>
-    </content:encoded>
-</item>
-
-<item>
-    <title><![CDATA[28: Move from One Phase to Another]]></title>
-    <link>https://joebuhlig.com/28-move-from-one-phase-to-another/</link>
-    <pubDate>Mon, 18 Jun 2018 00:00:00 -0500</pubDate>
-    <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
-
-    <category><![CDATA[whims]]></category>
-
-
-    <category><![CDATA[whims]]></category>
-
-    <guid isPermaLink="true">https://joebuhlig.com/28-move-from-one-phase-to-another/</guid>
-    <description>
-        <![CDATA[Drew talks about his new business venture, Keyhouse! After Joe introduced Procourse last week, this conversation continues the same dialogue on freelance work becoming something bigger.
-]]>
-    </description>
-    <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew talks about his new business venture, Keyhouse! After Joe introduced Procourse last week, this conversation continues the same dialogue on freelance work becoming something bigger.
 <!--more--></p>
 ]]>
     </content:encoded>
