@@ -232,7 +232,7 @@
 </a></span>Using a Cloudfront CDN for Jekyll Without S3 </h1>
 			<p class="post-meta">
 				
-<div class="meta-item">Dec 5, 2016</div><div class="meta-item">Joe Buhlig</div><div class="meta-item">~5  mins</div><div class="meta-item"><a class="meta-tag" href="/tag/jekyll">jekyll</a><div class="meta-tag-arrow"></div></div>
+<div class="meta-item">Dec 5, 2016</div><div class="meta-item">Joe Buhlig</div><div class="meta-item">~4  mins</div><div class="meta-item"><a class="meta-tag" href="/tag/jekyll">jekyll</a><div class="meta-tag-arrow"></div></div>
 
 			</p>
 		</header>
@@ -264,19 +264,19 @@
 
 <h2 id="setting-up-jekyll">Setting Up Jekyll</h2>
 
-<p>As a Jekyll user, you are probably familiar with using the Liquid tag <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">site.url</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code>. That variable is coming from the <code class="highlighter-rouge">_config.yml</code> file and we simply want to add <code class="highlighter-rouge">cdn_url</code> to it. Mine looks like this:</p>
+<p>As a Jekyll user, you are probably familiar with using the Liquid tag <code class="highlighter-rouge">{{ site.url }}</code>. That variable is coming from the <code class="highlighter-rouge">_config.yml</code> file and we simply want to add <code class="highlighter-rouge">cdn_url</code> to it. Mine looks like this:</p>
 
-<figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="s">baseurl</span><span class="pi">:</span> <span class="s2">"</span><span class="s">"</span>
-<span class="s">url</span><span class="pi">:</span> <span class="s2">"</span><span class="s">http://joebuhlig.com"</span>
-<span class="s">cdn_url</span><span class="pi">:</span> <span class="s">http://cdn.joebuhlig.com</span></code></pre></figure>
+<figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="na">baseurl</span><span class="pi">:</span> <span class="s2">"</span><span class="s">"</span>
+<span class="na">url</span><span class="pi">:</span> <span class="s2">"</span><span class="s">http://joebuhlig.com"</span>
+<span class="na">cdn_url</span><span class="pi">:</span> <span class="s">http://cdn.joebuhlig.com</span></code></pre></figure>
 
-<p>With <code class="highlighter-rouge">cdn_url</code> in place, you need to go through your static files and image references and change the base URL from a relative reference or <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">site.url</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code> to <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">site.cdn_url</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code> instead. I recommend previewing this before you deploy it just to make sure it’s working correctly and that Cloudfront is fully up and running. You can also test this by navigating to the base <code class="highlighter-rouge">cdn_url</code> itself and check if a copy of your site is available. If not, you need to wait for the DNS changes to populate.</p>
+<p>With <code class="highlighter-rouge">cdn_url</code> in place, you need to go through your static files and image references and change the base URL from a relative reference or <code class="highlighter-rouge">{{ site.url }}</code> to <code class="highlighter-rouge">{{ site.cdn_url }}</code> instead. I recommend previewing this before you deploy it just to make sure it’s working correctly and that Cloudfront is fully up and running. You can also test this by navigating to the base <code class="highlighter-rouge">cdn_url</code> itself and check if a copy of your site is available. If not, you need to wait for the DNS changes to populate.</p>
 
 <h2 id="jekyll-development">Jekyll Development</h2>
 
-<p>A problem you’ll quickly run into is doing development of CSS and JS when your assets are being served from a CDN. In my workflow I run two commands: <code class="highlighter-rouge">jekyll s --future</code> to test and preview my site and <code class="highlighter-rouge">JEKYLL_ENV=production jekyll b</code> for a production build right before deployment. This allows me to use the Liquid variable <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">jekyll.environment</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code> to test if I am in production, like so:</p>
+<p>A problem you’ll quickly run into is doing development of CSS and JS when your assets are being served from a CDN. In my workflow I run two commands: <code class="highlighter-rouge">jekyll s --future</code> to test and preview my site and <code class="highlighter-rouge">JEKYLL_ENV=production jekyll b</code> for a production build right before deployment. This allows me to use the Liquid variable <code class="highlighter-rouge">{{ jekyll.environment }}</code> to test if I am in production, like so:</p>
 
-<p><code class="highlighter-rouge"><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">if</span><span class="w"> </span><span class="err">jekyll.environment</span><span class="w"> </span><span class="err">==</span><span class="w"> </span><span class="err">'production'</span><span class="w"> </span><span class="err">%</span><span class="p">}{</span><span class="err">{</span><span class="w"> </span><span class="err">site.cdn_url</span><span class="w"> </span><span class="p">}</span><span class="err">}</span><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">endif</span><span class="w"> </span><span class="err">%</span><span class="p">}</span></code></p>
+<p><code class="highlighter-rouge">{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}</code></p>
 
 <p>If you use this in conjunction with the <code class="highlighter-rouge">cdn_url</code>, it means that when I’m building for production, the <code class="highlighter-rouge">cdn_url</code> is added and empty if it’s for development. I’m left with relative and local URLs in development and the full CDN URL in production.</p>
 
@@ -286,7 +286,7 @@
 
 <p>Just like the <code class="highlighter-rouge">cdn_url</code>, I added <code class="highlighter-rouge">version: 1</code> to my <code class="highlighter-rouge">_config.yml</code> file. That allows me to append any asset URL to look like this: <code class="highlighter-rouge">/assets/main.css?v={{ site.version}}</code> When used at the same time as the <code class="highlighter-rouge">cdn_url</code>, I’m left with this:</p>
 
-<p><code class="highlighter-rouge"><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">if</span><span class="w"> </span><span class="err">jekyll.environment</span><span class="w"> </span><span class="err">==</span><span class="w"> </span><span class="err">'production'</span><span class="w"> </span><span class="err">%</span><span class="p">}{</span><span class="err">{</span><span class="w"> </span><span class="err">site.cdn_url</span><span class="w"> </span><span class="p">}</span><span class="err">}</span><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">endif</span><span class="w"> </span><span class="err">%</span><span class="p">}</span><span class="err">/assets/css/main.css?v=</span><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">site.version</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code></p>
+<p><code class="highlighter-rouge">{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/css/main.css?v={{ site.version }}</code></p>
 
 <p>Now, I’m lazy and don’t want to manually increment this version number every time I want to bust the cache so I again <a href="http://brettterpstra.com/2013/03/05/site-versioning-with-jekyll/">stole a page from Brett Terpstra’s book</a> and wrote a rake task to do it for me:</p>
 

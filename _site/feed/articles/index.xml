@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>https://joebuhlig.com</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 14 Mar 2019 14:52:34 -0500</lastBuildDate>
+<lastBuildDate>Thu, 14 Mar 2019 15:02:24 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -233,19 +233,19 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <h2 id="setting-up-jekyll">Setting Up Jekyll</h2>
 
-<p>As a Jekyll user, you are probably familiar with using the Liquid tag <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">site.url</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code>. That variable is coming from the <code class="highlighter-rouge">_config.yml</code> file and we simply want to add <code class="highlighter-rouge">cdn_url</code> to it. Mine looks like this:</p>
+<p>As a Jekyll user, you are probably familiar with using the Liquid tag <code class="highlighter-rouge">{{ site.url }}</code>. That variable is coming from the <code class="highlighter-rouge">_config.yml</code> file and we simply want to add <code class="highlighter-rouge">cdn_url</code> to it. Mine looks like this:</p>
 
-<figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="s">baseurl</span><span class="pi">:</span> <span class="s2">"</span><span class="s">"</span>
-<span class="s">url</span><span class="pi">:</span> <span class="s2">"</span><span class="s">http://joebuhlig.com"</span>
-<span class="s">cdn_url</span><span class="pi">:</span> <span class="s">http://cdn.joebuhlig.com</span></code></pre></figure>
+<figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="na">baseurl</span><span class="pi">:</span> <span class="s2">"</span><span class="s">"</span>
+<span class="na">url</span><span class="pi">:</span> <span class="s2">"</span><span class="s">http://joebuhlig.com"</span>
+<span class="na">cdn_url</span><span class="pi">:</span> <span class="s">http://cdn.joebuhlig.com</span></code></pre></figure>
 
-<p>With <code class="highlighter-rouge">cdn_url</code> in place, you need to go through your static files and image references and change the base URL from a relative reference or <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">site.url</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code> to <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">site.cdn_url</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code> instead. I recommend previewing this before you deploy it just to make sure it’s working correctly and that Cloudfront is fully up and running. You can also test this by navigating to the base <code class="highlighter-rouge">cdn_url</code> itself and check if a copy of your site is available. If not, you need to wait for the DNS changes to populate.</p>
+<p>With <code class="highlighter-rouge">cdn_url</code> in place, you need to go through your static files and image references and change the base URL from a relative reference or <code class="highlighter-rouge">{{ site.url }}</code> to <code class="highlighter-rouge">{{ site.cdn_url }}</code> instead. I recommend previewing this before you deploy it just to make sure it’s working correctly and that Cloudfront is fully up and running. You can also test this by navigating to the base <code class="highlighter-rouge">cdn_url</code> itself and check if a copy of your site is available. If not, you need to wait for the DNS changes to populate.</p>
 
 <h2 id="jekyll-development">Jekyll Development</h2>
 
-<p>A problem you’ll quickly run into is doing development of CSS and JS when your assets are being served from a CDN. In my workflow I run two commands: <code class="highlighter-rouge">jekyll s --future</code> to test and preview my site and <code class="highlighter-rouge">JEKYLL_ENV=production jekyll b</code> for a production build right before deployment. This allows me to use the Liquid variable <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">jekyll.environment</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code> to test if I am in production, like so:</p>
+<p>A problem you’ll quickly run into is doing development of CSS and JS when your assets are being served from a CDN. In my workflow I run two commands: <code class="highlighter-rouge">jekyll s --future</code> to test and preview my site and <code class="highlighter-rouge">JEKYLL_ENV=production jekyll b</code> for a production build right before deployment. This allows me to use the Liquid variable <code class="highlighter-rouge">{{ jekyll.environment }}</code> to test if I am in production, like so:</p>
 
-<p><code class="highlighter-rouge"><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">if</span><span class="w"> </span><span class="err">jekyll.environment</span><span class="w"> </span><span class="err">==</span><span class="w"> </span><span class="err">'production'</span><span class="w"> </span><span class="err">%</span><span class="p">}{</span><span class="err">{</span><span class="w"> </span><span class="err">site.cdn_url</span><span class="w"> </span><span class="p">}</span><span class="err">}</span><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">endif</span><span class="w"> </span><span class="err">%</span><span class="p">}</span></code></p>
+<p><code class="highlighter-rouge">{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}</code></p>
 
 <p>If you use this in conjunction with the <code class="highlighter-rouge">cdn_url</code>, it means that when I’m building for production, the <code class="highlighter-rouge">cdn_url</code> is added and empty if it’s for development. I’m left with relative and local URLs in development and the full CDN URL in production.</p>
 
@@ -255,7 +255,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <p>Just like the <code class="highlighter-rouge">cdn_url</code>, I added <code class="highlighter-rouge">version: 1</code> to my <code class="highlighter-rouge">_config.yml</code> file. That allows me to append any asset URL to look like this: <code class="highlighter-rouge">/assets/main.css?v={{ site.version}}</code> When used at the same time as the <code class="highlighter-rouge">cdn_url</code>, I’m left with this:</p>
 
-<p><code class="highlighter-rouge"><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">if</span><span class="w"> </span><span class="err">jekyll.environment</span><span class="w"> </span><span class="err">==</span><span class="w"> </span><span class="err">'production'</span><span class="w"> </span><span class="err">%</span><span class="p">}{</span><span class="err">{</span><span class="w"> </span><span class="err">site.cdn_url</span><span class="w"> </span><span class="p">}</span><span class="err">}</span><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">endif</span><span class="w"> </span><span class="err">%</span><span class="p">}</span><span class="err">/assets/css/main.css?v=</span><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">site.version</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code></p>
+<p><code class="highlighter-rouge">{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/css/main.css?v={{ site.version }}</code></p>
 
 <p>Now, I’m lazy and don’t want to manually increment this version number every time I want to bust the cache so I again <a href="http://brettterpstra.com/2013/03/05/site-versioning-with-jekyll/">stole a page from Brett Terpstra’s book</a> and wrote a rake task to do it for me:</p>
 
@@ -785,7 +785,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                      <span class="na">discourseEmbedUrl</span><span class="p">:</span> <span class="s1">'REPLACE_ME'</span> <span class="p">};</span>
 
   <span class="p">(</span><span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
-    <span class="kd">var</span> <span class="nx">d</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="s1">'script'</span><span class="p">);</span> <span class="nx">d</span><span class="p">.</span><span class="nx">type</span> <span class="o">=</span> <span class="s1">'text/javascript'</span><span class="p">;</span> <span class="nx">d</span><span class="p">.</span><span class="nx">async</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
+    <span class="kd">var</span> <span class="nx">d</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="s1">'script'</span><span class="p">);</span> <span class="nx">d</span><span class="p">.</span><span class="nx">type</span> <span class="o">=</span> <span class="s1">'text/javascript'</span><span class="p">;</span> <span class="nx">d</span><span class="p">.</span><span class="k">async</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
     <span class="nx">d</span><span class="p">.</span><span class="nx">src</span> <span class="o">=</span> <span class="nx">DiscourseEmbed</span><span class="p">.</span><span class="nx">discourseUrl</span> <span class="o">+</span> <span class="s1">'javascripts/embed.js'</span><span class="p">;</span>
     <span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="s1">'head'</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span> <span class="o">||</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="s1">'body'</span><span class="p">)[</span><span class="mi">0</span><span class="p">]).</span><span class="nx">appendChild</span><span class="p">(</span><span class="nx">d</span><span class="p">);</span>
   <span class="p">})();</span>
@@ -801,7 +801,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                      <span class="na">discourseEmbedUrl</span><span class="p">:</span> <span class="s1">'{{site.url}}{{page.url}}'</span> <span class="p">};</span>
 
   <span class="p">(</span><span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
-    <span class="kd">var</span> <span class="nx">d</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="s1">'script'</span><span class="p">);</span> <span class="nx">d</span><span class="p">.</span><span class="nx">type</span> <span class="o">=</span> <span class="s1">'text/javascript'</span><span class="p">;</span> <span class="nx">d</span><span class="p">.</span><span class="nx">async</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
+    <span class="kd">var</span> <span class="nx">d</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="s1">'script'</span><span class="p">);</span> <span class="nx">d</span><span class="p">.</span><span class="nx">type</span> <span class="o">=</span> <span class="s1">'text/javascript'</span><span class="p">;</span> <span class="nx">d</span><span class="p">.</span><span class="k">async</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
     <span class="nx">d</span><span class="p">.</span><span class="nx">src</span> <span class="o">=</span> <span class="nx">DiscourseEmbed</span><span class="p">.</span><span class="nx">discourseUrl</span> <span class="o">+</span> <span class="s1">'javascripts/embed.js'</span><span class="p">;</span>
     <span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="s1">'head'</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span> <span class="o">||</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="s1">'body'</span><span class="p">)[</span><span class="mi">0</span><span class="p">]).</span><span class="nx">appendChild</span><span class="p">(</span><span class="nx">d</span><span class="p">);</span>
   <span class="p">})();</span>
@@ -818,7 +818,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                      <span class="na">discourseEmbedUrl</span><span class="p">:</span> <span class="s1">'{{site.url}}{{page.url}}'</span> <span class="p">};</span>
 
   <span class="p">(</span><span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
-    <span class="kd">var</span> <span class="nx">d</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="s1">'script'</span><span class="p">);</span> <span class="nx">d</span><span class="p">.</span><span class="nx">type</span> <span class="o">=</span> <span class="s1">'text/javascript'</span><span class="p">;</span> <span class="nx">d</span><span class="p">.</span><span class="nx">async</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
+    <span class="kd">var</span> <span class="nx">d</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="s1">'script'</span><span class="p">);</span> <span class="nx">d</span><span class="p">.</span><span class="nx">type</span> <span class="o">=</span> <span class="s1">'text/javascript'</span><span class="p">;</span> <span class="nx">d</span><span class="p">.</span><span class="k">async</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
     <span class="nx">d</span><span class="p">.</span><span class="nx">src</span> <span class="o">=</span> <span class="nx">DiscourseEmbed</span><span class="p">.</span><span class="nx">discourseUrl</span> <span class="o">+</span> <span class="s1">'javascripts/embed.js'</span><span class="p">;</span>
     <span class="p">(</span><span class="nb">document</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="s1">'head'</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span> <span class="o">||</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="s1">'body'</span><span class="p">)[</span><span class="mi">0</span><span class="p">]).</span><span class="nx">appendChild</span><span class="p">(</span><span class="nx">d</span><span class="p">);</span>
   <span class="p">})();</span>
@@ -892,7 +892,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>Using his script as a base, this is what I landed on:</p>
 
 <figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">small</span> <span class="o">=</span> <span class="s2">"(a|an|and|as|at|but|by|en|for|if|in|of|on|or|the|to|v[.]?|via|vs[.]?)"</span><span class="p">;</span>
-    <span class="kd">var</span> <span class="nx">punct</span> <span class="o">=</span> <span class="s2">"([!\"#$%&amp;'()*+,./:;&lt;=&gt;?@[\\\\\\]^_`{|}~-]*)"</span><span class="p">;</span>
+    <span class="kd">var</span> <span class="nx">punct</span> <span class="o">=</span> <span class="s2">"([!</span><span class="se">\"</span><span class="s2">#$%&amp;'()*+,./:;&lt;=&gt;?@[</span><span class="err">\\\\\\</span><span class="s2">]^_`{|}~-]*)"</span><span class="p">;</span>
   
     <span class="k">this</span><span class="p">.</span><span class="nx">titleCaps</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">title</span><span class="p">){</span>
         <span class="kd">var</span> <span class="nx">parts</span> <span class="o">=</span> <span class="p">[],</span> <span class="nx">split</span> <span class="o">=</span> <span class="sr">/</span><span class="se">[</span><span class="sr">:.;?!</span><span class="se">]</span><span class="sr"> |</span><span class="se">(?:</span><span class="sr"> |^</span><span class="se">)[</span><span class="sr">"Ò</span><span class="se">]</span><span class="sr">/g</span><span class="p">,</span> <span class="nx">index</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
@@ -904,11 +904,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
                 <span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="sr">/</span><span class="se">\b([</span><span class="sr">A-Za-z</span><span class="se">][</span><span class="sr">a-z.'Õ</span><span class="se">]</span><span class="sr">*</span><span class="se">)\b</span><span class="sr">/g</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">all</span><span class="p">){</span>
                     <span class="k">return</span> <span class="sr">/</span><span class="se">[</span><span class="sr">A-Za-z</span><span class="se">]\.[</span><span class="sr">A-Za-z</span><span class="se">]</span><span class="sr">/</span><span class="p">.</span><span class="nx">test</span><span class="p">(</span><span class="nx">all</span><span class="p">)</span> <span class="p">?</span> <span class="nx">all</span> <span class="p">:</span> <span class="nx">upper</span><span class="p">(</span><span class="nx">all</span><span class="p">);</span>
                 <span class="p">})</span>
-                <span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="nb">RegExp</span><span class="p">(</span><span class="s2">"\\b"</span> <span class="o">+</span> <span class="nx">small</span> <span class="o">+</span> <span class="s2">"\\b"</span><span class="p">,</span> <span class="s2">"ig"</span><span class="p">),</span> <span class="nx">lower</span><span class="p">)</span>
-                <span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="nb">RegExp</span><span class="p">(</span><span class="s2">"^"</span> <span class="o">+</span> <span class="nx">punct</span> <span class="o">+</span> <span class="nx">small</span> <span class="o">+</span> <span class="s2">"\\b"</span><span class="p">,</span> <span class="s2">"ig"</span><span class="p">),</span> <span class="kd">function</span><span class="p">(</span><span class="nx">all</span><span class="p">,</span> <span class="nx">punct</span><span class="p">,</span> <span class="nx">word</span><span class="p">){</span>
+                <span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="nb">RegExp</span><span class="p">(</span><span class="s2">"</span><span class="err">\\</span><span class="s2">b"</span> <span class="o">+</span> <span class="nx">small</span> <span class="o">+</span> <span class="s2">"</span><span class="err">\\</span><span class="s2">b"</span><span class="p">,</span> <span class="s2">"ig"</span><span class="p">),</span> <span class="nx">lower</span><span class="p">)</span>
+                <span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="nb">RegExp</span><span class="p">(</span><span class="s2">"^"</span> <span class="o">+</span> <span class="nx">punct</span> <span class="o">+</span> <span class="nx">small</span> <span class="o">+</span> <span class="s2">"</span><span class="err">\\</span><span class="s2">b"</span><span class="p">,</span> <span class="s2">"ig"</span><span class="p">),</span> <span class="kd">function</span><span class="p">(</span><span class="nx">all</span><span class="p">,</span> <span class="nx">punct</span><span class="p">,</span> <span class="nx">word</span><span class="p">){</span>
                     <span class="k">return</span> <span class="nx">punct</span> <span class="o">+</span> <span class="nx">upper</span><span class="p">(</span><span class="nx">word</span><span class="p">);</span>
                 <span class="p">})</span>
-                <span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="nb">RegExp</span><span class="p">(</span><span class="s2">"\\b"</span> <span class="o">+</span> <span class="nx">small</span> <span class="o">+</span> <span class="nx">punct</span> <span class="o">+</span> <span class="s2">"$"</span><span class="p">,</span> <span class="s2">"ig"</span><span class="p">),</span> <span class="nx">upper</span><span class="p">));</span>
+                <span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="nb">RegExp</span><span class="p">(</span><span class="s2">"</span><span class="err">\\</span><span class="s2">b"</span> <span class="o">+</span> <span class="nx">small</span> <span class="o">+</span> <span class="nx">punct</span> <span class="o">+</span> <span class="s2">"$"</span><span class="p">,</span> <span class="s2">"ig"</span><span class="p">),</span> <span class="nx">upper</span><span class="p">));</span>
             
             <span class="nx">index</span> <span class="o">=</span> <span class="nx">split</span><span class="p">.</span><span class="nx">lastIndex</span><span class="p">;</span>
             
@@ -1035,9 +1035,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p>Here’s what the JavaScript looks like:</p>
 
 <figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">text</span> <span class="o">=</span> <span class="s2">""</span><span class="p">;</span>
-<span class="kd">var</span> <span class="nx">tasks</span> <span class="o">=</span> <span class="nx">draft</span><span class="p">.</span><span class="nx">content</span><span class="p">.</span><span class="nx">split</span><span class="p">(</span><span class="s2">"\n"</span><span class="p">);</span>
+<span class="kd">var</span> <span class="nx">tasks</span> <span class="o">=</span> <span class="nx">draft</span><span class="p">.</span><span class="nx">content</span><span class="p">.</span><span class="nx">split</span><span class="p">(</span><span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">);</span>
 <span class="k">for</span> <span class="p">(</span><span class="nx">i</span> <span class="k">in</span> <span class="nx">tasks</span><span class="p">)</span> <span class="p">{</span>
-    <span class="nx">text</span> <span class="o">+=</span> <span class="nb">encodeURIComponent</span><span class="p">(</span><span class="s2">"- "</span> <span class="o">+</span> <span class="nx">tasks</span><span class="p">[</span><span class="nx">i</span><span class="p">]</span> <span class="o">+</span> <span class="s2">"\n"</span><span class="p">);</span>
+    <span class="nx">text</span> <span class="o">+=</span> <span class="nb">encodeURIComponent</span><span class="p">(</span><span class="s2">"- "</span> <span class="o">+</span> <span class="nx">tasks</span><span class="p">[</span><span class="nx">i</span><span class="p">]</span> <span class="o">+</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">);</span>
 <span class="p">};</span>
 
 <span class="nx">draft</span><span class="p">.</span><span class="nx">defineTag</span><span class="p">(</span><span class="s2">"OFTasks"</span><span class="p">,</span> <span class="nx">text</span><span class="p">);</span></code></pre></figure>
@@ -8182,9 +8182,8 @@ fi</pre></noscript>
   <li>
     <p>For each someday/maybe list, add a Drafts action that sends an email to your MailDrop address with the following format for the subject line:</p>
 
-    <div class="highlighter-rouge"><pre class="highlight"><code>  --[[title]] @Context ::Project //[[body]]
-</code></pre>
-    </div>
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  --[[title]] @Context ::Project //[[body]]
+</code></pre></div>    </div>
   </li>
   <li>
     <p>Open Script Editor on your Mac, and add the following AppleScript:</p>
@@ -8226,9 +8225,8 @@ end idle</pre></noscript>
 
 <p>Here’s an example of the full syntax you can use in the subject line:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code> --Fix bathroom wiring! @After Hours ::House/Car - SA #friday #next monday $30 min //It’s driving me crazy.
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> --Fix bathroom wiring! @After Hours ::House/Car - SA #friday #next monday $30 min //It’s driving me crazy.
+</code></pre></div></div>
 
 <p>This creates a flagged task named “Fix bathroom wiring” with the context of “After Hours and project of “House/Car - SA”. Its start date will be Friday with a due date of next Monday. The time estimate for it will be 30 minutes and the note will be “It’s driving me crazy.”</p>
 
