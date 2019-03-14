@@ -1,0 +1,93 @@
+# Logfile created on 2019-03-14 15:13:08 -0500 by logger.rb/66358
+  INFO ---------------------------------------------------------------------------
+  INFO START 2019-03-14 15:13:08 -0500 cap production deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [2f4347e8] Running /usr/bin/env mkdir -p /tmp as joebuhlig@104.236.248.91
+ DEBUG [2f4347e8] Command: /usr/bin/env mkdir -p /tmp
+  INFO [4069fed5] Finished in 1.435 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-joebuhlig_com-production-joebuhlig.sh 0.0%
+  INFO Uploading /tmp/git-ssh-joebuhlig_com-production-joebuhlig.sh 100.0%
+  INFO [fb0d0b7f] Running /usr/bin/env chmod 700 /tmp/git-ssh-joebuhlig_com-production-joebuhlig.sh as joebuhlig@104.236.248.91
+ DEBUG [fb0d0b7f] Command: /usr/bin/env chmod 700 /tmp/git-ssh-joebuhlig_com-production-joebuhlig.sh
+  INFO [e89d623f] Finished in 0.214 seconds with exit status 0 (successful).
+  INFO [0a6a0cb0] Running /usr/bin/env git ls-remote git@github.com:joebuhlig/joebuhlig_com.git HEAD as joebuhlig@104.236.248.91
+ DEBUG [0a6a0cb0] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-joebuhlig_com-production-joebuhlig.sh" ; /usr/bin/env git ls-remote git@github.com:joebuhlig/joebuhlig_com.git HEAD )
+ DEBUG [da48c6b8] 	40ede0c3b9cdc43956867949a6c98d9503e04708	HEAD
+  INFO [da48c6b8] Finished in 0.620 seconds with exit status 0 (successful).
+  INFO [f1674f46] Running /usr/bin/env mkdir -p /var/www/html/shared /var/www/html/releases as joebuhlig@104.236.248.91
+ DEBUG [f1674f46] Command: /usr/bin/env mkdir -p /var/www/html/shared /var/www/html/releases
+  INFO [28e91aad] Finished in 0.209 seconds with exit status 0 (successful).
+ DEBUG [b02dae7b] Running [ -f /var/www/html/current/REVISION ] as joebuhlig@104.236.248.91
+ DEBUG [b02dae7b] Command: [ -f /var/www/html/current/REVISION ]
+ DEBUG [4f3c1562] Finished in 0.201 seconds with exit status 0 (successful).
+ DEBUG [6b0d24c1] Running /usr/bin/env cat /var/www/html/current/REVISION 2>/dev/null as joebuhlig@104.236.248.91
+ DEBUG [6b0d24c1] Command: /usr/bin/env cat /var/www/html/current/REVISION 2>/dev/null
+ DEBUG [8d4e2295] 	6ac1c3a
+ DEBUG [8d4e2295] Finished in 0.213 seconds with exit status 0 (successful).
+ DEBUG [b3e70c67] Running [ -f /var/www/html/repo/HEAD ] as joebuhlig@104.236.248.91
+ DEBUG [b3e70c67] Command: [ -f /var/www/html/repo/HEAD ]
+ DEBUG [82980879] Finished in 0.214 seconds with exit status 0 (successful).
+  INFO The repository mirror is at /var/www/html/repo
+ DEBUG [be9e8811] Running if test ! -d /var/www/html/repo; then echo "Directory does not exist '/var/www/html/repo'" 1>&2; false; fi as joebuhlig@104.236.248.91
+ DEBUG [be9e8811] Command: if test ! -d /var/www/html/repo; then echo "Directory does not exist '/var/www/html/repo'" 1>&2; false; fi
+ DEBUG [cb3441b0] Finished in 0.209 seconds with exit status 0 (successful).
+  INFO [10f25d21] Running /usr/bin/env git remote set-url origin git@github.com:joebuhlig/joebuhlig_com.git as joebuhlig@104.236.248.91
+ DEBUG [10f25d21] Command: cd /var/www/html/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-joebuhlig_com-production-joebuhlig.sh" ; /usr/bin/env git remote set-url origin git@github.com:joebuhlig/joebuhlig_com.git )
+  INFO [84e5786b] Finished in 0.235 seconds with exit status 0 (successful).
+  INFO [1e9919b6] Running /usr/bin/env git remote update --prune as joebuhlig@104.236.248.91
+ DEBUG [1e9919b6] Command: cd /var/www/html/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-joebuhlig_com-production-joebuhlig.sh" ; /usr/bin/env git remote update --prune )
+ DEBUG [7063309c] 	Fetching origin
+ DEBUG [7063309c] 	From github.com:joebuhlig/joebuhlig_com
+ DEBUG [7063309c] 	 x [deleted]         (none)     -> add-sidebar
+ DEBUG [7063309c] 	   6ac1c3a..40ede0c  master     -> master
+  INFO [7063309c] Finished in 1.246 seconds with exit status 0 (successful).
+ DEBUG [f3c5ebc2] Running if test ! -d /var/www/html/repo; then echo "Directory does not exist '/var/www/html/repo'" 1>&2; false; fi as joebuhlig@104.236.248.91
+ DEBUG [f3c5ebc2] Command: if test ! -d /var/www/html/repo; then echo "Directory does not exist '/var/www/html/repo'" 1>&2; false; fi
+ DEBUG [5d30bb3c] Finished in 0.209 seconds with exit status 0 (successful).
+  INFO [43da76ca] Running /usr/bin/env mkdir -p /var/www/html/releases/20190314201312 as joebuhlig@104.236.248.91
+ DEBUG [43da76ca] Command: cd /var/www/html/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-joebuhlig_com-production-joebuhlig.sh" ; /usr/bin/env mkdir -p /var/www/html/releases/20190314201312 )
+  INFO [2d5b3980] Finished in 0.212 seconds with exit status 0 (successful).
+  INFO [840fe5f8] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /var/www/html/releases/20190314201312 as joebuhlig@104.236.248.91
+ DEBUG [840fe5f8] Command: cd /var/www/html/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-joebuhlig_com-production-joebuhlig.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /var/www/html/releases/20190314201312 )
+  INFO [e739c471] Finished in 1.842 seconds with exit status 0 (successful).
+ DEBUG [66838e83] Running if test ! -d /var/www/html/repo; then echo "Directory does not exist '/var/www/html/repo'" 1>&2; false; fi as joebuhlig@104.236.248.91
+ DEBUG [66838e83] Command: if test ! -d /var/www/html/repo; then echo "Directory does not exist '/var/www/html/repo'" 1>&2; false; fi
+ DEBUG [31aea12c] Finished in 0.207 seconds with exit status 0 (successful).
+ DEBUG [bab32d7d] Running /usr/bin/env git rev-list --max-count=1 master as joebuhlig@104.236.248.91
+ DEBUG [bab32d7d] Command: cd /var/www/html/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-joebuhlig_com-production-joebuhlig.sh" ; /usr/bin/env git rev-list --max-count=1 master )
+ DEBUG [2d7c3422] 	40ede0c3b9cdc43956867949a6c98d9503e04708
+ DEBUG [2d7c3422] Finished in 0.232 seconds with exit status 0 (successful).
+ DEBUG [b4570990] Running if test ! -d /var/www/html/releases/20190314201312; then echo "Directory does not exist '/var/www/html/releases/20190314201312'" 1>&2; false; fi as joebuhlig@104.236.248.91
+ DEBUG [b4570990] Command: if test ! -d /var/www/html/releases/20190314201312; then echo "Directory does not exist '/var/www/html/releases/20190314201312'" 1>&2; false; fi
+ DEBUG [f485d8b7] Finished in 0.216 seconds with exit status 0 (successful).
+  INFO [9888bb1e] Running /usr/bin/env echo "40ede0c3b9cdc43956867949a6c98d9503e04708" > REVISION as joebuhlig@104.236.248.91
+ DEBUG [9888bb1e] Command: cd /var/www/html/releases/20190314201312 && /usr/bin/env echo "40ede0c3b9cdc43956867949a6c98d9503e04708" > REVISION
+  INFO [94769c23] Finished in 0.209 seconds with exit status 0 (successful).
+  INFO [adaefd1c] Running /usr/bin/env ln -s /var/www/html/releases/20190314201312 /var/www/html/releases/current as joebuhlig@104.236.248.91
+ DEBUG [adaefd1c] Command: /usr/bin/env ln -s /var/www/html/releases/20190314201312 /var/www/html/releases/current
+  INFO [a0ddd98a] Finished in 0.207 seconds with exit status 0 (successful).
+  INFO [4ce95a19] Running /usr/bin/env mv /var/www/html/releases/current /var/www/html as joebuhlig@104.236.248.91
+ DEBUG [4ce95a19] Command: /usr/bin/env mv /var/www/html/releases/current /var/www/html
+  INFO [708eb1f6] Finished in 0.197 seconds with exit status 0 (successful).
+ DEBUG [75b53a48] Running /usr/bin/env ls -x /var/www/html/releases as joebuhlig@104.236.248.91
+ DEBUG [75b53a48] Command: /usr/bin/env ls -x /var/www/html/releases
+ DEBUG [5e5ad985] 	20181022132023	20181022132225	20181022132854	20181106224519	20181121131717
+20190314201312
+ DEBUG [5e5ad985] Finished in 0.349 seconds with exit status 0 (successful).
+  INFO Keeping 5 of 6 deployed releases on 104.236.248.91
+ DEBUG [583f4cb5] Running [ -d /var/www/html/current ] as joebuhlig@104.236.248.91
+ DEBUG [583f4cb5] Command: [ -d /var/www/html/current ]
+ DEBUG [a3659730] Finished in 0.205 seconds with exit status 0 (successful).
+ DEBUG [5f4257b1] Running /usr/bin/env readlink /var/www/html/current as joebuhlig@104.236.248.91
+ DEBUG [5f4257b1] Command: /usr/bin/env readlink /var/www/html/current
+ DEBUG [18822e75] 	/var/www/html/releases/20190314201312
+ DEBUG [18822e75] Finished in 0.216 seconds with exit status 0 (successful).
+  INFO [80fb3b82] Running /usr/bin/env rm -rf /var/www/html/releases/20181022132023 as joebuhlig@104.236.248.91
+ DEBUG [80fb3b82] Command: /usr/bin/env rm -rf /var/www/html/releases/20181022132023
+  INFO [1fa0261d] Finished in 0.359 seconds with exit status 0 (successful).
+ DEBUG [c44cd79b] Running if test ! -d /var/www/html/releases; then echo "Directory does not exist '/var/www/html/releases'" 1>&2; false; fi as joebuhlig@104.236.248.91
+ DEBUG [c44cd79b] Command: if test ! -d /var/www/html/releases; then echo "Directory does not exist '/var/www/html/releases'" 1>&2; false; fi
+ DEBUG [9b0d2dc8] Finished in 0.227 seconds with exit status 0 (successful).
+  INFO [3edcb50b] Running /usr/bin/env echo "Branch master (at 40ede0c3b9cdc43956867949a6c98d9503e04708) deployed as release 20190314201312 by joebuhlig" >> /var/www/html/revisions.log as joebuhlig@104.236.248.91
+ DEBUG [3edcb50b] Command: cd /var/www/html/releases && /usr/bin/env echo "Branch master (at 40ede0c3b9cdc43956867949a6c98d9503e04708) deployed as release 20190314201312 by joebuhlig" >> /var/www/html/revisions.log
+  INFO [e0da8552] Finished in 0.211 seconds with exit status 0 (successful).
