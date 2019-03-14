@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/joebuhlig
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://joebuhlig.com
+  * I am joebuhlig (https://keybase.io/joebuhlig) on keybase.
+  * I have a public key ASC-tyBe6czvWn8J6Bz18TEnGJ8eYqFrcNsoIl57dVtM2Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120beb7205ee9ccef5a7f09e81cf5f13127189f1e62a16b70db28225e7b755b4cd80a",
+      "host": "keybase.io",
+      "kid": "0120beb7205ee9ccef5a7f09e81cf5f13127189f1e62a16b70db28225e7b755b4cd80a",
+      "uid": "20b773418c3a8bf9892a9626f6519119",
+      "username": "joebuhlig"
+    },
+    "merkle_root": {
+      "ctime": 1552591350,
+      "hash": "70ed0df5cba9a8b885ab17e7dbb7a6a02d7f86f481836562c6f03bc6f1858b2d06683975014394bc1c82957a43748c5a1c84833ac6d86f223a7711c77f26ef45",
+      "hash_meta": "5bebaed25cd408cdb17757c65a0e0bbbdb0ce605c7ed59add691feca6559df38",
+      "seqno": 4950568
+    },
+    "service": {
+      "entropy": "xBLxwW89KW3iuwHE5BpYCD/l",
+      "hostname": "joebuhlig.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1552591367,
+  "expire_in": 504576000,
+  "prev": "e8bfd446c68d551f5ff41af67c2eceec4983df99552be258fd466ba973cd34ca",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvrcgXunM71p/Cegc9fExJxifHmKha3DbKCJee3VbTNgKp3BheWxvYWTESpcCDcQg6L/URsaNVR9f9Br2fC7O7EmD35lVK+JY/UZrqXPNNMrEIPo6fWZLHteR21DjawPIPmL5fpuz3YxYyPe/zdezNifqAgHCo3NpZ8RAWZXPpqoQt2xDlqb2fpzg0bMNsI2WCQ4gBcsTCsz76RXS2i4GOZpEFOoSBJ24/KeKvaQQ2PJmN1e2cITuNtrOCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIELWWsmbVzRmWQbIp7vAHJ6Nf3Q0zFg97pAfVLbvhxGOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joebuhlig
+
+==================================================================
