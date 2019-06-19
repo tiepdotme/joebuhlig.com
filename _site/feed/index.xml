@@ -10,11 +10,11 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <channel>
 <title>Joe Buhlig</title>
-<atom:link href="https://joebuhlig.com/feed/" rel="self" type="application/rss+xml" />
-<link>https://joebuhlig.com</link>
+<atom:link href="http://localhost:4000/feed/" rel="self" type="application/rss+xml" />
+<link>http://localhost:4000</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Thu, 14 Mar 2019 15:09:32 -0500</lastBuildDate>
+<lastBuildDate>Wed, 19 Jun 2019 14:15:58 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -22,7 +22,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[57: Predictably Irrational by Dan Ariely]]></title>
-    <link>https://joebuhlig.com/57-predictably-irrational-by-dan-ariely/</link>
+    <link>http://localhost:4000/57-predictably-irrational-by-dan-ariely/</link>
     <pubDate>Wed, 21 Nov 2018 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -31,13 +31,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/57-predictably-irrational-by-dan-ariely/</guid>
+    <guid isPermaLink="true">http://localhost:4000/57-predictably-irrational-by-dan-ariely/</guid>
     <description>
         <![CDATA[When it comes to making decisions, we like to think we’re capable of making smart, rational choices. But are we? Tune in to find out why Dan Ariely believe our irrational behavior is completely predictable - and what you can do about it.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>When it comes to making decisions, we like to think we’re capable of making smart, rational choices. But are we? Tune in to find out why Dan Ariely believe our irrational behavior is completely predictable - and what you can do about it.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>When it comes to making decisions, we like to think we’re capable of making smart, rational choices. But are we? Tune in to find out why Dan Ariely believe our irrational behavior is completely predictable - and what you can do about it.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -45,7 +45,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[56: Hyperfocus by (and with) Chris Bailey]]></title>
-    <link>https://joebuhlig.com/56-hyperfocus-by-and-with-chris-bailey/</link>
+    <link>http://localhost:4000/56-hyperfocus-by-and-with-chris-bailey/</link>
     <pubDate>Tue, 06 Nov 2018 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -54,12 +54,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/56-hyperfocus-by-and-with-chris-bailey/</guid>
+    <guid isPermaLink="true">http://localhost:4000/56-hyperfocus-by-and-with-chris-bailey/</guid>
     <description>
         <![CDATA[Focus is a hot topic, but there’s more to it then just turning off Twitter and blocking out distractions. Today’s book shows us how to manage our focus, helps us understand how it works, and shows us how to recharge it when it gets low. Author Chris Bailey joins us...]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Focus is a hot topic, but there’s more to it then just turning off Twitter and blocking out distractions. Today’s book shows us how to manage our focus, helps us understand how it works, and shows us how to recharge it when it gets low. Author Chris Bailey joins us at the end to talk about writing Hyperfocus, what he learned from the process, and which mechanical keyboard is the best.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>Focus is a hot topic, but there’s more to it then just turning off Twitter and blocking out distractions. Today’s book shows us how to manage our focus, helps us understand how it works, and shows us how to recharge it when it gets low. Author Chris Bailey joins us at the end to talk about writing Hyperfocus, what he learned from the process, and which mechanical keyboard is the best.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -67,7 +67,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[55: The Happiness Advantage by Shawn Achor]]></title>
-    <link>https://joebuhlig.com/55-the-happiness-advantage-by-shawn-achor/</link>
+    <link>http://localhost:4000/55-the-happiness-advantage-by-shawn-achor/</link>
     <pubDate>Thu, 18 Oct 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -76,13 +76,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/55-the-happiness-advantage-by-shawn-achor/</guid>
+    <guid isPermaLink="true">http://localhost:4000/55-the-happiness-advantage-by-shawn-achor/</guid>
     <description>
         <![CDATA[Happy people are productive people, but can you really choose to be happy? Things may not always happen for the best, but in today’s episode Mike &amp; Joe figure out how and why some people are able to make the best of the things that happen.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Happy people are productive people, but can you really choose to be happy? Things may not always happen for the best, but in today’s episode Mike &amp; Joe figure out how and why some people are able to make the best of the things that happen.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>Happy people are productive people, but can you really choose to be happy? Things may not always happen for the best, but in today’s episode Mike &amp; Joe figure out how and why some people are able to make the best of the things that happen.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -90,7 +90,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[Free Agents 58: A Better Path, with Joe Buhlig]]></title>
-    <link>https://joebuhlig.com/free-agents-58-a-better-path-with-joe-buhlig/</link>
+    <link>http://localhost:4000/free-agents-58-a-better-path-with-joe-buhlig/</link>
     <pubDate>Tue, 16 Oct 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -99,12 +99,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[podcast-guest]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/free-agents-58-a-better-path-with-joe-buhlig/</guid>
+    <guid isPermaLink="true">http://localhost:4000/free-agents-58-a-better-path-with-joe-buhlig/</guid>
     <description>
         <![CDATA[This past week I had a chance to jump on Free Agents with my good friends Mike Schmitz and David Sparks to talk about a pretty big transition I’m working through with my work. It may not be a popular decision I’m making, but it’s definitely the right move and...]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/freeagents.jpeg" /><p>This past week I had a chance to jump on <a href="https://www.relay.fm/freeagents/58">Free Agents</a> with my good friends Mike Schmitz and David Sparks to talk about a pretty big transition I’m working through with my work. It may not be a popular decision I’m making, but it’s definitely the right move and I’m certainly excited about it. 
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/freeagents.jpeg" /><p>This past week I had a chance to jump on <a href="https://www.relay.fm/freeagents/58">Free Agents</a> with my good friends Mike Schmitz and David Sparks to talk about a pretty big transition I’m working through with my work. It may not be a popular decision I’m making, but it’s definitely the right move and I’m certainly excited about it. 
 <!--more--></p>
 
 <blockquote>
@@ -116,7 +116,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[33: It’s Where the Widgets Are]]></title>
-    <link>https://joebuhlig.com/33-its-where-the-widgets-are/</link>
+    <link>http://localhost:4000/33-its-where-the-widgets-are/</link>
     <pubDate>Mon, 15 Oct 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -125,13 +125,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[whims]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/33-its-where-the-widgets-are/</guid>
+    <guid isPermaLink="true">http://localhost:4000/33-its-where-the-widgets-are/</guid>
     <description>
         <![CDATA[Joe has done something out of character, updating to iOS 12 and Mojave with quickness. Drew asks why, and the two talk about Siri Shortcuts, dark mode, and a third-party app that makes both of their MacBook Pro setups so much sweeter.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe has done something out of character, updating to iOS 12 and Mojave with quickness. Drew asks why, and the two talk about Siri Shortcuts, dark mode, and a third-party app that makes both of their MacBook Pro setups so much sweeter.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/whimsthatworklogo.jpg" /><p>Joe has done something out of character, updating to iOS 12 and Mojave with quickness. Drew asks why, and the two talk about Siri Shortcuts, dark mode, and a third-party app that makes both of their MacBook Pro setups so much sweeter.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -139,7 +139,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[54: Work Clean by Dan Charnas]]></title>
-    <link>https://joebuhlig.com/54-work-clean-by-dan-charnas/</link>
+    <link>http://localhost:4000/54-work-clean-by-dan-charnas/</link>
     <pubDate>Thu, 04 Oct 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -148,13 +148,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/54-work-clean-by-dan-charnas/</guid>
+    <guid isPermaLink="true">http://localhost:4000/54-work-clean-by-dan-charnas/</guid>
     <description>
         <![CDATA[Can the world of professional chefs teach us anything about productivity? Joe and Mike seem to agree with Dan Charnas and say, yes. Mis-en-place!
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Can the world of professional chefs teach us anything about productivity? Joe and Mike seem to agree with Dan Charnas and say, yes. Mis-en-place!
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>Can the world of professional chefs teach us anything about productivity? Joe and Mike seem to agree with Dan Charnas and say, yes. Mis-en-place!
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -162,7 +162,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[32: We Really Gotta Talk About Team Management]]></title>
-    <link>https://joebuhlig.com/32-we-really-gotta-talk-about-team-management/</link>
+    <link>http://localhost:4000/32-we-really-gotta-talk-about-team-management/</link>
     <pubDate>Mon, 17 Sep 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -171,13 +171,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[whims]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/32-we-really-gotta-talk-about-team-management/</guid>
+    <guid isPermaLink="true">http://localhost:4000/32-we-really-gotta-talk-about-team-management/</guid>
     <description>
         <![CDATA[As Joe and Drew both grow their respective businesses, their usual task management talk transitions to a similar topic: team management. Drew gives the floor to Joe, who talks about why he manages projects and not people, and how to find the right system.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>As Joe and Drew both grow their respective businesses, their usual task management talk transitions to a similar topic: team management. Drew gives the floor to Joe, who talks about why he manages projects and not people, and how to find the right system.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/whimsthatworklogo.jpg" /><p>As Joe and Drew both grow their respective businesses, their usual task management talk transitions to a similar topic: team management. Drew gives the floor to Joe, who talks about why he manages projects and not people, and how to find the right system.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -185,7 +185,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[53: Boundaries by Henry Cloud]]></title>
-    <link>https://joebuhlig.com/53-boundaries-by-henry-cloud/</link>
+    <link>http://localhost:4000/53-boundaries-by-henry-cloud/</link>
     <pubDate>Wed, 05 Sep 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -194,13 +194,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/53-boundaries-by-henry-cloud/</guid>
+    <guid isPermaLink="true">http://localhost:4000/53-boundaries-by-henry-cloud/</guid>
     <description>
         <![CDATA[Should you set limits on what you’ll do with and for other people? And if so, what should those lines be? And do those limits have a place in the church?
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Should you set limits on what you’ll do with and for other people? And if so, what should those lines be? And do those limits have a place in the church?
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>Should you set limits on what you’ll do with and for other people? And if so, what should those lines be? And do those limits have a place in the church?
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -208,7 +208,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[31: A Brick and Mortar Space]]></title>
-    <link>https://joebuhlig.com/31-a-brick-and-mortar-space/</link>
+    <link>http://localhost:4000/31-a-brick-and-mortar-space/</link>
     <pubDate>Mon, 03 Sep 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -217,13 +217,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[whims]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/31-a-brick-and-mortar-space/</guid>
+    <guid isPermaLink="true">http://localhost:4000/31-a-brick-and-mortar-space/</guid>
     <description>
         <![CDATA[Drew bought a coffee shop. He tells the story, and talks about how it’s changing his productivity habits.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Drew bought a coffee shop. He tells the story, and talks about how it’s changing his productivity habits.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/whimsthatworklogo.jpg" /><p>Drew bought a coffee shop. He tells the story, and talks about how it’s changing his productivity habits.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -231,7 +231,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[52: The Power of Habit by Charles Duhigg]]></title>
-    <link>https://joebuhlig.com/52-the-power-of-habit-by-charles-duhigg/</link>
+    <link>http://localhost:4000/52-the-power-of-habit-by-charles-duhigg/</link>
     <pubDate>Fri, 24 Aug 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -240,13 +240,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/52-the-power-of-habit-by-charles-duhigg/</guid>
+    <guid isPermaLink="true">http://localhost:4000/52-the-power-of-habit-by-charles-duhigg/</guid>
     <description>
         <![CDATA[Up to 40% of our daily actions are influenced by our habits, but how do you actually influence them? In this episode, Joe &amp; Mike dive into The Power of Habit and discover the secret to lasting positive change.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>Up to 40% of our daily actions are influenced by our habits, but how do you actually influence them? In this episode, Joe &amp; Mike dive into The Power of Habit and discover the secret to lasting positive change.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>Up to 40% of our daily actions are influenced by our habits, but how do you actually influence them? In this episode, Joe &amp; Mike dive into The Power of Habit and discover the secret to lasting positive change.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -254,7 +254,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[51: Great at Work by Morten Hansen]]></title>
-    <link>https://joebuhlig.com/51-great-at-work-by-morten-hansen/</link>
+    <link>http://localhost:4000/51-great-at-work-by-morten-hansen/</link>
     <pubDate>Wed, 18 Jul 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -263,13 +263,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/51-great-at-work-by-morten-hansen/</guid>
+    <guid isPermaLink="true">http://localhost:4000/51-great-at-work-by-morten-hansen/</guid>
     <description>
         <![CDATA[There is a myth in the workplace that says we need to work longer hours to achieve more and do so with higher quality. But this is purely a myth and there’s a lot of science to prove it.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>There is a myth in the workplace that says we need to work longer hours to achieve more and do so with higher quality. But this is purely a myth and there’s a lot of science to prove it.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>There is a myth in the workplace that says we need to work longer hours to achieve more and do so with higher quality. But this is purely a myth and there’s a lot of science to prove it.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -277,7 +277,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[30: Downtime Accountability Group]]></title>
-    <link>https://joebuhlig.com/30-downtime-accountability-group/</link>
+    <link>http://localhost:4000/30-downtime-accountability-group/</link>
     <pubDate>Mon, 16 Jul 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -286,12 +286,12 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[whims]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/30-downtime-accountability-group/</guid>
+    <guid isPermaLink="true">http://localhost:4000/30-downtime-accountability-group/</guid>
     <description>
         <![CDATA[Joe turns this episode into a confessional and makes a vulnerable statement: He’s a phone addict. Drew and Joe discuss our modern tendency to spend too much time on our devices, Joe reveals how he’s dealing with it, and Drew covers the ways that iOS 12 provides some ‘app limits’...]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>Joe turns this episode into a confessional and makes a vulnerable statement: He’s a phone addict. Drew and Joe discuss our modern tendency to spend too much time on our devices, Joe reveals how he’s dealing with it, and Drew covers the ways that iOS 12 provides some ‘app limits’ of its own. Since iOS 12 gets brought up, so too does the other looming Apple beta: Mojave.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/whimsthatworklogo.jpg" /><p>Joe turns this episode into a confessional and makes a vulnerable statement: He’s a phone addict. Drew and Joe discuss our modern tendency to spend too much time on our devices, Joe reveals how he’s dealing with it, and Drew covers the ways that iOS 12 provides some ‘app limits’ of its own. Since iOS 12 gets brought up, so too does the other looming Apple beta: Mojave.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -299,7 +299,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[50: 2018 Bookworm Draft]]></title>
-    <link>https://joebuhlig.com/50-2018-bookworm-draft/</link>
+    <link>http://localhost:4000/50-2018-bookworm-draft/</link>
     <pubDate>Thu, 05 Jul 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -308,13 +308,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/50-2018-bookworm-draft/</guid>
+    <guid isPermaLink="true">http://localhost:4000/50-2018-bookworm-draft/</guid>
     <description>
         <![CDATA[If you listen to Bookworm as a way to filter your book list, then this episode will blow your mind. Joe and Mike pick their top ten books draft-style. They’re not necessarily Bookworm books either. Also included: a special surprise.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>If you listen to Bookworm as a way to filter your book list, then this episode will blow your mind. Joe and Mike pick their top ten books draft-style. They’re not necessarily Bookworm books either. Also included: a special surprise.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>If you listen to Bookworm as a way to filter your book list, then this episode will blow your mind. Joe and Mike pick their top ten books draft-style. They’re not necessarily Bookworm books either. Also included: a special surprise.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -322,7 +322,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[29: Back to a Digital Task Manager]]></title>
-    <link>https://joebuhlig.com/29-back-to-a-digital-task-manager/</link>
+    <link>http://localhost:4000/29-back-to-a-digital-task-manager/</link>
     <pubDate>Mon, 02 Jul 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -331,13 +331,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[whims]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/29-back-to-a-digital-task-manager/</guid>
+    <guid isPermaLink="true">http://localhost:4000/29-back-to-a-digital-task-manager/</guid>
     <description>
         <![CDATA[An episode dedicated to a singular topic: Joe is back to using OmniFocus.
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/whimsthatworklogo.jpg" /><p>An episode dedicated to a singular topic: Joe is back to using OmniFocus.
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/whimsthatworklogo.jpg" /><p>An episode dedicated to a singular topic: Joe is back to using OmniFocus.
 <!--more--></p>
 ]]>
     </content:encoded>
@@ -345,7 +345,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
 <item>
     <title><![CDATA[49: Peak by Anders Ericsson]]></title>
-    <link>https://joebuhlig.com/49-peak-by-anders-ericsson/</link>
+    <link>http://localhost:4000/49-peak-by-anders-ericsson/</link>
     <pubDate>Sun, 24 Jun 2018 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -354,13 +354,13 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[bookworm]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/49-peak-by-anders-ericsson/</guid>
+    <guid isPermaLink="true">http://localhost:4000/49-peak-by-anders-ericsson/</guid>
     <description>
         <![CDATA[What does it take to become the best? And what do the world’s greatest do that puts them at the top? And how does that translate into our day to day lives?
 ]]>
     </description>
     <content:encoded>
-        <![CDATA[<img class="featured-image" src="https://joebuhlig.com/assets/posts/bookwormlogo.png" /><p>What does it take to become the best? And what do the world’s greatest do that puts them at the top? And how does that translate into our day to day lives?
+        <![CDATA[<img class="featured-image" src="http://localhost:4000/assets/posts/bookwormlogo.png" /><p>What does it take to become the best? And what do the world’s greatest do that puts them at the top? And how does that translate into our day to day lives?
 <!--more--></p>
 ]]>
     </content:encoded>

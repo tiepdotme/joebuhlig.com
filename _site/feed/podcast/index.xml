@@ -11,10 +11,10 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
  
 <channel>
 <title>Whaddya Know Joe?</title>
-<atom:link href="https://joebuhlig.com/feed/podcast" rel="self" type="application/rss+xml" />
-<link>https://joebuhlig.com</link>
+<atom:link href="http://localhost:4000/feed/podcast" rel="self" type="application/rss+xml" />
+<link>http://localhost:4000</link>
 <description>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</description>
-<lastBuildDate>Thu, 14 Mar 2019 15:09:32 -0500</lastBuildDate>
+<lastBuildDate>Wed, 19 Jun 2019 14:15:58 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -22,7 +22,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:summary>Joe Buhlig walks you through real life story and then breaks down the productivity tools and techniques used. It's a great way to learn how to implement the tips and tricks that you see across the web. Productivity stories from the trenches. What works and what to never try.</itunes:summary>
 <itunes:author>Joe Buhlig</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+<itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
 <itunes:owner>
 <itunes:name>Joe Buhlig</itunes:name>
 <itunes:email>joe@joebuhlig.com</itunes:email>
@@ -31,8 +31,8 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:subtitle>Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.</itunes:subtitle>
 <image>
 <title>Whaddya Know Joe?</title>
-<url>https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png</url>
-<link>https://joebuhlig.com</link>
+<url>http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png</url>
+<link>http://localhost:4000</link>
 </image>
 <itunes:category text="Technology">
 <itunes:category text="Software How-To" />
@@ -41,8 +41,8 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
   <item>
     <title>43: Big Project Decisions</title>
-    <link>https://joebuhlig.com/43/</link>
-    <comments>https://joebuhlig.com/43/#comments</comments>
+    <link>http://localhost:4000/43/</link>
+    <comments>http://localhost:4000/43/#comments</comments>
     <pubDate>Thu, 14 Jul 2016 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -51,7 +51,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[projects]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/43/</guid>
+    <guid isPermaLink="true">http://localhost:4000/43/</guid>
     <description>
         <![CDATA[I have a lot going on with a number of new projects taking off. But with new doors opening, a few doors need to be closed.
 
@@ -103,15 +103,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>7:45</itunes:duration>
   </item>
 
   <item>
     <title>42: Deciding On A Medium</title>
-    <link>https://joebuhlig.com/42/</link>
-    <comments>https://joebuhlig.com/42/#comments</comments>
+    <link>http://localhost:4000/42/</link>
+    <comments>http://localhost:4000/42/#comments</comments>
     <pubDate>Wed, 22 Jun 2016 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -120,7 +120,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[mediums]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/42/</guid>
+    <guid isPermaLink="true">http://localhost:4000/42/</guid>
     <description>
         <![CDATA[If you create content in any form and have dabbled in multiple mediums, you’re left with a decision about which method of consumption is best for the topic you want to present.
 
@@ -164,15 +164,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>16:51</itunes:duration>
   </item>
 
   <item>
     <title>41: Fountain Pens</title>
-    <link>https://joebuhlig.com/41/</link>
-    <comments>https://joebuhlig.com/41/#comments</comments>
+    <link>http://localhost:4000/41/</link>
+    <comments>http://localhost:4000/41/#comments</comments>
     <pubDate>Wed, 15 Jun 2016 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -181,7 +181,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[hardware]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/41/</guid>
+    <guid isPermaLink="true">http://localhost:4000/41/</guid>
     <description>
         <![CDATA[I’m pushing pen addict status. I don’t think I’m there yet, but I do have three fountain pens that I thoroughly enjoy using.
 
@@ -245,15 +245,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>17:38</itunes:duration>
   </item>
 
   <item>
     <title>40: The Problem With Audiobooks</title>
-    <link>https://joebuhlig.com/40/</link>
-    <comments>https://joebuhlig.com/40/#comments</comments>
+    <link>http://localhost:4000/40/</link>
+    <comments>http://localhost:4000/40/#comments</comments>
     <pubDate>Wed, 08 Jun 2016 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -262,7 +262,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[books]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/40/</guid>
+    <guid isPermaLink="true">http://localhost:4000/40/</guid>
     <description>
         <![CDATA[I sometimes listen to books via audio but there are a couple flaws with audiobooks that have me avoiding them when I can.
 
@@ -298,15 +298,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>15:19</itunes:duration>
   </item>
 
   <item>
     <title>39: Morning and Evening Rituals</title>
-    <link>https://joebuhlig.com/39/</link>
-    <comments>https://joebuhlig.com/39/#comments</comments>
+    <link>http://localhost:4000/39/</link>
+    <comments>http://localhost:4000/39/#comments</comments>
     <pubDate>Wed, 01 Jun 2016 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -315,7 +315,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[rituals]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/39/</guid>
+    <guid isPermaLink="true">http://localhost:4000/39/</guid>
     <description>
         <![CDATA[What you do for your morning and evening rituals doesn’t have to match what others do. The top 10 things that highly successful people do in the morning may derail your day entirely.
 
@@ -363,15 +363,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>17:21</itunes:duration>
   </item>
 
   <item>
     <title>38: Using Multiple Desks In One Office</title>
-    <link>https://joebuhlig.com/38/</link>
-    <comments>https://joebuhlig.com/38/#comments</comments>
+    <link>http://localhost:4000/38/</link>
+    <comments>http://localhost:4000/38/#comments</comments>
     <pubDate>Wed, 25 May 2016 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -380,7 +380,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[hardware]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/38/</guid>
+    <guid isPermaLink="true">http://localhost:4000/38/</guid>
     <description>
         <![CDATA[Since starting to exclusively write with pen and paper, I’ve added a dedicated writing desk to my office. This week I explore the pros and cons of using multiple desks in my office.
 
@@ -456,15 +456,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>20:33</itunes:duration>
   </item>
 
   <item>
     <title>37: Reading Books vs Articles</title>
-    <link>https://joebuhlig.com/37/</link>
-    <comments>https://joebuhlig.com/37/#comments</comments>
+    <link>http://localhost:4000/37/</link>
+    <comments>http://localhost:4000/37/#comments</comments>
     <pubDate>Wed, 18 May 2016 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -475,7 +475,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[books]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/37/</guid>
+    <guid isPermaLink="true">http://localhost:4000/37/</guid>
     <description>
         <![CDATA[As I learn how to handle the good and bad that comes from being ADHD, I’ve learned the power of reading books over articles.
 
@@ -527,15 +527,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>24:33</itunes:duration>
   </item>
 
   <item>
     <title>36: My Current GTD Structure</title>
-    <link>https://joebuhlig.com/36/</link>
-    <comments>https://joebuhlig.com/36/#comments</comments>
+    <link>http://localhost:4000/36/</link>
+    <comments>http://localhost:4000/36/#comments</comments>
     <pubDate>Wed, 11 May 2016 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -544,7 +544,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/36/</guid>
+    <guid isPermaLink="true">http://localhost:4000/36/</guid>
     <description>
         <![CDATA[It’s been a while since I’ve shared my entire GTD structure. And now that I’m rereading the book, I figured it would be a good idea to share what I’m currently doing before it changes.
 
@@ -624,15 +624,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>29:44</itunes:duration>
   </item>
 
   <item>
     <title>35: Why I'm Into Productivity</title>
-    <link>https://joebuhlig.com/35/</link>
-    <comments>https://joebuhlig.com/35/#comments</comments>
+    <link>http://localhost:4000/35/</link>
+    <comments>http://localhost:4000/35/#comments</comments>
     <pubDate>Wed, 04 May 2016 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -641,7 +641,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[productivity]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/35/</guid>
+    <guid isPermaLink="true">http://localhost:4000/35/</guid>
     <description>
         <![CDATA[I’ve been actively exploring why I am big into productivity for the past two months. In part, that led me to seeing a counselor and discovering a missing piece to my mental puzzle, even though it’s likely obvious to most.
 
@@ -685,15 +685,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>18:12</itunes:duration>
   </item>
 
   <item>
     <title>34: A Web Developer Using Markdown</title>
-    <link>https://joebuhlig.com/34/</link>
-    <comments>https://joebuhlig.com/34/#comments</comments>
+    <link>http://localhost:4000/34/</link>
+    <comments>http://localhost:4000/34/#comments</comments>
     <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -702,7 +702,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[writing]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/34/</guid>
+    <guid isPermaLink="true">http://localhost:4000/34/</guid>
     <description>
         <![CDATA[Markdown has become a major part of how I do all of my writing despite being a web developer. It has a lot of benefits even if you know how to write the HTML itself.
 
@@ -798,15 +798,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>21:40</itunes:duration>
   </item>
 
   <item>
     <title>33: Analog vs. Digital with Mike Schmitz</title>
-    <link>https://joebuhlig.com/33/</link>
-    <comments>https://joebuhlig.com/33/#comments</comments>
+    <link>http://localhost:4000/33/</link>
+    <comments>http://localhost:4000/33/#comments</comments>
     <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -817,7 +817,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[digital]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/33/</guid>
+    <guid isPermaLink="true">http://localhost:4000/33/</guid>
     <description>
         <![CDATA[Mike Schmitz joins me this week to talk through the use of analog tools and how that can help us understand when and where to use the appropriate digital tool.
 
@@ -941,15 +941,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>38:22</itunes:duration>
   </item>
 
   <item>
     <title>32: Doing the Task Shuffle</title>
-    <link>https://joebuhlig.com/32/</link>
-    <comments>https://joebuhlig.com/32/#comments</comments>
+    <link>http://localhost:4000/32/</link>
+    <comments>http://localhost:4000/32/#comments</comments>
     <pubDate>Wed, 13 Apr 2016 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -960,7 +960,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[tasks]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/32/</guid>
+    <guid isPermaLink="true">http://localhost:4000/32/</guid>
     <description>
         <![CDATA[Here’s an update on the new TextExpander pricing and a deep dive into why I wrote a script that shuffles my tasks. That’s right. There’s a big benefit to randomizing a task list.
 
@@ -1016,15 +1016,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>21:24</itunes:duration>
   </item>
 
   <item>
     <title>31: Apps, Websites, and TextExpander Pricing</title>
-    <link>https://joebuhlig.com/31/</link>
-    <comments>https://joebuhlig.com/31/#comments</comments>
+    <link>http://localhost:4000/31/</link>
+    <comments>http://localhost:4000/31/#comments</comments>
     <pubDate>Wed, 06 Apr 2016 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -1035,7 +1035,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[textexpander]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/31/</guid>
+    <guid isPermaLink="true">http://localhost:4000/31/</guid>
     <description>
         <![CDATA[I go on a rant about building websites instead of apps. That leads me to a subsidiary rant about the polarizing changes to TextExpander.
 
@@ -1095,15 +1095,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>19:57</itunes:duration>
   </item>
 
   <item>
     <title>30: Decision Analysis Paralysis</title>
-    <link>https://joebuhlig.com/30/</link>
-    <comments>https://joebuhlig.com/30/#comments</comments>
+    <link>http://localhost:4000/30/</link>
+    <comments>http://localhost:4000/30/#comments</comments>
     <pubDate>Wed, 30 Mar 2016 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -1114,7 +1114,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[tasks]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/30/</guid>
+    <guid isPermaLink="true">http://localhost:4000/30/</guid>
     <description>
         <![CDATA[When you have a large amount of data available, it’s easy to be paralyzed in making a decision about how to analyze it. The same is true when you have a lot of tasks and little clarity.
 
@@ -1174,15 +1174,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>23:05</itunes:duration>
   </item>
 
   <item>
     <title>29: Get Started and Iterate</title>
-    <link>https://joebuhlig.com/29/</link>
-    <comments>https://joebuhlig.com/29/#comments</comments>
+    <link>http://localhost:4000/29/</link>
+    <comments>http://localhost:4000/29/#comments</comments>
     <pubDate>Wed, 23 Mar 2016 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -1191,7 +1191,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[development]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/29/</guid>
+    <guid isPermaLink="true">http://localhost:4000/29/</guid>
     <description>
         <![CDATA[In this episode, I go through the ideas behind agile development and applying them to get a minimum viable product out the door. This is exactly how OmniGroup has now gotten to the point of bringing themes back to OmniFocus. Oh, and I completely missed daylight savings.
 
@@ -1247,15 +1247,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>20:37</itunes:duration>
   </item>
 
   <item>
     <title>28: Why Is Focus So Hard?</title>
-    <link>https://joebuhlig.com/28/</link>
-    <comments>https://joebuhlig.com/28/#comments</comments>
+    <link>http://localhost:4000/28/</link>
+    <comments>http://localhost:4000/28/#comments</comments>
     <pubDate>Wed, 16 Mar 2016 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -1264,7 +1264,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[focus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/28/</guid>
+    <guid isPermaLink="true">http://localhost:4000/28/</guid>
     <description>
         <![CDATA[I’ve slowly drifted away from the mission that gets me excited each day. And that’s due to a lack of focus and alignment with my goals.
 
@@ -1304,15 +1304,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>18:52</itunes:duration>
   </item>
 
   <item>
     <title>27: Pit of Procrastination</title>
-    <link>https://joebuhlig.com/27/</link>
-    <comments>https://joebuhlig.com/27/#comments</comments>
+    <link>http://localhost:4000/27/</link>
+    <comments>http://localhost:4000/27/#comments</comments>
     <pubDate>Wed, 09 Mar 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -1323,7 +1323,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[procrastination]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/27/</guid>
+    <guid isPermaLink="true">http://localhost:4000/27/</guid>
     <description>
         <![CDATA[I reflect on my tendencies to fall into a procrastination pit. And a reader emailed me about web designers posing as developers so I go off on a rant.
 
@@ -1379,15 +1379,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>22:32</itunes:duration>
   </item>
 
   <item>
     <title>26: The Value of Lurking</title>
-    <link>https://joebuhlig.com/26/</link>
-    <comments>https://joebuhlig.com/26/#comments</comments>
+    <link>http://localhost:4000/26/</link>
+    <comments>http://localhost:4000/26/#comments</comments>
     <pubDate>Wed, 02 Mar 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -1398,7 +1398,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[lurking]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/26/</guid>
+    <guid isPermaLink="true">http://localhost:4000/26/</guid>
     <description>
         <![CDATA[Let’s talk about lurkers. Well, I’ll talk about them. You can just listen. And that’s okay because there’s a lot of value in lurking.
 
@@ -1474,15 +1474,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>18:02</itunes:duration>
   </item>
 
   <item>
     <title>25: Creating Ideas</title>
-    <link>https://joebuhlig.com/25/</link>
-    <comments>https://joebuhlig.com/25/#comments</comments>
+    <link>http://localhost:4000/25/</link>
+    <comments>http://localhost:4000/25/#comments</comments>
     <pubDate>Wed, 24 Feb 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -1493,7 +1493,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/25/</guid>
+    <guid isPermaLink="true">http://localhost:4000/25/</guid>
     <description>
         <![CDATA[Coming up with ideas doesn’t have to be hard. There are four ways I create new ideas. And I had a moment of insight about being content at a birthday party for our girls.
 
@@ -1553,15 +1553,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>22:05</itunes:duration>
   </item>
 
   <item>
     <title>24: No More Project Codes</title>
-    <link>https://joebuhlig.com/24/</link>
-    <comments>https://joebuhlig.com/24/#comments</comments>
+    <link>http://localhost:4000/24/</link>
+    <comments>http://localhost:4000/24/#comments</comments>
     <pubDate>Wed, 17 Feb 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -1572,7 +1572,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[evernote]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/24/</guid>
+    <guid isPermaLink="true">http://localhost:4000/24/</guid>
     <description>
         <![CDATA[With my recent move away from Evernote, I’ve made the decision to leave my project codes behind. And although there are serious competitors to Evernote, I’m staying away from them.
 
@@ -1632,15 +1632,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>20:05</itunes:duration>
   </item>
 
   <item>
     <title>23: White Space</title>
-    <link>https://joebuhlig.com/23/</link>
-    <comments>https://joebuhlig.com/23/#comments</comments>
+    <link>http://localhost:4000/23/</link>
+    <comments>http://localhost:4000/23/#comments</comments>
     <pubDate>Wed, 10 Feb 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -1651,7 +1651,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[margin]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/23/</guid>
+    <guid isPermaLink="true">http://localhost:4000/23/</guid>
     <description>
         <![CDATA[Leaving space around the edges of your day can have a major impact on your productivity and happiness throughout the day. Also, I’m glad I don’t have an Apple Watch.
 
@@ -1719,15 +1719,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>20:03</itunes:duration>
   </item>
 
   <item>
     <title>22: Addiction to Numbers</title>
-    <link>https://joebuhlig.com/22/</link>
-    <comments>https://joebuhlig.com/22/#comments</comments>
+    <link>http://localhost:4000/22/</link>
+    <comments>http://localhost:4000/22/#comments</comments>
     <pubDate>Tue, 02 Feb 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -1738,7 +1738,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/22/</guid>
+    <guid isPermaLink="true">http://localhost:4000/22/</guid>
     <description>
         <![CDATA[Since I started my business I’ve developed an addiction to checking numbers. But I watched a webinar last week that really changed the game for me and has me hand writing my schedule for the day.
 
@@ -1798,15 +1798,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>19:10</itunes:duration>
   </item>
 
   <item>
     <title>21: Issues with Evernote</title>
-    <link>https://joebuhlig.com/21/</link>
-    <comments>https://joebuhlig.com/21/#comments</comments>
+    <link>http://localhost:4000/21/</link>
+    <comments>http://localhost:4000/21/#comments</comments>
     <pubDate>Wed, 27 Jan 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -1817,7 +1817,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[evernote]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/21/</guid>
+    <guid isPermaLink="true">http://localhost:4000/21/</guid>
     <description>
         <![CDATA[I’ve found that I have a lot of reasons to leave Evernote. In this episode, I talk through those and give a few updates to the articles I’ve written recently.
 
@@ -1921,15 +1921,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>21:55</itunes:duration>
   </item>
 
   <item>
     <title>20: Code Freeze</title>
-    <link>https://joebuhlig.com/20/</link>
-    <comments>https://joebuhlig.com/20/#comments</comments>
+    <link>http://localhost:4000/20/</link>
+    <comments>http://localhost:4000/20/#comments</comments>
     <pubDate>Wed, 20 Jan 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -1940,7 +1940,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[dvorak]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/20/</guid>
+    <guid isPermaLink="true">http://localhost:4000/20/</guid>
     <description>
         <![CDATA[My Dvorak typing speed is picking up and I’ll be launching a new discussion in two days. Once that’s out, I’ll be going on a code freeze.
 
@@ -2012,15 +2012,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>14:30</itunes:duration>
   </item>
 
   <item>
     <title>19: Online Discussions</title>
-    <link>https://joebuhlig.com/19/</link>
-    <comments>https://joebuhlig.com/19/#comments</comments>
+    <link>http://localhost:4000/19/</link>
+    <comments>http://localhost:4000/19/#comments</comments>
     <pubDate>Wed, 13 Jan 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -2033,7 +2033,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[masterminds]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/19/</guid>
+    <guid isPermaLink="true">http://localhost:4000/19/</guid>
     <description>
         <![CDATA[I’m looking for a good way to promote online discussions. I share my idea about it and give an update on Dvorak. And what about masterminds?
 
@@ -2089,15 +2089,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>17:11</itunes:duration>
   </item>
 
   <item>
     <title>18: Cold Turkey on QWERTY</title>
-    <link>https://joebuhlig.com/18/</link>
-    <comments>https://joebuhlig.com/18/#comments</comments>
+    <link>http://localhost:4000/18/</link>
+    <comments>http://localhost:4000/18/#comments</comments>
     <pubDate>Wed, 06 Jan 2016 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -2108,7 +2108,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[hardware]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/18/</guid>
+    <guid isPermaLink="true">http://localhost:4000/18/</guid>
     <description>
         <![CDATA[After an awesome break for Christmas and the New Year, I’m back with a slight change and format to talk about my switch to Dvorak, the bloated web, and resolutions.
 
@@ -2176,15 +2176,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>18:09</itunes:duration>
   </item>
 
   <item>
     <title>17: Time Off for the Holidays</title>
-    <link>https://joebuhlig.com/17/</link>
-    <comments>https://joebuhlig.com/17/#comments</comments>
+    <link>http://localhost:4000/17/</link>
+    <comments>http://localhost:4000/17/#comments</comments>
     <pubDate>Wed, 23 Dec 2015 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -2193,7 +2193,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[breaks]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/17/</guid>
+    <guid isPermaLink="true">http://localhost:4000/17/</guid>
     <description>
         <![CDATA[Take time off this holiday season. And try not to spend too much time doing support for family. Also, don’t miss out on the discount for Working with OmniFocus.
 
@@ -2233,15 +2233,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>6:02</itunes:duration>
   </item>
 
   <item>
     <title>16: Geofenced Lists</title>
-    <link>https://joebuhlig.com/16/</link>
-    <comments>https://joebuhlig.com/16/#comments</comments>
+    <link>http://localhost:4000/16/</link>
+    <comments>http://localhost:4000/16/#comments</comments>
     <pubDate>Wed, 16 Dec 2015 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -2250,7 +2250,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[lists]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/16/</guid>
+    <guid isPermaLink="true">http://localhost:4000/16/</guid>
     <description>
         <![CDATA[Location based lists have a lot of uses. In this episode, I talk about the main ways I use them and how they’ve helped me in the past. There’s also some follow-up to my time tracking mechanism.
 
@@ -2322,15 +2322,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>12:48</itunes:duration>
   </item>
 
   <item>
     <title>15: Messed Up Mornings</title>
-    <link>https://joebuhlig.com/15/</link>
-    <comments>https://joebuhlig.com/15/#comments</comments>
+    <link>http://localhost:4000/15/</link>
+    <comments>http://localhost:4000/15/#comments</comments>
     <pubDate>Wed, 09 Dec 2015 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -2343,7 +2343,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/15/</guid>
+    <guid isPermaLink="true">http://localhost:4000/15/</guid>
     <description>
         <![CDATA[The way people structure their morning routine can easily dictate your motivation for the day. But what happens when you can’t control the circumstances around your morning? What about kids?
 
@@ -2387,15 +2387,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://itunes.apple.com/us/podcast/whaddya-know-joe/id1035426948">Subscribe on iTunes</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>16:12</itunes:duration>
   </item>
 
   <item>
     <title>14: How Much is Down Time Worth?</title>
-    <link>https://joebuhlig.com/14/</link>
-    <comments>https://joebuhlig.com/14/#comments</comments>
+    <link>http://localhost:4000/14/</link>
+    <comments>http://localhost:4000/14/#comments</comments>
     <pubDate>Wed, 02 Dec 2015 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -2406,7 +2406,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[tracking]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/14/</guid>
+    <guid isPermaLink="true">http://localhost:4000/14/</guid>
     <description>
         <![CDATA[I’m starting to track my time. I’ve struggled with this in the past, but now I want to tie it to dollars. I want to know where my time is best spent.
 
@@ -2450,15 +2450,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>12:54</itunes:duration>
   </item>
 
   <item>
     <title>13: Wandering Brain</title>
-    <link>https://joebuhlig.com/13/</link>
-    <comments>https://joebuhlig.com/13/#comments</comments>
+    <link>http://localhost:4000/13/</link>
+    <comments>http://localhost:4000/13/#comments</comments>
     <pubDate>Wed, 18 Nov 2015 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -2467,7 +2467,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[ideas]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/13/</guid>
+    <guid isPermaLink="true">http://localhost:4000/13/</guid>
     <description>
         <![CDATA[I have more ideas than I can keep track of. And this is the whole of my creative process from idea development to storage.
 
@@ -2519,15 +2519,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="https://twitter.com/JoeBuhlig">@JoeBuhlig</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>9:44</itunes:duration>
   </item>
 
   <item>
     <title>12: The Higher Horizons</title>
-    <link>https://joebuhlig.com/12/</link>
-    <comments>https://joebuhlig.com/12/#comments</comments>
+    <link>http://localhost:4000/12/</link>
+    <comments>http://localhost:4000/12/#comments</comments>
     <pubDate>Tue, 10 Nov 2015 00:00:00 -0600</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -2538,7 +2538,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[horizons]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/12/</guid>
+    <guid isPermaLink="true">http://localhost:4000/12/</guid>
     <description>
         <![CDATA[A quick overview of how I see the higher Horizons of GTD and why they are important. Also, I talk about why I think our babysitter is awesome.
 
@@ -2590,15 +2590,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>16:40</itunes:duration>
   </item>
 
   <item>
     <title>11: Using Evernote for GTD</title>
-    <link>https://joebuhlig.com/11/</link>
-    <comments>https://joebuhlig.com/11/#comments</comments>
+    <link>http://localhost:4000/11/</link>
+    <comments>http://localhost:4000/11/#comments</comments>
     <pubDate>Tue, 27 Oct 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -2609,7 +2609,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/11/</guid>
+    <guid isPermaLink="true">http://localhost:4000/11/</guid>
     <description>
         <![CDATA[Before I got into OmniFocus, I used Evernote for GTD. I had a few different structures, but I think I ended with a simple setup that worked well for me before I outgrew it.
 
@@ -2673,15 +2673,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>21:20</itunes:duration>
   </item>
 
   <item>
     <title>10: Why I Don't Use Ads</title>
-    <link>https://joebuhlig.com/10/</link>
-    <comments>https://joebuhlig.com/10/#comments</comments>
+    <link>http://localhost:4000/10/</link>
+    <comments>http://localhost:4000/10/#comments</comments>
     <pubDate>Tue, 20 Oct 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -2690,7 +2690,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[ads]]></category>
 
-    <guid isPermaLink="true">https://joebuhlig.com/10/</guid>
+    <guid isPermaLink="true">http://localhost:4000/10/</guid>
     <description>
         <![CDATA[I’ve avoided ads in my creative work from the beginning. But there’s a lot of pressure to use them as a way to make an income. In this episode, I explain why I don’t plan to change.
 
@@ -2730,15 +2730,15 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>14:02</itunes:duration>
   </item>
 
   <item>
     <title>9: Really? Journaling?</title>
-    <link>https://joebuhlig.com/9/</link>
-    <comments>https://joebuhlig.com/9/#comments</comments>
+    <link>http://localhost:4000/9/</link>
+    <comments>http://localhost:4000/9/#comments</comments>
     <pubDate>Tue, 13 Oct 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -2749,7 +2749,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="false">https://joebuhlig.com/?p=926</guid>
+    <guid isPermaLink="false">http://localhost:4000/?p=926</guid>
     <description>
         <![CDATA[I can’t believe I’ve started journaling every day. I’ve always equated journaling with writing in a diary, which is not for me. But the effects of not journaling caught me off-guard.
 
@@ -2793,15 +2793,15 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>16:32</itunes:duration>
   </item>
 
   <item>
     <title>8: Waiting to Upgrade</title>
-    <link>https://joebuhlig.com/8/</link>
-    <comments>https://joebuhlig.com/8/#comments</comments>
+    <link>http://localhost:4000/8/</link>
+    <comments>http://localhost:4000/8/#comments</comments>
     <pubDate>Tue, 06 Oct 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -2812,7 +2812,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[hardware]]></category>
 
-    <guid isPermaLink="false">https://joebuhlig.com/?p=916</guid>
+    <guid isPermaLink="false">http://localhost:4000/?p=916</guid>
     <description>
         <![CDATA[I’ve started waiting to upgrade operating systems and hardware when new releases are available. My impulse is to upgrade immediately, but I’ve put it off for a variety of reasons.
 
@@ -2868,15 +2868,15 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>20:21</itunes:duration>
   </item>
 
   <item>
     <title>7: Learning a Computer Language</title>
-    <link>https://joebuhlig.com/7/</link>
-    <comments>https://joebuhlig.com/7/#comments</comments>
+    <link>http://localhost:4000/7/</link>
+    <comments>http://localhost:4000/7/#comments</comments>
     <pubDate>Tue, 29 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -2887,7 +2887,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[research]]></category>
 
-    <guid isPermaLink="false">https://joebuhlig.com/?p=905</guid>
+    <guid isPermaLink="false">http://localhost:4000/?p=905</guid>
     <description>
         <![CDATA[People are sometimes scared to get into coding because they think it’s complicated to learn. It’s not complicated, so don’t be one of those people. In this episode I talk about how I got into development (with no schooling) and how I pick up new languages.
 
@@ -2967,15 +2967,15 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>18:21</itunes:duration>
   </item>
 
   <item>
     <title>6: Collecting and Storing Research</title>
-    <link>https://joebuhlig.com/6/</link>
-    <comments>https://joebuhlig.com/6/#comments</comments>
+    <link>http://localhost:4000/6/</link>
+    <comments>http://localhost:4000/6/#comments</comments>
     <pubDate>Tue, 22 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -2986,7 +2986,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[research]]></category>
 
-    <guid isPermaLink="false">https://joebuhlig.com/?p=893</guid>
+    <guid isPermaLink="false">http://localhost:4000/?p=893</guid>
     <description>
         <![CDATA[When you have a new project that you’re doing research on, you need a great way to grab and store that research. Referencing it later can be invaluable and save you the trouble of doing that same research multiple times.
 
@@ -3052,15 +3052,15 @@ Use the hashtag #question to ask a question.</p>
 
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>17:13</itunes:duration>
   </item>
 
   <item>
     <title>5: Developing a Task Management System</title>
-    <link>https://joebuhlig.com/5/</link>
-    <comments>https://joebuhlig.com/5/#comments</comments>
+    <link>http://localhost:4000/5/</link>
+    <comments>http://localhost:4000/5/#comments</comments>
     <pubDate>Tue, 15 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -3069,7 +3069,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[task management]]></category>
 
-    <guid isPermaLink="false">https://joebuhlig.com/?p=882</guid>
+    <guid isPermaLink="false">http://localhost:4000/?p=882</guid>
     <description>
         <![CDATA[If you’ve made the decision to get into task management, congratulations! But you need to be intentional with getting started. Here’s a look at how I helped my wife put together her pen and paper system the first time.
 
@@ -3109,15 +3109,15 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>23:23</itunes:duration>
   </item>
 
   <item>
     <title>4: Creating the First Checklist</title>
-    <link>https://joebuhlig.com/4/</link>
-    <comments>https://joebuhlig.com/4/#comments</comments>
+    <link>http://localhost:4000/4/</link>
+    <comments>http://localhost:4000/4/#comments</comments>
     <pubDate>Tue, 08 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -3126,7 +3126,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[checklists]]></category>
 
-    <guid isPermaLink="false">https://joebuhlig.com/?p=866</guid>
+    <guid isPermaLink="false">http://localhost:4000/?p=866</guid>
     <description>
         <![CDATA[Creating a checklist for the first time isn’t always easy. And I did it wrong when I created the initial list for this podcast. I did figure out a better way, though.
 
@@ -3182,15 +3182,15 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>17:57</itunes:duration>
   </item>
 
   <item>
     <title>3: Keeping Up with Pain Pills</title>
-    <link>https://joebuhlig.com/3/</link>
-    <comments>https://joebuhlig.com/3/#comments</comments>
+    <link>http://localhost:4000/3/</link>
+    <comments>http://localhost:4000/3/#comments</comments>
     <pubDate>Tue, 01 Sep 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -3199,7 +3199,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[omnifocus]]></category>
 
-    <guid isPermaLink="false">https://joebuhlig.com/?p=860</guid>
+    <guid isPermaLink="false">http://localhost:4000/?p=860</guid>
     <description>
         <![CDATA[Ugh. Dealing with water coming into the family room. And of course, I hurt myself and had to have surgery. And surgery leads to pain pills.
 
@@ -3241,15 +3241,15 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>11:30</itunes:duration>
   </item>
 
   <item>
     <title>2: The Dunbar Exception</title>
-    <link>https://joebuhlig.com/2/</link>
-    <comments>https://joebuhlig.com/2/#comments</comments>
+    <link>http://localhost:4000/2/</link>
+    <comments>http://localhost:4000/2/#comments</comments>
     <pubDate>Mon, 31 Aug 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -3260,7 +3260,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[life]]></category>
 
-    <guid isPermaLink="false">https://joebuhlig.com/?p=857</guid>
+    <guid isPermaLink="false">http://localhost:4000/?p=857</guid>
     <description>
         <![CDATA[In today’s world it’s easy to connect with more than 150 people. This is how keep up with 300+.
 
@@ -3306,15 +3306,15 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>17:13</itunes:duration>
   </item>
 
   <item>
     <title>1: New Job New Contexts</title>
-    <link>https://joebuhlig.com/1/</link>
-    <comments>https://joebuhlig.com/1/#comments</comments>
+    <link>http://localhost:4000/1/</link>
+    <comments>http://localhost:4000/1/#comments</comments>
     <pubDate>Sun, 30 Aug 2015 00:00:00 -0500</pubDate>
     <dc:creator><![CDATA[joe_buhlig]]></dc:creator>
 
@@ -3325,7 +3325,7 @@ Use the hashtag #question to ask a question.</p>
 
     <category><![CDATA[gtd]]></category>
 
-    <guid isPermaLink="false">https://joebuhlig.com/?p=850</guid>
+    <guid isPermaLink="false">http://localhost:4000/?p=850</guid>
     <description>
         <![CDATA[If you go through a job change, you’ll need to change your GTD contexts. I walk you through my recent job transition and what I did to determine my new contexts.
 
@@ -3387,7 +3387,7 @@ Use the hashtag #question to ask a question.</p>
 <p><a href="http://joebuhlig.com/patron/">Become a Patron</a></p>
 ]]></itunes:summary>
     <itunes:author>Joe Buhlig</itunes:author>
-    <itunes:image href="https://joebuhlig.com/assets/base/Whaddya-Know-Joe-Album-Art.png" />
+    <itunes:image href="http://localhost:4000/assets/base/Whaddya-Know-Joe-Album-Art.png" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>18:09</itunes:duration>
   </item>

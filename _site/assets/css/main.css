@@ -2,7 +2,7 @@
   font-family: 'Cinzel';
   font-style: normal;
   font-weight: 400;
-  src: local("Cinzel-Regular"), url(https://joebuhlig.com/assets/fonts/Cinzel.woff) format("woff"); }
+  src: local("Cinzel-Regular"), url(/assets/fonts/Cinzel.woff) format("woff"); }
 /**
  * Reset some basic elements
  */
@@ -16,12 +16,12 @@ dl, dd, ol, ul, figure, center {
  * Basic styling
  */
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Avenir Next", "HelveticaNeue-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
   color: #333;
-  background-color: #fdfdfd;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAIElEQVQoU2M8c+bMfxMTE0YGAoCgApj+UYV4Q5Lo4AEAZk8EC7f3uzcAAAAASUVORK5CYII=) repeat;
   -webkit-text-size-adjust: 100%; }
 
 /**
@@ -75,7 +75,7 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Cinzel", Helvetica, Arial, sans-serif;
+  font-family: monospace, Arial, sans-serif;
   font-weight: 300; }
 
 h1 {
@@ -232,7 +232,7 @@ table {
   .site-nav .page-link {
     color: #7cba01;
     font-size: 18px;
-    font-family: "Cinzel", Helvetica, Arial, sans-serif;
+    font-family: monospace, Arial, sans-serif;
     line-height: 1.5; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 10px; }
