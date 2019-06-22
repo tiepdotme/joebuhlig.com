@@ -142,6 +142,10 @@
     line-height: $site-links-height;
     padding: 0px 10px;
     display: inline-block;
+
+    .icon img{
+      max-height:25px;
+    }
 }
 
 .social-media-list a {

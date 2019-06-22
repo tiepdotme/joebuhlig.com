@@ -192,8 +192,6 @@ table {
   width: 22px;
   height: 22px;
   vertical-align: middle; }
-  .icon > svg path {
-    fill: #828282; }
 
 .pointer {
   cursor: pointer; }
@@ -297,6 +295,8 @@ table {
   line-height: 47px;
   padding: 0px 10px;
   display: inline-block; }
+  .social-media-list .icon img {
+    max-height: 25px; }
 
 .social-media-list a {
   margin-left: 5px; }
