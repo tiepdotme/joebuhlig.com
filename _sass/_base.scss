@@ -40,124 +40,124 @@ p, table, blockquote, pre,
 ul, ol, dl, figure, center,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
-}
+  }
 
 
 
-/**
- * Images
- */
-img {
+  /**
+   * Images
+   */
+  img {
     max-width: 100%;
     vertical-align: middle;
-}
+  }
 
-/**
- * Audio
- */
-audio {
+  /**
+   * Audio
+   */
+  audio {
     height: 30px;
     width: 100%;
-}
+  }
 
 
 
-/**
- * Figures
- */
-figure > img {
+  /**
+   * Figures
+   */
+  figure > img {
     display: block;
-}
+  }
 
-figcaption {
+  figcaption {
     font-size: $small-font-size;
-}
+  }
 
 
 
-/**
- * Lists
- */
-ul, ol {
+  /**
+   * Lists
+   */
+  ul, ol {
     margin-left: $spacing-unit;
-}
+  }
 
-ul {
+  ul {
     list-style-type: none;
 
     li:before {
-        content: "\2014\a0";
+      content: "\2014\a0";
     }
-}
+  }
 
-li {
+  li {
     > ul,
     > ol {
-         margin-bottom: 0;
+      margin-bottom: 0;
     }
-}
+  }
 
 
 
-/**
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
+  /**
+   * Headings
+   */
+  h1, h2, h3, h4, h5, h6 {
     font-family: $base-font-headers;
     font-weight: 300;
-}
+  }
 
-h1 {
+  h1 {
     font-size: 2em
-}
+  }
 
-h2 {
+  h2 {
     font-size: 1.5em
-}
+  }
 
-h3 {
+  h3 {
     font-size: 1.2em
-}
-h4 {
+  }
+  h4 {
     font-size: 1em
-}
+  }
 
-h5 {
+  h5 {
     font-size: 0.7em
-}
+  }
 
-h6 {
+  h6 {
     font-size: 0.5em
-}
+  }
 
 
-/**
- * Links
- */
-a {
+  /**
+   * Links
+   */
+  a {
     color: $brand-color;
     text-decoration: none;
 
     &:visited {
-        color: $brand-color;
+      color: $brand-color;
     }
 
     &:hover {
-        text-decoration: none;
+      text-decoration: none;
     }
-}
+  }
 
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     &:hover {
-        text-decoration: none;
+      text-decoration: none;
     }
-}
+  }
 
 
-/**
- * Blockquotes
- */
-blockquote {
+  /**
+   * Blockquotes
+   */
+  blockquote {
     color: $grey-color;
     border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
@@ -166,29 +166,29 @@ blockquote {
     font-style: italic;
 
     > :last-child {
-        margin-bottom: 0;
+      margin-bottom: 0;
     }
-}
+  }
 
 
 
-/**
- * Code formatting
- */
-pre,
-code {
+  /**
+   * Code formatting
+   */
+  pre,
+  code {
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
     background-color: #ccc;
-}
+  }
 
-code {
+  code {
     padding: 1px 5px;
     word-wrap: break-word;
-}
+  }
 
-pre {
+  pre {
     padding: 8px 12px;
     -webkit-box-shadow: inset 0 1px 10px rgba(0,0,0,0.3),0 1px 0 rgba(255,255,255,0.1),0 0px 0 rgba(0,0,0,0.5);
     -moz-box-shadow: inset 0 1px 10px rgba(0,0,0,0.3),0 1px 0 rgba(255,255,255,0.1),0 0px 0 rgba(0,0,0,0.5);
@@ -196,8 +196,8 @@ pre {
     overflow: auto;
 
     > code {
-        border: 0;
-        padding-right: 0;
+      border: 0;
+      padding-right: 0;
         padding-left: 0;
         background-color: initial;
     }

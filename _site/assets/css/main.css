@@ -100,10 +100,10 @@ h6 {
  * Links
  */
 a {
-  color: #7cba01;
+  color: #246881;
   text-decoration: none; }
   a:visited {
-    color: #7cba01; }
+    color: #246881; }
   a:hover {
     text-decoration: none; }
 
@@ -222,7 +222,6 @@ table {
   width: 100%;
   border-bottom: #ccc 1px dotted;
   margin-bottom: 25px;
-  height: 260px;
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
@@ -230,7 +229,7 @@ table {
   .site-nav .mobile-toggle {
     display: none; }
   .site-nav .page-link {
-    color: #7cba01;
+    color: #246881;
     font-size: 18px;
     font-family: monospace, Arial, sans-serif;
     line-height: 1.5; }
@@ -268,7 +267,6 @@ table {
   .site-nav .trigger.active {
     display: block; }
   .site-nav .page-link {
-    display: block;
     padding: 5px 10px; }
   .site-nav .divider {
     height: 1px;
@@ -276,13 +274,11 @@ table {
 
 .left-nav {
   float: left;
-  width: 150px;
   margin: 20px 0px;
   text-align: left; }
 
 .right-nav {
   float: right;
-  width: 250px;
   margin: 20px 0px;
   text-align: right; }
 
@@ -299,7 +295,8 @@ table {
 
 .social-media-list {
   line-height: 47px;
-  padding: 0px 10px; }
+  padding: 0px 10px;
+  display: inline-block; }
 
 .social-media-list a {
   margin-left: 5px; }
@@ -319,10 +316,8 @@ table {
   text-decoration: none; }
 
 @media only screen and (max-width: 650px) {
-  .site-nav {
-    height: 80px; }
-    .site-nav .mobile-toggle {
-      display: initial; }
+  .site-nav .mobile-toggle {
+    display: initial; }
 
   #header-image {
     top: 16px; }
@@ -338,12 +333,10 @@ table {
   .mobile-toggle {
     display: initial; } }
 @media only screen and (max-width: 650px) {
-  .site-nav {
-    height: 50px; }
-    .site-nav .menu-icon {
-      top: 0px; }
-    .site-nav .mobile-toggle.theme-toggle {
-      top: 10px; }
+  .site-nav .menu-icon {
+    top: 0px; }
+  .site-nav .mobile-toggle.theme-toggle {
+    top: 10px; }
 
   #header-image {
     top: 10px;
@@ -351,16 +344,14 @@ table {
 
   .header-icon svg, .header-name svg {
     height: 30px; } }
-.menu-toggled.site-nav {
-  height: 300px; }
-  .menu-toggled.site-nav .left-nav, .menu-toggled.site-nav .right-nav {
-    display: initial;
-    position: absolute;
-    top: 30px; }
-  .menu-toggled.site-nav .left-nav {
-    left: 0px; }
-  .menu-toggled.site-nav .right-nav {
-    right: 0px; }
+.menu-toggled.site-nav .left-nav, .menu-toggled.site-nav .right-nav {
+  display: initial;
+  position: absolute;
+  top: 30px; }
+.menu-toggled.site-nav .left-nav {
+  left: 0px; }
+.menu-toggled.site-nav .right-nav {
+  right: 0px; }
 
 /**
  * Site footer
@@ -676,9 +667,9 @@ table {
   width: 30%; }
   .sidebar h2 {
     font-size: 18px;
-    color: #743517;
+    color: #823D24;
     margin-bottom: 10px;
-    border-bottom: 1px solid #743517;
+    border-bottom: 1px solid #823D24;
     padding: 3px 0px; }
   .sidebar h3 {
     font-size: 16px; }

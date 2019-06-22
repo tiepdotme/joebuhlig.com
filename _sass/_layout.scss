@@ -34,7 +34,6 @@
     width: 100%;
     border-bottom: #ccc 1px dotted;
     margin-bottom: 25px;
-    height: 260px;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -106,7 +105,6 @@
     }
 
     .page-link {
-        display: block;
         padding: 5px 10px;
     }
     .divider{
@@ -117,13 +115,11 @@
 
 .left-nav {
     float: left;
-    width: 150px;
     margin: 20px 0px;
     text-align: left;
 }
 .right-nav {
     float: right;
-    width: 250px;
     margin: 20px 0px;
     text-align: right;
 }
@@ -145,6 +141,7 @@
 .social-media-list {
     line-height: $site-links-height;
     padding: 0px 10px;
+    display: inline-block;
 }
 
 .social-media-list a {
@@ -171,8 +168,6 @@
 
 @media only screen and (max-width: 650px){
     .site-nav{
-        height: 80px;
-
         .mobile-toggle{
             display: initial;
         }
@@ -195,8 +190,6 @@
 
 @media only screen and (max-width: 650px){
     .site-nav{
-        height: 50px;
-
         .menu-icon{
             top: 0px;
         }
@@ -214,8 +207,6 @@
 }
 
 .menu-toggled.site-nav {
-    height: 300px;
-
     .left-nav, .right-nav{
         display: initial;
         position: absolute;

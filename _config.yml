@@ -23,7 +23,7 @@ subreddit:  joebuhlig
 markdown: kramdown
 timezone: America/Chicago
 destination: _site
-gems:
+plugins:
   - jekyll
   - jekyll-sitemap
   - jekyll/tagging
