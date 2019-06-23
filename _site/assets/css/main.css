@@ -214,11 +214,10 @@ table {
     color: #424242; }
 
 .site-nav {
-  max-width: 1200px;
+  max-width: 900px;
   padding: 0px;
   text-align: center;
   width: 100%;
-  border-bottom: #ccc 1px dotted;
   margin-bottom: 25px;
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
@@ -270,6 +269,9 @@ table {
     height: 1px;
     border-top: 1px solid #DDDDDD; }
 
+#homepage-bio {
+  max-width: 700px; }
+
 .left-nav {
   float: left;
   margin: 20px 0px;
@@ -294,7 +296,8 @@ table {
 .social-media-list {
   line-height: 47px;
   padding: 0px 10px;
-  display: inline-block; }
+  display: inline-block;
+  margin-bottom: 30px; }
   .social-media-list .icon img {
     max-height: 25px; }
 

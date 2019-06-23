@@ -28,11 +28,10 @@
 }
 
 .site-nav {
-    max-width: 1200px;
+    max-width: 900px;
     padding:0px;
     text-align: center;
     width: 100%;
-    border-bottom: #ccc 1px dotted;
     margin-bottom: 25px;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
@@ -113,6 +112,9 @@
     }
 }
 
+#homepage-bio {
+  max-width: 700px;
+}
 .left-nav {
     float: left;
     margin: 20px 0px;
@@ -142,6 +144,7 @@
     line-height: $site-links-height;
     padding: 0px 10px;
     display: inline-block;
+    margin-bottom: 30px;
 
     .icon img{
       max-height:25px;
