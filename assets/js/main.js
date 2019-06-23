@@ -43,7 +43,7 @@ $(document).ready(function(){
 	        	request.success(function (data) {
 					postList = $('.feed-item', '<div>' + data + '</div>');
 					postList = data.all_posts;
-					appendFeedContent();
+//					appendFeedContent();
 				});
 				request.fail(function(data){
 					console.log("Failed to retrieve more posts.");

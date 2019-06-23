@@ -1,3 +1,9 @@
+#body-wrapper {
+  background: #ffffff;
+  max-width: 900px;
+  margin: 0px auto;
+  padding: 0px 15px;
+}
 
 .pointer{
     cursor: pointer;
@@ -430,6 +436,12 @@
 
 .content-wrapper {
     text-align:center;
+}
+
+#latest-posts{
+  .tile-pic {
+    max-height: 50px;
+  }
 }
 
 .feed-item {

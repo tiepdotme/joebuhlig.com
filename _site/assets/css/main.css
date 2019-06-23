@@ -193,6 +193,12 @@ table {
   height: 22px;
   vertical-align: middle; }
 
+#body-wrapper {
+  background: #ffffff;
+  max-width: 900px;
+  margin: 0px auto;
+  padding: 0px 15px; }
+
 .pointer {
   cursor: pointer; }
 
@@ -520,6 +526,9 @@ table {
     width: 100%; } }
 .content-wrapper {
   text-align: center; }
+
+#latest-posts .tile-pic {
+  max-height: 50px; }
 
 .feed-item {
   margin: 8px auto;

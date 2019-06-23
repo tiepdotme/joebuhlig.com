@@ -2,12 +2,43 @@
 layout: default
 ---
 {% include bio.html %}
+<div class="wrapper" id="latest-posts">
+  <div><h2>// latest posts</h2></div>
+  {% for post in site.posts limit:1 %}
+    {% include content_feed.html post=post %}
+  {% endfor %}
+  {% for post in site.categories.blog limit: 1%}
+  <div>
+    {% include latest-post-tile.html post=post %}
+  </div>
+  {% endfor %}
+  {% for post in site.categories.bookworm limit: 1%}
+  <div>
+    {% include latest-post-tile.html post=post %}
+  </div>
+  {% endfor %}
+  {% for post in site.categories.whims limit: 1%}
+  <div>
+    {% include latest-post-tile.html post=post %}
+  </div>
+  {% endfor %}
+
+</div>
 {% include newsletter_header.html %}
 <div class="posts" id="home">
-	{% for post in site.posts limit:20 %}
+  <div><h2>// articles</h2></div>
+	{% for post in site.categories.blog limit:6 %}
 	    {% include content_feed.html post=post %}
 	    {% if forloop.index == 1 %}
 	    	{% include carbon_ad.html %}
 	    {% endif %}
+	{% endfor %}
+  <div><h2>// bookworm</h2></div>
+	{% for post in site.categories.bookworm limit:6 %}
+	    {% include content_feed.html post=post %}
+	{% endfor %}
+  <div><h2>// whims</h2></div>
+	{% for post in site.categories.whims limit:6 %}
+	    {% include content_feed.html post=post %}
 	{% endfor %}
 </div>
