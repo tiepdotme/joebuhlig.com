@@ -195,7 +195,7 @@ table {
 
 #body-wrapper {
   background: #ffffff;
-  max-width: 900px;
+  max-width: 1200px;
   margin: 0px auto;
   padding: 0px 15px; }
 
@@ -527,8 +527,50 @@ table {
 .content-wrapper {
   text-align: center; }
 
-#latest-posts .tile-pic {
-  max-height: 50px; }
+.posts-section {
+  padding: 25px 0px 10px 0px;
+  margin-top: 30px; }
+
+.tile-wrapper {
+  display: inline-block;
+  border-radius: 5px;
+  overflow: hidden;
+  height: 100px;
+  width: 375px;
+  text-align: left;
+  margin: 10px;
+  background: #efefef;
+  border: 1px solid #ccc; }
+  .tile-wrapper a {
+    height: 100%;
+    width: 100%; }
+  .tile-wrapper .tile-pic {
+    display: inline-block;
+    max-width: 100px; }
+    .tile-wrapper .tile-pic img {
+      height: 100px;
+      object-fit: cover;
+      width: auto; }
+  .tile-wrapper .tile-title {
+    display: inline-block;
+    width: 260px;
+    padding: 5px;
+    text-align: center;
+    position: relative;
+    height: calc(100% - 10px); }
+    .tile-wrapper .tile-title h4 {
+      font-size: 0.9em;
+      font-weight: bold; }
+    .tile-wrapper .tile-title .tile-meta {
+      position: absolute;
+      bottom: 0px;
+      width: calc(100% - 10px);
+      text-align: center;
+      font-size: 0.7em;
+      font-family: monospace;
+      height: 18px; }
+      .tile-wrapper .tile-title .tile-meta a {
+        color: #ccc; }
 
 .feed-item {
   margin: 8px auto;

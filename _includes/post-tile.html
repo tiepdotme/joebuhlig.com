@@ -1,0 +1,13 @@
+<div class="tile-wrapper">
+  <a href="{{ post.url }}">
+    <div class="tile-pic feed-pic">
+      <img class="hidden" src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== data-src="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}{{ post.image }}?v={{ site.version }}" />
+    </div>
+    <div class="tile-title">
+      <h4>{{post.title}}</h4>
+      <div class="tile-meta">
+        <p>{{ post.date | date: "%Y%m%d" }} • {{ post.content post | reading_time }}</p>
+      </div>
+    </div>
+  </a>
+</div>

@@ -8,37 +8,27 @@ layout: default
     {% include content_feed.html post=post %}
   {% endfor %}
   {% for post in site.categories.blog limit: 1%}
-  <div>
-    {% include latest-post-tile.html post=post %}
-  </div>
+    {% include post-tile.html post=post %}
   {% endfor %}
   {% for post in site.categories.bookworm limit: 1%}
-  <div>
-    {% include latest-post-tile.html post=post %}
-  </div>
+    {% include post-tile.html post=post %}
   {% endfor %}
   {% for post in site.categories.whims limit: 1%}
-  <div>
-    {% include latest-post-tile.html post=post %}
-  </div>
+    {% include post-tile.html post=post %}
   {% endfor %}
-
 </div>
 {% include newsletter_header.html %}
 <div class="posts" id="home">
-  <div><h2>// articles</h2></div>
-	{% for post in site.categories.blog limit:6 %}
-	    {% include content_feed.html post=post %}
-	    {% if forloop.index == 1 %}
-	    	{% include carbon_ad.html %}
-	    {% endif %}
+  <div class="posts-section"><h2>// articles</h2></div>
+	{% for post in site.categories.blog limit:12 %}
+	    {% include post-tile.html post=post %}
 	{% endfor %}
-  <div><h2>// bookworm</h2></div>
-	{% for post in site.categories.bookworm limit:6 %}
-	    {% include content_feed.html post=post %}
+  <div class="posts-section"><h2>// bookworm</h2></div>
+	{% for post in site.categories.bookworm limit:12 %}
+	    {% include post-tile.html post=post %}
 	{% endfor %}
-  <div><h2>// whims</h2></div>
-	{% for post in site.categories.whims limit:6 %}
-	    {% include content_feed.html post=post %}
+  <div class="posts-section"><h2>// whims that work</h2></div>
+	{% for post in site.categories.whims limit:12 %}
+	    {% include post-tile.html post=post %}
 	{% endfor %}
 </div>

@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://localhost:4000</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Sun, 23 Jun 2019 14:59:19 -0500</lastBuildDate>
+<lastBuildDate>Mon, 24 Jun 2019 15:57:32 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -8547,26 +8547,7 @@ end idle</pre></noscript>
   </li>
 </ol>
 
-<noscript><pre>tell application &quot;Finder&quot; to set file_name to (name of theFile)
-set theDate to current date
-set theNote to &quot;Imported on:&quot; &amp; (theDate as string) &amp; &quot;
-
-&quot;
-set projectname to &quot;Test Project&quot;
- 
-set theTask to &quot;Review File: &quot; &amp; file_name
- 
-tell application &quot;OmniFocus&quot;
-	set task_title to theTask
-	tell default document
-		set newTask to make new inbox task with properties {name:task_title}
-		set note of newTask to theNote
-		tell the note of newTask
-			make new file attachment with properties {file name:theFile, embedded:false}
-		end tell
-	end tell
-end tell</pre></noscript>
-<script src="https://gist.github.com/joebuhlig/0e8a29e5f91ac9533f89.js"> </script>
+<p>true<script src="https://gist.github.com/joebuhlig/0e8a29e5f91ac9533f89.js"> </script></p>
 
 <h2 id="using-the-system">Using the system</h2>
 
