@@ -140,7 +140,8 @@
 </a></span>OmniFocus Hotspot </h1>
 			<p class="post-meta">
 				
-<div class="meta-item">Apr 3, 2015</div><div class="meta-item">Joe Buhlig</div><div class="meta-item">~1  min</div><div class="meta-item"><a class="meta-tag" href="/tag/files">files</a><div class="meta-tag-arrow"></div></div><div class="meta-item"><a class="meta-tag" href="/tag/omnifocus">omnifocus</a><div class="meta-tag-arrow"></div></div>
+<div class="meta-item">Apr 3, 2015</div><div class="meta-item">Joe Buhlig</div><div class="meta-item"></div><div class="meta-item"><a class="meta-tag" href="/tag/files">files</a><div class="meta-tag-arrow"></div></div><div class="meta-item"><a class="meta-tag" href="/tag/omnifocus">omnifocus</a><div class="meta-tag-arrow"></div></div>
+
 
 			</p>
 		</header>
@@ -182,7 +183,26 @@
   </li>
 </ol>
 
-<p>true<script src="https://gist.github.com/joebuhlig/0e8a29e5f91ac9533f89.js"> </script></p>
+<noscript><pre>tell application &quot;Finder&quot; to set file_name to (name of theFile)
+set theDate to current date
+set theNote to &quot;Imported on:&quot; &amp; (theDate as string) &amp; &quot;
+
+&quot;
+set projectname to &quot;Test Project&quot;
+ 
+set theTask to &quot;Review File: &quot; &amp; file_name
+ 
+tell application &quot;OmniFocus&quot;
+	set task_title to theTask
+	tell default document
+		set newTask to make new inbox task with properties {name:task_title}
+		set note of newTask to theNote
+		tell the note of newTask
+			make new file attachment with properties {file name:theFile, embedded:false}
+		end tell
+	end tell
+end tell</pre></noscript>
+<script src="https://gist.github.com/joebuhlig/0e8a29e5f91ac9533f89.js"> </script>
 
 <h2 id="using-the-system">Using the system</h2>
 

@@ -568,9 +568,8 @@ table {
       text-align: center;
       font-size: 0.7em;
       font-family: monospace;
-      height: 18px; }
-      .tile-wrapper .tile-title .tile-meta a {
-        color: #ccc; }
+      height: 18px;
+      color: #666; }
 
 .feed-item {
   margin: 8px auto;

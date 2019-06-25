@@ -14,7 +14,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <link>http://localhost:4000</link>
 <description>leverage the digital and welcome real life
 </description>
-<lastBuildDate>Mon, 24 Jun 2019 15:57:32 -0500</lastBuildDate>
+<lastBuildDate>Tue, 25 Jun 2019 12:29:54 -0500</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -128,6 +128,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <guid isPermaLink="true">http://localhost:4000/33-its-where-the-widgets-are/</guid>
     <description>
         <![CDATA[Joe has done something out of character, updating to iOS 12 and Mojave with quickness. Drew asks why, and the two talk about Siri Shortcuts, dark mode, and a third-party app that makes both of their MacBook Pro setups so much sweeter.
+
 ]]>
     </description>
     <content:encoded>
@@ -174,6 +175,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <guid isPermaLink="true">http://localhost:4000/32-we-really-gotta-talk-about-team-management/</guid>
     <description>
         <![CDATA[As Joe and Drew both grow their respective businesses, their usual task management talk transitions to a similar topic: team management. Drew gives the floor to Joe, who talks about why he manages projects and not people, and how to find the right system.
+
 ]]>
     </description>
     <content:encoded>
@@ -220,6 +222,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
     <guid isPermaLink="true">http://localhost:4000/31-a-brick-and-mortar-space/</guid>
     <description>
         <![CDATA[Drew bought a coffee shop. He tells the story, and talks about how it’s changing his productivity habits.
+
 ]]>
     </description>
     <content:encoded>
