@@ -5,7 +5,7 @@ categories: whims
 tags:
 - whims
 permalink: /17-i-dont-think-anyone-likes-homework/
-external: http://whimsthatwork.fm/17/
+external: http://whimsthatwork.fm/17
 image: /assets/posts/whimsthatworklogo.jpg
 discourse_topic_id: 2358
 ---

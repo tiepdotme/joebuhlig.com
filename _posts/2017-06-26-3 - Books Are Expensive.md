@@ -5,7 +5,7 @@ categories: whims
 tags:
 - whims
 permalink: /3-books-are-expensive/
-external: http://whimsthatwork.fm/3/
+external: https://whimsthatwork.fm/3
 image: /assets/posts/whimsthatworklogo.jpg
 discourse_topic_id: 901
 ---

@@ -5,7 +5,7 @@ categories: whims
 tags:
 - whims
 permalink: /16-multiple-fountain-pens-my-god/
-external: http://whimsthatwork.fm/16/
+external: http://whimsthatwork.fm/16
 image: /assets/posts/whimsthatworklogo.jpg
 discourse_topic_id: 2253
 ---

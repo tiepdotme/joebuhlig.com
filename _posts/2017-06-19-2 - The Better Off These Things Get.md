@@ -5,7 +5,7 @@ categories: whims
 tags:
 - whims
 permalink: /2-the-better-off-these-things-get/
-external: http://whimsthatwork.fm/2/
+external: http://whimsthatwork.fm/2
 image: /assets/posts/whimsthatworklogo.jpg
 discourse_topic_id: 891
 ---

@@ -6,7 +6,7 @@
     <div class="tile-title">
       <h4>{{post.title}}</h4>
       <div class="tile-meta">
-        <p>{{ post.date | date: "%Y%m%d" }} • {% if post.categories contains "blog" %}{{ post.content | reading_time }}{% else %}{{ post.external | podcast_duration }}{% endif %}</p>
+        <p>{{ post.date | date: "%Y.%m.%d" }} • {% if post.categories contains "blog" %}{{ post.content | reading_time }}{% else %}{{ post.external | podcast_duration }}{% endif %}</p>
       </div>
     </div>
   </a>

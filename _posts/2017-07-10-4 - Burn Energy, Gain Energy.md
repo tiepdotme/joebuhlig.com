@@ -5,7 +5,7 @@ categories: whims
 tags:
 - whims
 permalink: /4-burn-energy-gain-energy/
-external: http://whimsthatwork.fm/4/
+external: http://whimsthatwork.fm/4
 image: /assets/posts/whimsthatworklogo.jpg
 discourse_topic_id: 943
 ---

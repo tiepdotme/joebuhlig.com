@@ -5,7 +5,7 @@ categories: whims
 tags:
 - whims
 permalink: /1-soybeans-modbooks/
-external: http://whimsthatwork.fm/1/
+external: http://whimsthatwork.fm/1
 image: /assets/posts/whimsthatworklogo.jpg
 discourse_topic_id: 872
 ---

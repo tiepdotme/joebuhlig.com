@@ -5,7 +5,7 @@ categories: whims
 tags:
 - whims
 permalink: /10-im-going-to-have-a-problem-tomorrow-because-im-saying-this-now/
-external: http://whimsthatwork.fm/10/
+external: http://whimsthatwork.fm/10
 image: /assets/posts/whimsthatworklogo.jpg
 discourse_topic_id: 1717
 ---

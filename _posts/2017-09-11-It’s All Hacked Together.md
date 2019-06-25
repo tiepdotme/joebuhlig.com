@@ -5,7 +5,7 @@ categories: whims
 tags:
 - whims
 permalink: /8-its-all-hacked-together/
-external: http://whimsthatwork.fm/8/
+external: http://whimsthatwork.fm/8
 image: /assets/posts/whimsthatworklogo.jpg
 discourse_topic_id: 1350
 ---

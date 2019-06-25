@@ -9,7 +9,7 @@ module ReadingTimeFilter
 		words_per_minute = 200
     words = content.split.size;
     minutes = ( words / words_per_minute ).floor
-    minutes > 0 ? "#{minutes} min" : "> 1 min"
+    minutes > 0 ? "#{minutes} min" : "1 min"
   end
 end
 

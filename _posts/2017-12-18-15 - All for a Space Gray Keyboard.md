@@ -5,7 +5,7 @@ categories: whims
 tags:
 - whims
 permalink: /15-all-for-a-space-gray-keyboard/
-external: http://whimsthatwork.fm/15/
+external: http://whimsthatwork.fm/15
 image: /assets/posts/whimsthatworklogo.jpg
 discourse_topic_id: 2183
 ---

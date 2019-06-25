@@ -5,7 +5,7 @@ categories: whims
 tags:
 - whims
 permalink: /9-cant-you-just-say-what-the-content-is/
-external: http://whimsthatwork.fm/9/
+external: http://whimsthatwork.fm/9
 image: /assets/posts/whimsthatworklogo.jpg
 discourse_topic_id: 1402
 ---

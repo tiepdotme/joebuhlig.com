@@ -5,7 +5,7 @@ categories: whims
 tags:
 - whims
 permalink: /7-whole-wheat/
-external: http://whimsthatwork.fm/7/
+external: http://whimsthatwork.fm/7
 image: /assets/posts/whimsthatworklogo.jpg
 discourse_topic_id: 1235
 ---

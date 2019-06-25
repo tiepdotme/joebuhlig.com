@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<div class="posts">
+	<div class="posts-section"><h2>// bookworm</h2></div>
+  {% for post in site.categories.bookworm %}
+	    {% include post-tile.html post=post %}
+	{% endfor %}
+</div>

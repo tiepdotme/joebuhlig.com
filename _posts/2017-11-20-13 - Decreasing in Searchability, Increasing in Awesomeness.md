@@ -5,7 +5,7 @@ categories: whims
 tags:
 - whims
 permalink: /13-decreasing-in-searchability-increasing-in-awesomeness/
-external: http://whimsthatwork.fm/13/
+external: http://whimsthatwork.fm/13
 image: /assets/posts/whimsthatworklogo.jpg
 discourse_topic_id: 2056
 ---

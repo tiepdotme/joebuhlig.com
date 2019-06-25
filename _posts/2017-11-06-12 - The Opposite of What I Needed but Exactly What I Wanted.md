@@ -5,7 +5,7 @@ categories: whims
 tags:
 - whims
 permalink: /12-the-opposite-of-what-i-needed-but-exactly-what-i-wanted/
-external: http://whimsthatwork.fm/12/
+external: http://whimsthatwork.fm/12
 image: /assets/posts/whimsthatworklogo.jpg
 discourse_topic_id: 1963
 ---

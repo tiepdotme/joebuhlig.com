@@ -3,6 +3,6 @@ layout: default
 ---
 <div class="posts">
 	{% for post in site.categories.blog %}
-	    {% include content_feed.html post=post %}
+	    {% include post-tile.html post=post %}
 	{% endfor %}
 </div>

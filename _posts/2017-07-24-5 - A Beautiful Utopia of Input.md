@@ -5,7 +5,7 @@ categories: whims
 tags:
 - whims
 permalink: /5-a-beautiful-utopia-of-input/
-external: http://whimsthatwork.fm/5/
+external: http://whimsthatwork.fm/5
 image: /assets/posts/whimsthatworklogo.jpg
 discourse_topic_id: 1031
 ---

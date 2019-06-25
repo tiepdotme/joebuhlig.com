@@ -5,7 +5,7 @@ categories: whims
 tags:
 - whims
 permalink: /6-i-could-just-do-it-for-10000/
-external: http://whimsthatwork.fm/6/
+external: http://whimsthatwork.fm/6
 image: /assets/posts/whimsthatworklogo.jpg
 discourse_topic_id: 1154
 ---

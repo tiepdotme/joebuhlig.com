@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<div class="posts">
+  <div class="posts-section"><h2>// whims that work</h2></div>
+	{% for post in site.categories.whims %}
+	    {% include post-tile.html post=post %}
+	{% endfor %}
+</div>
