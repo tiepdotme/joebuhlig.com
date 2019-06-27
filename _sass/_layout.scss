@@ -152,8 +152,24 @@
     display: inline-block;
     margin-bottom: 30px;
 
-    .icon img{
-      max-height:25px;
+    .icon {
+      display: inline-block;
+      width: 25px;
+      margin: 0px 3px;
+
+      img{
+        max-height:25px;
+      }
+    }
+
+    .icon--twitter {
+      max-height: 40px;
+      width: 40px;
+      margin: 0px;
+
+      img {
+        max-height: 40px;
+      }
     }
 }
 
@@ -506,6 +522,9 @@
     overflow: hidden;
     display: table;
     width: 100%;
+    background: #efefef;
+    border-radius: 5px;
+    border: 1px solid #ccc;
 }
 
 .feed-item.ad {

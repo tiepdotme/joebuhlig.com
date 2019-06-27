@@ -153,6 +153,10 @@ ul, ol, dl, figure, center,
     }
   }
 
+  p a {
+    border-bottom: 2px solid $brand-color;
+  }
+
 
   /**
    * Blockquotes

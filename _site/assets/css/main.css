@@ -110,6 +110,9 @@ a {
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   text-decoration: none; }
 
+p a {
+  border-bottom: 2px solid #246881; }
+
 /**
  * Blockquotes
  */
@@ -304,8 +307,18 @@ table {
   padding: 0px 10px;
   display: inline-block;
   margin-bottom: 30px; }
-  .social-media-list .icon img {
-    max-height: 25px; }
+  .social-media-list .icon {
+    display: inline-block;
+    width: 25px;
+    margin: 0px 3px; }
+    .social-media-list .icon img {
+      max-height: 25px; }
+  .social-media-list .icon--twitter {
+    max-height: 40px;
+    width: 40px;
+    margin: 0px; }
+    .social-media-list .icon--twitter img {
+      max-height: 40px; }
 
 .social-media-list a {
   margin-left: 5px; }
@@ -580,7 +593,10 @@ table {
   border-bottom: #ccc 1px dotted;
   overflow: hidden;
   display: table;
-  width: 100%; }
+  width: 100%;
+  background: #efefef;
+  border-radius: 5px;
+  border: 1px solid #ccc; }
 
 .feed-item.ad {
   text-align: center; }

@@ -3,31 +3,72 @@ layout: default
 ---
 {% include bio.html %}
 <div class="wrapper" id="latest-posts">
-  <div><h2>// latest posts</h2></div>
   {% for post in site.posts limit:1 %}
     {% include content_feed.html post=post %}
   {% endfor %}
-  {% for post in site.categories.blog limit: 1%}
-    {% include post-tile.html post=post %}
-  {% endfor %}
-  {% for post in site.categories.bookworm limit: 1%}
-    {% include post-tile.html post=post %}
-  {% endfor %}
-  {% for post in site.categories.whims limit: 1%}
-    {% include post-tile.html post=post %}
-  {% endfor %}
 </div>
 <div class="posts" id="home">
-  <div class="posts-section"><h2>// articles</h2></div>
+  <div class="posts-section"><h1>// articles</h1></div>
 	{% for post in site.categories.blog limit:12 %}
 	    {% include post-tile.html post=post %}
 	{% endfor %}
-  <div class="posts-section"><h2>// bookworm</h2></div>
+  <p><a href="/articles">more</a></p>
+  <div class="posts-section">
+    <h1>// bookworm</h1>
+    <div class="social-media-list">
+      <a href="https://itunes.apple.com/us/podcast/bookworm/id1132102092?mt=2&ls=1">
+        <span class="icon icon--itunes">
+          <img src="/assets/base/svg/itunes.svg" />
+        </span>
+      </a>
+      <a href="https://twitter.com/bookwormfm">
+        <span class="icon  icon--twitter">
+          <img src="/assets/base/svg/twitter.svg" />
+        </span>
+      </a>
+      <a href="https://instagram.com/bookworm.fm">
+        <span class="icon icon--instagram">
+          <img src="/assets/base/svg/instagram.svg" />
+        </span>
+      </a>
+      <a href="https://www.youtube.com/channel/UCPlHmj-KYmxx9Lq605OVJ2g">
+        <span class="icon icon--youtube">
+          <img src="/assets/base/svg/youtube.svg" />
+        </span>
+      </a>
+      <a href="https://bookworm.fm">
+        <span class="icon icon--external">
+          <img src="/assets/base/svg/external.svg" />
+        </span>
+      </a>
+    </div>
+  </div>
 	{% for post in site.categories.bookworm limit:12 %}
 	    {% include post-tile.html post=post %}
 	{% endfor %}
-  <div class="posts-section"><h2>// whims that work</h2></div>
+  <p><a href="/bookworm">more</a></p>
+  <div class="posts-section"><h1>// whims that work</h1></div>
+    <div class="social-media-list">
+      <a href="https://itunes.apple.com/us/podcast/whims-that-work/id1245419659?mt=2">
+        <span class="icon icon--itunes">
+          <img src="/assets/base/svg/itunes.svg" />
+        </span>
+      </a>
+      <a href="https://twitter.com/whimsthatwork">
+        <span class="icon  icon--twitter">
+          <img src="/assets/base/svg/twitter.svg" />
+        </span>
+      </a>
+      <a href="https://whimsthatwork.fm">
+        <span class="icon icon--external">
+          <img src="/assets/base/svg/external.svg" />
+        </span>
+      </a>
+    </div>
+  </div>
+
 	{% for post in site.categories.whims limit:12 %}
 	    {% include post-tile.html post=post %}
 	{% endfor %}
+  <p><a href="/whims">more</a></p>
 </div>
