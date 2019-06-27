@@ -7,6 +7,8 @@ layout: default
     {% include content_feed.html post=post %}
   {% endfor %}
 </div>
+{% include newsletter_header.html %}
+{% include carbon_ad.html %}
 <div class="posts" id="home">
   <div class="posts-section"><h1>// articles</h1></div>
 	{% for post in site.categories.blog limit:12 %}

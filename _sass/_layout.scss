@@ -34,8 +34,8 @@
 }
 
 .site-nav {
-    max-width: 900px;
-    padding:0px;
+    max-width: 1180px;
+    padding:0px 10px;
     text-align: center;
     width: 100%;
     margin-bottom: 25px;
@@ -73,9 +73,9 @@
     .menu-icon {
         line-height: $site-links-height;
         text-align: center;
-        margin-left: 10px;
+        margin-right: 10px;
         position: absolute;
-        left: 0px;
+        right: 0px;
         top: 15px;
 
         > svg {
@@ -126,10 +126,15 @@
     margin: 20px 0px;
     text-align: left;
 }
-.right-nav {
+.right-nav-icons {
     float: right;
     margin: 20px 0px;
     text-align: right;
+    position: relative;
+}
+.right-nav {
+  float:right;
+  margin: 20px 0px;
 }
 .header-icon, .header-name{
     display: inline-block;
@@ -147,30 +152,30 @@
 }
 
 .social-media-list {
-    line-height: $site-links-height;
-    padding: 0px 10px;
+  line-height: $site-links-height;
+  padding: 0px 10px;
+  display: inline-block;
+  margin-bottom: 30px;
+
+  .icon {
     display: inline-block;
-    margin-bottom: 30px;
+    width: 25px;
+    margin: 0px 3px;
 
-    .icon {
-      display: inline-block;
-      width: 25px;
-      margin: 0px 3px;
-
-      img{
-        max-height:25px;
-      }
+    img{
+      max-height:25px;
     }
+  }
 
-    .icon--twitter {
+  .icon--twitter {
+    max-height: 40px;
+    width: 40px;
+    margin: 0px;
+
+    img {
       max-height: 40px;
-      width: 40px;
-      margin: 0px;
-
-      img {
-        max-height: 40px;
-      }
     }
+  }
 }
 
 .social-media-list a {
@@ -196,35 +201,8 @@
 }
 
 @media only screen and (max-width: 650px){
-    .site-nav{
-        .mobile-toggle{
-            display: initial;
-        }
-    }
     #header-image{
         top: 16px;
-    }
-    .left-nav {
-        float:none;
-        display:none;
-    }
-    .right-nav{
-        float:none;
-        display:none;
-    }
-    .mobile-toggle{
-        display: initial;
-    }
-}
-
-@media only screen and (max-width: 650px){
-    .site-nav{
-        .menu-icon{
-            top: 0px;
-        }
-        .mobile-toggle.theme-toggle{
-            top: 10px;
-        }
     }
     #header-image{
         top: 10px;
@@ -233,21 +211,9 @@
     .header-icon svg, .header-name svg{
         height: 30px;
     }
-}
-
-.menu-toggled.site-nav {
-    .left-nav, .right-nav{
-        display: initial;
-        position: absolute;
-        top: 30px;
-    }
-
-    .left-nav {
-        left: 0px;
-    }
-
     .right-nav {
-        right:0px;
+      margin: 0px;
+      width: 100%;
     }
 }
 
@@ -529,6 +495,8 @@
 
 .feed-item.ad {
     text-align: center;
+    border: 0px;
+    background: none;
 }
 .feed-excerpt {
     max-width: 100%;
@@ -879,7 +847,6 @@
  */
 
 #search-icon{
-    line-height: 47px;
     padding: 0px 10px;
 }
 .form-wrapper.search-form input, .form-wrapper.search-form input[type="submit"] {
@@ -896,12 +863,15 @@
     padding: 5px 10px;
 }
 
-.right-nav .search-form{
+.right-nav-icons .search-form{
     display: none;
     line-height: 47px;
     padding: 0px 5px;
     width: 240px;
     margin: initial;
+    position: absolute;
+    right: -10px;
+    top: 25px;
 
     input[type="text"]{
         width: 200px;
@@ -1193,9 +1163,8 @@
  * Newsletter Header
 */
 .newsletter-header-wrapper{
-    border-bottom: #ccc 1px dotted;
     max-width: 1200px;
-    margin: 0px auto 25px auto;
+    margin: 35px auto 15px auto;
 
     .newsletter-header{
         max-width: 900px;

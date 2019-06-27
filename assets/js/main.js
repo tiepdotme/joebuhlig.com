@@ -8,7 +8,7 @@ $(document).ready(function(){
 	});
 	$('.page-content').click(function(event){
 		$('.trigger').removeClass('active');
-		$(".right-nav .search-form").slideUp(300, function(){$("#search-icon").fadeIn(100)});
+		$(".right-nav-icons .search-form").slideUp(300, function(){$("#search-icon").fadeIn(100)});
 	})
 	$('.post img').not('.featured-image').click(function(event){
 		window.location.href = $(this).attr("src");
@@ -23,9 +23,8 @@ $(document).ready(function(){
 	});
 	$("#search-icon").click(function(e){
 		e.preventDefault();
-		$(this).fadeOut(100);
-		$(".right-nav .search-form").slideDown(300);
-		$(".right-nav .search-form .search-box").focus();
+		$(".right-nav-icons .search-form").slideToggle(300);
+		$(".right-nav-icons .search-form .search-box").focus();
 	});
 });
 function displayImages(loc){
