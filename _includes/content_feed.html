@@ -1,12 +1,6 @@
 {% assign author = site.data.authors[post.author] %}
 <div class="feed-item">
-	<div class="feed-meta">
-		{% include post_meta.html article=post author=author %}
-	</div>
 	<div class="feed-content-wrapper">
-		<div class="feed-icon">
-			{% include post_icon.html post=post %}
-		</div>
 		<div class="feed-content">
 			<div class="feed-title">
 				<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
