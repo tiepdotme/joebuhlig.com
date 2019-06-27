@@ -944,6 +944,23 @@
 }
 
 /**
+ * Projects page
+*/
+#projects {
+  &> a > img {
+    display: inline-block;
+    height: 150px;
+    margin-bottom: 50px;
+  }
+  &> p {
+    display: inline-block;
+    margin-bottom: 50px;
+    padding: 20px;
+    width: calc(100% - 200px);
+  }
+}
+
+/**
  * Carbon Ads
 */
 

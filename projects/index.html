@@ -1,0 +1,16 @@
+---
+layout: page
+title: Current Projects
+---
+<div id="projects">
+  <h2>Newsletter</h2>
+  {% include newsletter_header.html %}
+
+  <h2>Bookworm</h2>
+  <a href="https://bookworm.fm"><img src="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/posts/bookwormlogo.png?v={{ site.version }}" /></a>
+  <p>Bookworm is dedicated to doing more than just reading books. Joe and Mike read a book every two weeks and discuss ways to apply the authors lessons to their lives.</p>
+
+  <h2>Whims That Work</h2>
+  <a href="http://whimsthatwork.fm"><img src="{% if jekyll.environment == 'production' %}{{ site.cdn_url }}{% endif %}/assets/posts/whimsthatworklogo.jpg?v={{ site.version }}" /></a>
+  <p>Bookworm is dedicated to doing more than just reading books. Joe and Mike read a book every two weeks and discuss ways to apply the authors lessons to their lives.</p>
+</div>
