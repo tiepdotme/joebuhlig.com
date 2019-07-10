@@ -2,7 +2,7 @@
 <html>
   {% include head.html %}
   <body>
-    <div id="body-wrapper">
+    <div id="body-wrapper" {% if page.class %}class="{{ page.class }}"{% endif %}>
     {% include header.html %}
     <div class="page-content">
       <div class="wrapper content-wrapper">

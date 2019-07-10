@@ -201,6 +201,8 @@ table {
   max-width: 1000px;
   margin: 0px auto;
   padding: 0px 15px; }
+  #body-wrapper.home {
+    max-width: 1200px; }
 
 .pointer {
   cursor: pointer; }
