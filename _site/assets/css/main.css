@@ -198,7 +198,7 @@ table {
 
 #body-wrapper {
   background: #ffffff;
-  max-width: 1200px;
+  max-width: 1000px;
   margin: 0px auto;
   padding: 0px 15px; }
 
@@ -443,7 +443,8 @@ table {
     width: calc(100% - (30px / 2)); } }
 .copyright {
   font-size: 14px;
-  margin: 10px 0px; }
+  margin: 10px 0px;
+  clear: both; }
 
 /**
  * Page content
@@ -646,7 +647,7 @@ table {
   font-size: 12px; }
   .feed-meta-mobile .meta-item {
     display: inline-block;
-    margin-right: 10px; }
+    margin: 0px 5px; }
 
 .meta-tag, a.meta-tag:visited, a.meta-tag:hover {
   color: #ffffff;
@@ -694,7 +695,7 @@ table {
 
 .post {
   float: left;
-  max-width: 820px;
+  max-width: 700px;
   width: calc(70% - 20px);
   margin-bottom: 30px;
   text-align: center;
@@ -793,7 +794,8 @@ table {
   text-align: center; }
 
 .featured-image {
-  max-height: 600px;
+  max-height: 450px;
+  margin-bottom: 40px;
   box-shadow: 0 0px 10px 0px rgba(0, 0, 0, 0.25);
   cursor: initial !important; }
 
